@@ -1,0 +1,744 @@
+[
+  {
+    "id": "trade:2026-10-30T14:29:59+00:00:KAUF:CVX",
+    "type": "trade",
+    "sym": "CVX",
+    "time": "2026-10-30T14:29:59+00:00",
+    "title": "Bot: KAUF CVX für 75,00 €",
+    "detail": "Alle Kaufregeln erfüllt, Score 13 (Signale +2, Trend +3, Momentum +1, Volumen +4, Intraday +1, News +2)",
+    "tone": 1,
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "id": "trade:2026-10-30T14:29:59+00:00:KAUF:KHC",
+    "type": "trade",
+    "sym": "KHC",
+    "time": "2026-10-30T14:29:59+00:00",
+    "title": "Bot: KAUF KHC für 75,00 €",
+    "detail": "Alle Kaufregeln erfüllt, Score 11 (Signale +2, Trend +3, Momentum +2, Volumen +2, Intraday +2)",
+    "tone": 1,
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "id": "trade:2026-10-30T14:29:59+00:00:KAUF:KO",
+    "type": "trade",
+    "sym": "KO",
+    "time": "2026-10-30T14:29:59+00:00",
+    "title": "Bot: KAUF KO für 75,00 €",
+    "detail": "Alle Kaufregeln erfüllt, Score 11 (Signale +2, Trend +3, Momentum +2, Volumen +4, Intraday -1, News +1)",
+    "tone": 1,
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "id": "trade:2026-10-30T14:29:59+00:00:KAUF:CB",
+    "type": "trade",
+    "sym": "CB",
+    "time": "2026-10-30T14:29:59+00:00",
+    "title": "Bot: KAUF CB für 75,00 €",
+    "detail": "Alle Kaufregeln erfüllt, Score 9 (Signale +2, Trend +3, Momentum +2, Volumen +3, Intraday -1)",
+    "tone": 1,
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "id": "trade:2026-10-30T14:29:59+00:00:KAUF:OXY",
+    "type": "trade",
+    "sym": "OXY",
+    "time": "2026-10-30T14:29:59+00:00",
+    "title": "Bot: KAUF OXY für 75,00 €",
+    "detail": "Alle Kaufregeln erfüllt, Score 9 (Signale +2, Trend +2, Momentum +2, Volumen +3, Intraday -1, News +1)",
+    "tone": 1,
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "id": "trade:2026-10-30T14:29:59+00:00:KAUF:MCO",
+    "type": "trade",
+    "sym": "MCO",
+    "time": "2026-10-30T14:29:59+00:00",
+    "title": "Bot: KAUF MCO für 75,00 €",
+    "detail": "Alle Kaufregeln erfüllt, Score 8 (Signale +2, Trend +2, Momentum +2, Volumen +3, Intraday -1)",
+    "tone": 1,
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "id": "trade:2026-10-30T14:29:59+00:00:KAUF:AAPL",
+    "type": "trade",
+    "sym": "AAPL",
+    "time": "2026-10-30T14:29:59+00:00",
+    "title": "Bot: KAUF AAPL für 75,00 €",
+    "detail": "Alle Kaufregeln erfüllt, Score 6 (Signale +2, Trend +2, Momentum -1, Volumen +2, Intraday +1)",
+    "tone": 1,
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Energy stocks are surging: Can the rally last?",
+    "time": "2026-10-30T14:18:15+00:00",
+    "link": "https://finance.yahoo.com/video/energy-stocks-are-surging-can-the-rally-last-141815208.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:2d704009-f1a1-4751-812d-1bddac9d8668",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Energy stocks are outperforming the broader market, with oil giants Chevron (CVX), ExxonMobil (XOM), and BP (BP) reporting strong profits. The 8:30 hosts Jake Conley and Julie Hyman break down what's fueling the sector's momentum and why oil prices could remain elevated for longer.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Chevron (CVX) Stock Fair Value Edges Higher After Analyst Price Target Increases",
+    "time": "2026-10-30T14:15:48+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-stock-fair-value-141548516.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "analyst"
+    ],
+    "id": "news:CVX:rss:1dfef68d-175b-35dd-bc5b-497b0fe1993c",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Chevron’s analyst narrative has shifted with a modest lift in the Fair Value Estimate from US$227.71 to US$232.50, which feeds directly into updated price target thinking. Recent Street research has tilted more constructive, with higher commodity assumptions, refining strength and potential upside f",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Chip shortage impact on the tech sector, Burger King and Starbucks turnarounds",
+    "time": "2026-10-30T14:06:52+00:00",
+    "link": "https://finance.yahoo.com/video/chip-shortage-impact-on-the-tech-sector-burger-king-and-starbucks-turnarounds-140652753.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:GOOGL:rss:72152e7a-5c17-4a29-85ab-762e82e7c9b9",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Yahoo Finance Executive Editor Brian Sozzi breaks down Google's (GOOGL) (GOOG) stunning P/E ratio and how a chip shortage is affecting companies like Intel (INTC) and Sandisk. (SNDK) Sozzi sits down with the CEO of Burger King (QSR), Tom Curtis, and the CEO of Starbucks (SBUX), Brian Niccol, to talk",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Google Stock Plunges 12% on AI Fears, but Joseph Carlson Isn't Selling, Says Shares Look Cheap",
+    "time": "2026-10-30T14:05:16+00:00",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62740971/google-stock-selloff?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:0fea84cd-8579-3486-976d-a3058293b35d",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet Inc. (NASDAQ:GOOGL) shares plunged 12.6% Thursday, wiping nearly $500 billion from its market value and $23,400 from investor Joseph Carlson’s Google holdings. But Carlson, who runs stock analysis platform Qualtrim, isn’t selling. He believes Wall Street is overreacting to...",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Chevron’s Profit Nearly Tripled From a Year Ago. Is CVX Stock a Buy After Its Blowout Earnings Report?",
+    "time": "2026-10-30T14:05:02+00:00",
+    "link": "https://www.fool.com/investing/2026/10/30/chevrons-profit-nearly-tripled-from-a-year-ago-is-cvx-stock-a-buy-after-its-blowout-earnings-report/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:1ebd9b4e-f016-3257-9bb0-f7c8203c80a1",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Chevron's surging stock price has it trading at a less attractive valuation these days.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
+    "time": "2026-10-30T13:50:25+00:00",
+    "link": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:GOOGL:rss:ca3e27bd-24c5-314b-b5f1-f0de6b39ea03",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Disappointing earnings reports from Alphabet, Amazon and Intel are renewing fears that the AI trade could unravel.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Exxon Mobil, Chevron Third-Quarter Earnings Top Street Views Amid Strong Refining Margins",
+    "time": "2026-10-30T13:47:04+00:00",
+    "link": "https://finance.yahoo.com/energy/articles/exxon-mobil-chevron-third-quarter-134704938.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:a2ee4946-31fc-33b1-bdae-3dfeace34e6a",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Exxon Mobil (XOM) and Chevron (CVX) reported third-quarter adjusted earnings above Wall Street's est",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Chevron Returned Nearly 150% of Free Cash Flow to Shareholders. Is Its Dividend Safe?",
+    "time": "2026-10-30T13:37:37+00:00",
+    "link": "https://247wallst.com/investing/2026/10/30/chevron-returned-nearly-150-of-free-cash-flow-to-shareholders-is-its-dividend-safe/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "capital"
+    ],
+    "id": "news:CVX:rss:1f3af41d-ff61-3df0-9cd5-5ea027bf712c",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Chevron handed shareholders more cash than it actually generated last year, and debt climbed sharply to cover the gap. Now that oil prices have shifted the math entirely, one number in the upcoming earnings report will reveal whether the dividend raise streak survives.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Alphabet Shares Plunge. Why Now Is a Great Time to Buy the Dip.",
+    "time": "2026-10-30T13:21:50+00:00",
+    "link": "https://www.fool.com/investing/2026/10/30/alphabet-shares-plunge-why-now-is-a-great-time-to/?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:7428ce43-717b-34ab-8633-50f1c00a590f",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet shares tumbled on fears over its core search business.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Could Alphabet Actually Climb 67%? Or Is Pivotal Research Totally Wrong?",
+    "time": "2026-10-30T13:20:32+00:00",
+    "link": "https://www.tikr.com/blog/could-alphabet-actually-climb-67-or-is-pivotal-research-totally-wrong?ref=yahoofinance&.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "analyst"
+    ],
+    "id": "news:GOOGL:rss:995aa049-3c05-3c0f-8ad7-ee2a15bb2b04",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Key TakeawaysPivotal Research reiterated its Buy rating and $475 price target on Alphabet today, 67% above Thursday’s closing, after Q3 results sent the stock sharply lower. Google Cloud revenue more than doubled, but Search growth slowed to 12% and free cash flow turned negative as quarterly capita",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Bet on These 5 Dividend Growth Stocks as Alphabet Loses $500B in Market Cap",
+    "time": "2026-10-30T13:16:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bet-5-dividend-growth-stocks-131600212.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "capital"
+    ],
+    "id": "news:GOOGL:rss:e8ed0acf-2e67-3cb3-bfd7-0f2d82c78064",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "As Alphabet loses $500 billion in market value, five dividend growth stocks stand out for their strong earnings potential and solid fundamentals.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Chevron earnings beat estimates as revenue jumps 36% to $67.8 billion",
+    "time": "2026-10-30T13:15:00+00:00",
+    "link": "https://www.proactiveinvestors.com/companies/news/1101005/chevron-earnings-beat-estimates-as-revenue-jumps-36-to-67-8-billion-1101005.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:8e3285d0-d67c-3e44-8204-d4047f5ea446",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Chevron Corporation (NYSE:CVX, XETRA:CHV) reported third-quarter adjusted earnings of $10.4 billion, or $5.28 per share, beating analysts’ expectations as higher refining margins and stronger oil realizations helped drive a sharp increase in revenue. Higher oil price realizations and stronger...",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Amazon Slides 7% as Earnings Miss and AI Spending Turn Free Cash Flow Negative; Meta Falls 2%, Alphabet Dips, Walmart Gains 2%",
+    "time": "2026-10-30T13:12:02+00:00",
+    "link": "https://247wallst.com/investing/2026/10/30/amazon-slides-7-as-earnings-miss-and-ai-spending-turn-free-cash-flow-negative-meta-falls-2-alphabet-dips-walmart-gains-2/?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:GOOGL:rss:686a4050-dc7e-3ecb-a1ba-b6cc90f0afa4",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Amazon's cloud arm is posting its fastest growth in years, yet the company's cash position just swung by nearly $60 billion in the wrong direction. Here is what that tension means for investors watching the AI spending wave hit its first major earnings reckoning.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "New Book from AAPL Equips Physician Leaders to Drive Systemic Change Through Coalition Strategy and Systems Thinking",
+    "time": "2026-10-30T12:51:00+00:00",
+    "link": "https://finance.yahoo.com/healthcare/articles/book-aapl-equips-physician-leaders-125100366.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:30ff1a58-d30b-39b1-b858-f860446d97d6",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "The American Association for Physician Leadership (AAPL) announces the publication of Systems Thinking for Physician Leaders: Leading Change Through Strategic Networks, a landmark co-edited volume that reframes physician identity as an organizational leadership asset — and provides the practical too",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "ExxonMobil and Chevron top Q3 estimates on higher prices and strong output",
+    "time": "2026-10-30T12:40:49+00:00",
+    "link": "https://finance.yahoo.com/energy/articles/exxonmobil-chevron-top-q3-estimates-124049676.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:91233a87-ab37-3517-849f-a1b7a64cbe04",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "ExxonMobil and Chevron both reported better than expected quarterly results Friday as the oil majors benefited from higher prices and record production. Besides the disruption caused by the wars in Iran and Ukraine that have driven up the cost of fuel, Exxon is also seeing strong production in its f",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Chevron (NYSE:CVX) delivers strong Q3 2026 numbers",
+    "time": "2026-10-30T12:22:33+00:00",
+    "link": "https://finance.yahoo.com/energy/articles/chevron-nyse-cvx-delivers-strong-122233813.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:c6f9f6dd-ab9f-3090-a331-79fb3f549e0d",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Integrated energy company Chevron (NYSE:CVX) reported revenue ahead of Wall Street’s expectations in Q3 2026, with revenue rising 36.3% year on year to $67.8 billion. Its non-GAAP profit of $5.28 per share was 8.5% above analysts’ consensus estimates.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "As Hyperscalers Bleed Cash, Big Oil Rakes In 'A Freaking Fortune'",
+    "time": "2026-10-30T12:15:31+00:00",
+    "link": "https://finance.yahoo.com/m/16e55cd6-6e8a-3b3f-a26a-4ce6ed0f3c37/as-hyperscalers-bleed-cash%2C.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:16e55cd6-6e8a-3b3f-a26a-4ce6ed0f3c37",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Exxon stock has risen 18% since February, as Big Oil profits surge. Chevron's up 22% and Valero's up 89%. Here's why.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Earnings from Exxon, Chevron, and BP: What to Watch",
+    "time": "2026-10-30T12:00:00+00:00",
+    "link": "https://finance.yahoo.com/video/earnings-exxon-chevron-bp-watch-120000022.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:29b96186-9f7b-4225-b587-678ea60ee096",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Yahoo Finance Breaking Business News Reporter Jake Conley takes a closer look at the top stories for investors to watch on Friday, Oct. 30, including earnings reports from the oil giants: Exxon (XOM), Chevron (CVX), and BP (BP).",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Apple Is Priced for Its Cash. Its November 2 Report Must Show Memory Costs Aren’t Eating It",
+    "time": "2026-10-30T11:36:08+00:00",
+    "link": "https://www.tikr.com/blog/apple-is-priced-for-its-cash-its-november-2-report-must-show-memory-costs-arent-eating-it?ref=yahoofinance&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:16ef5279-a243-3312-b81b-9e7b678b6ba3",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Key TakeawaysApple (AAPL:NASDAQ) reports its September-quarter results after the close on Monday, Nov. 2.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "BofA cuts Intel to Neutral, says turnaround pushed out by PC weakness",
+    "time": "2026-10-30T11:33:47+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-cuts-intel-neutral-says-113347791.html?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "analyst"
+    ],
+    "id": "news:BAC:rss:4803cfe4-0b76-366f-bff9-7b074c222cdf",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Investing.com -- Bank of America downgraded Intel to Neutral from Buy and cut its price target to $100 from $145 in a note Friday, telling investors that a sharp drop in PC shipments and supply constraints have pushed out the chipmaker’s turnaround.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "id": "filing:sec:0000093410-26-000196",
+    "type": "filing",
+    "sym": "CVX",
+    "time": "2026-10-30T10:16:00+00:00",
+    "link": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000196/0000093410-26-000196-index.htm",
+    "severity": "note",
+    "title": "Chevron Corporation: SEC-Meldung 8-K – Quartalszahlen veröffentlicht",
+    "tone": 0,
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Bank of America vs. Goldman Sachs: Two Wall Street Giants, Two Very Different Revenue Stories",
+    "time": "2026-10-30T09:25:02+00:00",
+    "link": "https://www.fool.com/coverage/charts/2026/10/30/bank-of-america-vs-goldman-sachs-two-wall-street-giants-two-very-different-revenue-stories/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BAC:rss:57b30aa8-9fb9-34ec-af99-3d8ca039ced3",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Bank of America and Goldman Sachs are two of Wall Street's biggest names, but their quarterly revenue trends reveal an important difference in how these financial giants generate income.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Stocktwits Passport Portfolio: SPY, DIA Edge Higher In October, Beating QQQ And Asian Stocks Amid Tech Volatility",
+    "time": "2026-10-30T06:43:05+00:00",
+    "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-passport-portfolio-spy-dia-edge-higher-in-october-beating-qqq-and-asian-stocks-amid-tech-volatility/cZUhk6SR9Ry?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:SPY:rss:4ef45690-ab44-3ecc-8054-117bc239d749",
+    "type": "news",
+    "sym": "SPY",
+    "summary": "The SPDR S&P 500 ETF Trust and the SPDR Dow Jones Industrial Average ETF are headed about 1% and 3% higher, respectively, in October.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Alphabet just had its worst day as a public company. BofA now values Google search at a lower multiple than fossil fuel stocks",
+    "time": "2026-10-30T00:10:15+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-just-had-worst-day-001015980.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:BAC:rss:a432f03b-0530-3f5d-a659-53d5ab5ff68c",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Search revenue missed forecasts and free cash flow went negative. Bank of America now values Google’s core search business at about 10 times earnings, against 18.7 for the S&P 500.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Why Is Coca Cola (KO) Challenging Tokenized Share Listings?",
+    "time": "2026-10-29T22:11:23+00:00",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/why-coca-cola-ko-challenging-221123154.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:KO:rss:f935a916-05a0-3f79-acf1-32cef27a3f42",
+    "type": "news",
+    "sym": "KO",
+    "summary": "Coca-Cola (NYSE:KO) joined 37 other large corporations in formally objecting to OKX-ICE listing tokenized versions of their shares. The objections target tokenized equity products that reference existing listed stocks without company consent on the OKX-ICE crypto venue. Corporate filings question ho",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Bank of America Names Top Stock Pick in Memory Sector",
+    "time": "2026-10-29T17:28:08+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-names-top-stock-172808901.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BAC:rss:fd15059d-5b0d-3ba5-ad9a-84b63dc12c5d",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Investing.com -- Bank of America has highlighted Micron Technology as its top stock pick, maintaining a buy rating with a price objective of $1,550, significantly above the current trading price of $877.55.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "HubSpot faces narrower growth beat and possible guidance cut, BofA says",
+    "time": "2026-10-29T17:20:00+00:00",
+    "link": "https://www.proactiveinvestors.com/companies/news/1100946/hubspot-faces-narrower-growth-beat-and-possible-guidance-cut-bofa-says-1100946.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "analyst"
+    ],
+    "id": "news:BAC:rss:ad539ab1-9751-3ff9-87bc-d64dbbec7572",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "HubSpot (NYSE:HUBS), the customer relationship management platform, is likely to deliver a smaller-than-usual beat against its third-quarter constant currency growth guidance, Bank of America (BofA) said, maintaining its 'underperform' rating. HubSpot is due to report third-quarter results on...",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "PepsiCo (PEP) vs. KO and MDLZ: Is Its Beverage-and-Snacks Strategy Creating a Stronger Defensive Business?",
+    "time": "2026-10-29T17:17:55+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-vs-ko-mdlz-171755267.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "capital"
+    ],
+    "id": "news:KO:rss:714b4767-66b7-3f48-a9bb-4d26cdc3fbcb",
+    "type": "news",
+    "sym": "KO",
+    "summary": "Is PEP a good stock to buy? We came across a bullish thesis on PepsiCo, Inc. on Investing Lawyer’s Substack. Since the thesis was published on June 26th, PEP shares have pulled back as investors remain cautious about the pace of its recovery, creating a near-term headwind while its dividend continue",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Oracle analyst day eases funding concerns and bolsters growth outlook",
+    "time": "2026-10-29T17:00:00+00:00",
+    "link": "https://www.proactiveinvestors.com/companies/news/1100945/oracle-analyst-day-eases-funding-concerns-and-bolsters-growth-outlook-1100945.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "analyst"
+    ],
+    "id": "news:BAC:rss:f1c57155-d2f1-363f-8768-e74e9f75a8d0",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Oracle Corp (NYSE:ORCL, XETRA:ORC) needs no more than $20 billion in additional capital to fund its data centre expansion through financial year 2030, the company said, as Bank of America (BofA) reiterated its 'buy' rating and $240 price target. At its analyst day, Oracle said it planned to...",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Freight Costs Force Bank of America to Cut Target Price on Off-Price",
+    "time": "2026-10-29T16:41:38+00:00",
+    "link": "https://wwd.com/sourcing-journal/industry-news/freight-costs-force-analysts-to-cut-targets-on-off-price-1239391663/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BAC:rss:11a006ab-3fd2-3984-8cc4-bd51b4386f69",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "But the analysts remain bullish on TJX Cos., Ross Stores and Burlington and reiterate a \"Buy\" rating.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Kraft Heinz to Report Q3 Earnings: Essential Insights for Investors",
+    "time": "2026-10-29T15:59:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-report-q3-earnings-155900187.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:KHC:rss:fd677c02-9f87-303f-8ad0-e49f12f821a3",
+    "type": "news",
+    "sym": "KHC",
+    "summary": "KHC expects to post weaker Q3 sales and earnings amid soft volumes, cautious consumer spending and rising costs, while strategic investments may offer support.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Chubb (CB) Names Three New Global Claims Leaders",
+    "time": "2026-10-29T15:10:56+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/chubb-cb-names-three-global-151056754.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:CB:rss:99537d11-3ec9-3f56-ad89-3478be8d3a8a",
+    "type": "news",
+    "sym": "CB",
+    "summary": "Chubb (NYSE:CB) has reshaped its Global Claims leadership with several senior appointments announced in its Global Claims organization. Lisa Wilson has been named Head of North America Claims, taking responsibility for claims operations across the region. Jamie Trish will serve as Global Claims Oper",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Occidental Petroleum (OXY) is a Great Momentum Stock: Should You Buy?",
+    "time": "2026-10-29T15:00:02+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-oxy-great-momentum-150002694.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:OXY:rss:e13fd2d2-69e6-3d05-8b4e-f65c112d2f06",
+    "type": "news",
+    "sym": "OXY",
+    "summary": "Does Occidental Petroleum (OXY) have what it takes to be a top stock pick for momentum investors? Let's find out.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "PepsiCo vs. Coca-Cola: Which Beverage Titan Is the Better Bet?",
+    "time": "2026-10-29T14:36:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-vs-coca-cola-beverage-143600692.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:KO:rss:9285f7c3-eaf7-3e9a-949b-b1c94e032bf4",
+    "type": "news",
+    "sym": "KO",
+    "summary": "PEP and KO leverage iconic brands, global reach and growth strategies, but contrasting margins, valuations and earnings trends raise key investment questions.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Can BAC's Branch Expansion & AI Push Drive Long-Term Growth?",
+    "time": "2026-10-29T14:26:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bacs-branch-expansion-ai-push-142600967.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BAC:rss:172b4383-bdfc-37cb-b030-08b6674938df",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Bank of America's expanding branch network and AI investments could fuel deposit growth, deepen customer relationships and improve operating efficiency.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Open-Weight AI Models Are Still Expensive. That Is a Win for Nvidia Stock.",
+    "time": "2026-10-29T13:18:15+00:00",
+    "link": "https://www.barchart.com/story/news/8529317/open-weight-ai-models-are-still-expensive-that-is-a-win-for-nvidia-stock?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BAC:rss:95254eee-b29f-340d-8f80-f0f917e158f2",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Bank of America says the rise of open-weight AI models could boost, rather than curb, demand for Nvidia’s GPUs as soaring AI usage drives continued spending.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "American Express and Hilton Launch Canada's First Hilton Honors Credit Card",
+    "time": "2026-10-29T13:00:00+00:00",
+    "link": "https://finance.yahoo.com/news/american-express-hilton-launch-canadas-130000455.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AXP:rss:ed81f72c-3617-37f6-8be0-823ccad7b527",
+    "type": "news",
+    "sym": "AXP",
+    "summary": "American Express Canada and Hilton today announced the launch of the Hilton Honors American Express® Card, marking a new chapter in the companies' longstanding partnership and introducing a Hilton Honors co-branded credit card to Canada for the first time.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "American Express Connects Cash Back to High Yield Savings Accounts and Business Checking Accounts",
+    "time": "2026-10-29T13:00:00+00:00",
+    "link": "https://finance.yahoo.com/small-business/articles/american-express-connects-cash-back-130000466.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AXP:rss:603e737e-ce72-33f5-bd65-8a9cc50b103a",
+    "type": "news",
+    "sym": "AXP",
+    "summary": "NEW YORK, October 29, 2026--Today, American Express introduced a new way for eligible U.S. Consumer and Business Cash Back Card Members to redeem rewards for a deposit into eligible American Express bank accounts, creating a more integrated experience across their Card and banking products and givin",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Bank of America Study: Early December Could Overtake Black Friday as the Peak Holiday Shopping Window This Year",
+    "time": "2026-10-29T13:00:00+00:00",
+    "link": "https://finance.yahoo.com/small-business/articles/bank-america-study-early-december-130000741.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BAC:rss:32103932-0b2d-340a-a90d-28e894b0d33d",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Black Friday traditionally marks the unofficial start of the holiday shopping season, however this year consumers are planning to make their biggest holiday shopping push a little later. According to the Bank of America 2026 Holiday Spending Survey, 29% of consumers plan to do most of their holiday ",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "The 5 Numbers That Matter Most in a Bank's Earnings Report",
+    "time": "2026-10-29T12:34:00+00:00",
+    "link": "https://www.fool.com/investing/2026/10/29/5-numbers-matter-most-bank-earnings-report/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:BAC:rss:9b7a7767-2670-3d4b-897f-706dd57a69cc",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Get a handle on these, and you'll have a pretty good understanding of how a particular bank is performing.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "American Express Company (AXP) is Attracting Investor Attention: Here is What You Should Know",
+    "time": "2026-10-29T12:00:02+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/american-express-company-axp-attracting-120002936.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AXP:rss:b59782ac-9f0a-3ae3-8efc-90d31b0319b8",
+    "type": "news",
+    "sym": "AXP",
+    "summary": "Zacks.com users have recently been watching American Express (AXP) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights Tesla, Netflix, American Express, InterGroup and Moving iMage Technologies",
+    "time": "2026-10-29T11:30:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-tesla-113000130.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AXP:rss:99b83b1f-22c3-3723-bbb0-67a5b74f83fa",
+    "type": "news",
+    "sym": "AXP",
+    "summary": "Tesla, Netflix and American Express headline Zacks' latest research, alongside two micro-cap stocks, as growth opportunities and financial risks shape their investment outlooks.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Warren Buffett's $48 Billion American Express Stake Has Been a Huge Winner. The Latest Results Say the Streak Is Far From Over.",
+    "time": "2026-10-29T11:05:00+00:00",
+    "link": "https://www.fool.com/investing/2026/10/29/warren-buffetts-huge-winner-streak-far-from-over/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AXP:rss:8dca73aa-bb8f-3449-8289-163f7c462761",
+    "type": "news",
+    "sym": "AXP",
+    "summary": "The financial stock has generated a total return of 440% during the past decade.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "id": "filing:sec:0001652044-26-000080",
+    "type": "filing",
+    "sym": "GOOGL",
+    "time": "2026-10-28T20:01:33+00:00",
+    "link": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "severity": "note",
+    "title": "Alphabet Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht",
+    "tone": 0,
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Top Stock Reports for Tesla, Netflix & American Express",
+    "time": "2026-10-28T19:08:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-tesla-netflix-190800305.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AXP:rss:fe41c50b-5855-365a-b80a-f9c415176dd1",
+    "type": "news",
+    "sym": "AXP",
+    "summary": "Tesla's software and energy growth, Netflix's advertising challenges and American Express' strong spending trends headline today's top stock research reports.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "AmEx CEO Says AI Could Make Credit Card Rewards Easier to Game",
+    "time": "2026-10-28T17:30:14+00:00",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amex-ceo-says-ai-could-173014989.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:AXP:rss:c8c6da8b-d786-3e87-9c86-9268453f80d5",
+    "type": "news",
+    "sym": "AXP",
+    "summary": "American Express Co is preparing for a new challenge as artificial intelligence makes it easier for consumers to optimize credit card rewards. CEO Stephen Squeri acknowledged that AI could help cardholders extract more value from benefits, potentially forcing issuers to...",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Chevron vs. Occidental Petroleum: Big Oil Sees Revenue Surge as Prices Leap in 2026",
+    "time": "2026-10-28T15:14:02+00:00",
+    "link": "https://www.fool.com/coverage/charts/2026/10/28/chevron-vs-occidental-petroleum-big-oil-sees-revenue-surge-as-prices-leap-in-2026/?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:OXY:rss:cbadf21e-9290-368c-95a8-75403fe3bb5c",
+    "type": "news",
+    "sym": "OXY",
+    "summary": "Chevron's latest quarter surged to $67.2 billion while Occidental rebounded to $8.3 billion, marking a sharp reversal from their prior downtrend.",
+    "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "CB or TKOMY: Which Is the Better Value Stock Right Now?",
+    "time": "2026-10-28T14:40:02+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/cb-tkomy-better-value-stock-144002962.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CB:rss:20e46410-9074-3674-8492-699621d456a2",
+    "type": "news",
+    "sym": "CB",
+    "summary": "CB vs. TKOMY: Which Stock Is the Better Value Option?",
+    "seen": "2026-10-30T14:29:59+00:00"
+  }
+]

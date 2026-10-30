@@ -1,0 +1,79 @@
+{
+  "currency": "EUR",
+  "cash": 475.0,
+  "start_cash": 1000.0,
+  "started": "2026-10-30T14:30:00+00:00",
+  "positions": {
+    "CVX": {
+      "shares": 0.3549414161996943,
+      "entry": 235.56,
+      "entry_fx": 1.1148,
+      "cost_eur": 75.0,
+      "peak": 235.56,
+      "atr": 4.577129145345609,
+      "bought": "2026-10-30T14:29:59+00:00",
+      "name": "Chevron Corporation"
+    },
+    "KHC": {
+      "shares": 3.399471437284001,
+      "entry": 24.595,
+      "entry_fx": 1.1148,
+      "cost_eur": 75.0,
+      "peak": 24.595,
+      "atr": 0.6185162498484841,
+      "bought": "2026-10-30T14:29:59+00:00",
+      "name": "The Kraft Heinz Company"
+    },
+    "KO": {
+      "shares": 0.885230280571731,
+      "entry": 94.45,
+      "entry_fx": 1.1148,
+      "cost_eur": 75.0,
+      "peak": 94.45,
+      "atr": 1.6271381998754761,
+      "bought": "2026-10-30T14:29:59+00:00",
+      "name": "Coca-Cola Company (The)"
+    },
+    "CB": {
+      "shares": 0.2280936272370144,
+      "entry": 366.56,
+      "entry_fx": 1.1148,
+      "cost_eur": 75.0,
+      "peak": 366.56,
+      "atr": 6.155742166834771,
+      "bought": "2026-10-30T14:29:59+00:00",
+      "name": "Chubb Limited"
+    },
+    "OXY": {
+      "shares": 1.3145192987972645,
+      "entry": 63.605,
+      "entry_fx": 1.1148,
+      "cost_eur": 75.0,
+      "peak": 63.605,
+      "atr": 1.4970624084359054,
+      "bought": "2026-10-30T14:29:59+00:00",
+      "name": "Occidental Petroleum Corporatio"
+    },
+    "MCO": {
+      "shares": 0.16981649419626083,
+      "entry": 492.355,
+      "entry_fx": 1.1148,
+      "cost_eur": 75.0,
+      "peak": 492.355,
+      "atr": 12.357711674369884,
+      "bought": "2026-10-30T14:29:59+00:00",
+      "name": "Moody's Corporation"
+    },
+    "AAPL": {
+      "shares": 0.24141714549706927,
+      "entry": 346.33,
+      "entry_fx": 1.1148,
+      "cost_eur": 75.0,
+      "peak": 346.33,
+      "atr": 6.161409172306777,
+      "bought": "2026-10-30T14:29:59+00:00",
+      "name": "Apple Inc."
+    }
+  },
+  "fx": 1.1148
+}
