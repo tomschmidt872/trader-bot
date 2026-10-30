@@ -1,5 +1,89 @@
 [
   {
+    "title": "Apple Sentiment Cautious On December-Ending Quarter Outlook",
+    "time": "2026-10-30T15:19:18+00:00",
+    "link": "https://finance.yahoo.com/m/d69b77c4-1dd3-32ee-8a53-133360c1fcc9/apple-sentiment-cautious-on.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:d69b77c4-1dd3-32ee-8a53-133360c1fcc9",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple stock is trading in record-high territory ahead of the company's fiscal fourth-quarter report, due late Monday.",
+    "seen": "2026-10-30T15:24:54+00:00"
+  },
+  {
+    "title": "This Little-Known ETF Owns QQQ’s Stocks Without the Big Bet on Nvidia",
+    "time": "2026-10-30T15:14:46+00:00",
+    "link": "https://247wallst.com/investing/etf/2026/10/30/this-little-known-etf-owns-qqqs-stocks-without-the-big-bet-on-nvidia/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:QQQ:rss:46b88bad-28f7-38fd-b994-fc528c9a8b52",
+    "type": "news",
+    "sym": "QQQ",
+    "summary": "QQQ investors hand nearly 8 cents of every dollar to a single chipmaker without realizing a quieter fund holds every same stock with none of that concentration risk.",
+    "seen": "2026-10-30T15:24:54+00:00"
+  },
+  {
+    "title": "If Apple Grows At 10% a Year, Here’s What $1,000 Becomes By 2030",
+    "time": "2026-10-30T15:03:21+00:00",
+    "link": "https://247wallst.com/investing/2026/10/30/if-apple-grows-at-10-a-year-heres-what-1000-becomes-by-2030/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:fd1eff00-56b1-3592-878d-c91071afcb79",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple just posted record iPhone and Mac demand, authorized another $100 billion in buybacks, and sits at a valuation that punishes any misstep. Before you decide what to do with a $1,000 stake, see where the bull, base, and bear paths actually land by 2030.",
+    "seen": "2026-10-30T15:24:54+00:00"
+  },
+  {
+    "title": "Is AI cannibalizing Google's search business?",
+    "time": "2026-10-30T14:46:36+00:00",
+    "link": "https://finance.yahoo.com/video/is-ai-cannibalizing-googles-search-business-144636908.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:GOOGL:rss:ce443c62-7800-4d31-9cd2-cb006f73b554",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "In the Loop, Host Ejaaz Ahamadeen breaks down the market reaction to Alphabet's (GOOGL, GOOG) latest earnings and the growing concerns surrounding its core search business. Ahamadeen examines signs of slowing search revenue growth and how AI-powered search tools could be disrupting Google's traditio",
+    "seen": "2026-10-30T15:24:54+00:00"
+  },
+  {
+    "title": "Chevron Beats Sky-High Targets as Oil Prices Surge",
+    "time": "2026-10-30T14:40:00+00:00",
+    "link": "https://finance.yahoo.com/m/3423b978-cd1f-3d63-9200-04d7e0b7050c/chevron-beats-sky-high.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:3423b978-cd1f-3d63-9200-04d7e0b7050c",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "The market knew earnings would be stellar, but the energy major still managed to beat Wall Street’s sky-high targets.",
+    "seen": "2026-10-30T15:24:54+00:00"
+  },
+  {
+    "title": "What it will take for Alphabet's low P/E ratio to rebound: AlphaSpace",
+    "time": "2026-10-30T14:32:12+00:00",
+    "link": "https://finance.yahoo.com/video/what-it-will-take-for-alphabets-low-pe-ratio-to-rebound-alphaspace-143302943.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:GOOGL:rss:afa071b3-37f1-4994-b921-b0bf3f72464c",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Yahoo Finance Executive Editor Brian Sozzi points out how Alphabet (GOOGL) (GOOG) stock's P/E has compressed to levels not seen since 2012, that earnings estimates haven't bottomed, and explains what it will take for a rebound.",
+    "seen": "2026-10-30T15:24:54+00:00"
+  },
+  {
     "id": "trade:2026-10-30T14:29:59+00:00:KAUF:CVX",
     "type": "trade",
     "sym": "CVX",
@@ -113,6 +197,21 @@
     "seen": "2026-10-30T14:29:59+00:00"
   },
   {
+    "title": "Chevron Shares Rise 2.2% as Q3 Earnings Beat Forecasts on Strong Refining Margins",
+    "time": "2026-10-30T14:06:22+00:00",
+    "link": "https://investorshub.advfn.com/market-news/article/38973/chevron-shares-rise-2-2-as-q3-earnings-beat-forecasts-on-strong-refining-margins?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:b3093e78-75d4-302e-93e4-c7de512c4158",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Chevron Corporation (NYSE:CVX) shares gained 2. 2% in premarket trading on Friday after the US energy giant reported third-quarter 2026 earnings and revenue above analyst expectations, supported by stronger refining margins and higher crude oil prices.",
+    "seen": "2026-10-30T15:24:54+00:00"
+  },
+  {
     "title": "Google Stock Plunges 12% on AI Fears, but Joseph Carlson Isn't Selling, Says Shares Look Cheap",
     "time": "2026-10-30T14:05:16+00:00",
     "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62740971/google-stock-selloff?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
@@ -139,6 +238,21 @@
     "sym": "CVX",
     "summary": "Chevron's surging stock price has it trading at a less attractive valuation these days.",
     "seen": "2026-10-30T14:29:59+00:00"
+  },
+  {
+    "title": "Chevron Q3 Earnings Beat Estimates on Strong Refining Margins",
+    "time": "2026-10-30T13:57:00+00:00",
+    "link": "https://finance.yahoo.com/energy/articles/chevron-q3-earnings-beat-estimates-135700408.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:234fa8c2-d01d-383b-91f2-96289afa2610",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "CVX's Q3 profit surged 185.4% as stronger oil prices and refinery performance fueled cash flow growth, debt reduction and shareholder returns.",
+    "seen": "2026-10-30T15:24:54+00:00"
   },
   {
     "title": "Tech stocks crushed as Nasdaq tumbles more than 600 points",
