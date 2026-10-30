@@ -1,0 +1,49 @@
+name: Trading-Bot (Simulation)
+
+on:
+  schedule:
+    # stündlich um :35 während der US-Börsenzeiten (UTC, Mo–Fr)
+    - cron: "35 13-21 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Auch laufen, wenn die Börse zu ist"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trading-bot
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: pdftotext installieren
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - name: Bot ausführen
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python3 bot/bot.py ${{ inputs.force && '--force' || '' }}
+
+      - name: Dashboard-Daten aktualisieren
+        run: |
+          mkdir -p docs/data
+          for f in analysis.json portfolio.json status.json equity.csv trades.csv; do
+            [ -f "trader/sim/$f" ] && cp "trader/sim/$f" docs/data/ || true
+          done
+
+      - name: Ergebnisse speichern
+        run: |
+          git config user.name "trading-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A trader/sim docs/data
+          git diff --cached --quiet || git commit -m "Bot-Lauf $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

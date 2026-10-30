@@ -1,0 +1,5 @@
+trader/config.json
+trader/sim/ptr_pdfs/
+__pycache__/
+*.tmp
+.DS_Store

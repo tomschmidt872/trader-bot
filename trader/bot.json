@@ -1,0 +1,27 @@
+{
+  "start_cash": 10000,
+  "investors": [
+    {
+      "name": "Berkshire Hathaway",
+      "cik": "1067983",
+      "top": 10
+    }
+  ],
+  "congress_members": [
+    "pelosi"
+  ],
+  "congress_days": 60,
+  "watchlist": [
+    "SPY",
+    "QQQ"
+  ],
+  "max_position_pct": 15,
+  "cash_buffer_pct": 10,
+  "min_order": 50,
+  "buy_score": 6,
+  "sell_score": -4,
+  "stop_loss_pct": 8,
+  "atr_stop": 2.5,
+  "trailing_atr": 3.5,
+  "news_hours": 48
+}
