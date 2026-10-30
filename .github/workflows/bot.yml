@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: pdftotext installieren
         run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
@@ -36,7 +36,7 @@ jobs:
       - name: Dashboard-Daten aktualisieren
         run: |
           mkdir -p docs/data
-          for f in analysis.json portfolio.json status.json equity.csv trades.csv; do
+          for f in analysis.json portfolio.json status.json equity.csv trades.csv decisions.json events.json; do
             [ -f "trader/sim/$f" ] && cp "trader/sim/$f" docs/data/ || true
           done
 

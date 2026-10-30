@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Simulations-Trading-Bot. Kein echtes Geld, kein Broker.
+"""Simulations-Trading-Bot. Kein echtes Geld, kein Broker. Depot in Euro.
 
 Jeder Lauf:
   1. prüft, ob die NYSE offen ist (sonst nichts tun, außer mit --force)
@@ -16,8 +16,10 @@ Jeder Lauf:
   5. verkauft/kauft im virtuellen Depot und schreibt alles mit
 
 Dateien (alle in trader/sim/):
-  portfolio.json  Cash und Positionen
+  portfolio.json  Cash (Euro) und Positionen
   trades.csv      jede simulierte Order mit Grund
+  decisions.json  jede Entscheidung mit kompletter Analyse zum Zeitpunkt
+  events.json     News, SEC-Meldungen, Kongress-Trades, Bot-Trades (30 Tage)
   equity.csv      Depotwert pro Lauf
   analysis.json   die komplette Analyse des letzten Laufs
   report.md       der letzte Bericht
@@ -49,14 +51,14 @@ UA = "Mozilla/5.0 (compatible; trader-sim-bot/1.0)"
 CATEGORIES = ["Signale", "Trend", "Momentum", "Volumen", "Intraday", "News"]
 
 DEFAULTS = {
-    "start_cash": 10000,
+    "start_cash": 1000,
     "investors": [{"name": "Berkshire Hathaway", "cik": "1067983", "top": 10}],
     "congress_members": ["pelosi"],
     "congress_days": 60,
     "watchlist": ["SPY", "QQQ"],
     "max_position_pct": 15,
     "cash_buffer_pct": 10,
-    "min_order": 50,
+    "min_order": 25,
     "buy_score": 6,
     "sell_score": -4,
     "stop_loss_pct": 8,
@@ -150,10 +152,12 @@ def investor_signals(cfg, errors):
 
 
 def congress_signals(cfg, errors):
-    """Neue Kongress-Meldungen einlesen, im Signalspeicher sammeln, alte löschen."""
+    """Neue Kongress-Meldungen einlesen, im Signalspeicher sammeln, alte löschen.
+    Liefert (käufe, verkäufe, neue_ereignisse)."""
     store_path = os.path.join(SIM, "signals.json")
     store = read_json(store_path, {"congress": []})
     seen = {(s["doc_id"], s["ticker"], s["type"], s["date"]) for s in store["congress"]}
+    events = []
     args = ["new", "--read", "--state", os.path.join(SIM, "ptr_state.json"),
             "--pdf-dir", os.path.join(SIM, "ptr_pdfs")]
     for m in cfg["congress_members"]:
@@ -169,10 +173,17 @@ def congress_signals(cfg, errors):
                 if key in seen:
                     continue
                 seen.add(key)
-                store["congress"].append({
-                    "doc_id": r.get("doc_id"), "member": r.get("name"), "ticker": row["ticker"].upper(),
-                    "type": row["type"], "date": row.get("date"), "amount": row.get("amount"),
-                    "filed": r.get("filed")})
+                entry = {"doc_id": r.get("doc_id"), "member": r.get("name"), "ticker": row["ticker"].upper(),
+                         "type": row["type"], "date": row.get("date"), "amount": row.get("amount"),
+                         "filed": r.get("filed"), "url": r.get("url")}
+                store["congress"].append(entry)
+                events.append({
+                    "id": "congress:%s:%s:%s:%s" % key, "type": "congress", "sym": entry["ticker"],
+                    "time": (entry["filed"] or entry["date"] or "") + "T12:00:00+00:00",
+                    "title": "%s %s %s (%s), gehandelt am %s" % (
+                        entry["member"], "kauft" if entry["type"] == "P" else "verkauft", entry["ticker"],
+                        entry["amount"] or "Betrag ?", entry["date"] or "?"),
+                    "link": entry["url"], "tone": 1 if entry["type"] == "P" else -1})
     except Exception as e:
         errors.append("Kongress: %s" % e)
     cutoff = (datetime.date.today() - datetime.timedelta(days=cfg["congress_days"])).isoformat()
@@ -183,7 +194,7 @@ def congress_signals(cfg, errors):
         target = buys if s["type"] == "P" else sells
         target.setdefault(s["ticker"], []).append("%s %s (%s)" % (
             s["member"], "kauft" if s["type"] == "P" else "verkauft", s.get("amount") or "?"))
-    return buys, sells
+    return buys, sells, events
 
 
 # ---------------------------------------------------------------- Kursdaten
@@ -422,20 +433,21 @@ def analyse(sym, d, ib, market_open):
         cat["Intraday"][1].append("keine Intraday-Daten")
 
     ind["atr"] = atr(h, l, c)
+    ind["chg"] = (price / c[-2] - 1) * 100
+    ind["spark"] = [round(x, 2) for x in c[-120:]]
     return cat, ind
 
 
-# ---------------------------------------------------------------- News und Ereignisse
-
 def news_scores(universe, names, cfg, errors):
-    """{TICKER: (punkte, [gründe], block_grund, [schlagzeilen])}"""
+    """({TICKER: [punkte, [gründe], block_grund, [schlagzeilen]]}, [ereignisse])"""
     out = {s: [0, [], None, []] for s in universe}
+    events = []
     try:
         data = run_skill("trader-news/news.py", ["--tickers"] + universe + [
             "--hours", str(cfg["news_hours"]), "--all", "--dry-run"])
     except Exception as e:
         errors.append("News: %s" % e)
-        return out
+        return out, events
     pats = {}
     for s in universe:
         words = [re.escape(s)]
@@ -449,29 +461,43 @@ def news_scores(universe, names, cfg, errors):
         if s not in out:
             continue
         if it.get("kind") == "filing":
+            labels, severity = [], "info"
             for item in it.get("items", []):
                 if item in BLOCK_ITEMS:
                     out[s][2] = "8-K: " + BLOCK_ITEMS[item]
                     out[s][0] -= 3
                     out[s][1].append("8-K: " + BLOCK_ITEMS[item])
+                    labels.append(BLOCK_ITEMS[item])
+                    severity = "block"
                 elif item in NOTE_ITEMS:
                     out[s][1].append("8-K: " + NOTE_ITEMS[item])
+                    labels.append(NOTE_ITEMS[item])
+                    if severity == "info":
+                        severity = "note"
+            events.append({"id": "filing:" + str(it.get("id")), "type": "filing", "sym": s,
+                           "time": it.get("time"), "link": it.get("link"), "severity": severity,
+                           "title": "%s: SEC-Meldung 8-K%s" % (
+                               names.get(s) or s, " – " + ", ".join(labels) if labels else ""),
+                           "tone": -1 if severity == "block" else 0})
             continue
         text = "%s %s" % (it.get("title", ""), it.get("summary", ""))
         if not pats[s].search(text) or (s, it.get("title")) in seen_titles:
             continue
         seen_titles.add((s, it.get("title")))
         tone = len(POSITIVE.findall(it.get("title", ""))) - len(NEGATIVE.findall(it.get("title", "")))
-        out[s][3].append({"title": it.get("title"), "time": it.get("time"), "link": it.get("link"),
-                          "tone": tone})
+        h = {"title": it.get("title"), "time": it.get("time"), "link": it.get("link"), "tone": tone,
+             "source": it.get("source"), "tags": it.get("tags") or []}
+        out[s][3].append(h)
         out[s][0] += clip(tone, -1, 1)
+        events.append(dict(h, id="news:%s:%s" % (s, it.get("id")), type="news", sym=s,
+                           summary=(it.get("summary") or "")[:300], tone=clip(tone, -1, 1)))
     for s, row in out.items():
         n, pos, neg = len(row[3]), sum(1 for x in row[3] if x["tone"] > 0), sum(1 for x in row[3] if x["tone"] < 0)
         if n:
             row[1].insert(0, "%d Schlagzeilen: %d positiv, %d negativ" % (n, pos, neg))
         if row[2] is None:
             row[0] = clip(row[0], -2, 2)
-    return out
+    return out, events
 
 
 def market_regime(errors):
@@ -508,23 +534,48 @@ def market_regime(errors):
     return reg
 
 
-# ---------------------------------------------------------------- Depot
+# ---------------------------------------------------------------- Depot (in Euro)
+
+def fx_rate(pf, errors):
+    """Dollar pro Euro (EURUSD). Bei Fehler der letzte bekannte Kurs."""
+    try:
+        return daily("EURUSD=X")["price"]
+    except Exception as e:
+        errors.append("Wechselkurs: %s (nutze letzten Kurs)" % e)
+        return pf.get("fx") or 1.10
+
 
 def load_portfolio(cfg):
     return read_json(os.path.join(SIM, "portfolio.json"),
-                     {"cash": float(cfg["start_cash"]), "start_cash": float(cfg["start_cash"]),
+                     {"currency": "EUR", "cash": float(cfg["start_cash"]), "start_cash": float(cfg["start_cash"]),
                       "started": now_utc().isoformat(timespec="seconds"), "positions": {}})
 
 
-def record_trade(stamp, action, sym, shares, price, reason, pnl=None):
+def record_trade(stamp, action, sym, shares, price, fx, value, reason, pnl=None):
     path = os.path.join(SIM, "trades.csv")
     new = not os.path.exists(path)
     with open(path, "a", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
         if new:
-            w.writerow(["zeit", "aktion", "ticker", "stück", "kurs", "wert", "gewinn", "grund"])
-        w.writerow([stamp, action, sym, "%.4f" % shares, "%.2f" % price, "%.2f" % (shares * price),
+            w.writerow(["zeit", "aktion", "ticker", "stück", "kurs_usd", "eurusd", "wert_eur", "gewinn_eur", "grund"])
+        w.writerow([stamp, action, sym, "%.6f" % shares, "%.2f" % price, "%.4f" % fx, "%.2f" % value,
                     "" if pnl is None else "%.2f" % pnl, reason])
+
+
+def buy_checks(r, cfg, regime):
+    sc = r["scores"]
+    return [
+        {"rule": "Gesamt-Score mindestens %d" % cfg["buy_score"], "ok": r["total"] >= cfg["buy_score"],
+         "val": r["total"]},
+        {"rule": "Trend positiv (mindestens +1)", "ok": sc["Trend"] >= 1, "val": sc["Trend"]},
+        {"rule": "Volumen nicht negativ", "ok": sc["Volumen"] >= 0, "val": sc["Volumen"]},
+        {"rule": "Keine Warnmeldung der SEC", "ok": not r["block"], "val": r["block"] or "keine"},
+        {"rule": "Marktlage nicht risk-off", "ok": regime["mode"] != "risk-off", "val": regime["mode"]},
+    ]
+
+
+def snapshot(r):
+    return {k: r[k] for k in ("name", "total", "scores", "reasons", "ind", "headlines", "checks", "block")}
 
 
 def run(cfg, force=False):
@@ -539,10 +590,13 @@ def run(cfg, force=False):
         return
 
     errors = []
+    prev = read_json(os.path.join(SIM, "analysis.json"), {})
     inv = investor_signals(cfg, errors)
-    cbuy, csell = congress_signals(cfg, errors)
+    cbuy, csell, cev = congress_signals(cfg, errors)
     regime = market_regime(errors)
     pf = load_portfolio(cfg)
+    fx = fx_rate(pf, errors)
+    pf["fx"] = fx
 
     universe = sorted(set(inv) | set(cbuy) | set(csell) | set(cfg["watchlist"]) | set(pf["positions"]))
     log("Analysiere %d Ticker ..." % len(universe))
@@ -559,7 +613,8 @@ def run(cfg, force=False):
             intr[sym] = intraday(sym)
         except (urllib.error.URLError, KeyError, IndexError, TypeError, ValueError):
             intr[sym] = []
-    news = news_scores(list(data), {s: d["name"] for s, d in data.items()}, cfg, errors)
+    names = {s: d["name"] for s, d in data.items()}
+    news, nev = news_scores(list(data), names, cfg, errors)
 
     rows = []
     for sym, d in data.items():
@@ -576,14 +631,17 @@ def run(cfg, force=False):
         cat["News"][0] += n[0]
         cat["News"][1] += n[1]
         scores = {k: v[0] for k, v in cat.items()}
-        rows.append({"sym": sym, "name": d["name"], "price": d["price"], "total": sum(scores.values()),
-                     "scores": scores, "reasons": {k: v[1] for k, v in cat.items()}, "ind": ind,
-                     "block": n[2], "headlines": n[3][:5]})
+        r = {"sym": sym, "name": d["name"], "price": d["price"], "price_eur": d["price"] / fx,
+             "total": sum(scores.values()), "scores": scores, "reasons": {k: v[1] for k, v in cat.items()},
+             "ind": ind, "block": n[2], "headlines": n[3][:8]}
+        r["checks"] = buy_checks(r, cfg, regime)
+        rows.append(r)
     rows.sort(key=lambda r: -r["total"])
     by_sym = {r["sym"]: r for r in rows}
 
+    trades, decisions = [], []
+
     # Verkäufe zuerst
-    trades = []
     for sym, pos in list(pf["positions"].items()):
         r = by_sym.get(sym)
         if not r:
@@ -593,107 +651,166 @@ def run(cfg, force=False):
         a = pos.get("atr") or 0
         stop = max(pos["entry"] * (1 - cfg["stop_loss_pct"] / 100), pos["entry"] - cfg["atr_stop"] * a)
         trail = pos["peak"] - cfg["trailing_atr"] * a if a else 0
-        why = None
+        r["levels"] = {"stop": stop, "trail": trail if pos["peak"] > pos["entry"] else None,
+                       "sell_score": cfg["sell_score"], "entry": pos["entry"], "peak": pos["peak"]}
+        why, kind = None, None
         if price <= stop:
-            why = "Stop-Loss bei %.2f" % stop
+            why, kind = "Stop-Loss: Kurs %.2f $ ist unter die Verlustgrenze von %.2f $ gefallen" % (price, stop), "stop"
         elif trail and price <= trail and pos["peak"] > pos["entry"]:
-            why = "Trailing-Stop bei %.2f (Hoch %.2f)" % (trail, pos["peak"])
+            why, kind = ("Trailing-Stop: Kurs %.2f $ ist unter %.2f $ gefallen (Hoch seit Kauf: %.2f $), "
+                         "Gewinn gesichert" % (price, trail, pos["peak"])), "trailing"
         elif r["block"]:
-            why = "Warnsignal: %s" % r["block"]
+            why, kind = "Warnsignal der SEC: %s" % r["block"], "block"
         elif r["total"] <= cfg["sell_score"]:
-            weak = [k for k, s in r["scores"].items() if s < 0]
-            why = "Score %d, schwach bei: %s" % (r["total"], ", ".join(weak))
+            weak = ["%s %+d" % (k, s) for k, s in r["scores"].items() if s < 0]
+            why, kind = "Score auf %d gefallen (Grenze %d), schwach bei: %s" % (
+                r["total"], cfg["sell_score"], ", ".join(weak)), "score"
         if why:
-            pnl = pos["shares"] * (price - pos["entry"])
-            pf["cash"] += pos["shares"] * price
-            record_trade(stamp, "VERKAUF", sym, pos["shares"], price, why, pnl)
-            trades.append({"action": "VERKAUF", "sym": sym, "shares": pos["shares"], "price": price,
-                           "value": pos["shares"] * price, "pnl": pnl, "why": why})
+            value = pos["shares"] * price / fx
+            pnl = value - pos["cost_eur"]
+            pf["cash"] += value
+            record_trade(stamp, "VERKAUF", sym, pos["shares"], price, fx, value, why, pnl)
+            t = {"action": "VERKAUF", "sym": sym, "shares": pos["shares"], "price": price, "value": value,
+                 "pnl": pnl, "why": why}
+            trades.append(t)
+            decisions.append(dict(t, id="%s:VERKAUF:%s" % (stamp, sym), time=stamp, kind=kind, fx=fx,
+                                  pnl_pct=pnl / pos["cost_eur"] * 100, entry=pos["entry"], bought=pos["bought"],
+                                  regime=regime["mode"], levels=r["levels"], **snapshot(r)))
+            r["verdict"] = "Verkauft"
             del pf["positions"][sym]
 
     # Käufe nach Score
-    equity = pf["cash"] + sum(p["shares"] * by_sym[s]["price"] if s in by_sym else p["shares"] * p["entry"]
-                              for s, p in pf["positions"].items())
+    def equity_now():
+        return pf["cash"] + sum(p["shares"] * (by_sym[s]["price"] if s in by_sym else p["entry"]) / fx
+                                for s, p in pf["positions"].items())
+    equity = equity_now()
     buffer = equity * cfg["cash_buffer_pct"] / 100
     target = equity * cfg["max_position_pct"] / 100
     if regime["mode"] == "vorsichtig":
         target /= 2
     for r in rows:
-        if regime["mode"] == "risk-off":
-            break
-        sc = r["scores"]
-        if (r["total"] < cfg["buy_score"] or sc["Trend"] < 1 or sc["Volumen"] < 0 or r["block"]
-                or r["sym"] in pf["positions"]):
+        if r.get("verdict") or r["sym"] in pf["positions"]:
+            continue
+        if not all(c["ok"] for c in r["checks"]):
             continue
         amount = min(target, pf["cash"] - buffer)
         if amount < cfg["min_order"]:
-            break
-        shares = amount / r["price"]
+            r["verdict"] = "Kaufkandidat – kein freies Geld"
+            continue
+        shares = amount * fx / r["price"]
         pf["cash"] -= amount
-        pf["positions"][r["sym"]] = {"shares": shares, "entry": r["price"], "peak": r["price"],
-                                     "atr": r["ind"].get("atr"), "bought": stamp, "name": r["name"]}
-        strong = ["%s %+d" % (k, s) for k, s in sc.items() if s]
-        why = "Score %d (%s)" % (r["total"], ", ".join(strong))
-        record_trade(stamp, "KAUF", r["sym"], shares, r["price"], why)
-        trades.append({"action": "KAUF", "sym": r["sym"], "shares": shares, "price": r["price"],
-                       "value": amount, "why": why})
+        pf["positions"][r["sym"]] = {"shares": shares, "entry": r["price"], "entry_fx": fx, "cost_eur": amount,
+                                     "peak": r["price"], "atr": r["ind"].get("atr"), "bought": stamp,
+                                     "name": r["name"]}
+        strong = ["%s %+d" % (k, s) for k, s in r["scores"].items() if s]
+        why = "Alle Kaufregeln erfüllt, Score %d (%s)" % (r["total"], ", ".join(strong))
+        record_trade(stamp, "KAUF", r["sym"], shares, r["price"], fx, amount, why)
+        t = {"action": "KAUF", "sym": r["sym"], "shares": shares, "price": r["price"], "value": amount, "why": why}
+        trades.append(t)
+        a = r["ind"].get("atr") or 0
+        levels = {"stop": max(r["price"] * (1 - cfg["stop_loss_pct"] / 100), r["price"] - cfg["atr_stop"] * a),
+                  "sell_score": cfg["sell_score"], "entry": r["price"]}
+        decisions.append(dict(t, id="%s:KAUF:%s" % (stamp, r["sym"]), time=stamp, kind="buy", fx=fx,
+                              regime=regime["mode"], levels=levels, **snapshot(r)))
+        r["verdict"] = "Gekauft"
+
+    for r in rows:
+        if r.get("verdict"):
+            continue
+        if r["sym"] in pf["positions"]:
+            r["verdict"] = "Halten"
+        else:
+            failed = [c["rule"] for c in r["checks"] if not c["ok"]]
+            r["verdict"] = "Nicht gekauft" if failed else "Kaufkandidat"
+    for sym, pos in pf["positions"].items():
+        r = by_sym.get(sym)
+        if r and "levels" not in r:
+            a = pos.get("atr") or 0
+            r["levels"] = {"stop": max(pos["entry"] * (1 - cfg["stop_loss_pct"] / 100), pos["entry"] - cfg["atr_stop"] * a),
+                           "trail": pos["peak"] - cfg["trailing_atr"] * a if a and pos["peak"] > pos["entry"] else None,
+                           "sell_score": cfg["sell_score"], "entry": pos["entry"], "peak": pos["peak"]}
 
     write_json(os.path.join(SIM, "portfolio.json"), pf)
-    equity = pf["cash"] + sum(p["shares"] * by_sym.get(s, {"price": p["entry"]})["price"]
-                              for s, p in pf["positions"].items())
+    equity = equity_now()
     eq_path = os.path.join(SIM, "equity.csv")
     new = not os.path.exists(eq_path)
     with open(eq_path, "a", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
         if new:
-            w.writerow(["zeit", "depotwert", "cash", "positionen", "spy"])
+            w.writerow(["zeit", "depotwert_eur", "cash_eur", "positionen", "spy", "eurusd"])
         w.writerow([stamp, "%.2f" % equity, "%.2f" % pf["cash"], len(pf["positions"]),
-                    "%.2f" % regime["spy"] if regime.get("spy") else ""])
+                    "%.2f" % regime["spy"] if regime.get("spy") else "", "%.4f" % fx])
 
+    # Entscheidungen protokollieren
+    dpath = os.path.join(SIM, "decisions.json")
+    dec = read_json(dpath, [])
+    dec = (dec + decisions)[-500:]
+    write_json(dpath, dec)
+
+    # Ereignisse sammeln
+    epath = os.path.join(SIM, "events.json")
+    ev = {e["id"]: e for e in read_json(epath, [])}
+    new_events = cev + nev
+    for t in trades:
+        new_events.append({"id": "trade:%s:%s:%s" % (stamp, t["action"], t["sym"]), "type": "trade",
+                           "sym": t["sym"], "time": stamp, "title": "Bot: %s %s für %s €" % (
+                               t["action"], t["sym"], ("%.2f" % t["value"]).replace(".", ",")), "detail": t["why"],
+                           "tone": 1 if t["action"] == "KAUF" else -1})
+    old_mode = (prev.get("regime") or {}).get("mode")
+    if old_mode and old_mode != regime["mode"]:
+        new_events.append({"id": "regime:%s" % stamp, "type": "market", "sym": "MARKT", "time": stamp,
+                           "title": "Marktlage wechselt von %s zu %s" % (old_mode, regime["mode"]),
+                           "detail": "; ".join(regime["why"]),
+                           "tone": 1 if regime["mode"] == "normal" else -1})
+    for e in new_events:
+        if e["id"] not in ev:
+            e["seen"] = stamp
+            ev[e["id"]] = e
+    cutoff = (now_utc() - datetime.timedelta(days=30)).isoformat()
+    evs = sorted((e for e in ev.values() if (e.get("time") or e["seen"]) >= cutoff),
+                 key=lambda e: e.get("time") or e["seen"], reverse=True)[:1500]
+    write_json(epath, evs)
+
+    rules = {k: cfg[k] for k in ("buy_score", "sell_score", "stop_loss_pct", "atr_stop", "trailing_atr",
+                                 "max_position_pct", "cash_buffer_pct", "min_order", "news_hours", "congress_days")}
+    rules.update(investors=cfg["investors"], congress_members=cfg["congress_members"], watchlist=cfg["watchlist"])
     write_json(os.path.join(SIM, "analysis.json"), {
-        "time": stamp, "market": status, "regime": regime, "equity": equity, "cash": pf["cash"],
-        "start_cash": pf["start_cash"], "trades": trades, "rows": rows, "errors": errors})
-    report(stamp, status, regime, pf, equity, rows, trades, errors)
+        "time": stamp, "market": status, "regime": regime, "currency": "EUR", "fx": fx, "equity": equity,
+        "cash": pf["cash"], "start_cash": pf["start_cash"], "trades": trades, "rows": rows, "errors": errors,
+        "rules": rules})
+    report(stamp, status, regime, pf, equity, rows, trades, errors, fx)
 
 
-def report(stamp, status, regime, pf, equity, rows, trades, errors):
+def report(stamp, status, regime, pf, equity, rows, trades, errors, fx):
     perf = (equity / pf["start_cash"] - 1) * 100
     L = ["# Bot-Bericht %s" % stamp, "",
          "Börse: %s (New York %s)" % ("offen" if status["open"] else "zu, Lauf erzwungen", status["now_new_york"]),
-         "Marktlage: **%s** (%s)" % (regime["mode"], "; ".join(regime["why"])),
-         "", "**Depotwert: %.2f $** (Start %.2f $, %+.2f %%), Cash %.2f $" % (
+         "Marktlage: **%s** (%s) · EUR/USD %.4f" % (regime["mode"], "; ".join(regime["why"]), fx),
+         "", "**Depotwert: %.2f €** (Start %.2f €, %+.2f %%), Cash %.2f €" % (
              equity, pf["start_cash"], perf, pf["cash"]), "", "## Orders in diesem Lauf", ""]
     for t in trades:
-        extra = " (%+.2f $)" % t["pnl"] if "pnl" in t else ""
-        L.append("- %s %s %.2f Stk. @ %.2f = %.2f $%s — %s" % (
+        extra = " (%+.2f €)" % t["pnl"] if "pnl" in t else ""
+        L.append("- %s %s %.4f Stk. @ %.2f $ = %.2f €%s — %s" % (
             t["action"], t["sym"], t["shares"], t["price"], t["value"], extra, t["why"]))
     if not trades:
         L.append("- keine")
-    L += ["", "## Positionen", "", "| Ticker | Stück | Einstand | Kurs | Wert | G/V |", "|---|---|---|---|---|---|"]
+    L += ["", "## Positionen", "", "| Ticker | Stück | Einstand $ | Kurs $ | Wert € | G/V € |", "|---|---|---|---|---|---|"]
     by_sym = {r["sym"]: r for r in rows}
     for s, p in sorted(pf["positions"].items()):
         price = by_sym.get(s, {"price": p["entry"]})["price"]
-        L.append("| %s | %.2f | %.2f | %.2f | %.2f | %+.1f %% |" % (
-            s, p["shares"], p["entry"], price, p["shares"] * price, (price / p["entry"] - 1) * 100))
+        value = p["shares"] * price / fx
+        L.append("| %s | %.4f | %.2f | %.2f | %.2f | %+.2f |" % (s, p["shares"], p["entry"], price, value,
+                                                                 value - p["cost_eur"]))
     if not pf["positions"]:
         L.append("| – | | | | | |")
     L += ["", "## Rangliste", "",
-          "| Ticker | Gesamt | " + " | ".join(CATEGORIES) + " |", "|---" * (len(CATEGORIES) + 2) + "|"]
+          "| Ticker | Gesamt | " + " | ".join(CATEGORIES) + " | Urteil |", "|---" * (len(CATEGORIES) + 3) + "|"]
     for r in rows:
-        L.append("| %s | **%d** | %s |" % (r["sym"], r["total"], " | ".join("%+d" % r["scores"][k] for k in CATEGORIES)))
-    L += ["", "## Details", ""]
-    for r in rows[:8]:
-        L.append("**%s** (%s) %.2f $, Score %d%s" % (r["sym"], r["name"], r["price"], r["total"],
-                                                     " — GESPERRT: " + r["block"] if r["block"] else ""))
-        for k in CATEGORIES:
-            if r["reasons"][k]:
-                L.append("- %s %+d: %s" % (k, r["scores"][k], "; ".join(r["reasons"][k])))
-        for hl in r["headlines"][:3]:
-            L.append("  - %s %s" % ({1: "▲", -1: "▼"}.get(clip(hl["tone"], -1, 1), "•"), hl["title"]))
-        L.append("")
+        L.append("| %s | **%d** | %s | %s |" % (r["sym"], r["total"],
+                                                 " | ".join("%+d" % r["scores"][k] for k in CATEGORIES), r["verdict"]))
     if errors:
-        L += ["## Hinweise", ""] + ["- " + e for e in errors] + [""]
-    L += ["_Simulation mit verzögerten Kursen. Keine Anlageberatung._", ""]
+        L += ["", "## Hinweise", ""] + ["- " + e for e in errors]
+    L += ["", "_Simulation mit verzögerten Kursen. Keine Anlageberatung._", ""]
     text = "\n".join(L)
     with open(os.path.join(SIM, "report.md"), "w", encoding="utf-8") as fh:
         fh.write(text)
@@ -710,7 +827,8 @@ def main():
         log("Neue Einstellungen angelegt: %s" % CONFIG)
     cfg = dict(DEFAULTS, **read_json(CONFIG, {}))
     if a.reset:
-        for f in ("portfolio.json", "trades.csv", "equity.csv", "report.md", "analysis.json"):
+        for f in ("portfolio.json", "trades.csv", "equity.csv", "report.md", "analysis.json",
+                  "decisions.json", "events.json"):
             try:
                 os.remove(os.path.join(SIM, f))
             except OSError:
