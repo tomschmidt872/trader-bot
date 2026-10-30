@@ -1,5 +1,63 @@
 [
   {
+    "title": "Chevron Q3 Earnings Call Highlights",
+    "time": "2026-10-30T19:14:55+00:00",
+    "link": "https://www.marketbeat.com/instant-alerts/transcript-chevron-q3-earnings-call-highlights-2026-10-30/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:88f10c14-ce32-3930-9627-23bb5818a129",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Chevron (NYSE:CVX) reported third-quarter 2026 earnings of $9.9 billion, or $5.06 per share, as record U.S. refinery crude throughput and nearly 4 million barrels per day of production helped support operating performance. Adjusted earnings totaled $10.4 billion, or $5.28 per share, while cash flow",
+    "seen": "2026-10-30T19:23:44+00:00"
+  },
+  {
+    "title": "Apple Is Near a Record. Netflix Is Down More Than Half. I'd Buy Only 1 of Them.",
+    "time": "2026-10-30T18:52:02+00:00",
+    "link": "https://www.fool.com/investing/2026/10/30/apple-is-near-a-record-netflix-is-down-more-than-half-i-d-buy-only-1-of-them/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:fac0583e-1970-3d81-896e-0d4620730499",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "One of these stocks costs under half as much relative to expected earnings. Is the cheaper one the better buy?",
+    "seen": "2026-10-30T19:23:44+00:00"
+  },
+  {
+    "title": "Apple Set to Dethrone Nvidia as Largest Company by Market Cap",
+    "time": "2026-10-30T18:48:22+00:00",
+    "link": "https://finance.yahoo.com/m/dc2a0135-80a2-331c-bb29-c2d5ccf6bf51/apple-set-to-dethrone-nvidia.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:dc2a0135-80a2-331c-bb29-c2d5ccf6bf51",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple was on pace to reclaim the title of the largest U.S. company by market capitalization, dethroning Nvidia.",
+    "seen": "2026-10-30T19:23:44+00:00"
+  },
+  {
+    "title": "Investing.com’s stocks of the week",
+    "time": "2026-10-30T18:28:21+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182821119.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:GOOGL:rss:edf151c3-dde4-3a97-a656-7f8d861ef8af",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Investing.com -- Technology stocks had a bad week, with results from Alphabet, Amazon, and Intel all driving declines.",
+    "seen": "2026-10-30T19:23:44+00:00"
+  },
+  {
     "title": "Alphabet's October wipeout hits $766 billion, its worst month ever",
     "time": "2026-10-30T18:14:07+00:00",
     "link": "https://finance.yahoo.com/markets/article/alphabets-october-wipeout-hits-766-billion-its-worst-month-ever-181407937.html?.tsrc=rss",
@@ -93,6 +151,19 @@
     "sym": "AAPL",
     "summary": "Apple (NasdaqGS:AAPL) has been fined by South Korea's antitrust regulator over alleged unfair app store practices affecting local developers. The ruling requires Apple to revise contract terms with Korean app makers, including allowing external payment links in apps. Authorities have also ordered im",
     "seen": "2026-10-30T18:15:12+00:00"
+  },
+  {
+    "title": "Exxon And Chevron Refine Their Way To Record Highs",
+    "time": "2026-10-30T17:08:05+00:00",
+    "link": "https://app.moby.co/home/news/news-exxon-and-chevron-refine-their-way-to-record-highs?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:55be460b-07fe-3c6c-9942-b6cf00f0ffd4",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Every tanker hit in Hormuz is another good day for a Gulf Coast refinery",
+    "seen": "2026-10-30T19:23:44+00:00"
   },
   {
     "title": "Anthropic Partners Face Enormous Counterparty Risk",
