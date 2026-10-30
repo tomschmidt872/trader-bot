@@ -1,5 +1,100 @@
 [
   {
+    "title": "Alphabet's October wipeout hits $766 billion, its worst month ever",
+    "time": "2026-10-30T18:14:07+00:00",
+    "link": "https://finance.yahoo.com/markets/article/alphabets-october-wipeout-hits-766-billion-its-worst-month-ever-181407937.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:d5853c7b-4c09-4dee-b4b3-2842628074c9",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet's $477 billion weekly loss at Friday's low outpaced SpaceX, Intel, Nvidia and Amazon combined, capping its worst month ever.",
+    "seen": "2026-10-30T18:15:12+00:00"
+  },
+  {
+    "title": "Chevron vs. Enbridge: Which Energy Giant Makes More Money Off the Iran War Oil Price Shock?",
+    "time": "2026-10-30T18:01:01+00:00",
+    "link": "https://www.fool.com/coverage/better-buy/2026/10/30/chevron-vs-enbridge-which-energy-giant-makes-more-money-off-the-iran-war-oil-price-shock/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:6ab6879c-3f20-3f4b-bb11-1a66104d42ee",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "One trades at a lower earnings multiple while the other benefits from contracted cash flows, here's how their risk profiles and balance sheets stack up.",
+    "seen": "2026-10-30T18:15:12+00:00"
+  },
+  {
+    "id": "filing:sec:0000004962-26-000411",
+    "type": "filing",
+    "sym": "AXP",
+    "time": "2026-10-30T18:00:24+00:00",
+    "link": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000411/0000004962-26-000411-index.htm",
+    "severity": "info",
+    "title": "American Express Company: SEC-Meldung 8-K",
+    "tone": 0,
+    "seen": "2026-10-30T18:15:12+00:00"
+  },
+  {
+    "title": "META, AMZN, ORCL, GOOGL In Focus: Big Tech Bonds Offer Better Opportunity Than Stocks, BofA Says",
+    "time": "2026-10-30T17:55:14+00:00",
+    "link": "https://stocktwits.com/news-articles/markets/equity/meta-amzn-orcl-googl-in-focus-big-tech-bonds-offer-better-opportunity-than-stocks-bof-a-says/cZULGUIR9cG?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:5220002c-66cd-30e3-8103-16d7095a0f4f",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Bank of America (BofA) highlights that mega-cap technology bonds are presenting a more lucrative investment opportunity than stocks as heavy artificial intelligence infrastructure spending drives up debt yields.",
+    "seen": "2026-10-30T18:15:12+00:00"
+  },
+  {
+    "title": "Apple, Super Micro, AMD, Palantir Step Up To Earnings Plate After Tech Sell-Off",
+    "time": "2026-10-30T17:44:47+00:00",
+    "link": "https://finance.yahoo.com/m/d3ec971d-88fe-3b98-aa2c-d71ab16315ff/apple%2C-super-micro%2C-amd%2C.html?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:d3ec971d-88fe-3b98-aa2c-d71ab16315ff",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple stock continues to show relative strength ahead of its upcoming earnings report amid a sell-off in semiconductor stocks.",
+    "seen": "2026-10-30T18:15:12+00:00"
+  },
+  {
+    "title": "Apple iPhone Duo Wait Times Trend Lower But Remain Elevated, UBS Says",
+    "time": "2026-10-30T17:15:13+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-iphone-duo-wait-times-171513783.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:205c3a56-9187-3f78-ac5f-a204c1e69fa7",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple (AAPL) iPhone Duo wait times have decreased by about 7 days week-over-week, though they remain",
+    "seen": "2026-10-30T18:15:12+00:00"
+  },
+  {
+    "title": "Apple (AAPL) Fined In South Korea Over Unfair App Store Practices",
+    "time": "2026-10-30T17:10:27+00:00",
+    "link": "https://finance.yahoo.com/technology/articles/apple-aapl-fined-south-korea-171027991.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "legal"
+    ],
+    "id": "news:AAPL:rss:df33ba23-26e5-310c-b700-ccefa5e1ebf7",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple (NasdaqGS:AAPL) has been fined by South Korea's antitrust regulator over alleged unfair app store practices affecting local developers. The ruling requires Apple to revise contract terms with Korean app makers, including allowing external payment links in apps. Authorities have also ordered im",
+    "seen": "2026-10-30T18:15:12+00:00"
+  },
+  {
     "title": "Anthropic Partners Face Enormous Counterparty Risk",
     "time": "2026-10-30T16:44:00+00:00",
     "link": "https://finance.yahoo.com/m/348bc6b6-6f6f-353c-b6f3-aeb898010b17/anthropic-partners-face.html?.tsrc=rss",
@@ -41,6 +136,21 @@
     "sym": "CVX",
     "summary": "Big Oil reaped more than $50 billion in windfall profits as conflicts in the Persian Gulf and Russia drove refining results to record highs. ExxonMobil Holdings Corp., Chevron Corp., BP Plc, Shell Plc and TotalEnergies SE all surpassed third-quarter expectations with combined adjusted net income of ",
     "seen": "2026-10-30T17:20:20+00:00"
+  },
+  {
+    "title": "Chevron (CVX) Reports Q3 Earnings: What Key Metrics Have to Say",
+    "time": "2026-10-30T16:30:02+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-cvx-reports-q3-earnings-163002662.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:778a29a0-4710-3af7-802d-92ff7550845e",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "While the top- and bottom-line numbers for Chevron (CVX) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
+    "seen": "2026-10-30T18:15:12+00:00"
   },
   {
     "title": "5 AI Stocks Set to Win Big From Anthropic's Spending Spree",
