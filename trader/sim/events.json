@@ -1,5 +1,76 @@
 [
   {
+    "title": "Anthropic Partners Face Enormous Counterparty Risk",
+    "time": "2026-10-30T16:44:00+00:00",
+    "link": "https://finance.yahoo.com/m/348bc6b6-6f6f-353c-b6f3-aeb898010b17/anthropic-partners-face.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:348bc6b6-6f6f-353c-b6f3-aeb898010b17",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet, Amazon, Microsoft, SpaceX, Broadcom, and others all have sizeable deals that rely on artificial-intelligence lab Anthropic succeeding.",
+    "seen": "2026-10-30T17:20:20+00:00"
+  },
+  {
+    "title": "Her Father’s Bank Won’t Accept the Power of Attorney He Signed in 2015. Many States Now Make It Hard for the Bank to Simply Refuse",
+    "time": "2026-10-30T16:43:44+00:00",
+    "link": "https://247wallst.com/personal-finance/2026/10/30/her-fathers-bank-wont-accept-the-power-of-attorney-he-signed-in-2015-many-states-now-make-it-hard-for-the-bank-to-simply-refuse/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "legal"
+    ],
+    "id": "news:BAC:rss:3c9abd26-40cc-3b72-b169-569a7465866e",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "A bank refused a father's decade-old power of attorney and demanded its own form instead. Depending on the state, that refusal may now expose the bank to court orders, attorney fees, and worse.",
+    "seen": "2026-10-30T17:20:20+00:00"
+  },
+  {
+    "title": "Big Oil Scores $56 Billion Windfall on Spiking Fuel Prices",
+    "time": "2026-10-30T16:34:58+00:00",
+    "link": "https://finance.yahoo.com/video/big-oil-scores-56-billion-163458321.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:4cfb8ba1-481a-3ac2-9443-54ffc3b7d031",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Big Oil reaped more than $50 billion in windfall profits as conflicts in the Persian Gulf and Russia drove refining results to record highs. ExxonMobil Holdings Corp., Chevron Corp., BP Plc, Shell Plc and TotalEnergies SE all surpassed third-quarter expectations with combined adjusted net income of ",
+    "seen": "2026-10-30T17:20:20+00:00"
+  },
+  {
+    "title": "5 AI Stocks Set to Win Big From Anthropic's Spending Spree",
+    "time": "2026-10-30T16:29:00+00:00",
+    "link": "https://www.fool.com/investing/2026/10/30/5-ai-stocks-set-to-win-big-from-anthropics-spendin/?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:2b931c8b-45ba-33b0-ba00-06dcf518b5f3",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet, Broadcom, Amazon, SpaceX, and Nvidia all look like big winners.",
+    "seen": "2026-10-30T17:20:20+00:00"
+  },
+  {
+    "title": "Apple faces margin pressure and uneven iPhone demand as launch schedule shifts, Bank of America says",
+    "time": "2026-10-30T16:02:00+00:00",
+    "link": "https://www.proactiveinvestors.com/companies/news/1101017/apple-faces-margin-pressure-and-uneven-iphone-demand-as-launch-schedule-shifts-bank-of-america-says-1101017.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:bc1eb35d-428f-399d-a7ad-fe633181a054",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple Inc (NASDAQ:AAPL, XETRA:APC) is expected to deliver a modest earnings beat for its September quarter, but a staggered iPhone launch, rising component costs and weaker services growth could weigh on its December results, according to Bank of America (BofA). The brokerage expects...",
+    "seen": "2026-10-30T17:20:20+00:00"
+  },
+  {
     "title": "Starbucks recovery gains momentum as sales growth and margins improve, brokers say",
     "time": "2026-10-30T15:46:00+00:00",
     "link": "https://www.proactiveinvestors.com/companies/news/1101016/starbucks-recovery-gains-momentum-as-sales-growth-and-margins-improve-brokers-say-1101016.html?.tsrc=rss",
@@ -82,6 +153,19 @@
     "sym": "QQQ",
     "summary": "QQQ investors hand nearly 8 cents of every dollar to a single chipmaker without realizing a quieter fund holds every same stock with none of that concentration risk.",
     "seen": "2026-10-30T15:24:54+00:00"
+  },
+  {
+    "title": "ExxonMobil and Chevron top estimates for Q3 as Americans feel gas price pain",
+    "time": "2026-10-30T15:12:50+00:00",
+    "link": "https://finance.yahoo.com/energy/articles/exxonmobil-chevron-top-estimates-q3-151250988.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:dd02aaf8-7e0b-3347-9fb0-df7def688eb4",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Business is booming for two biggest US oil companies, with both benefiting from higher prices and record production",
+    "seen": "2026-10-30T17:20:20+00:00"
   },
   {
     "title": "If Apple Grows At 10% a Year, Here’s What $1,000 Becomes By 2030",
