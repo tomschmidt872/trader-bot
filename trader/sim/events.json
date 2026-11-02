@@ -1,5 +1,112 @@
 [
   {
+    "title": "Chevron's Q3 Results Support Higher Free Cash Flow Outlook, Morgan Stanley Says",
+    "time": "2026-11-02T16:25:04+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-apos-q3-results-support-162504867.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:9013ae97-f6b3-3a85-b671-b249051a0ebb",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Chevron (CVX) delivered stronger-than-expected Q3 results, driving higher free cash flow forecasts,",
+    "seen": "2026-11-02T16:38:47+00:00"
+  },
+  {
+    "title": "EchoStar Gains on SpaceX Talks; Lumentum, Marvell Reach Deal | Stock Movers",
+    "time": "2026-11-02T16:12:57+00:00",
+    "link": "https://finance.yahoo.com/video/echostar-gains-spacex-talks-lumentum-161257353.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "deal"
+    ],
+    "id": "news:AAPL:rss:d8a3187f-af31-3b69-a2f4-cbbd90b3edb1",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "On this episode of Stock Movers: - EchoStar (ECHO) is gaining on news Elon Musk's SpaceX is looking to start a wireless service with Echostar. - Lumentum (LITE) is moving on news Marvell Technology has reached a deal to buy Lumentum at an enterprise value of $115 billion. Lumentum makes lasers and o",
+    "seen": "2026-11-02T16:38:47+00:00"
+  },
+  {
+    "title": "Did Earnings Beat Just Shift Chevron (CVX) Investment Narrative?",
+    "time": "2026-11-02T16:07:48+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/did-earnings-beat-just-shift-160748121.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "capital"
+    ],
+    "id": "news:CVX:rss:5fb1706a-53fa-3f6c-8bab-41154e7dfac1",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Chevron reported third quarter 2026 revenue of US$67,798 million and net income of US$9,924 million, with diluted EPS from continuing operations of US$5.06, alongside a declared quarterly dividend of US$1.78 per share that was later paid on December 10, 2026. The quarter was driven by record refinin",
+    "seen": "2026-11-02T16:38:47+00:00"
+  },
+  {
+    "title": "Apple Stock Is Expensive",
+    "time": "2026-11-02T15:48:53+00:00",
+    "link": "https://finance.yahoo.com/m/2b9b0c79-f79a-37d8-8ff5-fa1c04d7a6de/apple-stock-is-expensive.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:2b9b0c79-f79a-37d8-8ff5-fa1c04d7a6de",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple is trading at a historically pricy valuation heading into earnings.",
+    "seen": "2026-11-02T16:38:47+00:00"
+  },
+  {
+    "title": "Apple Vs.Microsoft: Margin Expansion Is Apple’s Massive Advantage",
+    "time": "2026-11-02T15:45:48+00:00",
+    "link": "https://247wallst.com/investing/2026/11/02/apple-vs-microsoft-margin-expansion-is-apples-massive-advantage/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:921ac06f-7ba0-352e-8b7a-06c295231336",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple and Microsoft both crushed earnings estimates, but one is quietly pocketing far more of every dollar it earns while the other bets billions on infrastructure that has yet to pay off. The gap between their margin trajectories reveals which tech giant is winning the AI era on its own terms.",
+    "seen": "2026-11-02T16:38:47+00:00"
+  },
+  {
+    "title": "Trump Hails Apple’s “100 Million Dollars” of Pennsylvania Titanium. Apple Pledged China $275 Billion",
+    "time": "2026-11-02T15:40:11+00:00",
+    "link": "https://www.tikr.com/blog/trump-hails-apples-100-million-dollars-of-pennsylvania-titanium-apple-pledged-china-275-billion?ref=yahoofinance&tlnk=yf-261102-wpwqm25q&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "deal"
+    ],
+    "id": "news:AAPL:rss:335fc3e4-f045-30ce-8a09-dc3498b3d5f1",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Key TakeawaysApple will spend up to $100 million over three years on titanium from Pennsylvania’s Perryman Company, a deal President Trump celebrated on Truth Social. The order does very little for Apple’s business, and it doesn’t change how much Apple depends on China.",
+    "seen": "2026-11-02T16:38:47+00:00"
+  },
+  {
+    "title": "Wall Street Expert Art Hogan Breaks Down His Approach to Recent Tech Choppiness",
+    "time": "2026-11-02T15:31:38+00:00",
+    "link": "https://finance.yahoo.com/video/wall-street-expert-art-hogan-153138773.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:11cedcc4-512b-3933-b769-73444038f71d",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "What is driving recent volatility in technology stocks, and how should investors think about market leadership as earnings season continues? In this NYSE Live interview, Art Hogan, Chief Market Strategist at B. Riley Wealth Management, discusses the recent pullback in technology shares, sector rotat",
+    "seen": "2026-11-02T16:38:47+00:00"
+  },
+  {
     "title": "Apple’s valuation leaves little room for earnings disappointment: Oppenheimer",
     "time": "2026-11-02T15:15:37+00:00",
     "link": "https://finance.yahoo.com/markets/stocks/articles/apple-valuation-leaves-little-room-151537313.html?.tsrc=rss",
@@ -13,6 +120,34 @@
     "sym": "AAPL",
     "summary": "Investing.com -- Oppenheimer reiterated its Perform rating on Apple in a note on Monday ahead of the company’s fiscal fourth-quarter results, warning that the stock’s premium valuation leaves little room for disappointment.",
     "seen": "2026-11-02T15:32:33+00:00"
+  },
+  {
+    "title": "Tech’s Next Big Bet Is Defense. What That Means for Lockheed Stock and Its Peers.",
+    "time": "2026-11-02T15:15:00+00:00",
+    "link": "https://finance.yahoo.com/m/c8f033a9-39ef-353c-9850-c6f74489aa4f/tech%E2%80%99s-next-big-bet-is.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:c8f033a9-39ef-353c-9850-c6f74489aa4f",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Traditional defense contractors’ next big competitor could be Alphabet.",
+    "seen": "2026-11-02T16:38:47+00:00"
+  },
+  {
+    "title": "Apple Stock Opens Slightly Lower Ahead of Earnings",
+    "time": "2026-11-02T15:05:50+00:00",
+    "link": "https://finance.yahoo.com/m/5931b239-662f-33fb-b5be-c1b3df4c9b14/apple-stock-opens-slightly.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:5931b239-662f-33fb-b5be-c1b3df4c9b14",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Shares of Apple opened in the red ahead of the company’s fourth-quarter earnings release, due after the market close today.",
+    "seen": "2026-11-02T16:38:47+00:00"
   },
   {
     "title": "‘They sell the big hot dogs’: The companies that hyperscalers trail in valuations",
@@ -67,6 +202,21 @@
     "sym": "AAPL",
     "summary": "Markets look to rebound from last week’s tech sell-off as Apple prepares to report earnings.",
     "seen": "2026-11-02T15:32:33+00:00"
+  },
+  {
+    "title": "Earnings Results Wrap with Apple After the Close",
+    "time": "2026-11-02T14:36:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-results-wrap-apple-close-143600728.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:27845040-6d4f-3252-bb61-1ae199660530",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Pre-markets are up ahead of tomorrow's midterms and AAPL's earnings this afternoon.",
+    "seen": "2026-11-02T16:38:47+00:00"
   },
   {
     "title": "3 Reasons to Buy Alphabet Stock Right Now",
