@@ -1,5 +1,220 @@
 [
   {
+    "title": "Should Apple (AAPL) Stock Worry About Ternus’ First Call And Rising Chip Costs?",
+    "time": "2026-11-02T18:07:12+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-worry-ternus-180712443.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "people"
+    ],
+    "id": "news:AAPL:rss:ccc15a71-804e-34ab-b4a0-759e8125ce93",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple (NasdaqGS:AAPL) held its first earnings call under new CEO John Ternus, following early iPhone 18 and 18 Pro launches. Management highlighted early iPhone 18 Pro demand while pointing to rising memory chip costs linked to AI hardware demand as a margin headwind. Ternus outlined a hardware focu",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "If You Invest $10,000 in Alphabet Today, Here’s What It Could Be Worth by 2030",
+    "time": "2026-11-02T18:03:24+00:00",
+    "link": "https://247wallst.com/investing/2026/11/02/if-you-invest-10000-in-alphabet-today-heres-what-it-could-be-worth-by-2030/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:GOOGL:rss:e0a1cf3a-ec00-39ab-9516-7634bf60467a",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet shares just dropped double digits after earnings, but Google Cloud's backlog and AI usage tell a very different story about where this company is headed over the next five years.",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "The EPS ‘Miss That Wasn’t Gave You and Me an Opportunity to Scoop Up Alphabet Cheaply",
+    "time": "2026-11-02T17:45:18+00:00",
+    "link": "https://247wallst.com/investing/2026/11/02/the-eps-miss-that-wasnt-gave-you-and-me-an-opportunity-to-scoop-up-alphabet-cheaply/?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:GOOGL:rss:607165e8-b527-3dd1-81b7-7e9d23599ce1",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet's worst single-day stock drop ever spooked the market, but one buried line in the earnings filing tells a completely different story about where the business actually stands.",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "Meta and Alphabet Face Serious Market Pressure Over Capex in Q4",
+    "time": "2026-11-02T17:45:14+00:00",
+    "link": "https://247wallst.com/investing/2026/11/02/meta-and-alphabet-face-serious-market-pressure-over-capex-in-q4/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:cafc4be0-f048-3e39-80d6-a44c64335dc4",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Meta and Alphabet both burned through more cash than they generated last quarter, and both are now raising outside money to keep spending. Which company has the stronger hand heading into Q4, and what will their AI bets actually cost investors?",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "Apple's Valuation Premium Confronts AI Jitters",
+    "time": "2026-11-02T17:40:35+00:00",
+    "link": "https://finance.yahoo.com/video/apples-valuation-premium-confronts-ai-174035923.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:4afdfbcb-8a08-3764-9bee-e7df86a0b21b",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "The runup in Apple shares in recent months has left the iPhone maker little room for disappointment when it reports earnings after the bell on Monday. The gains have left the stock trading at the priciest levels since 2008, making it particularly vulnerable if the company's results fall short of exp",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "Alphabet Lost a Record $500 Billion in a Day. Is This the Buying Opportunity?",
+    "time": "2026-11-02T17:33:51+00:00",
+    "link": "https://247wallst.com/investing/2026/11/02/alphabet-lost-a-record-500-billion-in-a-day-is-this-the-buying-opportunity/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:GOOGL:rss:e8fe5038-c9c7-3ee5-b144-6d0a703ae31c",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet just shed half a trillion dollars in market value after a single earnings report, but the numbers driving that collapse tell a more complicated story than Wall Street's reaction suggests.",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "Apple Is the Top Performing Mag 7 Stock This Year",
+    "time": "2026-11-02T17:25:20+00:00",
+    "link": "https://finance.yahoo.com/m/34814f38-88a1-39a1-95f7-9a9b4a7b2f5b/apple-is-the-top-performing.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:34814f38-88a1-39a1-95f7-9a9b4a7b2f5b",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple stock is outperforming its Magnificent 7 peers this year.",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "Better Dividend Stock for Retirees: UPS vs. Chevron",
+    "time": "2026-11-02T17:11:34+00:00",
+    "link": "https://www.tikr.com/blog/better-dividend-stock-for-retirees-ups-vs-chevron?ref=yahoofinance&tlnk=yf-261102-8wh7m3fm&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "capital"
+    ],
+    "id": "news:CVX:rss:7897303e-517a-36ce-bf71-28142ebf5835",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Key TakeawaysUPS yields 7. 1% against Chevron’s 3.",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "Apple's Fiscal 2027 Earnings Face Downside Risks From Slower Growth, Oppenheimer Says",
+    "time": "2026-11-02T17:07:56+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-apos-fiscal-2027-earnings-170756393.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:6d93cd8e-39cf-3d88-aadb-cc2a3c1303d9",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple's (AAPL) fiscal 2027 earnings face \"downside risk\" from slower iPhone and Services growth, mem",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "What's Going on with Alphabet Stock? 3 Things Investors Should Know",
+    "time": "2026-11-02T17:05:00+00:00",
+    "link": "https://www.fool.com/investing/2026/11/02/whats-going-on-with-alphabet-stock-3-things-invest/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:9a37809a-bef8-3639-81ed-a82d94b42cbd",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet is investing hundreds of billions of dollars in AI. But can those investments generate enough returns to justify the spending?",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "Apple's iPhone faces a $190 memory problem",
+    "time": "2026-11-02T17:03:00+00:00",
+    "link": "https://www.thestreet.com/technology/apples-iphone-faces-a-190-memory-problem?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:cc780530-88c4-36e6-b2fd-56af9741468c",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "The part of your iPhone you never think about just got a lot more expensive, and Apple’s margins may feel it.",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "Here’s How Much Traders Expect Apple Stock to Move After Earnings",
+    "time": "2026-11-02T17:01:43+00:00",
+    "link": "https://www.investopedia.com/here-s-how-much-traders-expect-apple-stock-to-move-after-earnings-aapl-12207217?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:fbeb2c04-cb1b-3a96-a348-c5263a4511c9",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple’s stock has had a good year. Its next test comes today.",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "American Express, NBA and WNBA Expand Longstanding Partnership Globally",
+    "time": "2026-11-02T17:00:00+00:00",
+    "link": "https://finance.yahoo.com/media-advertising/articles/american-express-nba-wnba-expand-170000408.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AXP:rss:8123a5cf-dd39-331e-80d2-7f0a8c84d738",
+    "type": "news",
+    "sym": "AXP",
+    "summary": "NEW YORK, November 02, 2026--The National Basketball Association (NBA), Women's National Basketball Association (WNBA) and American Express (NYSE: AXP) today announced the global expansion of their partnership, building on their decades-long relationship and American Express' role as the Official Pa",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "Amazon Climbs 5% as Upgrade Fuels Post-Earnings Rebound on AWS Strength; Walmart Rises 2%, Alphabet Edges Higher",
+    "time": "2026-11-02T16:57:37+00:00",
+    "link": "https://247wallst.com/investing/2026/11/02/amazon-climbs-5-as-upgrade-fuels-post-earnings-rebound-on-aws-strength-walmart-rises-2-alphabet-edges-higher/?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "analyst"
+    ],
+    "id": "news:GOOGL:rss:f4137bba-5aa6-3e64-a103-fb7be5bc081d",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Amazon just bounced hard off earnings that missed estimates, but the debate tearing Wall Street apart has nothing to do with the quarter itself. The real question is whether AWS profits can keep pace with a spending plan that is burning cash at a pace few saw coming.",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
+    "title": "Are Options Traders Betting on a Big Move in Apple Stock?",
+    "time": "2026-11-02T16:26:00+00:00",
+    "link": "https://finance.yahoo.com/markets/options/articles/options-traders-betting-big-move-162600507.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:fe203b79-371e-3b40-b504-3058d4c84b9b",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Investors need to pay close attention to AAPL stock based on the movements in the options market lately.",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
     "title": "Chevron's Q3 Results Support Higher Free Cash Flow Outlook, Morgan Stanley Says",
     "time": "2026-11-02T16:25:04+00:00",
     "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-apos-q3-results-support-162504867.html?.tsrc=rss",
@@ -92,6 +307,19 @@
     "seen": "2026-11-02T16:38:47+00:00"
   },
   {
+    "title": "OXY or DTM: Which Is the Better Value Stock Right Now?",
+    "time": "2026-11-02T15:40:02+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/oxy-dtm-better-value-stock-154002410.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:OXY:rss:b78ccb47-491e-3787-aef5-5d73d6dbe38a",
+    "type": "news",
+    "sym": "OXY",
+    "summary": "OXY vs. DTM: Which Stock Is the Better Value Option?",
+    "seen": "2026-11-02T18:26:51+00:00"
+  },
+  {
     "title": "Wall Street Expert Art Hogan Breaks Down His Approach to Recent Tech Choppiness",
     "time": "2026-11-02T15:31:38+00:00",
     "link": "https://finance.yahoo.com/video/wall-street-expert-art-hogan-153138773.html?.tsrc=rss",
@@ -161,6 +389,19 @@
     "sym": "GOOGL",
     "summary": "Yahoo Finance Executive Editor Brian Sozzi walks through a chart showing Microsoft (MSFT), Amazon (AMZN), Alphabet (GOOGL) (GOOG), Meta (META), and Oracle (ORCL) trading at lower forward P/E multiples than consumer staples and retailers like Costco (COST), Walmart (WMT), Coca-Cola (KO), and Home Dep",
     "seen": "2026-11-02T15:32:33+00:00"
+  },
+  {
+    "title": "‘They sell the big hot dogs’: The companies that hyperscalers trail in valuations",
+    "time": "2026-11-02T15:05:00+00:00",
+    "link": "https://finance.yahoo.com/video/sell-big-hot-dogs-companies-150500685.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:KO:rss:85af9e7c-d7c9-48c6-bb83-60b1a265d165",
+    "type": "news",
+    "sym": "KO",
+    "summary": "Yahoo Finance Executive Editor Brian Sozzi walks through a chart showing Microsoft (MSFT), Amazon (AMZN), Alphabet (GOOGL) (GOOG), Meta (META), and Oracle (ORCL) trading at lower forward P/E multiples than consumer staples and retailers like Costco (COST), Walmart (WMT), Coca-Cola (KO), and Home Dep",
+    "seen": "2026-11-02T18:26:51+00:00"
   },
   {
     "title": "Chubb Small Business Recognized for Outstanding Customer Satisfaction in 2026 JD Power Study",
@@ -608,6 +849,21 @@
     "sym": "CVX",
     "summary": "Zacks highlights MPC, AMGN and CVX as standout performers, with strong returns across its stock recommendations and model portfolios despite market volatility.",
     "seen": "2026-11-02T14:34:43+00:00"
+  },
+  {
+    "title": "What Are Wall Street Analysts' Target Price for Chevron Stock?",
+    "time": "2026-11-02T11:19:01+00:00",
+    "link": "https://www.barchart.com/story/news/8587930/what-are-wall-street-analysts-target-price-for-chevron-stock?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:9953a598-c2da-3e5a-9222-8321fe98dfe1",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Chevron has outperformed the broader market, with robust quarterly results and an improved analyst consensus reinforcing investor optimism.",
+    "seen": "2026-11-02T18:26:51+00:00"
   },
   {
     "title": "Chevron rides a diesel crunch to its biggest ever refining profit",

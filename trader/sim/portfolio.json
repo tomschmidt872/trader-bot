@@ -19,7 +19,7 @@
       "entry": 24.595,
       "entry_fx": 1.1148,
       "cost_eur": 75.0,
-      "peak": 24.69,
+      "peak": 24.86,
       "atr": 0.6185162498484841,
       "bought": "2026-10-30T14:29:59+00:00",
       "name": "The Kraft Heinz Company"
@@ -29,7 +29,7 @@
       "entry": 94.45,
       "entry_fx": 1.1148,
       "cost_eur": 75.0,
-      "peak": 95.11,
+      "peak": 95.745,
       "atr": 1.6271381998754761,
       "bought": "2026-10-30T14:29:59+00:00",
       "name": "Coca-Cola Company (The)"
@@ -39,7 +39,7 @@
       "entry": 366.56,
       "entry_fx": 1.1148,
       "cost_eur": 75.0,
-      "peak": 366.56,
+      "peak": 368.08,
       "atr": 6.155742166834771,
       "bought": "2026-10-30T14:29:59+00:00",
       "name": "Chubb Limited"
@@ -75,5 +75,5 @@
       "name": "Apple Inc."
     }
   },
-  "fx": 1.1202
+  "fx": 1.1197
 }
