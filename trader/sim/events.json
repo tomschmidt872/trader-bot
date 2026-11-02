@@ -1,5 +1,50 @@
 [
   {
+    "title": "Scott Galloway: Zuckerberg Is “Clearly Coming for YouTube” and Its 16% of TV Time",
+    "time": "2026-11-02T20:08:23+00:00",
+    "link": "https://www.tikr.com/blog/scott-galloway-zuckerberg-is-clearly-coming-for-youtube-and-its-16-of-tv-time?ref=yahoofinance&tlnk=yf-261102-r3g7mrwf&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:cceff645-8ca8-3d50-94df-2b0c79d1171a",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Key TakeawaysScott Galloway said Meta is coming for Alphabet’s YouTube, which he puts at 16% of TV viewing time, twice Netflix’s 8%. Instagram is now testing videos up to 90 minutes long on TV, and Meta’s reach and AI-driven algorithm give it a real shot at some of that viewing.",
+    "seen": "2026-11-02T20:20:13+00:00"
+  },
+  {
+    "title": "Apple Is Up 24% in 2026: Will AAPL Stock Hit $300 or $400 Next?",
+    "time": "2026-11-02T19:57:51+00:00",
+    "link": "https://247wallst.com/investing/2026/11/02/apple-is-up-24-in-2026-will-aapl-stock-hit-300-or-400-next/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "people"
+    ],
+    "id": "news:AAPL:rss:20d640ae-3029-3a71-b53f-4d64d6963735",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple stock has surged 24% in 2026 while Microsoft and Google split sharply apart, and now a new CEO faces his first earnings test with memory costs threatening iPhone margins and a critical China launch on the line.",
+    "seen": "2026-11-02T20:20:13+00:00"
+  },
+  {
+    "title": "This Will be John Ternus's First Earnings Call as CEO",
+    "time": "2026-11-02T19:31:22+00:00",
+    "link": "https://finance.yahoo.com/m/3c7d592d-9a8c-3b21-8708-8e9eaf5546b1/this-will-be-john-ternus%27s.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "people"
+    ],
+    "id": "news:AAPL:rss:3c7d592d-9a8c-3b21-8708-8e9eaf5546b1",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "All eyes will be on John Ternus tonight as the \"product guy,\" hosts his first earnings call as Apple CEO.",
+    "seen": "2026-11-02T20:20:13+00:00"
+  },
+  {
     "title": "Amex just gave cash-back cardholders a new place to park their Reward Dollars",
     "time": "2026-11-02T19:05:34+00:00",
     "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/amex-just-gave-cash-back-cardholders-a-new-place-to-park-their-reward-dollars-190534699.html?.tsrc=rss",
@@ -68,6 +113,21 @@
     "sym": "AAPL",
     "summary": "Apple's (AAPL) fiscal fourth quarter earnings are due out after Monday's closing bell, the first earnings release with new CEO John Ternus at the helm of the company. \"The Buy Side\" author Turney Duff and his expert panel weigh in on whether Apple is the right stock to \"hide\" in as AI stocks experie",
     "seen": "2026-11-02T19:29:48+00:00"
+  },
+  {
+    "title": "Apple Stock Drops Lower",
+    "time": "2026-11-02T18:36:00+00:00",
+    "link": "https://finance.yahoo.com/m/61c2900c-46d2-34ab-a948-93a1bed0e852/apple-stock-drops-lower.html?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:61c2900c-46d2-34ab-a948-93a1bed0e852",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple stock was down in afternoon trading as Wall Street awaited fiscal fourth-quarter financial results.",
+    "seen": "2026-11-02T20:20:13+00:00"
   },
   {
     "title": "Chevron Is Up 59% This Year and Trades Above Its Price Target. Time to Take Profits?",
