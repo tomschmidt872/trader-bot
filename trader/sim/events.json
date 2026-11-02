@@ -1,5 +1,87 @@
 [
   {
+    "title": "Apple’s valuation leaves little room for earnings disappointment: Oppenheimer",
+    "time": "2026-11-02T15:15:37+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-valuation-leaves-little-room-151537313.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:184d3e41-7e25-35b6-9f61-7a4aa466fc39",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Investing.com -- Oppenheimer reiterated its Perform rating on Apple in a note on Monday ahead of the company’s fiscal fourth-quarter results, warning that the stock’s premium valuation leaves little room for disappointment.",
+    "seen": "2026-11-02T15:32:33+00:00"
+  },
+  {
+    "title": "‘They sell the big hot dogs’: The companies that hyperscalers trail in valuations",
+    "time": "2026-11-02T15:05:00+00:00",
+    "link": "https://finance.yahoo.com/video/sell-big-hot-dogs-companies-150500685.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:85af9e7c-d7c9-48c6-bb83-60b1a265d165",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Yahoo Finance Executive Editor Brian Sozzi walks through a chart showing Microsoft (MSFT), Amazon (AMZN), Alphabet (GOOGL) (GOOG), Meta (META), and Oracle (ORCL) trading at lower forward P/E multiples than consumer staples and retailers like Costco (COST), Walmart (WMT), Coca-Cola (KO), and Home Dep",
+    "seen": "2026-11-02T15:32:33+00:00"
+  },
+  {
+    "title": "Chubb Small Business Recognized for Outstanding Customer Satisfaction in 2026 JD Power Study",
+    "time": "2026-11-02T15:00:00+00:00",
+    "link": "https://finance.yahoo.com/small-business/articles/chubb-small-business-recognized-outstanding-150000965.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CB:rss:ea6057d1-c79f-3c35-9f68-1553350d732d",
+    "type": "news",
+    "sym": "CB",
+    "summary": "Chubb today announced that it was ranked among the top-rated insurers for small businesses in the JD Power 2026 U.S. Small Commercial Insurance Study, rising five spots to #2 overall. Chubb also ranked #1 in Digital Channels, reflecting continued investment in digital capabilities that support small",
+    "seen": "2026-11-02T15:32:33+00:00"
+  },
+  {
+    "title": "Apple Shouldn’t Be The Most Valuable Company In The World",
+    "time": "2026-11-02T14:48:51+00:00",
+    "link": "https://247wallst.com/investing/2026/11/02/apple-shouldnt-be-the-most-valuable-company-in-the-world/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:caf3b420-f038-3704-b4a4-93246519932f",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple just reclaimed its throne as the world's most valuable company, but surging component costs, falling smartphone sales, and a crowded AI landscape are already threatening its grip on that title.",
+    "seen": "2026-11-02T15:32:33+00:00"
+  },
+  {
+    "title": "Stock Market Today (Nov. 2, 2026): Dow rises ahead of Apple’s earnings report",
+    "time": "2026-11-02T14:44:46+00:00",
+    "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:8ef99247-acd0-3a06-89f9-02bc283b23c3",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Markets look to rebound from last week’s tech sell-off as Apple prepares to report earnings.",
+    "seen": "2026-11-02T15:32:33+00:00"
+  },
+  {
+    "title": "3 Reasons to Buy Alphabet Stock Right Now",
+    "time": "2026-11-02T14:35:02+00:00",
+    "link": "https://www.fool.com/investing/2026/11/02/3-reasons-to-buy-alphabet-stock-right-now/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:5eeb83aa-c849-35f3-bfd7-4a45eaebd4b3",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "The market may be wrong about Alphabet’s prospects.",
+    "seen": "2026-11-02T15:32:33+00:00"
+  },
+  {
     "title": "Could John Ternus' hardware background launch a new era for Apple?",
     "time": "2026-11-02T14:29:11+00:00",
     "link": "https://finance.yahoo.com/video/could-john-ternus-hardware-background-launch-a-new-era-for-apple-142911187.html?.tsrc=rss",
@@ -71,6 +153,21 @@
     "seen": "2026-11-02T14:34:43+00:00"
   },
   {
+    "title": "Occidental Petroleum (OXY) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+    "time": "2026-11-02T14:00:02+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-oxy-earnings-expected-140002982.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:OXY:rss:dc128bf5-d1eb-330d-a837-9af3a5a2df66",
+    "type": "news",
+    "sym": "OXY",
+    "summary": "Occidental (OXY) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+    "seen": "2026-11-02T15:32:33+00:00"
+  },
+  {
     "title": "Cineverse Nominates Dr. Samrat Ganguly for Election to Board of Directors",
     "time": "2026-11-02T14:00:00+00:00",
     "link": "https://finance.yahoo.com/technology/articles/cineverse-nominates-dr-samrat-ganguly-140000294.html?.tsrc=rss",
@@ -127,6 +224,21 @@
     "seen": "2026-11-02T14:34:43+00:00"
   },
   {
+    "title": "Should Value Investors Buy Occidental Petroleum (OXY) Stock?",
+    "time": "2026-11-02T13:40:03+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/value-investors-buy-occidental-petroleum-134003341.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:OXY:rss:c90cacda-4486-35d7-a3ad-57f08ce05ce5",
+    "type": "news",
+    "sym": "OXY",
+    "summary": "Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.",
+    "seen": "2026-11-02T15:32:33+00:00"
+  },
+  {
     "title": "Stock Market Today: Dow Rises As Oil Prices Dive; Apple Falls Ahead Of Earnings (Live Coverage)",
     "time": "2026-11-02T13:34:02+00:00",
     "link": "https://finance.yahoo.com/m/d2c3bbee-4bc3-3931-9b35-8ffcd691e60c/stock-market-today%3A-dow-rises.html?.tsrc=rss",
@@ -140,6 +252,19 @@
     "sym": "AAPL",
     "summary": "The Dow Jones index rises Monday as oil prices dived below $100 a barrel. Apple stock falls ahead of earnings.",
     "seen": "2026-11-02T14:34:43+00:00"
+  },
+  {
+    "title": "Company News for Nov 2, 2026",
+    "time": "2026-11-02T13:32:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/company-news-nov-2-2026-133200133.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:7fa1c3c4-0853-35f1-b4c2-cebfb87469d5",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Companies in The News Are: ABBV,XOM,CVX,CL",
+    "seen": "2026-11-02T15:32:33+00:00"
   },
   {
     "title": "The Top Five News Show Launches on Apple Podcasts and Spotify",

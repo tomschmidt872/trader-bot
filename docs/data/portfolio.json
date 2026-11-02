@@ -29,7 +29,7 @@
       "entry": 94.45,
       "entry_fx": 1.1148,
       "cost_eur": 75.0,
-      "peak": 94.55,
+      "peak": 94.85,
       "atr": 1.6271381998754761,
       "bought": "2026-10-30T14:29:59+00:00",
       "name": "Coca-Cola Company (The)"
@@ -59,7 +59,7 @@
       "entry": 492.355,
       "entry_fx": 1.1148,
       "cost_eur": 75.0,
-      "peak": 499.71,
+      "peak": 505.005,
       "atr": 12.357711674369884,
       "bought": "2026-10-30T14:29:59+00:00",
       "name": "Moody's Corporation"
@@ -75,5 +75,5 @@
       "name": "Apple Inc."
     }
   },
-  "fx": 1.1223
+  "fx": 1.1208
 }
