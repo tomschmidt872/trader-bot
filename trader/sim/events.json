@@ -1,5 +1,161 @@
 [
   {
+    "title": "Amex just gave cash-back cardholders a new place to park their Reward Dollars",
+    "time": "2026-11-02T19:05:34+00:00",
+    "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/amex-just-gave-cash-back-cardholders-a-new-place-to-park-their-reward-dollars-190534699.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AXP:rss:9278704f-dcba-447b-af2d-89b8e2314fc3",
+    "type": "news",
+    "sym": "AXP",
+    "summary": "American Express has added a new redemption option to certain Amex cash-back cards, allowing direct deposits into eligible American Express bank accounts.",
+    "seen": "2026-11-02T19:29:48+00:00"
+  },
+  {
+    "title": "Alphabet's Google spending derails major shareholder perk",
+    "time": "2026-11-02T19:03:00+00:00",
+    "link": "https://www.thestreet.com/investing/alphabet-ai-spending-derails-share-buybacks?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:bb0d74e8-3689-37cb-9aaa-febd7d09b051",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet investors face a new trade-off.",
+    "seen": "2026-11-02T19:29:48+00:00"
+  },
+  {
+    "title": "Chevron Stocks Move Lower With Higher UBS Target Facing Cash-Return Tests",
+    "time": "2026-11-02T18:53:32+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-stocks-move-lower-higher-185332899.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:409f9da0-8092-30f5-80b2-d3e32922fcd3",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "UBS keeps Buy and raises its target to $265 after the third-quarter report.",
+    "seen": "2026-11-02T19:29:48+00:00"
+  },
+  {
+    "title": "Apple Fiscal 2027 Results Could Miss Street Views Amid iPhone Growth Slowdown, Oppenheimer Says",
+    "time": "2026-11-02T18:50:56+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-fiscal-2027-results-could-185056840.html?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:5cfd1fd8-f762-3ecb-81e3-249cdf5a8cc0",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple's (AAPL) fiscal 2027 results may lag Wall Street's expectations amid slowing iPhone growth and",
+    "seen": "2026-11-02T19:29:48+00:00"
+  },
+  {
+    "title": "Is Apple the right anti-AI stock for investors to 'hide' in?",
+    "time": "2026-11-02T18:37:43+00:00",
+    "link": "https://finance.yahoo.com/video/is-apple-the-right-anti-ai-stock-for-investors-to-hide-in-183743155.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "people"
+    ],
+    "id": "news:AAPL:rss:6ba42700-ad4e-4691-a5b2-0c426f12427b",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple's (AAPL) fiscal fourth quarter earnings are due out after Monday's closing bell, the first earnings release with new CEO John Ternus at the helm of the company. \"The Buy Side\" author Turney Duff and his expert panel weigh in on whether Apple is the right stock to \"hide\" in as AI stocks experie",
+    "seen": "2026-11-02T19:29:48+00:00"
+  },
+  {
+    "title": "Chevron Is Up 59% This Year and Trades Above Its Price Target. Time to Take Profits?",
+    "time": "2026-11-02T18:33:16+00:00",
+    "link": "https://247wallst.com/investing/2026/11/02/chevron-is-up-59-this-year-and-trades-above-its-price-target-time-to-take-profits/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "analyst"
+    ],
+    "id": "news:CVX:rss:a93b50b2-9ce5-38be-ac9e-dc3d1b8954b6",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Chevron just blew past every analyst price target on the street after a blowout quarter fueled by record refining profits, but one model is flashing a sell signal with unusual conviction. Here is what the bulls are missing.",
+    "seen": "2026-11-02T19:29:48+00:00"
+  },
+  {
+    "title": "Apple Q4 earnings live: iPhone 18 sales in the spotlight",
+    "time": "2026-11-02T18:30:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/live/apple-q4-earnings-live-iphone-18-sales-in-the-spotlight-183000820.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:fe8925ab-2459-4b84-8139-03d1358fa6cc",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple to report Q3 earnings after the bell today.",
+    "seen": "2026-11-02T19:29:48+00:00"
+  },
+  {
+    "title": "Alibaba Soars 6% as Apple Sets December Launch for Qwen-Powered iPhone AI in China",
+    "time": "2026-11-02T18:24:57+00:00",
+    "link": "https://www.tikr.com/blog/alibaba-soars-6-as-apple-sets-december-launch-for-qwen-powered-iphone-ai-in-china?ref=yahoofinance&tlnk=yf-261102-5qrf77xc&.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:304e47a5-9ad3-3d85-b8d5-92889e08a6d1",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Key TakeawaysAlibaba shares jumped 6% after Apple picked Qwen for its December AI launch in China, while JD. com and PDD Holdings rose on Chinese market support.",
+    "seen": "2026-11-02T19:29:48+00:00"
+  },
+  {
+    "title": "Alphabet Stocks Rise 1.85% With Search Monetization Behind Wells Fargo's Target Cut",
+    "time": "2026-11-02T18:19:34+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-rise-1-85-181934810.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:ca90aad2-8ad2-3b5c-ab8c-71835dc68e02",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "The firm trims its target to $365 while retaining an Overweight rating.",
+    "seen": "2026-11-02T19:29:48+00:00"
+  },
+  {
+    "title": "Apple Stocks Move Lower With Earnings Facing a Distorted Margin Comparison",
+    "time": "2026-11-02T18:16:46+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stocks-move-lower-earnings-181646495.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:2d77dbca-9139-3642-8929-7883138cdf7f",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Last quarter's 50.1% gross margin included about two percentage points from tariff refunds.",
+    "seen": "2026-11-02T19:29:48+00:00"
+  },
+  {
+    "title": "Why Trump-Tied Companies Could Face Democratic Probes Post-Midterms",
+    "time": "2026-11-02T18:14:56+00:00",
+    "link": "https://finance.yahoo.com/video/why-trump-tied-companies-could-181456165.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "legal"
+    ],
+    "id": "news:AAPL:rss:b1150e65-9e9a-342b-bfd6-75f07e794f75",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Companies with Trump-family financial ties or White House relationships could face the greatest investigation risk under Democratic control of at least one chamber in 2027, with crypto, defense and technology among the sectors most exposed, according to Bloomberg Intelligence. Ahead of Tuesday's vot",
+    "seen": "2026-11-02T19:29:48+00:00"
+  },
+  {
     "title": "Should Apple (AAPL) Stock Worry About Ternus’ First Call And Rising Chip Costs?",
     "time": "2026-11-02T18:07:12+00:00",
     "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-worry-ternus-180712443.html?.tsrc=rss",

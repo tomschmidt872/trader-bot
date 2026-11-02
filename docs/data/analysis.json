@@ -1,7 +1,7 @@
 {
-  "time": "2026-11-02T18:26:51+00:00",
+  "time": "2026-11-02T19:29:48+00:00",
   "market": {
-    "now_new_york": "2026-11-02 13:26",
+    "now_new_york": "2026-11-02 14:29",
     "date": "2026-11-02",
     "weekday": "Monday",
     "calendar_known": true,
@@ -16,16 +16,16 @@
     "mode": "vorsichtig",
     "why": [
       "S&P 500 unter 50-Tage-Linie",
-      "VIX 19.5: ruhig"
+      "VIX 20.4: ruhig"
     ],
-    "spy": 758.69,
-    "spy_sma50": 767.3537951171876,
-    "spy_sma200": 729.1863491699219,
-    "vix": 19.49
+    "spy": 755.38,
+    "spy_sma50": 767.2875951171875,
+    "spy_sma200": 729.1697991699219,
+    "vix": 20.39
   },
   "currency": "EUR",
-  "fx": 1.1197,
-  "equity": 994.8150802172712,
+  "fx": 1.1203,
+  "equity": 994.4574128973364,
   "cash": 475.0,
   "start_cash": 1000.0,
   "trades": [],
@@ -33,8 +33,8 @@
     {
       "sym": "KO",
       "name": "Coca-Cola Company (The)",
-      "price": 95.745,
-      "price_eur": 85.5095114762883,
+      "price": 96.03,
+      "price_eur": 85.71811122020887,
       "total": 13,
       "scores": {
         "Signale": 2,
@@ -56,16 +56,16 @@
         "Momentum": [
           "MACD positiv",
           "RSI 67 neutral",
-          "+10.7 % in 20 Tagen"
+          "+11.0 % in 20 Tagen"
         ],
         "Volumen": [
           "Volumen 0.9x normal",
           "OBV steigt (Akkumulation)",
-          "Chaikin Money Flow +0.07 (Geld fließt rein)",
+          "Chaikin Money Flow +0.08 (Geld fließt rein)",
           "Kaufdruck: 1.7x mehr Volumen an Plus-Tagen"
         ],
         "Intraday": [
-          "Kurs > VWAP 95.03",
+          "Kurs > VWAP 95.08",
           "Ausbruch über Opening Range 95.05"
         ],
         "News": [
@@ -73,32 +73,32 @@
         ]
       },
       "ind": {
-        "price": 95.745,
-        "sma50": 89.55729974975586,
-        "sma200": 82.2625249343872,
-        "adx": 28.6443553976682,
-        "plus_di": 33.17302295430072,
-        "minus_di": 14.611910311385918,
-        "macd_hist": 0.1859557436400623,
-        "rsi": 66.8454354773809,
-        "stoch_k": 99.71205107741429,
-        "stoch_d": 80.12993567255351,
-        "bb_upper": 97.0526274011322,
-        "bb_lower": 86.07587192748106,
-        "bb_width": 11.988036284788194,
-        "roc20": 10.675063733355184,
-        "rvol": 0.9260576552403964,
-        "obv_trend": 0.25615169804414,
-        "cmf": 0.0745919260270744,
-        "buy_sell_ratio": 1.7224680594660513,
-        "high52": 95.76000213623047,
+        "price": 96.03,
+        "sma50": 89.56299974975586,
+        "sma200": 82.2639499343872,
+        "adx": 28.768824961938826,
+        "plus_di": 34.09665272749012,
+        "minus_di": 14.409956010841393,
+        "macd_hist": 0.204143777828091,
+        "rsi": 67.49304051129812,
+        "stoch_k": 99.09580755710323,
+        "stoch_d": 79.92452116578316,
+        "bb_upper": 97.11152130445512,
+        "bb_lower": 86.04547802415814,
+        "bb_width": 12.083669552199554,
+        "roc20": 11.004505408262544,
+        "rvol": 0.8775409636853672,
+        "obv_trend": 0.26137809142749124,
+        "cmf": 0.07821883212582784,
+        "buy_sell_ratio": 1.7372089427571131,
+        "high52": 96.08000183105469,
         "low52": 67.2699966430664,
-        "vwap": 95.03440662468365,
+        "vwap": 95.0803746741908,
         "or_high": 95.05000305175781,
         "or_low": 94.27999877929688,
         "gap": 0.21258178608598577,
-        "atr": 1.6309140637498594,
-        "chg": 1.7697684274446068,
+        "atr": 1.6537711848087322,
+        "chg": 2.072702095018064,
         "spark": [
           80.26,
           80.45,
@@ -219,7 +219,7 @@
           91.73,
           92.82,
           94.08,
-          95.75
+          96.03
         ]
       },
       "block": null,
@@ -270,18 +270,18 @@
       ],
       "levels": {
         "stop": 90.38215450031132,
-        "trail": 90.05001630043584,
+        "trail": 90.33501630043584,
         "sell_score": -4,
         "entry": 94.45,
-        "peak": 95.745
+        "peak": 96.03
       },
       "verdict": "Halten"
     },
     {
       "sym": "CB",
       "name": "Chubb Limited",
-      "price": 368.08,
-      "price_eur": 328.73091006519604,
+      "price": 368.895,
+      "price_eur": 329.28233508881544,
       "total": 12,
       "scores": {
         "Signale": 2,
@@ -303,7 +303,7 @@
         "Momentum": [
           "MACD positiv",
           "RSI 69 neutral",
-          "+11.4 % in 20 Tagen"
+          "+11.6 % in 20 Tagen"
         ],
         "Volumen": [
           "Volumen 0.6x normal",
@@ -312,7 +312,7 @@
           "Kaufdruck: 2.0x mehr Volumen an Plus-Tagen"
         ],
         "Intraday": [
-          "Kurs > VWAP 366.09",
+          "Kurs > VWAP 366.41",
           "Ausbruch über Opening Range 367.54"
         ],
         "News": [
@@ -320,32 +320,32 @@
         ]
       },
       "ind": {
-        "price": 368.08,
-        "sma50": 343.8633993164063,
-        "sma200": 334.3479503540039,
-        "adx": 30.529351732477,
-        "plus_di": 32.630188796029536,
-        "minus_di": 12.387876108089444,
-        "macd_hist": 1.1075052510963639,
-        "rsi": 68.5012547778999,
-        "stoch_k": 96.35210168330686,
-        "stoch_d": 88.44273351137751,
-        "bb_upper": 371.4115789501163,
-        "bb_lower": 334.47242202644617,
-        "bb_width": 10.466070026397052,
-        "roc20": 11.374023684943403,
-        "rvol": 0.6433738934796454,
-        "obv_trend": 0.31925568800141724,
-        "cmf": 0.05825900869759924,
-        "buy_sell_ratio": 2.03815490335257,
-        "high52": 369.0,
+        "price": 368.895,
+        "sma50": 343.87969931640623,
+        "sma200": 334.3520253540039,
+        "adx": 30.56025219035851,
+        "plus_di": 32.553372674698046,
+        "minus_di": 12.225084710257734,
+        "macd_hist": 1.1595166471077674,
+        "rsi": 69.03083392980834,
+        "stoch_k": 98.41305655440603,
+        "stoch_d": 89.12971846841056,
+        "bb_upper": 371.58883871629695,
+        "bb_lower": 334.3766622602656,
+        "bb_width": 10.542208197016896,
+        "roc20": 11.62062722032493,
+        "rvol": 0.5947715485212793,
+        "obv_trend": 0.32230424164199123,
+        "cmf": 0.05850406793995901,
+        "buy_sell_ratio": 2.048068182987172,
+        "high52": 369.29998779296875,
         "low52": 273.3500061035156,
-        "vwap": 366.0936135696805,
+        "vwap": 366.40638505897135,
         "or_high": 367.5350036621094,
         "or_low": 364.75,
         "gap": 0.24167991173604797,
-        "atr": 6.007703884086565,
-        "chg": 1.087554909347399,
+        "atr": 6.087703535314243,
+        "chg": 1.3113822220270244,
         "spark": [
           316.01,
           320.09,
@@ -466,7 +466,7 @@
           355.5,
           362.28,
           364.12,
-          368.08
+          368.89
         ]
       },
       "block": null,
@@ -509,18 +509,18 @@
       ],
       "levels": {
         "stop": 351.1706445829131,
-        "trail": 346.5349024160783,
+        "trail": 347.3499024160783,
         "sell_score": -4,
         "entry": 366.56,
-        "peak": 368.08
+        "peak": 368.895
       },
       "verdict": "Halten"
     },
     {
       "sym": "KHC",
       "name": "The Kraft Heinz Company",
-      "price": 24.86,
-      "price_eur": 22.202375636331162,
+      "price": 24.895,
+      "price_eur": 22.221726323306257,
       "total": 12,
       "scores": {
         "Signale": 2,
@@ -541,8 +541,8 @@
         ],
         "Momentum": [
           "MACD positiv",
-          "RSI 60 neutral",
-          "+13.8 % in 20 Tagen"
+          "RSI 61 neutral",
+          "+14.0 % in 20 Tagen"
         ],
         "Volumen": [
           "Volumen 0.5x normal",
@@ -551,7 +551,7 @@
           "Kaufdruck: 1.6x mehr Volumen an Plus-Tagen"
         ],
         "Intraday": [
-          "Kurs > VWAP 24.60",
+          "Kurs > VWAP 24.64",
           "Ausbruch über Opening Range 24.82"
         ],
         "News": [
@@ -559,32 +559,32 @@
         ]
       },
       "ind": {
-        "price": 24.86,
-        "sma50": 24.027600085449215,
-        "sma200": 23.877300011444092,
-        "adx": 25.84024299050798,
-        "plus_di": 30.20874876752117,
-        "minus_di": 17.975958839491057,
-        "macd_hist": 0.17188521885413252,
-        "rsi": 60.30784500589191,
-        "stoch_k": 87.13045070482335,
-        "stoch_d": 71.27152498779374,
-        "bb_upper": 25.42567932224514,
-        "bb_lower": 21.51832086086033,
-        "bb_width": 16.646891812134143,
-        "roc20": 13.827838032566397,
-        "rvol": 0.5368487061179225,
-        "obv_trend": 0.22855245344022887,
-        "cmf": 0.07571392405978451,
-        "buy_sell_ratio": 1.6265949418022652,
+        "price": 24.895,
+        "sma50": 24.028300085449217,
+        "sma200": 23.877475011444094,
+        "adx": 25.921935027002355,
+        "plus_di": 30.72834771014659,
+        "minus_di": 17.8421270333444,
+        "macd_hist": 0.17411883708775008,
+        "rsi": 60.566849923870365,
+        "stoch_k": 88.34784200917117,
+        "stoch_d": 71.67732208924302,
+        "bb_upper": 25.432455604169967,
+        "bb_lower": 21.515044578935502,
+        "bb_width": 16.688475467088587,
+        "roc20": 13.988094441703169,
+        "rvol": 0.5194982419002161,
+        "obv_trend": 0.23200361123262309,
+        "cmf": 0.07716873785212132,
+        "buy_sell_ratio": 1.6360565685908885,
         "high52": 28.09000015258789,
         "low52": 21.03499984741211,
-        "vwap": 24.601365888737085,
+        "vwap": 24.637212597163963,
         "or_high": 24.81999969482422,
         "or_low": 24.239999771118164,
         "gap": -0.4108479081463501,
-        "atr": 0.6189793738035901,
-        "chg": 2.1364003457363223,
+        "atr": 0.6236222690934199,
+        "chg": 2.280196565048498,
         "spark": [
           23.18,
           23.31,
@@ -705,7 +705,7 @@
           23.86,
           23.9,
           24.34,
-          24.86
+          24.89
         ]
       },
       "block": null,
@@ -748,18 +748,18 @@
       ],
       "levels": {
         "stop": 23.048709375378788,
-        "trail": 22.695193125530306,
+        "trail": 22.730193125530306,
         "sell_score": -4,
         "entry": 24.595,
-        "peak": 24.86
+        "peak": 24.895
       },
       "verdict": "Halten"
     },
     {
       "sym": "CVX",
       "name": "Chevron Corporation",
-      "price": 228.49,
-      "price_eur": 204.063588461195,
+      "price": 228.035,
+      "price_eur": 203.54815674372935,
       "total": 10,
       "scores": {
         "Signale": 2,
@@ -780,17 +780,17 @@
         ],
         "Momentum": [
           "MACD positiv",
-          "RSI 60 neutral",
-          "+10.7 % in 20 Tagen"
+          "RSI 59 neutral",
+          "+10.4 % in 20 Tagen"
         ],
         "Volumen": [
           "Volumen 0.9x normal",
           "OBV steigt (Akkumulation)",
-          "Chaikin Money Flow +0.13 (Geld fließt rein)",
-          "Kaufdruck: 2.2x mehr Volumen an Plus-Tagen"
+          "Chaikin Money Flow +0.12 (Geld fließt rein)",
+          "Kaufdruck: 2.1x mehr Volumen an Plus-Tagen"
         ],
         "Intraday": [
-          "Kurs < VWAP 230.76",
+          "Kurs < VWAP 229.74",
           "unter Opening Range 229.65"
         ],
         "News": [
@@ -798,32 +798,32 @@
         ]
       },
       "ind": {
-        "price": 228.49,
-        "sma50": 213.61220020751952,
-        "sma200": 193.64935002441405,
-        "adx": 32.771976469401416,
-        "plus_di": 26.878549368209445,
-        "minus_di": 17.565521680291152,
-        "macd_hist": 0.3193701008052141,
-        "rsi": 59.77941604220468,
-        "stoch_k": 56.64677752130275,
-        "stoch_d": 79.6944672267277,
-        "bb_upper": 239.96969683698592,
-        "bb_lower": 205.73030261369763,
-        "bb_width": 15.364323206411337,
-        "roc20": 10.66498699525793,
-        "rvol": 0.8842694715226563,
-        "obv_trend": 0.3627689327117146,
-        "cmf": 0.13028239095927374,
-        "buy_sell_ratio": 2.166666673838172,
+        "price": 228.035,
+        "sma50": 213.60310020751953,
+        "sma200": 193.64707502441408,
+        "adx": 32.69759258796969,
+        "plus_di": 26.775204996623977,
+        "minus_di": 17.88247105290135,
+        "macd_hist": 0.2903330637681858,
+        "rsi": 59.09301809897946,
+        "stoch_k": 54.17797567203275,
+        "stoch_d": 78.87153327697102,
+        "bb_upper": 239.91809183140694,
+        "bb_lower": 205.73640761927666,
+        "bb_width": 15.339992866340548,
+        "roc20": 10.444615998352846,
+        "rvol": 0.9172252962707714,
+        "obv_trend": 0.354678202604082,
+        "cmf": 0.12055568522221065,
+        "buy_sell_ratio": 2.1117200808376593,
         "high52": 236.47999572753906,
         "low52": 146.49000549316406,
-        "vwap": 230.76315946282406,
+        "vwap": 229.74328354448505,
         "or_high": 233.25,
         "or_low": 229.64500427246094,
         "gap": -1.282270812532449,
-        "atr": 4.811517973305557,
-        "chg": -2.98488627077651,
+        "atr": 4.830089009508124,
+        "chg": -3.178075805315428,
         "spark": [
           186.0,
           186.64,
@@ -944,11 +944,29 @@
           229.2,
           231.46,
           235.52,
-          228.49
+          228.03
         ]
       },
       "block": null,
       "headlines": [
+        {
+          "title": "Chevron Stocks Move Lower With Higher UBS Target Facing Cash-Return Tests",
+          "time": "2026-11-02T18:53:32+00:00",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-stocks-move-lower-higher-185332899.html?.tsrc=rss",
+          "tone": 0,
+          "source": "Yahoo Finance",
+          "tags": []
+        },
+        {
+          "title": "Chevron Is Up 59% This Year and Trades Above Its Price Target. Time to Take Profits?",
+          "time": "2026-11-02T18:33:16+00:00",
+          "link": "https://247wallst.com/investing/2026/11/02/chevron-is-up-59-this-year-and-trades-above-its-price-target-time-to-take-profits/?.tsrc=rss",
+          "tone": 0,
+          "source": "Yahoo Finance",
+          "tags": [
+            "analyst"
+          ]
+        },
         {
           "title": "Better Dividend Stock for Retirees: UPS vs. Chevron",
           "time": "2026-11-02T17:11:34+00:00",
@@ -1006,24 +1024,6 @@
             "earnings",
             "people"
           ]
-        },
-        {
-          "title": "CVX Q3 Earnings Call Highlights Venezuela Growth and Refining Gains",
-          "time": "2026-11-02T12:51:00+00:00",
-          "link": "https://finance.yahoo.com/energy/articles/cvx-q3-earnings-call-highlights-125100811.html?.tsrc=rss",
-          "tone": 0,
-          "source": "Yahoo Finance",
-          "tags": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Siva Barnwell Adams Named Corporate Secretary and Chief Governance Officer",
-          "time": "2026-11-02T12:30:00+00:00",
-          "link": "https://finance.yahoo.com/energy/articles/siva-barnwell-adams-named-corporate-123000139.html?.tsrc=rss",
-          "tone": 0,
-          "source": "Yahoo Finance",
-          "tags": []
         }
       ],
       "checks": [
@@ -1065,15 +1065,15 @@
     {
       "sym": "MCO",
       "name": "Moody's Corporation",
-      "price": 507.72,
-      "price_eur": 453.44288648745203,
-      "total": 10,
+      "price": 506.63,
+      "price_eur": 452.2270820315986,
+      "total": 8,
       "scores": {
         "Signale": 2,
         "Trend": 2,
         "Momentum": 1,
         "Volumen": 3,
-        "Intraday": 2,
+        "Intraday": 0,
         "News": 0
       },
       "reasons": {
@@ -1089,47 +1089,47 @@
           "MACD positiv",
           "RSI 66 neutral",
           "über dem oberen Bollinger-Band",
-          "+13.3 % in 20 Tagen"
+          "+13.0 % in 20 Tagen"
         ],
         "Volumen": [
-          "Volumen 0.8x normal",
+          "Volumen 0.7x normal",
           "OBV steigt (Akkumulation)",
-          "Chaikin Money Flow +0.21 (Geld fließt rein)",
+          "Chaikin Money Flow +0.20 (Geld fließt rein)",
           "Kaufdruck: 1.9x mehr Volumen an Plus-Tagen"
         ],
         "Intraday": [
-          "Kurs > VWAP 504.72",
+          "Kurs < VWAP 506.93",
           "Ausbruch über Opening Range 504.74"
         ],
         "News": []
       },
       "ind": {
-        "price": 507.72,
-        "sma50": 477.4161993164063,
-        "sma200": 466.6399000488281,
-        "adx": 18.658766117990925,
-        "plus_di": 34.74264364782873,
-        "minus_di": 18.423973177894034,
-        "macd_hist": 3.0989256744250646,
-        "rsi": 66.38872700544047,
-        "stoch_k": 98.30093430914306,
-        "stoch_d": 92.01019923527531,
-        "bb_upper": 505.0399092390639,
-        "bb_lower": 447.8970932023423,
-        "bb_width": 11.992989230205735,
-        "roc20": 13.29242595443958,
-        "rvol": 0.7537463701634162,
-        "obv_trend": 0.2902736484469555,
-        "cmf": 0.20806130365874473,
-        "buy_sell_ratio": 1.8510201126563346,
+        "price": 506.63,
+        "sma50": 477.3943993164063,
+        "sma200": 466.63445004882817,
+        "adx": 18.692912883326017,
+        "plus_di": 34.98273530465909,
+        "minus_di": 18.35618860167236,
+        "macd_hist": 3.029364420863832,
+        "rsi": 66.00344662604397,
+        "stoch_k": 95.07648404685206,
+        "stoch_d": 90.9353824811783,
+        "bb_upper": 504.74994026785447,
+        "bb_lower": 448.0780621735517,
+        "bb_width": 11.895510616626273,
+        "roc20": 13.04920381568131,
+        "rvol": 0.7321081870587974,
+        "obv_trend": 0.2952255890063012,
+        "cmf": 0.204080918467484,
+        "buy_sell_ratio": 1.865538140852242,
         "high52": 546.8800048828125,
         "low52": 402.2799987792969,
-        "vwap": 504.72096179248865,
+        "vwap": 506.9330777638681,
         "or_high": 504.739990234375,
         "or_low": 495.0,
         "gap": 0.7228052272172825,
-        "atr": 12.572824947652915,
-        "chg": 2.796055199428249,
+        "atr": 12.619253083116083,
+        "chg": 2.5753672214731127,
         "spark": [
           438.32,
           432.68,
@@ -1250,7 +1250,7 @@
           477.27,
           488.83,
           493.91,
-          507.72
+          506.63
         ]
       },
       "block": null,
@@ -1259,7 +1259,7 @@
         {
           "rule": "Gesamt-Score mindestens 6",
           "ok": true,
-          "val": 10
+          "val": 8
         },
         {
           "rule": "Trend positiv (mindestens +1)",
@@ -1294,8 +1294,8 @@
     {
       "sym": "AXP",
       "name": "American Express Company",
-      "price": 328.77,
-      "price_eur": 293.6232919532018,
+      "price": 328.22,
+      "price_eur": 292.97509595644027,
       "total": 7,
       "scores": {
         "Signale": 2,
@@ -1316,50 +1316,50 @@
         ],
         "Momentum": [
           "MACD positiv",
-          "RSI 62 neutral",
+          "RSI 61 neutral",
           "über dem oberen Bollinger-Band",
-          "+8.1 % in 20 Tagen"
+          "+8.0 % in 20 Tagen"
         ],
         "Volumen": [
-          "Volumen 0.8x normal",
+          "Volumen 0.7x normal",
           "OBV steigt (Akkumulation)",
           "Chaikin Money Flow +0.16 (Geld fließt rein)",
-          "Kaufdruck: 1.7x mehr Volumen an Plus-Tagen"
+          "Kaufdruck: 1.8x mehr Volumen an Plus-Tagen"
         ],
         "Intraday": [
-          "Kurs > VWAP 327.32"
+          "Kurs > VWAP 327.50"
         ],
         "News": [
-          "3 Schlagzeilen: 0 positiv, 0 negativ"
+          "4 Schlagzeilen: 0 positiv, 0 negativ"
         ]
       },
       "ind": {
-        "price": 328.77,
-        "sma50": 317.0551998046875,
-        "sma200": 325.9278992248535,
+        "price": 328.22,
+        "sma50": 317.0441998046875,
+        "sma200": 325.9251492248535,
         "adx": 16.976836032103183,
         "plus_di": 28.235669142320994,
         "minus_di": 20.764197883145435,
-        "macd_hist": 1.6380502359234408,
-        "rsi": 61.86113589968361,
-        "stoch_k": 98.35317708104297,
-        "stoch_d": 83.77928585237439,
-        "bb_upper": 328.27343720944856,
-        "bb_lower": 301.2355604712156,
-        "bb_width": 8.590147825638752,
-        "roc20": 8.140915689992712,
-        "rvol": 0.7651601092872392,
-        "obv_trend": 0.2660818090847947,
-        "cmf": 0.15737265839748102,
-        "buy_sell_ratio": 1.747886194606209,
+        "macd_hist": 1.6029505208237818,
+        "rsi": 61.48010519961994,
+        "stoch_k": 96.08887157870943,
+        "stoch_d": 83.02451735159654,
+        "bb_upper": 328.1335554218276,
+        "bb_lower": 301.32044225883647,
+        "bb_width": 8.51948300012039,
+        "roc20": 7.96000653274147,
+        "rvol": 0.7190634930922397,
+        "obv_trend": 0.27016516018963566,
+        "cmf": 0.15518591692880232,
+        "buy_sell_ratio": 1.7593634238446323,
         "high52": 387.489990234375,
         "low52": 290.9700012207031,
-        "vwap": 327.32474471223594,
+        "vwap": 327.4953754023139,
         "or_high": 328.9700012207031,
         "or_low": 323.04998779296875,
         "gap": 1.2346847865213562,
         "atr": 6.859509057328034,
-        "chg": 3.027174044019665,
+        "chg": 2.854819675542597,
         "spark": [
           309.61,
           312.77,
@@ -1480,11 +1480,19 @@
           317.94,
           323.71,
           319.11,
-          328.77
+          328.22
         ]
       },
       "block": null,
       "headlines": [
+        {
+          "title": "Amex just gave cash-back cardholders a new place to park their Reward Dollars",
+          "time": "2026-11-02T19:05:34+00:00",
+          "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/amex-just-gave-cash-back-cardholders-a-new-place-to-park-their-reward-dollars-190534699.html?.tsrc=rss",
+          "tone": 0,
+          "source": "Yahoo Finance",
+          "tags": []
+        },
         {
           "title": "American Express, NBA and WNBA Expand Longstanding Partnership Globally",
           "time": "2026-11-02T17:00:00+00:00",
@@ -1546,8 +1554,8 @@
     {
       "sym": "OXY",
       "name": "Occidental Petroleum Corporatio",
-      "price": 60.905,
-      "price_eur": 54.394034116281155,
+      "price": 60.77,
+      "price_eur": 54.24439882174418,
       "total": 4,
       "scores": {
         "Signale": 2,
@@ -1568,16 +1576,16 @@
         ],
         "Momentum": [
           "MACD negativ",
-          "RSI 48 neutral"
+          "RSI 47 neutral"
         ],
         "Volumen": [
           "Volumen 1.1x normal",
           "OBV steigt (Akkumulation)",
-          "Chaikin Money Flow +0.12 (Geld fließt rein)",
+          "Chaikin Money Flow +0.11 (Geld fließt rein)",
           "Kaufdruck: 1.4x mehr Volumen an Plus-Tagen"
         ],
         "Intraday": [
-          "Kurs < VWAP 61.46",
+          "Kurs < VWAP 61.38",
           "unter Opening Range 61.27",
           "Gap -2.0 % zur Eröffnung"
         ],
@@ -1586,32 +1594,32 @@
         ]
       },
       "ind": {
-        "price": 60.905,
-        "sma50": 60.172699990844734,
-        "sma200": 56.15612501754761,
-        "adx": 20.502473933080903,
-        "plus_di": 21.692570029588804,
-        "minus_di": 26.592172911752325,
-        "macd_hist": -0.09220699805877741,
-        "rsi": 47.963159098382654,
-        "stoch_k": 13.354726067259328,
-        "stoch_d": 50.39174873427593,
-        "bb_upper": 65.17145683404068,
-        "bb_lower": 58.50404301337144,
-        "bb_width": 10.782109356979094,
-        "roc20": 4.450349109231255,
-        "rvol": 1.1083871961882914,
-        "obv_trend": 0.18044056880359596,
-        "cmf": 0.1179930239965421,
-        "buy_sell_ratio": 1.4491785814395755,
+        "price": 60.77,
+        "sma50": 60.16999999084473,
+        "sma200": 56.15545001754761,
+        "adx": 20.542673875110097,
+        "plus_di": 21.626750863609463,
+        "minus_di": 26.814905485565113,
+        "macd_hist": -0.10082238267416521,
+        "rsi": 47.434539754981515,
+        "stoch_k": 10.470110870745415,
+        "stoch_d": 49.430210335437955,
+        "bb_upper": 65.17277086287781,
+        "bb_lower": 58.489228984534286,
+        "bb_width": 10.809370520597149,
+        "roc20": 4.218827934783409,
+        "rvol": 1.0811398245605122,
+        "obv_trend": 0.17297995554400306,
+        "cmf": 0.10886601887990645,
+        "buy_sell_ratio": 1.4227551302912596,
         "high52": 67.44999694824219,
         "low52": 38.79999923706055,
-        "vwap": 61.457036495079684,
+        "vwap": 61.378344558404535,
         "or_high": 62.970001220703125,
         "or_low": 61.27000045776367,
         "gap": -2.046877145767212,
-        "atr": 1.6428844286210254,
-        "chg": -4.835937499999998,
+        "atr": 1.6478844068227552,
+        "chg": -5.046874999999995,
         "spark": [
           56.18,
           56.84,
@@ -1732,7 +1740,7 @@
           62.86,
           63.01,
           64.0,
-          60.91
+          60.77
         ]
       },
       "block": null,
@@ -1805,16 +1813,16 @@
     {
       "sym": "AAPL",
       "name": "Apple Inc.",
-      "price": 337.31,
-      "price_eur": 301.2503349111369,
-      "total": 3,
+      "price": 336.805,
+      "price_eur": 300.6382219048469,
+      "total": 1,
       "scores": {
         "Signale": 2,
         "Trend": 2,
         "Momentum": -1,
-        "Volumen": 1,
+        "Volumen": 0,
         "Intraday": -2,
-        "News": 1
+        "News": 0
       },
       "reasons": {
         "Signale": [
@@ -1827,47 +1835,46 @@
         ],
         "Momentum": [
           "MACD negativ",
-          "RSI 47 neutral"
+          "RSI 46 neutral"
         ],
         "Volumen": [
-          "Volumen 1.0x normal",
-          "OBV steigt (Akkumulation)"
+          "Volumen 0.9x normal"
         ],
         "Intraday": [
-          "Kurs < VWAP 339.61",
+          "Kurs < VWAP 338.85",
           "unter Opening Range 339.61"
         ],
         "News": [
-          "13 Schlagzeilen: 1 positiv, 0 negativ"
+          "12 Schlagzeilen: 1 positiv, 1 negativ"
         ]
       },
       "ind": {
-        "price": 337.31,
-        "sma50": 333.6000006591797,
-        "sma200": 296.95155,
+        "price": 336.805,
+        "sma50": 333.5899006591797,
+        "sma200": 296.949025,
         "adx": 18.592507226428676,
-        "plus_di": 21.263718320148747,
-        "minus_di": 23.951926516160132,
-        "macd_hist": -0.8526353061867158,
-        "rsi": 46.86004865395474,
-        "stoch_k": 17.03103029281416,
-        "stoch_d": 52.07395701636853,
-        "bb_upper": 350.36387160390234,
-        "bb_lower": 334.2451313257852,
-        "bb_width": 4.708889368716827,
-        "roc20": 1.3277614698747886,
-        "rvol": 0.9797755655521189,
-        "obv_trend": 0.1004257681987127,
-        "cmf": -0.004647038296370168,
-        "buy_sell_ratio": 1.226239497651036,
+        "plus_di": 21.116388713147813,
+        "minus_di": 23.785971161249446,
+        "macd_hist": -0.884863226414649,
+        "rsi": 46.36945007508047,
+        "stoch_k": 14.125392444004337,
+        "stoch_d": 51.105411066765264,
+        "bb_upper": 350.40395398765946,
+        "bb_lower": 334.15454894202804,
+        "bb_width": 4.747411645926305,
+        "roc20": 1.1760597132050021,
+        "rvol": 0.9400837072102227,
+        "obv_trend": 0.0944410865142449,
+        "cmf": -0.008383347472399839,
+        "buy_sell_ratio": 1.2099268878018568,
         "high52": 351.7300109863281,
         "low52": 243.4199981689453,
-        "vwap": 339.6119484771086,
+        "vwap": 338.84755881376486,
         "or_high": 343.7799987792969,
         "or_low": 339.6099853515625,
         "gap": -0.4990863234000775,
-        "atr": 6.967796502245234,
-        "chg": -2.12401844851019,
+        "atr": 7.016411004198359,
+        "chg": -2.270552410395399,
         "spark": [
           298.87,
           298.21,
@@ -1988,11 +1995,70 @@
           343.83,
           348.91,
           344.63,
-          337.31
+          336.81
         ]
       },
       "block": null,
       "headlines": [
+        {
+          "title": "Apple Fiscal 2027 Results Could Miss Street Views Amid iPhone Growth Slowdown, Oppenheimer Says",
+          "time": "2026-11-02T18:50:56+00:00",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/apple-fiscal-2027-results-could-185056840.html?.tsrc=rss",
+          "tone": -1,
+          "source": "Yahoo Finance",
+          "tags": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Is Apple the right anti-AI stock for investors to 'hide' in?",
+          "time": "2026-11-02T18:37:43+00:00",
+          "link": "https://finance.yahoo.com/video/is-apple-the-right-anti-ai-stock-for-investors-to-hide-in-183743155.html?.tsrc=rss",
+          "tone": 0,
+          "source": "Yahoo Finance",
+          "tags": [
+            "earnings",
+            "people"
+          ]
+        },
+        {
+          "title": "Apple Q4 earnings live: iPhone 18 sales in the spotlight",
+          "time": "2026-11-02T18:30:00+00:00",
+          "link": "https://finance.yahoo.com/markets/stocks/live/apple-q4-earnings-live-iphone-18-sales-in-the-spotlight-183000820.html?.tsrc=rss",
+          "tone": 0,
+          "source": "Yahoo Finance",
+          "tags": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Alibaba Soars 6% as Apple Sets December Launch for Qwen-Powered iPhone AI in China",
+          "time": "2026-11-02T18:24:57+00:00",
+          "link": "https://www.tikr.com/blog/alibaba-soars-6-as-apple-sets-december-launch-for-qwen-powered-iphone-ai-in-china?ref=yahoofinance&tlnk=yf-261102-5qrf77xc&.tsrc=rss",
+          "tone": 1,
+          "source": "Yahoo Finance",
+          "tags": []
+        },
+        {
+          "title": "Apple Stocks Move Lower With Earnings Facing a Distorted Margin Comparison",
+          "time": "2026-11-02T18:16:46+00:00",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stocks-move-lower-earnings-181646495.html?.tsrc=rss",
+          "tone": 0,
+          "source": "Yahoo Finance",
+          "tags": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Why Trump-Tied Companies Could Face Democratic Probes Post-Midterms",
+          "time": "2026-11-02T18:14:56+00:00",
+          "link": "https://finance.yahoo.com/video/why-trump-tied-companies-could-181456165.html?.tsrc=rss",
+          "tone": 0,
+          "source": "Yahoo Finance",
+          "tags": [
+            "legal"
+          ]
+        },
         {
           "title": "Should Apple (AAPL) Stock Worry About Ternus’ First Call And Rising Chip Costs?",
           "time": "2026-11-02T18:07:12+00:00",
@@ -2005,65 +2071,9 @@
           ]
         },
         {
-          "title": "Stock Market Today: Dow Rallies As Anthropic Shares Spending Plans; These Stocks Clear Entries (Live Coverage)",
-          "time": "2026-11-02T18:00:26+00:00",
-          "link": "https://finance.yahoo.com/m/d2c3bbee-4bc3-3931-9b35-8ffcd691e60c/stock-market-today%3A-dow.html?.tsrc=rss",
-          "tone": 1,
-          "source": "Yahoo Finance",
-          "tags": [
-            "earnings"
-          ]
-        },
-        {
           "title": "Apple's Valuation Premium Confronts AI Jitters",
           "time": "2026-11-02T17:40:35+00:00",
           "link": "https://finance.yahoo.com/video/apples-valuation-premium-confronts-ai-174035923.html?.tsrc=rss",
-          "tone": 0,
-          "source": "Yahoo Finance",
-          "tags": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Marvell, Lumentum, Oracle, SpaceX, Rivian, Apple, Palantir, and More Stocks That Explain Today’s Market",
-          "time": "2026-11-02T17:30:00+00:00",
-          "link": "https://finance.yahoo.com/m/9e7a7710-9e1a-35b4-ba03-c1bc8203ddcb/marvell%2C-lumentum%2C-oracle%2C.html?.tsrc=rss",
-          "tone": 0,
-          "source": "Yahoo Finance",
-          "tags": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Apple Is the Top Performing Mag 7 Stock This Year",
-          "time": "2026-11-02T17:25:20+00:00",
-          "link": "https://finance.yahoo.com/m/34814f38-88a1-39a1-95f7-9a9b4a7b2f5b/apple-is-the-top-performing.html?.tsrc=rss",
-          "tone": 0,
-          "source": "Yahoo Finance",
-          "tags": []
-        },
-        {
-          "title": "Apple's Fiscal 2027 Earnings Face Downside Risks From Slower Growth, Oppenheimer Says",
-          "time": "2026-11-02T17:07:56+00:00",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/apple-apos-fiscal-2027-earnings-170756393.html?.tsrc=rss",
-          "tone": 0,
-          "source": "Yahoo Finance",
-          "tags": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Apple's iPhone faces a $190 memory problem",
-          "time": "2026-11-02T17:03:00+00:00",
-          "link": "https://www.thestreet.com/technology/apples-iphone-faces-a-190-memory-problem?.tsrc=rss",
-          "tone": 0,
-          "source": "Yahoo Finance",
-          "tags": []
-        },
-        {
-          "title": "Here’s How Much Traders Expect Apple Stock to Move After Earnings",
-          "time": "2026-11-02T17:01:43+00:00",
-          "link": "https://www.investopedia.com/here-s-how-much-traders-expect-apple-stock-to-move-after-earnings-aapl-12207217?.tsrc=rss",
           "tone": 0,
           "source": "Yahoo Finance",
           "tags": [
@@ -2075,7 +2085,7 @@
         {
           "rule": "Gesamt-Score mindestens 6",
           "ok": false,
-          "val": 3
+          "val": 1
         },
         {
           "rule": "Trend positiv (mindestens +1)",
@@ -2085,7 +2095,7 @@
         {
           "rule": "Volumen nicht negativ",
           "ok": true,
-          "val": 1
+          "val": 0
         },
         {
           "rule": "Keine Warnmeldung der SEC",
@@ -2110,15 +2120,15 @@
     {
       "sym": "BAC",
       "name": "Bank of America Corporation",
-      "price": 50.095,
-      "price_eur": 44.739662409573995,
-      "total": 2,
+      "price": 49.925,
+      "price_eur": 44.563956083192,
+      "total": 1,
       "scores": {
         "Signale": 2,
         "Trend": -1,
         "Momentum": 1,
         "Volumen": 0,
-        "Intraday": -1,
+        "Intraday": -2,
         "News": 1
       },
       "reasons": {
@@ -2132,46 +2142,47 @@
         ],
         "Momentum": [
           "MACD positiv",
-          "RSI 29 überverkauft",
-          "-7.2 % in 20 Tagen"
+          "RSI 27 überverkauft",
+          "-7.5 % in 20 Tagen"
         ],
         "Volumen": [
           "Volumen 0.7x normal"
         ],
         "Intraday": [
-          "Kurs < VWAP 50.11"
+          "Kurs < VWAP 50.09",
+          "unter Opening Range 50.00"
         ],
         "News": [
           "4 Schlagzeilen: 1 positiv, 0 negativ"
         ]
       },
       "ind": {
-        "price": 50.095,
-        "sma50": 56.20429997863769,
-        "sma200": 54.941424954986566,
+        "price": 49.925,
+        "sma50": 56.2008999786377,
+        "sma200": 54.940574954986566,
         "adx": 46.62178781178693,
-        "plus_di": 15.803226579119286,
-        "minus_di": 36.35685828134644,
-        "macd_hist": 0.1615541904671014,
-        "rsi": 28.592126147796833,
-        "stoch_k": 24.70418386383563,
-        "stoch_d": 23.7593243227946,
-        "bb_upper": 54.83821056427262,
-        "bb_lower": 48.67628935943343,
-        "bb_width": 11.905426214454488,
-        "roc20": -7.231481481481483,
-        "rvol": 0.659043588121886,
-        "obv_trend": -0.004840349253689572,
-        "cmf": -0.0034381616173964494,
-        "buy_sell_ratio": 0.9901514721993551,
+        "plus_di": 15.657527354401637,
+        "minus_di": 36.02166305787475,
+        "macd_hist": 0.15070518761809604,
+        "rsi": 27.31245936448589,
+        "stoch_k": 19.674599654420053,
+        "stoch_d": 22.08279625298941,
+        "bb_upper": 54.84888580259738,
+        "bb_lower": 48.648614121108665,
+        "bb_width": 11.981490733707165,
+        "roc20": -7.5462962962963065,
+        "rvol": 0.7016192678134424,
+        "obv_trend": -0.052976189737402646,
+        "cmf": -0.012074312865721271,
+        "buy_sell_ratio": 0.8979096151385403,
         "high52": 65.2300033569336,
         "low52": 46.119998931884766,
-        "vwap": 50.11110154835735,
+        "vwap": 50.09368070671285,
         "or_high": 50.470001220703125,
         "or_low": 50.0,
         "gap": 0.8798289465584697,
-        "atr": 1.1130310396224756,
-        "chg": 0.16996936876558788,
+        "atr": 1.1233882151770236,
+        "chg": -0.1699626562406964,
         "spark": [
           49.84,
           49.85,
@@ -2292,7 +2303,7 @@
           50.85,
           51.14,
           50.01,
-          50.09
+          49.92
         ]
       },
       "block": null,
@@ -2336,7 +2347,7 @@
         {
           "rule": "Gesamt-Score mindestens 6",
           "ok": false,
-          "val": 2
+          "val": 1
         },
         {
           "rule": "Trend positiv (mindestens +1)",
@@ -2362,298 +2373,15 @@
       "verdict": "Nicht gekauft"
     },
     {
-      "sym": "GOOGL",
-      "name": "Alphabet Inc.",
-      "price": 283.66,
-      "price_eur": 253.3357149236403,
-      "total": -5,
-      "scores": {
-        "Signale": 2,
-        "Trend": -4,
-        "Momentum": 1,
-        "Volumen": -3,
-        "Intraday": -1,
-        "News": 0
-      },
-      "reasons": {
-        "Signale": [
-          "Berkshire Hathaway hält 12.6 %"
-        ],
-        "Trend": [
-          "Kurs < SMA50",
-          "SMA50 < SMA200",
-          "Death Cross (letzte 10 Tage)",
-          "ADX 28: starker Abwärtstrend"
-        ],
-        "Momentum": [
-          "MACD negativ",
-          "RSI 25 überverkauft",
-          "Stochastik 8 dreht aus überverkauft",
-          "unter dem unteren Bollinger-Band",
-          "-18.1 % in 20 Tagen"
-        ],
-        "Volumen": [
-          "Volumen 1.1x normal",
-          "OBV fällt (Distribution)",
-          "Chaikin Money Flow -0.17 (Geld fließt raus)",
-          "Verkaufsdruck: 1.6x mehr Volumen an Minus-Tagen"
-        ],
-        "Intraday": [
-          "Kurs < VWAP 284.17"
-        ],
-        "News": [
-          "6 Schlagzeilen: 1 positiv, 1 negativ"
-        ]
-      },
-      "ind": {
-        "price": 283.66,
-        "sma50": 337.8485991699219,
-        "sma200": 340.40949934082033,
-        "adx": 28.13562371695193,
-        "plus_di": 13.352282804092509,
-        "minus_di": 45.699725480314804,
-        "macd_hist": -6.391888136039054,
-        "rsi": 24.66715855367586,
-        "stoch_k": 8.171663637601485,
-        "stoch_d": 5.363151209607694,
-        "bb_upper": 377.5483765656733,
-        "bb_lower": 283.9836238005376,
-        "bb_width": 28.287294556677562,
-        "roc20": -18.128553987187136,
-        "rvol": 1.1215997899177401,
-        "obv_trend": -0.22260411726073995,
-        "cmf": -0.17305886231128564,
-        "buy_sell_ratio": 0.6347744008162652,
-        "high52": 408.6099853515625,
-        "low52": 270.70001220703125,
-        "vwap": 284.1723300962041,
-        "or_high": 287.0,
-        "or_low": 282.3599853515625,
-        "gap": 0.932681497747434,
-        "atr": 10.174424473994344,
-        "chg": 1.3650670783660779,
-        "spark": [
-          402.62,
-          401.07,
-          396.78,
-          396.94,
-          387.66,
-          388.91,
-          387.66,
-          382.97,
-          388.88,
-          388.83,
-          390.13,
-          380.34,
-          376.37,
-          361.85,
-          358.99,
-          372.19,
-          368.53,
-          363.31,
-          364.26,
-          356.38,
-          357.77,
-          359.68,
-          369.35,
-          373.25,
-          363.79,
-          368.03,
-          349.68,
-          346.13,
-          345.29,
-          343.71,
-          337.39,
-          353.65,
-          357.37,
-          361.21,
-          359.91,
-          366.46,
-          367.03,
-          361.92,
-          358.89,
-          357.18,
-          352.51,
-          359.51,
-          370.92,
-          354.46,
-          346.77,
-          351.99,
-          347.15,
-          342.09,
-          317.69,
-          319.74,
-          326.56,
-          333.71,
-          336.71,
-          333.66,
-          356.13,
-          373.51,
-          377.65,
-          362.43,
-          357.75,
-          354.3,
-          357.52,
-          343.8,
-          343.54,
-          346.36,
-          345.9,
-          344.0,
-          344.2,
-          344.72,
-          340.67,
-          344.82,
-          348.06,
-          346.96,
-          342.0,
-          340.65,
-          346.59,
-          339.35,
-          335.02,
-          337.12,
-          342.48,
-          338.46,
-          338.36,
-          330.65,
-          332.6,
-          338.5,
-          349.39,
-          344.98,
-          342.87,
-          347.33,
-          349.54,
-          354.97,
-          351.16,
-          337.83,
-          342.36,
-          343.92,
-          342.75,
-          340.92,
-          344.08,
-          338.24,
-          343.5,
-          346.47,
-          347.68,
-          350.5,
-          348.29,
-          351.66,
-          352.72,
-          353.78,
-          347.64,
-          349.22,
-          340.59,
-          344.18,
-          340.28,
-          334.76,
-          324.22,
-          320.21,
-          316.8,
-          320.58,
-          324.89,
-          283.82,
-          279.84,
-          283.66
-        ]
-      },
-      "block": null,
-      "headlines": [
-        {
-          "title": "If You Invest $10,000 in Alphabet Today, Here’s What It Could Be Worth by 2030",
-          "time": "2026-11-02T18:03:24+00:00",
-          "link": "https://247wallst.com/investing/2026/11/02/if-you-invest-10000-in-alphabet-today-heres-what-it-could-be-worth-by-2030/?.tsrc=rss",
-          "tone": 0,
-          "source": "Yahoo Finance",
-          "tags": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "The EPS ‘Miss That Wasn’t Gave You and Me an Opportunity to Scoop Up Alphabet Cheaply",
-          "time": "2026-11-02T17:45:18+00:00",
-          "link": "https://247wallst.com/investing/2026/11/02/the-eps-miss-that-wasnt-gave-you-and-me-an-opportunity-to-scoop-up-alphabet-cheaply/?.tsrc=rss",
-          "tone": -1,
-          "source": "Yahoo Finance",
-          "tags": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Meta and Alphabet Face Serious Market Pressure Over Capex in Q4",
-          "time": "2026-11-02T17:45:14+00:00",
-          "link": "https://247wallst.com/investing/2026/11/02/meta-and-alphabet-face-serious-market-pressure-over-capex-in-q4/?.tsrc=rss",
-          "tone": 0,
-          "source": "Yahoo Finance",
-          "tags": []
-        },
-        {
-          "title": "Alphabet Lost a Record $500 Billion in a Day. Is This the Buying Opportunity?",
-          "time": "2026-11-02T17:33:51+00:00",
-          "link": "https://247wallst.com/investing/2026/11/02/alphabet-lost-a-record-500-billion-in-a-day-is-this-the-buying-opportunity/?.tsrc=rss",
-          "tone": 0,
-          "source": "Yahoo Finance",
-          "tags": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "What's Going on with Alphabet Stock? 3 Things Investors Should Know",
-          "time": "2026-11-02T17:05:00+00:00",
-          "link": "https://www.fool.com/investing/2026/11/02/whats-going-on-with-alphabet-stock-3-things-invest/?.tsrc=rss",
-          "tone": 0,
-          "source": "Yahoo Finance",
-          "tags": []
-        },
-        {
-          "title": "Amazon Climbs 5% as Upgrade Fuels Post-Earnings Rebound on AWS Strength; Walmart Rises 2%, Alphabet Edges Higher",
-          "time": "2026-11-02T16:57:37+00:00",
-          "link": "https://247wallst.com/investing/2026/11/02/amazon-climbs-5-as-upgrade-fuels-post-earnings-rebound-on-aws-strength-walmart-rises-2-alphabet-edges-higher/?.tsrc=rss",
-          "tone": 2,
-          "source": "Yahoo Finance",
-          "tags": [
-            "earnings",
-            "analyst"
-          ]
-        }
-      ],
-      "checks": [
-        {
-          "rule": "Gesamt-Score mindestens 6",
-          "ok": false,
-          "val": -5
-        },
-        {
-          "rule": "Trend positiv (mindestens +1)",
-          "ok": false,
-          "val": -4
-        },
-        {
-          "rule": "Volumen nicht negativ",
-          "ok": false,
-          "val": -3
-        },
-        {
-          "rule": "Keine Warnmeldung der SEC",
-          "ok": true,
-          "val": "keine"
-        },
-        {
-          "rule": "Marktlage nicht risk-off",
-          "ok": true,
-          "val": "vorsichtig"
-        }
-      ],
-      "verdict": "Nicht gekauft"
-    },
-    {
       "sym": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": 758.715,
-      "price_eur": 677.6056086451729,
-      "total": -5,
+      "price": 755.31,
+      "price_eur": 674.2033383915021,
+      "total": -4,
       "scores": {
         "Signale": 0,
         "Trend": 0,
-        "Momentum": -1,
+        "Momentum": 0,
         "Volumen": -2,
         "Intraday": -2,
         "News": 0
@@ -2667,15 +2395,16 @@
         ],
         "Momentum": [
           "MACD negativ",
-          "RSI 43 neutral"
+          "RSI 40 neutral",
+          "unter dem unteren Bollinger-Band"
         ],
         "Volumen": [
           "Volumen 0.8x normal",
           "OBV fällt (Distribution)",
-          "Verkaufsdruck: 1.4x mehr Volumen an Minus-Tagen"
+          "Verkaufsdruck: 1.6x mehr Volumen an Minus-Tagen"
         ],
         "Intraday": [
-          "Kurs < VWAP 760.36",
+          "Kurs < VWAP 758.63",
           "unter Opening Range 758.72"
         ],
         "News": [
@@ -2683,32 +2412,32 @@
         ]
       },
       "ind": {
-        "price": 758.715,
-        "sma50": 767.3542951171875,
-        "sma200": 729.1864741699219,
+        "price": 755.31,
+        "sma50": 767.2861951171875,
+        "sma200": 729.1694491699219,
         "adx": 16.28434906047858,
-        "plus_di": 18.819083055660208,
-        "minus_di": 34.46420178381821,
-        "macd_hist": -1.345746950160993,
-        "rsi": 42.96795633923095,
-        "stoch_k": 32.147048048471305,
-        "stoch_d": 34.190387078647355,
-        "bb_upper": 783.2162388523743,
-        "bb_lower": 756.1082457667662,
-        "bb_width": 3.5220635228595274,
-        "roc20": -2.0798132150803283,
-        "rvol": 0.8372684301347876,
-        "obv_trend": -0.1565023738162787,
-        "cmf": 0.005702339652872031,
-        "buy_sell_ratio": 0.7219321682645594,
+        "plus_di": 18.53561431944286,
+        "minus_di": 33.94507321121434,
+        "macd_hist": -1.5630460954601413,
+        "rsi": 39.938413831959835,
+        "stoch_k": 19.045850359306538,
+        "stoch_d": 29.823321182259097,
+        "bb_upper": 783.6632248268209,
+        "bb_lower": 755.3207597923197,
+        "bb_width": 3.683269652934709,
+        "roc20": -2.5192644398520203,
+        "rvol": 0.8430115702369361,
+        "obv_trend": -0.21576510385541825,
+        "cmf": -0.006782425182932452,
+        "buy_sell_ratio": 0.6378472287591279,
         "high52": 781.6199951171875,
         "low52": 629.280029296875,
-        "vwap": 760.3618931832892,
+        "vwap": 758.6332817466973,
         "or_high": 760.5700073242188,
         "or_low": 758.719970703125,
         "gap": 0.49357455783995974,
-        "atr": 7.753090315114945,
-        "chg": 0.396314694990596,
+        "atr": 7.871659825438606,
+        "chg": -0.05424902331794268,
         "spark": [
           742.31,
           748.17,
@@ -2829,7 +2558,7 @@
           772.31,
           769.36,
           755.72,
-          758.72
+          755.31
         ]
       },
       "block": null,
@@ -2847,7 +2576,7 @@
         {
           "rule": "Gesamt-Score mindestens 6",
           "ok": false,
-          "val": -5
+          "val": -4
         },
         {
           "rule": "Trend positiv (mindestens +1)",
@@ -2873,10 +2602,280 @@
       "verdict": "Nicht gekauft"
     },
     {
+      "sym": "GOOGL",
+      "name": "Alphabet Inc.",
+      "price": 282.75,
+      "price_eur": 252.3877532803713,
+      "total": -6,
+      "scores": {
+        "Signale": 2,
+        "Trend": -4,
+        "Momentum": 1,
+        "Volumen": -3,
+        "Intraday": -1,
+        "News": -1
+      },
+      "reasons": {
+        "Signale": [
+          "Berkshire Hathaway hält 12.6 %"
+        ],
+        "Trend": [
+          "Kurs < SMA50",
+          "SMA50 < SMA200",
+          "Death Cross (letzte 10 Tage)",
+          "ADX 28: starker Abwärtstrend"
+        ],
+        "Momentum": [
+          "MACD negativ",
+          "RSI 24 überverkauft",
+          "Stochastik 7 dreht aus überverkauft",
+          "unter dem unteren Bollinger-Band",
+          "-18.4 % in 20 Tagen"
+        ],
+        "Volumen": [
+          "Volumen 1.1x normal",
+          "OBV fällt (Distribution)",
+          "Chaikin Money Flow -0.19 (Geld fließt raus)",
+          "Verkaufsdruck: 1.5x mehr Volumen an Minus-Tagen"
+        ],
+        "Intraday": [
+          "Kurs < VWAP 284.15"
+        ],
+        "News": [
+          "5 Schlagzeilen: 0 positiv, 1 negativ"
+        ]
+      },
+      "ind": {
+        "price": 282.75,
+        "sma50": 337.83039916992186,
+        "sma200": 340.40494934082034,
+        "adx": 28.13562371695193,
+        "plus_di": 13.352282804092509,
+        "minus_di": 45.699725480314804,
+        "macd_hist": -6.44996221011311,
+        "rsi": 23.908591735723846,
+        "stoch_k": 7.068365607184509,
+        "stoch_d": 4.995385199468703,
+        "bb_upper": 377.6874530656046,
+        "bb_lower": 283.75354730060633,
+        "bb_width": 28.40280711748777,
+        "roc20": -18.391202989061426,
+        "rvol": 1.0922304097110884,
+        "obv_trend": -0.2151248446412482,
+        "cmf": -0.18923863645101577,
+        "buy_sell_ratio": 0.6470456106102548,
+        "high52": 408.6099853515625,
+        "low52": 270.70001220703125,
+        "vwap": 284.14576555066793,
+        "or_high": 287.0,
+        "or_low": 282.3599853515625,
+        "gap": 0.932681497747434,
+        "atr": 10.174424473994344,
+        "chg": 1.0398812536417168,
+        "spark": [
+          402.62,
+          401.07,
+          396.78,
+          396.94,
+          387.66,
+          388.91,
+          387.66,
+          382.97,
+          388.88,
+          388.83,
+          390.13,
+          380.34,
+          376.37,
+          361.85,
+          358.99,
+          372.19,
+          368.53,
+          363.31,
+          364.26,
+          356.38,
+          357.77,
+          359.68,
+          369.35,
+          373.25,
+          363.79,
+          368.03,
+          349.68,
+          346.13,
+          345.29,
+          343.71,
+          337.39,
+          353.65,
+          357.37,
+          361.21,
+          359.91,
+          366.46,
+          367.03,
+          361.92,
+          358.89,
+          357.18,
+          352.51,
+          359.51,
+          370.92,
+          354.46,
+          346.77,
+          351.99,
+          347.15,
+          342.09,
+          317.69,
+          319.74,
+          326.56,
+          333.71,
+          336.71,
+          333.66,
+          356.13,
+          373.51,
+          377.65,
+          362.43,
+          357.75,
+          354.3,
+          357.52,
+          343.8,
+          343.54,
+          346.36,
+          345.9,
+          344.0,
+          344.2,
+          344.72,
+          340.67,
+          344.82,
+          348.06,
+          346.96,
+          342.0,
+          340.65,
+          346.59,
+          339.35,
+          335.02,
+          337.12,
+          342.48,
+          338.46,
+          338.36,
+          330.65,
+          332.6,
+          338.5,
+          349.39,
+          344.98,
+          342.87,
+          347.33,
+          349.54,
+          354.97,
+          351.16,
+          337.83,
+          342.36,
+          343.92,
+          342.75,
+          340.92,
+          344.08,
+          338.24,
+          343.5,
+          346.47,
+          347.68,
+          350.5,
+          348.29,
+          351.66,
+          352.72,
+          353.78,
+          347.64,
+          349.22,
+          340.59,
+          344.18,
+          340.28,
+          334.76,
+          324.22,
+          320.21,
+          316.8,
+          320.58,
+          324.89,
+          283.82,
+          279.84,
+          282.75
+        ]
+      },
+      "block": null,
+      "headlines": [
+        {
+          "title": "Alphabet's Google spending derails major shareholder perk",
+          "time": "2026-11-02T19:03:00+00:00",
+          "link": "https://www.thestreet.com/investing/alphabet-ai-spending-derails-share-buybacks?.tsrc=rss",
+          "tone": 0,
+          "source": "Yahoo Finance",
+          "tags": []
+        },
+        {
+          "title": "Alphabet Stocks Rise 1.85% With Search Monetization Behind Wells Fargo's Target Cut",
+          "time": "2026-11-02T18:19:34+00:00",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-rise-1-85-181934810.html?.tsrc=rss",
+          "tone": 0,
+          "source": "Yahoo Finance",
+          "tags": []
+        },
+        {
+          "title": "If You Invest $10,000 in Alphabet Today, Here’s What It Could Be Worth by 2030",
+          "time": "2026-11-02T18:03:24+00:00",
+          "link": "https://247wallst.com/investing/2026/11/02/if-you-invest-10000-in-alphabet-today-heres-what-it-could-be-worth-by-2030/?.tsrc=rss",
+          "tone": 0,
+          "source": "Yahoo Finance",
+          "tags": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "The EPS ‘Miss That Wasn’t Gave You and Me an Opportunity to Scoop Up Alphabet Cheaply",
+          "time": "2026-11-02T17:45:18+00:00",
+          "link": "https://247wallst.com/investing/2026/11/02/the-eps-miss-that-wasnt-gave-you-and-me-an-opportunity-to-scoop-up-alphabet-cheaply/?.tsrc=rss",
+          "tone": -1,
+          "source": "Yahoo Finance",
+          "tags": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Meta and Alphabet Face Serious Market Pressure Over Capex in Q4",
+          "time": "2026-11-02T17:45:14+00:00",
+          "link": "https://247wallst.com/investing/2026/11/02/meta-and-alphabet-face-serious-market-pressure-over-capex-in-q4/?.tsrc=rss",
+          "tone": 0,
+          "source": "Yahoo Finance",
+          "tags": []
+        }
+      ],
+      "checks": [
+        {
+          "rule": "Gesamt-Score mindestens 6",
+          "ok": false,
+          "val": -6
+        },
+        {
+          "rule": "Trend positiv (mindestens +1)",
+          "ok": false,
+          "val": -4
+        },
+        {
+          "rule": "Volumen nicht negativ",
+          "ok": false,
+          "val": -3
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        },
+        {
+          "rule": "Marktlage nicht risk-off",
+          "ok": true,
+          "val": "vorsichtig"
+        }
+      ],
+      "verdict": "Nicht gekauft"
+    },
+    {
       "sym": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": 691.45,
-      "price_eur": 617.5314816468698,
+      "price": 686.31,
+      "price_eur": 612.612693028653,
       "total": -8,
       "scores": {
         "Signale": 0,
@@ -2895,50 +2894,50 @@
         ],
         "Momentum": [
           "MACD negativ",
-          "RSI 35 neutral",
-          "-8.6 % in 20 Tagen"
+          "RSI 34 neutral",
+          "-9.2 % in 20 Tagen"
         ],
         "Volumen": [
           "Volumen 1.1x normal",
           "OBV fällt (Distribution)",
-          "Chaikin Money Flow -0.07 (Geld fließt raus)",
-          "Verkaufsdruck: 2.3x mehr Volumen an Minus-Tagen"
+          "Chaikin Money Flow -0.08 (Geld fließt raus)",
+          "Verkaufsdruck: 2.7x mehr Volumen an Minus-Tagen"
         ],
         "Intraday": [
-          "Kurs < VWAP 694.35",
+          "Kurs < VWAP 694.26",
           "unter Opening Range 693.31"
         ],
         "News": [
-          "4 Schlagzeilen: 0 positiv, 0 negativ"
+          "3 Schlagzeilen: 0 positiv, 0 negativ"
         ]
       },
       "ind": {
-        "price": 691.45,
-        "sma50": 724.5609995117187,
-        "sma200": 679.8676500854493,
+        "price": 686.31,
+        "sma50": 724.4581995117187,
+        "sma200": 679.8419500854492,
         "adx": 28.567655898906686,
-        "plus_di": 15.780641261875553,
-        "minus_di": 42.57492624109705,
-        "macd_hist": -3.658714193929975,
-        "rsi": 35.45918220307108,
-        "stoch_k": 14.015391376594794,
-        "stoch_d": 18.2542984905253,
-        "bb_upper": 765.0700084147104,
-        "bb_lower": 684.8299903645866,
-        "bb_width": 11.068352040510325,
-        "roc20": -8.562551066093349,
-        "rvol": 1.0883645339264447,
-        "obv_trend": -0.3928330845948112,
-        "cmf": -0.06826780629936681,
-        "buy_sell_ratio": 0.4365466674200793,
+        "plus_di": 15.346110834321498,
+        "minus_di": 41.40259739871213,
+        "macd_hist": -3.986736985952759,
+        "rsi": 33.579676569988706,
+        "stoch_k": 5.010488676741432,
+        "stoch_d": 15.252664257240847,
+        "bb_upper": 765.7236080485042,
+        "bb_lower": 683.6623907307927,
+        "bb_width": 11.32358355701312,
+        "roc20": -9.242265416401096,
+        "rvol": 1.1021770413250973,
+        "obv_trend": -0.4701168420840591,
+        "cmf": -0.0796156474882185,
+        "buy_sell_ratio": 0.36495264115631987,
         "high52": 762.8599853515625,
         "low52": 555.5999755859375,
-        "vwap": 694.3545935579591,
+        "vwap": 694.2631633672138,
         "or_high": 695.9550170898438,
         "or_low": 693.3099975585938,
         "gap": 0.6987809056281158,
-        "atr": 12.512046741259264,
-        "chg": 0.13903311839453814,
+        "atr": 12.866329665366406,
+        "chg": -0.6053657972588722,
         "spark": [
           714.71,
           719.79,
@@ -3059,7 +3058,7 @@
           725.61,
           715.34,
           690.49,
-          691.45
+          686.31
         ]
       },
       "block": null,
@@ -3084,14 +3083,6 @@
           "title": "ETF Activity: QQQ Leads $2.24 Billion Exit on Oct. 29",
           "time": "2026-11-02T11:00:11+00:00",
           "link": "https://finance.yahoo.com/markets/stocks/articles/etf-activity-qqq-leads-2-110011871.html?.tsrc=rss",
-          "tone": 0,
-          "source": "Yahoo Finance",
-          "tags": []
-        },
-        {
-          "title": "Fidelity’s Broader Nasdaq ETF Has a Surprise for QQQ Investors: Even More Apple",
-          "time": "2026-11-02T09:12:43+00:00",
-          "link": "https://247wallst.com/investing/etf/2026/11/02/fidelitys-broader-nasdaq-etf-has-a-surprise-for-qqq-investors-even-more-apple/?.tsrc=rss",
           "tone": 0,
           "source": "Yahoo Finance",
           "tags": []
