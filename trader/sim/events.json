@@ -1,5 +1,143 @@
 [
   {
+    "title": "Higher memory prices take a bite out of Apple's margins",
+    "time": "2026-11-03T16:19:21+00:00",
+    "link": "https://finance.yahoo.com/technology/article/higher-memory-prices-take-a-bite-out-of-apples-margins-161921051.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:f3152c18-e388-47dc-93a0-be34c7c0ff9b",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Higher memory prices are hurting Apple's margins.",
+    "seen": "2026-11-03T16:28:29+00:00"
+  },
+  {
+    "title": "2 Monster Stocks to Buy and Hold for the Next 20 Years",
+    "time": "2026-11-03T16:05:00+00:00",
+    "link": "https://www.fool.com/investing/2026/11/03/2-monster-stocks-buy-hold-next-20-years/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:23d342b0-b7ad-3e1c-841f-d2cb413a1c75",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet and Amazon both sold off on AI spending fears, but that spending could also make them AI winners.",
+    "seen": "2026-11-03T16:28:29+00:00"
+  },
+  {
+    "title": "D.A. Davidson Managing Director Gil Luria Delivers His Apple Earnings Takeaways",
+    "time": "2026-11-03T15:56:11+00:00",
+    "link": "https://finance.yahoo.com/video/d-davidson-managing-director-gil-155611949.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "analyst"
+    ],
+    "id": "news:AAPL:rss:f0a9e54d-ac28-3f07-9faf-abcda589b3dd",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "What do Apple's latest earnings results reveal about the technology sector, the artificial intelligence investment cycle, and the future of Big Tech growth? In this NYSE Live interview, Gil Luria, Managing Director and Head of Technology Research at D.A. Davidson, discusses Apple's latest earnings r",
+    "seen": "2026-11-03T16:28:29+00:00"
+  },
+  {
+    "title": "Wall Street Expert Jay Woods: Market 'Doesn't Care About Your Politics'",
+    "time": "2026-11-03T15:56:10+00:00",
+    "link": "https://finance.yahoo.com/video/wall-street-expert-jay-woods-155610029.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "analyst"
+    ],
+    "id": "news:AAPL:rss:17f05efc-c655-394f-b4c5-74cd38e9457d",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Do elections really matter for long-term stock market performance, or are investors better off focusing on earnings, economic fundamentals, and staying invested? In this NYSE Live interview, Jay Woods, Chief Market Strategist at Freedom Capital Markets, discusses Election Day market dynamics, techno",
+    "seen": "2026-11-03T16:28:29+00:00"
+  },
+  {
+    "title": "AAPL near-term setup: short-term bearish while long-term trend holds",
+    "time": "2026-11-03T15:47:24+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/aapl-near-term-setup-short-154724589.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:46c20d20-3695-340b-b47d-77d590ceeaad",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Investing.com -- Apple Inc (AAPL) is flashing Strong Sell on the hourly and daily gauges, while the weekly trend remains Strong Buy. At $333.17 as of Nov 3, 10:08 AM EST, near-term momentum is fighting the larger uptrend.",
+    "seen": "2026-11-03T16:28:29+00:00"
+  },
+  {
+    "title": "Apple Stock Undercuts Key Support Level After Mixed Report",
+    "time": "2026-11-03T15:41:07+00:00",
+    "link": "https://finance.yahoo.com/m/f8f7e1fc-502f-3216-b7c4-b48d1ccc08b8/apple-stock-undercuts-key.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:f8f7e1fc-502f-3216-b7c4-b48d1ccc08b8",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple stock fell Tuesday despite the company delivering headline numbers above Wall Street's targets for its fiscal fourth quarter.",
+    "seen": "2026-11-03T16:28:29+00:00"
+  },
+  {
+    "title": "Amazon, Google and Microsoft Are 'Absolute Jokes' Compared With SpaceX, Says Sequoia's Shaun Maguire",
+    "time": "2026-11-03T15:34:04+00:00",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/11/62826642/spacex-ai-infrastructure?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:c6f54144-eae6-3cc5-9d7d-24108c5dd8f4",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Sequoia Capital partner Shaun Maguire says Amazon.com Inc. (NASDAQ:AMZN), Alphabet Inc. (NASDAQ:GOOGL) and Microsoft Corp. (NASDAQ:MSFT) are “absolute jokes” at building physical infrastructure compared with Elon Musk’s SpaceX (NASDAQ:SPCX).Maguire, whose firm holds a large SpaceX stake, predicts th",
+    "seen": "2026-11-03T16:28:29+00:00"
+  },
+  {
+    "title": "Apple’s ’unprecedented’ memory warning adds fuel to wobbly Micron, SK hynix trade",
+    "time": "2026-11-03T15:31:46+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-unprecedented-memory-warning-adds-153146150.html?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:52983696-ea53-3b14-9ab9-d17592373d0e",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Investing.com -- Apple (NASDAQ:AAPL) may have delivered one of the clearest warnings yet that the global memory squeeze has further to run, giving investors another reason to watch Micron (NASDAQ:MU), SK hynix (NASDAQ:SKHY) and Samsung Electronics Co Ltd (KS:005930).",
+    "seen": "2026-11-03T16:28:29+00:00"
+  },
+  {
+    "title": "Micron Wins as “Unprecedented” Memory Prices Challenge Apple",
+    "time": "2026-11-03T15:19:10+00:00",
+    "link": "https://www.tikr.com/blog/micron-wins-as-unprecedented-memory-prices-challenge-apple?ref=yahoofinance&tlnk=yf-261103-p8jv658f&.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:AAPL:rss:695d9ba6-9cdc-3ce2-9303-4a311f1e098f",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Key TakeawaysApple lost about $140 billion of market value after hours on Nov. 2, after CEO John Ternus called memory pricing “unprecedented” and Apple guided December-quarter gross margin to 45% to 46%.",
+    "seen": "2026-11-03T16:28:29+00:00"
+  },
+  {
+    "title": "Why Shares of Alphabet Stock Sank 17.5% Last Month",
+    "time": "2026-11-03T15:15:15+00:00",
+    "link": "https://www.fool.com/investing/2026/11/03/why-shares-of-alphabet-stock-sank-175-last-month/?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:168c2a0e-0ca4-3fe6-979a-c1926926710d",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "There are fears that the technology giant is losing share in Google Search.",
+    "seen": "2026-11-03T16:28:29+00:00"
+  },
+  {
     "title": "Mid-term facts & refrigerator hacks, tech sell-off continues, Binance CEO addresses issues",
     "time": "2026-11-03T15:12:17+00:00",
     "link": "https://finance.yahoo.com/video/mid-term-facts--refrigerator-hacks-tech-sell-off-continues-binance-ceo-addresses-issues-151217552.html?.tsrc=rss",
@@ -30,6 +168,19 @@
     "sym": "AAPL",
     "summary": "Despite topping fiscal fourth quarter earnings estimates and outpacing iPhone sales forecasts, Apple's (AAPL) strong performance has seemingly failed to move the needle on the stock. Yahoo Finance Executive Editor Brian Sozzi assesses Apple's latest quarter, naming concerns tied to rising memory pri",
     "seen": "2026-11-03T15:19:20+00:00"
+  },
+  {
+    "title": "Can Chubb's Currys Partnership Expand Embedded Insurance Growth?",
+    "time": "2026-11-03T15:10:00+00:00",
+    "link": "https://finance.yahoo.com/healthcare/articles/chubbs-currys-partnership-expand-embedded-151000030.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CB:rss:d0e6858d-8cc1-3985-8ebc-437d4a94589e",
+    "type": "news",
+    "sym": "CB",
+    "summary": "CB's Currys partnership expands its embedded insurance reach in the U.K., tapping into growing demand for mobile protection through retail and digital channels.",
+    "seen": "2026-11-03T16:28:29+00:00"
   },
   {
     "title": "Alphabet Returned 764% in 10 Years. Can It Do It Again?",
@@ -71,6 +222,19 @@
     "sym": "AAPL",
     "summary": "Apple and Palantir shares fall as Americans head to the polls.",
     "seen": "2026-11-03T15:19:20+00:00"
+  },
+  {
+    "title": "Chevron Maintains 2028 Data Center Power Target Despite Texas Pause",
+    "time": "2026-11-03T14:54:00+00:00",
+    "link": "https://finance.yahoo.com/energy/articles/chevron-maintains-2028-data-center-145400067.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:65f042e5-5b12-3ab7-83d9-87a919b5eba3",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "CVX remains confident Project Kilby will deliver power to Microsoft's West Texas data center in 2028 despite Texas permit uncertainty, advancing its data center energy ambitions.",
+    "seen": "2026-11-03T16:28:29+00:00"
   },
   {
     "title": "The iPhone Won’t Save Apple",
