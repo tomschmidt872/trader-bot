@@ -1,5 +1,91 @@
 [
   {
+    "title": "Mid-term facts & refrigerator hacks, tech sell-off continues, Binance CEO addresses issues",
+    "time": "2026-11-03T15:12:17+00:00",
+    "link": "https://finance.yahoo.com/video/mid-term-facts--refrigerator-hacks-tech-sell-off-continues-binance-ceo-addresses-issues-151217552.html?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "people",
+      "risk"
+    ],
+    "id": "news:AAPL:rss:86893b48-9aa4-44bc-9ad1-5f2b5026ead0",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Yahoo Finance Executive Editor Brian Sozzi breaks down the top stories of the trading day, including the reasons Palantir (PLTR) isn't escaping the AI rout, why Disney (DIS) is poised to cut jobs, and how Apple's (AAPL) earnings just turned into a dull day for John Ternus and company. Sozzi also goe",
+    "seen": "2026-11-03T15:19:20+00:00"
+  },
+  {
+    "title": "What is holding Apple's stock back despite an impressive Q4?",
+    "time": "2026-11-03T15:10:44+00:00",
+    "link": "https://finance.yahoo.com/video/what-is-holding-apples-stock-back-despite-an-impressive-q4-151044694.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:07c6c055-ffcd-4f06-bcf8-2557619be1e6",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Despite topping fiscal fourth quarter earnings estimates and outpacing iPhone sales forecasts, Apple's (AAPL) strong performance has seemingly failed to move the needle on the stock. Yahoo Finance Executive Editor Brian Sozzi assesses Apple's latest quarter, naming concerns tied to rising memory pri",
+    "seen": "2026-11-03T15:19:20+00:00"
+  },
+  {
+    "title": "Alphabet Returned 764% in 10 Years. Can It Do It Again?",
+    "time": "2026-11-03T15:03:37+00:00",
+    "link": "https://247wallst.com/investing/2026/11/03/alphabet-returned-764-in-10-years-can-it-do-it-again/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:GOOGL:rss:98bfd56d-7e2f-3df4-948e-74b27fe3dc4c",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet's last decade minted fortunes for patient investors, but a bruising earnings selloff just reset the clock. Whether the next six years repeat that wealth-building run depends on three growth engines that are pulling in opposite directions.",
+    "seen": "2026-11-03T15:19:20+00:00"
+  },
+  {
+    "title": "Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck",
+    "time": "2026-11-03T15:01:20+00:00",
+    "link": "https://finance.yahoo.com/markets/article/apple-stock-falls-chip-stocks-rebound-as-oil-extends-decline-alphacheck-150120677.html?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:686611ee-56ff-481f-ab6c-378c6acb2f4d",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Stocks rebounded on Tuesday following a brutal sell-off in tech.",
+    "seen": "2026-11-03T15:19:20+00:00"
+  },
+  {
+    "title": "Stock Market Today (Nov. 3, 2026): Nasdaq edges higher as U.S. midterm voting begins",
+    "time": "2026-11-03T14:58:01+00:00",
+    "link": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-03-2026?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:146bd076-3807-3a86-b717-ecd58c2c2d86",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple and Palantir shares fall as Americans head to the polls.",
+    "seen": "2026-11-03T15:19:20+00:00"
+  },
+  {
+    "title": "The iPhone Won’t Save Apple",
+    "time": "2026-11-03T14:51:06+00:00",
+    "link": "https://247wallst.com/investing/2026/11/03/the-iphone-wont-save-apple/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:9f0530b1-44b4-3e76-990f-f685cf101964",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple's iPhone just delivered its strongest quarter in years, yet a perfect storm of shrinking margins, sky-high prices, and chip shortages threatens to turn that momentum into a liability.",
+    "seen": "2026-11-03T15:19:20+00:00"
+  },
+  {
     "id": "trade:2026-11-03T14:30:24+00:00:VERKAUF:AAPL",
     "type": "trade",
     "sym": "AAPL",
@@ -8,6 +94,21 @@
     "detail": "Stop-Loss: Kurs 327.07 $ ist unter die Verlustgrenze von 330.93 $ gefallen",
     "tone": -1,
     "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
+    "time": "2026-11-03T14:25:43+00:00",
+    "link": "https://www.tikr.com/blog/qualcomm-is-down-10-in-a-year-its-cfo-says-things-can-only-go-up-from-here?ref=yahoofinance&tlnk=yf-261103-9466pc8p&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:AAPL:rss:22a452fd-468c-37da-a939-0bbc3c62ce13",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
+    "seen": "2026-11-03T15:19:20+00:00"
   },
   {
     "title": "Stock Market Today: Dow Futures Plunge 323 Points, Apple Sinks, and Iran Strikes Send Oil Soaring",
@@ -38,6 +139,49 @@
     "sym": "AAPL",
     "summary": "Sherwood News head of markets, Luke Kawa, joins \"The 8:30\" hosts Pras Subramanian and Jake Conley to discuss Apple's (AAPL) latest quarterly earnings.",
     "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Apple, Palantir, Marvell, AMD, Sandisk, Shopify, and More Stocks That Explain Today’s Market",
+    "time": "2026-11-03T14:02:00+00:00",
+    "link": "https://finance.yahoo.com/m/128f1048-6ad1-33df-9ddf-897d7e346cbb/apple%2C-palantir%2C-marvell%2C.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:128f1048-6ad1-33df-9ddf-897d7e346cbb",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple slides after the iPhone maker’s guidance fails to meet investors’ high bar.",
+    "seen": "2026-11-03T15:19:20+00:00"
+  },
+  {
+    "title": "AAPL Q4 Earnings Call Highlights Supply Risks and AI Investment",
+    "time": "2026-11-03T14:00:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/aapl-q4-earnings-call-highlights-140000209.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:7604bd1c-14aa-3e41-b76c-c9db70f915e1",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple projects record December-quarter revenues, but rising memory costs, supply constraints and expanding AI investments threaten to pressure margins.",
+    "seen": "2026-11-03T15:19:20+00:00"
+  },
+  {
+    "title": "Apple Stock: ‘Let the Slowdown Begin’",
+    "time": "2026-11-03T13:56:00+00:00",
+    "link": "https://finance.yahoo.com/m/485db605-e3dd-3800-b931-daea8187e119/apple-stock%3A-%E2%80%98let-the.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:485db605-e3dd-3800-b931-daea8187e119",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "The tech giant has a memory cost problem.",
+    "seen": "2026-11-03T15:19:20+00:00"
   },
   {
     "title": "Stock Market Today: Dow Slides On Election Day; Apple, Palantir Dive On Earnings (Live Coverage)",
@@ -81,6 +225,19 @@
     "sym": "BAC",
     "summary": "The Federal Reserve is gearing up to raise rates again, and Wall Street's four biggest banks are not equally positioned to benefit. History shows at least one of them actually loses ground when tightening cycles hit.",
     "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Chubb Limited (CB) Hit a 52 Week High, Can the Run Continue?",
+    "time": "2026-11-03T13:15:02+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/chubb-limited-cb-hit-52-131502370.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CB:rss:ffb8f7c7-8699-3575-a37a-32ce3b1e4bda",
+    "type": "news",
+    "sym": "CB",
+    "summary": "Chubb (CB) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues.",
+    "seen": "2026-11-03T15:19:20+00:00"
   },
   {
     "title": "How Investors May Respond To Alphabet Stock Euro Bond Sale",
@@ -209,6 +366,21 @@
     "sym": "AAPL",
     "summary": "Tech stocks keep beating estimates and then selling off anyway, Apple just joined the club, and Wall Street analysts are busy reshuffling their ratings on everything from nuclear energy plays to insurance giants. Here is who got upgraded, downgraded, and initiated today.",
     "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Buy, Sell, or Hold? Tuesday’s Top Upgrades and Downgrades: AON, Bloom Energy, Chevron, Cloudflare, Marvell Technologies, Lumentum Holdings, Merck & Co., Roku, X-Energy, and More",
+    "time": "2026-11-03T12:59:26+00:00",
+    "link": "https://247wallst.com/investing/2026/11/03/buy-sell-or-hold-tuesdays-top-upgrades-and-downgrades-aon-bloom-energy-chevron-cloudflare-marvell-technologies-lumentum-holdings-merck-co-roku-x-energy-and-more/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "analyst"
+    ],
+    "id": "news:CVX:rss:9391db65-1413-36ff-b8fe-e13637c9c1b5",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Tech stocks keep beating estimates and then selling off anyway, Apple just joined the club, and Wall Street analysts are busy reshuffling their ratings on everything from nuclear energy plays to insurance giants. Here is who got upgraded, downgraded, and initiated today.",
+    "seen": "2026-11-03T15:19:20+00:00"
   },
   {
     "title": "Midterms, Markets, and Earnings Malaise. Apple and Palantir Sum Up the Mood.",
