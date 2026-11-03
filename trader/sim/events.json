@@ -1,5 +1,63 @@
 [
   {
+    "title": "Alphabet Stock Tanks After Earnings: Should Investors Buy the Dip?",
+    "time": "2026-11-03T19:20:02+00:00",
+    "link": "https://www.fool.com/investing/2026/11/03/alphabet-stock-tanks-after-earnings-should-investors-buy-the-dip/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:GOOGL:rss:67214474-fb14-3435-bfa7-c91a1251a391",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "The tech giant delivered underwhelming numbers for its most recent quarter, and its stock is now trading close to its 52-week low.",
+    "seen": "2026-11-03T19:30:01+00:00"
+  },
+  {
+    "title": "Update: US Equity Indexes Mixed as Apple's Fiscal Q4 Disappoints While Investors Await Midterm Election Results",
+    "time": "2026-11-03T19:14:40+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-apple-191440044.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:036930c1-c7a6-3b4a-815c-36464e429edc",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
+    "seen": "2026-11-03T19:30:01+00:00"
+  },
+  {
+    "title": "Apple fails to impress Wall Street, bear market chatter heats up, and AI assessing job productivity",
+    "time": "2026-11-03T18:50:21+00:00",
+    "link": "https://finance.yahoo.com/video/apple-fails-to-impress-wall-street-bear-market-chatter-heats-up-and-ai-assessing-job-productivity-185021345.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:dd1bbe35-1782-49fb-9efc-a1cd7faa6819",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Market Hang's panel discusses Apple's (AAPL) stock and how memory prices are affecting the company's bottom line.  Plus, how the midterms factor into a bear market outlook, and whether AI is doing \"dirty work\" at the office and assessing job productivity. Today's panel includes Tema ETFs Chief Inves",
+    "seen": "2026-11-03T19:30:01+00:00"
+  },
+  {
+    "title": "Apple earnings analysis: questions answered and next catalysts",
+    "time": "2026-11-03T18:24:18+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-earnings-analysis-questions-answered-182418421.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:864f0c1d-943f-3411-9436-54ac9af8441d",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Investing.com -- Apple Inc (AAPL) beat on fiscal Q4 2026 (reported Nov 2, 2026) and the stock still fell. It traded at $332.64 (-1.68%) as of Nov 3, 12:49 PM EST. The headline numbers were strong. The guidance for margins and Services is what drew the selling.",
+    "seen": "2026-11-03T19:30:01+00:00"
+  },
+  {
     "title": "What does it mean for the AI trade that Apple is the priciest 'Mag 7' stock?",
     "time": "2026-11-03T18:17:45+00:00",
     "link": "https://finance.yahoo.com/video/what-does-it-mean-for-the-ai-trade-that-apple-is-the-priciest-mag-7-stock-181745077.html?.tsrc=rss",
@@ -13,6 +71,35 @@
     "sym": "AAPL",
     "summary": "Host and \"The Buy Side\" author Turney Duff and his panel of experts weigh in on whether Apple is getting too expensive at about 36 times forward earnings and what signals lie beneath it about the AI trade's staying power. Today's panel includes Paisley Nardini, Chief Investment Strategist at Tema ET",
     "seen": "2026-11-03T18:20:53+00:00"
+  },
+  {
+    "title": "Alphabet Stocks Move Lower With $121.3 Billion Anthropic Commitment in Focus",
+    "time": "2026-11-03T18:11:27+00:00",
+    "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-stocks-move-lower-121-181127673.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:a540567e-8ad1-3caa-b9b0-042da8c41519",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Google's cloud opportunity carries a substantial delivery and capital-allocation requirement.",
+    "seen": "2026-11-03T19:30:01+00:00"
+  },
+  {
+    "title": "Cisco AI backlog and core demand underpin Bank of America’s bullish outlook",
+    "time": "2026-11-03T18:11:00+00:00",
+    "link": "https://www.proactiveinvestors.com/companies/news/1101169/cisco-ai-backlog-and-core-demand-underpin-bank-of-america-s-bullish-outlook-1101169.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "analyst"
+    ],
+    "id": "news:BAC:rss:95cd6c6a-e893-38f7-81b2-3d666cccbc98",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Cisco Systems Inc (NASDAQ:CSCO, XETRA:CIS) strong demand supports Bank of America’s maintained \"buy\" rating and $150 price target, despite expected gross margin pressure from increased hardware and cloud sales. Ahead of fiscal first-quarter 2027 results on November 12, the bank expects...",
+    "seen": "2026-11-03T19:30:01+00:00"
   },
   {
     "title": "Apple Just Stockpiled $10 Billion of Parts While Warning Memory Prices Are 'Unprecedented.' Should Investors Worry?",
