@@ -1,5 +1,140 @@
 [
   {
+    "title": "Top Midday Stories: Apple Fiscal Q4 EPS, Revenue Top Estimates, Shares Fall; Meta Reportedly Targeting Up to $25 Billion in Bond Sale",
+    "time": "2026-11-03T17:09:56+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-apple-fiscal-170956313.html?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:3dbe9b04-5787-35ae-a552-fc1ac9b4ac01",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "The S&P 500 Index and Nasdaq Composite were up in late-morning trading Tuesday, while the Dow Jones",
+    "seen": "2026-11-03T17:27:46+00:00"
+  },
+  {
+    "title": "Update: Apple, Amazon Face Sanction Proceedings From Spanish Regulator",
+    "time": "2026-11-03T17:05:15+00:00",
+    "link": "https://finance.yahoo.com/technology/articles/apple-amazon-face-sanction-proceedings-170515641.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:79afc66b-b9c9-3738-a072-d777b2dea5e1",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "(Updates to include comments from Apple and Amazon in the last two paragraphs.) Apple (AAPL) and",
+    "seen": "2026-11-03T17:27:46+00:00"
+  },
+  {
+    "title": "Apple’s Hardware Strength Fuels Analyst Optimism, Multiple Analysts Raise Price Targets",
+    "time": "2026-11-03T17:03:28+00:00",
+    "link": "https://247wallst.com/investing/2026/11/03/apples-hardware-strength-fuels-analyst-optimism-multiple-analysts-raise-price-targets/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "analyst"
+    ],
+    "id": "news:AAPL:rss:95f09abc-8496-33f4-ab5a-cf0da78b078b",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Three major Wall Street firms just revised their Apple targets after a record quarter, yet shares tumbled premarket as investors zeroed in on one number buried in the guidance that could define the stock's next move.",
+    "seen": "2026-11-03T17:27:46+00:00"
+  },
+  {
+    "title": "Apple 2027 Growth Outlook Faces Scrutiny — Analysts See iPhone Upside, Flag Services Slowdown And Margin Risks",
+    "time": "2026-11-03T16:52:00+00:00",
+    "link": "https://stocktwits.com/news-articles/markets/equity/apple-2027-growth-outlook-faces-scrutiny-analysts-see-i-phone-upside-flag-services-slowdown-and-margin-risks/cNGXBwIR9dP?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:783a0d0e-389f-355c-8d94-63b6bcbac8f2",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Wall Street is divided over whether Apple’s product momentum can keep earnings growing as the company’s cost base rises.",
+    "seen": "2026-11-03T17:27:46+00:00"
+  },
+  {
+    "title": "5 Best Stocks to Buy For Next 10 Years",
+    "time": "2026-11-03T16:51:49+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-next-165149748.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:GOOGL:rss:40d8a7d9-4ca5-3527-bf8f-0d83d185f024",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "The AI bubble seems to be popping sooner than expected. Investors are running out of patience, and they want to know where the returns are on the huge AI investments. Tech stocks, including Amazon, Meta, Alphabet, and Intel, dropped hard after their latest earnings reports. Intel fell 29%, its bigge",
+    "seen": "2026-11-03T17:27:46+00:00"
+  },
+  {
+    "title": "Can Apple Defend Its Premium?",
+    "time": "2026-11-03T16:46:11+00:00",
+    "link": "https://finance.yahoo.com/video/apple-defend-premium-164611089.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:4ac8da79-05f2-32ea-b117-2f4c9adf9399",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple's 36x forward earnings valuation leaves little room for bad news. Craig Moffett, the Founding Partner and Senior Analyst at MoffettNathanson says slowing services growth, rising memory costs and iPhone supply limits are testing the story. He joins Bloomberg Open Interest to talk about why the ",
+    "seen": "2026-11-03T17:27:46+00:00"
+  },
+  {
+    "title": "I Just Invested $4,700 Into 4 Dividend Stocks. Here's Why I'm More Excited About Their Potential Returns Than Their $59 in Annual Income.",
+    "time": "2026-11-03T16:35:02+00:00",
+    "link": "https://www.fool.com/investing/2026/11/03/i-just-invested-usd4-700-into-4-dividend-stocks-here-s-why-i-m-more-excited-about-their-potential-returns-than-their-usd59-in-annual-income/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "capital"
+    ],
+    "id": "news:CB:rss:be3d81fd-17d6-3c27-8cbf-3112912edc83",
+    "type": "news",
+    "sym": "CB",
+    "summary": "Brookfield, Prologis, Chubb, and Kinsale don't pay much today, but their earnings growth could do the heavy lifting over the next decade.",
+    "seen": "2026-11-03T17:27:46+00:00"
+  },
+  {
+    "title": "Palantir and Shopify Both Beat Earnings. Their Stocks are Falling Anyway.",
+    "time": "2026-11-03T16:34:16+00:00",
+    "link": "https://247wallst.com/videos/palantir-and-shopify-both-beat-earnings-their-stocks-are-falling-anyway/?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:dab414c9-e137-34ad-a4a5-747a8d7d585d",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple, Palantir, Shopify, and several other major companies just reported earnings, and Wall Street is sending a clear message: Beating expectations isn't enough when profit margins are under pressure. In this video, Eric Bleeker, CFA, Chief Investment Officer of 24/7 Wall St., breaks down the bigge",
+    "seen": "2026-11-03T17:27:46+00:00"
+  },
+  {
+    "title": "Apple Services Unit Faces Near-Term Pressure as Memory Costs Weigh on Margin Guidance, Morgan Stanley Says",
+    "time": "2026-11-03T16:31:41+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-services-unit-faces-near-163141277.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:0524c8de-1f48-3c02-b1c1-f4a9e375ad45",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple's (AAPL) services business faces near-term pressure amid factors including third-party licensi",
+    "seen": "2026-11-03T17:27:46+00:00"
+  },
+  {
     "title": "Higher memory prices take a bite out of Apple's margins",
     "time": "2026-11-03T16:19:21+00:00",
     "link": "https://finance.yahoo.com/technology/article/higher-memory-prices-take-a-bite-out-of-apples-margins-161921051.html?.tsrc=rss",
@@ -11,6 +146,21 @@
     "sym": "AAPL",
     "summary": "Higher memory prices are hurting Apple's margins.",
     "seen": "2026-11-03T16:28:29+00:00"
+  },
+  {
+    "title": "Google Parent Plans $1.5 Billion Prepaid Energy Deal Via Goldman",
+    "time": "2026-11-03T16:10:40+00:00",
+    "link": "https://finance.yahoo.com/energy/articles/google-parent-plans-1-5-161040920.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "deal"
+    ],
+    "id": "news:GOOGL:rss:b7225f91-b6b4-3de8-bc25-c21d9b7ea1a8",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Google parent Alphabet Inc. is back in the municipal bond market for the second time this year with a $1.5 billion prepaid energy deal.",
+    "seen": "2026-11-03T17:27:46+00:00"
   },
   {
     "title": "2 Monster Stocks to Buy and Hold for the Next 20 Years",
