@@ -1810,5 +1810,321 @@
       }
     ],
     "block": null
+  },
+  {
+    "action": "VERKAUF",
+    "sym": "AAPL",
+    "shares": 0.24141714549706927,
+    "price": 327.075,
+    "value": 70.55174487442274,
+    "pnl": -4.448255125577262,
+    "why": "Stop-Loss: Kurs 327.07 $ ist unter die Verlustgrenze von 330.93 $ gefallen",
+    "id": "2026-11-03T14:30:24+00:00:VERKAUF:AAPL",
+    "time": "2026-11-03T14:30:24+00:00",
+    "kind": "stop",
+    "fx": 1.1192,
+    "pnl_pct": -5.931006834103016,
+    "entry": 346.33,
+    "bought": "2026-10-30T14:29:59+00:00",
+    "regime": "vorsichtig",
+    "levels": {
+      "stop": 330.92647706923304,
+      "trail": 326.82506789692627,
+      "sell_score": -4,
+      "entry": 346.33,
+      "peak": 348.39
+    },
+    "name": "Apple Inc.",
+    "total": 1,
+    "scores": {
+      "Signale": 2,
+      "Trend": 0,
+      "Momentum": 0,
+      "Volumen": -1,
+      "Intraday": 0,
+      "News": 0
+    },
+    "reasons": {
+      "Signale": [
+        "Berkshire Hathaway hält 22.0 %"
+      ],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 > SMA200",
+        "ADX 19: kein klarer Trend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 38 neutral",
+        "unter dem unteren Bollinger-Band"
+      ],
+      "Volumen": [
+        "2.5x Volumen an einem Minus-Tag"
+      ],
+      "Intraday": [
+        "keine Intraday-Daten"
+      ],
+      "News": [
+        "11 Schlagzeilen: 2 positiv, 2 negativ",
+        "8-K: Quartalszahlen veröffentlicht"
+      ]
+    },
+    "ind": {
+      "price": 327.075,
+      "sma50": 333.95490087890624,
+      "sma200": 297.3143250427246,
+      "adx": 19.05897312110169,
+      "plus_di": 18.480721855279906,
+      "minus_di": 30.882177829451184,
+      "macd_hist": -1.853713773340146,
+      "rsi": 38.0186222254228,
+      "stoch_k": 6.609893234814008,
+      "stoch_d": 29.53355473869402,
+      "bb_upper": 351.73139356738676,
+      "bb_lower": 332.3231096064414,
+      "bb_width": 5.67448467070859,
+      "roc20": -1.9647528060657948,
+      "rvol": 2.539188613741237,
+      "obv_trend": 0.007616125630674097,
+      "cmf": -0.027108752261181104,
+      "buy_sell_ratio": 1.0158276630727712,
+      "high52": 351.7300109863281,
+      "low52": 243.4199981689453,
+      "atr": 7.444423216679487,
+      "chg": -3.323778399378685,
+      "spark": [
+        298.21,
+        300.23,
+        297.84,
+        298.97,
+        302.25,
+        304.99,
+        308.82,
+        308.33,
+        310.85,
+        312.51,
+        312.06,
+        306.31,
+        315.2,
+        310.26,
+        311.23,
+        307.34,
+        301.54,
+        290.55,
+        291.58,
+        295.63,
+        291.13,
+        296.42,
+        299.24,
+        295.95,
+        298.01,
+        297.01,
+        294.3,
+        293.08,
+        275.15,
+        283.78,
+        281.74,
+        289.36,
+        294.38,
+        308.63,
+        312.66,
+        310.66,
+        313.39,
+        316.22,
+        315.32,
+        317.31,
+        314.86,
+        327.5,
+        333.26,
+        333.74,
+        326.59,
+        327.74,
+        325.89,
+        321.66,
+        333.02,
+        336.91,
+        340.08,
+        338.19,
+        333.43,
+        308.91,
+        303.42,
+        309.38,
+        311.0,
+        312.41,
+        313.33,
+        308.26,
+        304.91,
+        302.25,
+        305.26,
+        305.93,
+        305.59,
+        310.03,
+        316.83,
+        311.3,
+        309.35,
+        310.34,
+        309.9,
+        313.45,
+        314.58,
+        319.7,
+        316.85,
+        325.13,
+        324.96,
+        328.21,
+        319.97,
+        316.22,
+        315.34,
+        326.57,
+        332.27,
+        333.08,
+        331.34,
+        332.41,
+        337.0,
+        336.13,
+        338.98,
+        339.75,
+        337.02,
+        335.92,
+        341.07,
+        338.4,
+        329.4,
+        333.02,
+        330.32,
+        333.69,
+        332.89,
+        333.63,
+        336.67,
+        340.42,
+        336.64,
+        340.97,
+        341.27,
+        342.96,
+        342.0,
+        343.46,
+        342.94,
+        339.5,
+        343.99,
+        348.22,
+        347.73,
+        343.91,
+        347.1,
+        343.83,
+        348.91,
+        344.63,
+        338.32,
+        327.07
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Stock Market Today: Dow Futures Plunge 323 Points, Apple Sinks, and Iran Strikes Send Oil Soaring",
+        "time": "2026-11-03T14:17:47+00:00",
+        "link": "https://247wallst.com/investing/2026/11/03/stock-market-today-dow-futures-plunge-323-points-apple-sinks-and-iran-strikes-send-oil-soaring/?.tsrc=rss",
+        "tone": -2,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Apple tried to 'sit out' AI, and now it's paying the price",
+        "time": "2026-11-03T14:04:48+00:00",
+        "link": "https://finance.yahoo.com/video/apple-tried-to-sit-out-ai-and-now-its-paying-the-price-140448792.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Stock Market Today: Dow Slides On Election Day; Apple, Palantir Dive On Earnings (Live Coverage)",
+        "time": "2026-11-03T13:53:58+00:00",
+        "link": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Apple Retreats 4% Despite Earnings Beat as Memory Costs Squeeze Margin Outlook; Microsoft Dips, Meta Holds Steady",
+        "time": "2026-11-03T13:49:42+00:00",
+        "link": "https://247wallst.com/investing/2026/11/03/apple-retreats-4-despite-earnings-beat-as-memory-costs-squeeze-margin-outlook-microsoft-dips-meta-holds-steady/?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Stock Market Today: Dow Futures Drop as Apple Sinks After Earnings; Chip Stocks Rebound as AMD Results Loom",
+        "time": "2026-11-03T13:08:22+00:00",
+        "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11032026-12209150?.tsrc=rss",
+        "tone": -2,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Apple Lost About $140 Billion After Hours as Its New CEO Calls Memory Prices “Unprecedented”",
+        "time": "2026-11-03T13:08:16+00:00",
+        "link": "https://247wallst.com/investing/2026/11/03/apple-lost-about-140-billion-after-hours-as-its-new-ceo-calls-memory-prices-unprecedented/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings",
+          "people"
+        ]
+      },
+      {
+        "title": "Premarket movers: Apple, Palantir, Dynatrace slide premarket; Grab, Upwork jump",
+        "time": "2026-11-03T13:03:32+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-apple-palantir-dynatrace-130332497.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Wall Street weighs Apple’s hardware strength against Services, margin headwinds",
+        "time": "2026-11-03T13:03:31+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-weighs-apple-hardware-130331511.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Gesamt-Score mindestens 6",
+        "ok": false,
+        "val": 1
+      },
+      {
+        "rule": "Trend positiv (mindestens +1)",
+        "ok": false,
+        "val": 0
+      },
+      {
+        "rule": "Volumen nicht negativ",
+        "ok": false,
+        "val": -1
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      },
+      {
+        "rule": "Marktlage nicht risk-off",
+        "ok": true,
+        "val": "vorsichtig"
+      }
+    ],
+    "block": null
   }
 ]

@@ -1,5 +1,477 @@
 [
   {
+    "id": "trade:2026-11-03T14:30:24+00:00:VERKAUF:AAPL",
+    "type": "trade",
+    "sym": "AAPL",
+    "time": "2026-11-03T14:30:24+00:00",
+    "title": "Bot: VERKAUF AAPL für 70,55 €",
+    "detail": "Stop-Loss: Kurs 327.07 $ ist unter die Verlustgrenze von 330.93 $ gefallen",
+    "tone": -1,
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Stock Market Today: Dow Futures Plunge 323 Points, Apple Sinks, and Iran Strikes Send Oil Soaring",
+    "time": "2026-11-03T14:17:47+00:00",
+    "link": "https://247wallst.com/investing/2026/11/03/stock-market-today-dow-futures-plunge-323-points-apple-sinks-and-iran-strikes-send-oil-soaring/?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:1acdcb9e-cc28-37f7-aa8e-301cad1bc92c",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Dow Jones Industrial Average futures point to a weak start on midterm Election Day. They were down 323 points in early trading, while Nasdaq 100 futures traded higher. Two problems are hitting the Dow at once: a disappointing margin forecast from Apple (NASDAQ:AAPL) and a jump in oil after a reporte",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Apple tried to 'sit out' AI, and now it's paying the price",
+    "time": "2026-11-03T14:04:48+00:00",
+    "link": "https://finance.yahoo.com/video/apple-tried-to-sit-out-ai-and-now-its-paying-the-price-140448792.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:2e773885-95cc-4806-9878-7b34c2210af8",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Sherwood News head of markets, Luke Kawa, joins \"The 8:30\" hosts Pras Subramanian and Jake Conley to discuss Apple's (AAPL) latest quarterly earnings.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Stock Market Today: Dow Slides On Election Day; Apple, Palantir Dive On Earnings (Live Coverage)",
+    "time": "2026-11-03T13:53:58+00:00",
+    "link": "https://finance.yahoo.com/m/810dfed2-d215-3d61-b039-c22ccd3cf6d4/stock-market-today%3A-dow.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:810dfed2-d215-3d61-b039-c22ccd3cf6d4",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "The Dow Jones index drops on Election Day, as Apple stock and Palantir tumble on earnings.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Apple Retreats 4% Despite Earnings Beat as Memory Costs Squeeze Margin Outlook; Microsoft Dips, Meta Holds Steady",
+    "time": "2026-11-03T13:49:42+00:00",
+    "link": "https://247wallst.com/investing/2026/11/03/apple-retreats-4-despite-earnings-beat-as-memory-costs-squeeze-margin-outlook-microsoft-dips-meta-holds-steady/?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:74c52fb7-2331-32e4-b930-0a2f087eb36e",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple just posted a record September quarter and the stock is selling off anyway, because what management said about the holiday quarter spooked investors far more than the earnings beat reassured them.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Rate Hikes Could Be Coming: History Likes These 4 Bank Stocks",
+    "time": "2026-11-03T13:37:52+00:00",
+    "link": "https://247wallst.com/investing/2026/11/03/rate-hikes-could-be-coming-history-likes-these-4-bank-stocks/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BAC:rss:4f662d89-a0cd-3034-8abc-c6437c7cb14f",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "The Federal Reserve is gearing up to raise rates again, and Wall Street's four biggest banks are not equally positioned to benefit. History shows at least one of them actually loses ground when tightening cycles hit.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "How Investors May Respond To Alphabet Stock Euro Bond Sale",
+    "time": "2026-11-03T13:09:35+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-alphabet-stock-130935219.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:51fb4d4a-75ac-37c1-a5f4-ba75ee2debdb",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet has recently completed several euro and US dollar bond issues, including €995.75 million 5.250% notes due 2045 and €1.249688 billion 4.05% notes due 2030, alongside floating rate euro paper, to help fund extensive artificial intelligence infrastructure, data centers, and related capital exp",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Stock Market Today: Dow Futures Drop as Apple Sinks After Earnings; Chip Stocks Rebound as AMD Results Loom",
+    "time": "2026-11-03T13:08:22+00:00",
+    "link": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11032026-12209150?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:f3c8f8d7-da4e-3b8a-b5b5-4d67e5338c6c",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Stock futures are pointing to a mixed open for major indexes Tuesday as investors digest a flurry of earnings reports and turn their attention to the midterm elections.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Apple Lost About $140 Billion After Hours as Its New CEO Calls Memory Prices “Unprecedented”",
+    "time": "2026-11-03T13:08:16+00:00",
+    "link": "https://247wallst.com/investing/2026/11/03/apple-lost-about-140-billion-after-hours-as-its-new-ceo-calls-memory-prices-unprecedented/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "people"
+    ],
+    "id": "news:AAPL:rss:8dd75f67-e3f9-3073-b1a5-4b7e1423a3f8",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "John Ternus used his first words as Apple CEO on an earnings call to warn investors about a cost problem spreading across every device the company sells, and the market responded before he finished speaking.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Premarket movers: Apple, Palantir, Dynatrace slide premarket; Grab, Upwork jump",
+    "time": "2026-11-03T13:03:32+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-apple-palantir-dynatrace-130332497.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:afb472fa-022c-30da-8e91-4cd1cb07e0e1",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Investing.com - U.S. stock index futures traded mixed on Tuesday as investors prepared for the results of the U.S. midterm elections and assessed a renewed rise in oil prices.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Wall Street weighs Apple’s hardware strength against Services, margin headwinds",
+    "time": "2026-11-03T13:03:31+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-weighs-apple-hardware-130331511.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:5c6b4e24-f69f-386d-a906-8be3bdd6f757",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Investing.com -- Wall Street analysts praised Apple’s (NASDAQ: AAPL) strong iPhone and Mac sales after its fiscal fourth-quarter results on Monday, but flagged slowing Services growth and memory-driven margin pressure as key concerns.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Chevron Corporation (CVX) is Attracting Investor Attention: Here is What You Should Know",
+    "time": "2026-11-03T13:00:04+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-corporation-cvx-attracting-investor-130004858.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:b4fb850e-64a9-3a3c-bbff-a6cf1fc1bba2",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Chevron (CVX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Investors Heavily Search Occidental Petroleum Corporation (OXY): Here is What You Need to Know",
+    "time": "2026-11-03T13:00:02+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-occidental-petroleum-130002117.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:OXY:rss:2aabc224-7069-3ab9-b1e9-d6c9f0bcc955",
+    "type": "news",
+    "sym": "OXY",
+    "summary": "Occidental (OXY) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Bank of America Names Josh Barnes as Knoxville Market President",
+    "time": "2026-11-03T13:00:00+00:00",
+    "link": "https://finance.yahoo.com/small-business/articles/bank-america-names-josh-barnes-130000479.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BAC:rss:edcc90f8-668e-3cdf-bf37-710492debe17",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Bank of America today announced that Josh Barnes has been named president of its Knoxville market. Barnes succeeds Terry L. Cline, who retired earlier this year.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Buy, Sell, or Hold? Tuesday’s Top Upgrades and Downgrades: AON, Bloom Energy, Chevron, Cloudflare, Marvell Technologies, Lumentum Holdings, Merck & Co., Roku, X-Energy, and More",
+    "time": "2026-11-03T12:59:26+00:00",
+    "link": "https://247wallst.com/investing/2026/11/03/buy-sell-or-hold-tuesdays-top-upgrades-and-downgrades-aon-bloom-energy-chevron-cloudflare-marvell-technologies-lumentum-holdings-merck-co-roku-x-energy-and-more/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "analyst"
+    ],
+    "id": "news:AAPL:rss:9391db65-1413-36ff-b8fe-e13637c9c1b5",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Tech stocks keep beating estimates and then selling off anyway, Apple just joined the club, and Wall Street analysts are busy reshuffling their ratings on everything from nuclear energy plays to insurance giants. Here is who got upgraded, downgraded, and initiated today.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Midterms, Markets, and Earnings Malaise. Apple and Palantir Sum Up the Mood.",
+    "time": "2026-11-03T12:43:00+00:00",
+    "link": "https://finance.yahoo.com/m/8c98fe86-43ff-387a-9a9a-fa7efa5633e6/midterms%2C-markets%2C-and.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AAPL:rss:8c98fe86-43ff-387a-9a9a-fa7efa5633e6",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "All the news you need to start your day.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "The Nasdaq 100 Is Now Officially in a Correction",
+    "time": "2026-11-03T12:38:59+00:00",
+    "link": "https://247wallst.com/investing/2026/11/03/the-nasdaq-100-is-now-officially-in-a-correction/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:QQQ:rss:b2d52b19-915f-3bd4-a096-fd570443cbc3",
+    "type": "news",
+    "sym": "QQQ",
+    "summary": "A late-session reversal wiped out early gains and pushed the Nasdaq 100 past a threshold it had nearly touched days earlier, while chips cratered and most of the market quietly moved higher. What that split tells long-term QQQ holders about what comes next is complicated.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Apple Has Gotten ‘Zero Out of AI.’ Bulls Say It Doesn’t Matter Yet.",
+    "time": "2026-11-03T12:20:31+00:00",
+    "link": "https://247wallst.com/investing/2026/11/03/apple-has-gotten-zero-out-of-ai-bulls-say-it-doesnt-matter-yet/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:26b27bf2-a9c1-302a-99cc-b2fb4ce7acb9",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple just posted its best fiscal year ever without a single dollar of AI-driven revenue, and even the skeptics admit the hardware cycle is holding up. But with rivals cashing in on AI and Siri still trailing ChatGPT, how long can that last?",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "The Stock Market Has Boomed After the Last 19 Midterms. Whether Trump Wins or Loses on Tuesday, Wednesday Could be the Day to Buy",
+    "time": "2026-11-03T12:07:14+00:00",
+    "link": "https://247wallst.com/videos/the-stock-market-has-boomed-after-the-last-19-midterms-whether-trump-wins-or-loses-on-tuesday-wednesday-could-be-the-day-to-buy/?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:QQQ:rss:d5ad9177-49d0-3626-b0eb-b6c733f327fd",
+    "type": "news",
+    "sym": "QQQ",
+    "summary": "The S&P 500 has risen from November through April in all 19 midterm years since 1950. 24/7 Wall St. Chief Investment Officer Eric Bleeker walks through Ryan Detrick's data on why the days after the midterms have been a good time for stocks. He notes why the coming months could be great for ETFs like",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "The Zacks Analyst Blog Highlights Seagate, Chubb, Intercontinental and Medalist Diversified",
+    "time": "2026-11-03T11:41:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-seagate-114100771.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "analyst"
+    ],
+    "id": "news:CB:rss:809e0958-c7ce-342f-aed3-e76c61eef86b",
+    "type": "news",
+    "sym": "CB",
+    "summary": "Seagate, Chubb and Intercontinental outperform their industries, while Medalist Diversified faces cash flow challenges. Explore the growth drivers, risks and outlook shaping these four stocks.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Invesco QQQ (QQQ) Sells Apple and NVIDIA on Oct. 30",
+    "time": "2026-11-03T11:04:22+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-sells-apple-110422063.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:QQQ:rss:7dd426cd-87cb-3c18-8a85-5dc61357ec2f",
+    "type": "news",
+    "sym": "QQQ",
+    "summary": "The $463.83 billion fund sold $448.2 million across all 101 holdings, with no buys.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "State Street SPDR S&P Dividend ETF (SDY) Sells Accenture and Chevron on Oct. 30",
+    "time": "2026-11-03T11:03:57+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-p-dividend-110357704.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "capital"
+    ],
+    "id": "news:CVX:rss:9de818f6-8f88-3e59-9a1f-b45c20b22088",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "The $23.87 billion fund sold $3.76 billion of stock, cutting 110 positions and adding to 45, with net sales of $1.63 billion.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "SPDR S&P 500 ETF (SPY) Adds Vylor and Apple on Friday",
+    "time": "2026-11-03T11:03:50+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-spy-110350124.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:SPY:rss:198f5e63-373e-38be-b864-e526e6c6aa74",
+    "type": "news",
+    "sym": "SPY",
+    "summary": "The fund bought $5.73 billion of stock and sold nothing, lifting all 503 positions, led by a $596.5 million new stake in Vylor.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "ETFs Are Net Sellers of Chevron (CVX) on Oct. 30",
+    "time": "2026-11-03T11:02:43+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-chevron-cvx-110243473.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:158c0a0b-ab9a-3c3a-9d2a-88f92fe7cbe9",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "ETFs sold $107.4 million of Chevron (CVX) on Oct. 30, with 45 buyers against 18 sellers.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Chevron (CVX) Lifts Exploration Budget 50%",
+    "time": "2026-11-03T10:09:17+00:00",
+    "link": "https://finance.yahoo.com/energy/articles/chevron-cvx-lifts-exploration-budget-100917941.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:76a6b0e6-53ee-36ac-97f8-db686cbde85d",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Chevron (NYSE: CVX) has lifted its exploration budget by 50%, marking its largest exploration push in several years. The company is allocating new spending toward frontier basins across South America, Africa, and the Eastern Mediterranean. Management plans sizeable acreage additions and a new wave o",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "What Is Bank of America (BAC) Signaling With Its New Board And Las Vegas Chief?",
+    "time": "2026-11-03T09:09:05+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-signaling-board-090905928.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:BAC:rss:5b1e9350-c7cc-35ae-b824-f15441b3c590",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Bank of America (NYSE:BAC) appointed Wendy Franco as president of the Las Vegas market, overseeing local business and community efforts. Jim Fitterling, chair and CEO of Dow Inc., and Bill Thomas, former KPMG International CEO, joined Bank of America’s Board of Directors. Fitterling and Thomas bring",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "AML Settlement Charge Might Change The Case For Investing In Bank of America (BAC)",
+    "time": "2026-11-03T08:10:51+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/aml-settlement-charge-might-change-081051020.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:BAC:rss:39b04921-38d1-3aff-ab2d-1a3887c4e30c",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Bank of America reported weaker than expected Q3 2026 results after recording a US$1.2b regulatory settlement charge tied to anti money laundering oversight issues, which has been followed by multiple class action lawsuits focused on alleged compliance failures. The regulatory hit and litigation spo",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Questcorp Mining Completes Acquisition of 100% Interest in North Island Copper Project",
+    "time": "2026-11-03T07:01:00+00:00",
+    "link": "https://finance.yahoo.com/markets/commodities/articles/questcorp-mining-completes-acquisition-100-070100734.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "deal"
+    ],
+    "id": "news:QQQ:rss:843f1782-b519-3a4f-a70a-e70b1f487e6e",
+    "type": "news",
+    "sym": "QQQ",
+    "summary": "Vancouver, British Columbia--(Newsfile Corp. - November 3, 2026) - Questcorp Mining Inc. (CSE: QQQ) (OTCQB: QQCMF) (FSE: D910) (the \"Company\" or \"Questcorp\") is pleased to announce that it has completed the acquisition of a 100% interest in the North Island Copper Project, located near Port Hardy on",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Bank of America pulls its Buy on Intel as the comeback slips",
+    "time": "2026-11-03T00:17:00+00:00",
+    "link": "https://www.thestreet.com/investing/bank-of-america-pulls-buy-rating-on-intel-as-comeback-slips?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BAC:rss:d43f25c0-9cff-38a9-8eca-f105d110fe8d",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Intel’s data center chips are selling faster than ever, but the PC slump and a slow foundry ramp may delay its turnaround.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Chevron & Exxon Mobil Stocks Retreat From 52-Week Highs: Buy the Dip?",
+    "time": "2026-11-02T23:17:00+00:00",
+    "link": "https://finance.yahoo.com/energy/articles/chevron-exxon-mobil-stocks-retreat-231700413.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:7e78b4aa-b990-37b1-9f10-a2009d8b49a5",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "With Chevron and Exxon stock both up nearly 50% year to date, investors may be wondering whether the pullback presents a buying opportunity.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "id": "filing:sec:0000320193-26-000024",
+    "type": "filing",
+    "sym": "AAPL",
+    "time": "2026-11-02T21:30:23+00:00",
+    "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000024/0000320193-26-000024-index.htm",
+    "severity": "note",
+    "title": "Apple Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht",
+    "tone": 0,
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "5 Top Stocks That Belong in a Retirement Portfolio",
+    "time": "2026-11-02T20:39:57+00:00",
+    "link": "https://www.tikr.com/blog/5-top-stocks-that-belong-in-a-retirement-portfolio?ref=yahoofinancedividend&tlnk=yf-261102-92rwrgpv&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:51afc582-3999-3443-874c-87db199e7e75",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Key TakeawaysJohnson & Johnson, Procter & Gamble, PepsiCo, Chevron and Verizon pay growing dividends from five different businesses, with yields from 2. 0% to 6.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "CVX Q3 deep dive: operational discipline, Venezuela expansion, and AI adoption drive results",
+    "time": "2026-11-02T20:21:36+00:00",
+    "link": "https://finance.yahoo.com/energy/articles/cvx-q3-deep-dive-operational-202136087.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:1a05b4f1-95e5-397d-ba64-00b3a1eb9c67",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Integrated energy company Chevron (NYSE:CVX) reported Q3 2026 results beating Wall Street’s revenue expectations, with sales up 36.3% year on year to $67.8 billion. Its non-GAAP profit of $5.28 per share was 8.5% above analysts’ consensus estimates.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
+    "title": "Top Stock Reports for Seagate, Chubb & Intercontinental",
+    "time": "2026-11-02T20:21:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-seagate-chubb-202100415.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CB:rss:c773a74c-cc44-32f2-89d7-df9000378ff7",
+    "type": "news",
+    "sym": "CB",
+    "summary": "Seagate, Chubb and Intercontinental lead today's featured stock research, with Seagate's robust sales, Chubb's earnings resilience and Intercontinental's data growth in focus.",
+    "seen": "2026-11-03T14:30:24+00:00"
+  },
+  {
     "title": "Scott Galloway: Zuckerberg Is “Clearly Coming for YouTube” and Its 16% of TV Time",
     "time": "2026-11-02T20:08:23+00:00",
     "link": "https://www.tikr.com/blog/scott-galloway-zuckerberg-is-clearly-coming-for-youtube-and-its-16-of-tv-time?ref=yahoofinance&tlnk=yf-261102-r3g7mrwf&.tsrc=rss",
@@ -1214,6 +1686,19 @@
     "sym": "QQQ",
     "summary": "Buying the entire Nasdaq instead of just the top 100 sounds like a safer, more diversified bet, but one stock quietly dominates both funds in a way that could catch retirees off guard.",
     "seen": "2026-11-02T14:34:43+00:00"
+  },
+  {
+    "title": "Goldman Sachs, Bank of America lead South and Central America financial advisory M&A rankings in Q1-Q3 2026",
+    "time": "2026-11-02T07:17:07+00:00",
+    "link": "https://www.privatebankerinternational.com/news/south-central-america-financial-advisory-ma-rankings/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BAC:rss:48300ff4-cc81-32f8-a7a4-5f0844a9eb5e",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Goldman Sachs led by value with advisory on $10.4bn worth of transactions, while Bank of America led by volume with five deals.",
+    "seen": "2026-11-03T14:30:24+00:00"
   },
   {
     "title": "There's a $12,000 Reason to Consider Investing in QQQ Over SPY, but It Comes With a Caveat",
