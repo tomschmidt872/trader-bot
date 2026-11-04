@@ -1,5 +1,198 @@
 [
   {
+    "title": "Apple's AI problem could reach your next iPhone",
+    "time": "2026-11-04T16:07:00+00:00",
+    "link": "https://www.thestreet.com/investing/apples-ai-problem-could-reach-your-next-iphone?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:191abae6-82b6-381b-b35c-1de6c8a86517",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "AI demand is driving up a hidden Apple cost that shoppers may eventually feel.",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Apple Stocks Rise 4.5% While China AI Testing Arrives With a Product Gap",
+    "time": "2026-11-04T15:57:15+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/apple-stocks-rise-4-5-155715167.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:5ff28c43-a169-32ae-9223-2ba16dd767bf",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Today's scheduled beta milestone precedes December's planned public release.",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Constellation Energy Sinks 8%, Vistra Down 14% as Democrats’ Midterm Sweep Hits AI Power Stocks",
+    "time": "2026-11-04T15:31:57+00:00",
+    "link": "https://www.tikr.com/blog/constellation-energy-sinks-8-vistra-down-14-as-democrats-midterm-sweep-hits-ai-power-stocks?ref=yahoofinance&tlnk=yf-261104-p4rhmf6x&.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:4f9d5b90-b06e-3b56-a711-6be2209d14ea",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Key TakeawaysConstellation Energy fell 8% this morning after Democrats won Congress, in a selloff that also hit Vistra, GE Vernova and CoreWeave. Its signed deals with Alphabet’s Google and Amazon still stand, so the risk is in future contracts.",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Apple Soars 6% as Bernstein Lifts Price Target to $380 After Post-Earnings Margin Scare",
+    "time": "2026-11-04T15:29:24+00:00",
+    "link": "https://www.tikr.com/blog/apple-soars-6-as-bernstein-lifts-price-target-to-380-after-post-earnings-margin-scare?ref=yahoofinance&tlnk=yf-261104-m893j6gr&.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "analyst"
+    ],
+    "id": "news:AAPL:rss:9ef1f3c1-26c3-335a-b724-88e7b9237ed2",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Key TakeawaysApple shares jumped 6% today after Bernstein raised its price target to $380 from $370. Microsoft and Amazon rose about as much on no news of their own, pointing to a Big Tech rally.",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Amazon Soars 7% as Tech Shrugs Off Data Center Bans: “Can Buy Its Way Into New Towns”",
+    "time": "2026-11-04T15:27:12+00:00",
+    "link": "https://www.tikr.com/blog/amazon-soars-7-as-tech-shrugs-off-data-center-bans-can-buy-its-way-into-new-towns?ref=yahoofinance&tlnk=yf-261104-2574fwpq&.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:777fad4a-c778-3504-85ea-31a3ecc38dcd",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Key TakeawaysAmazon jumped 7% today and Microsoft rallied with it, after 10 Ohio towns banned large data centers. Amazon, Microsoft and Alphabet can afford to build elsewhere, so local bans won’t slow their AI spending.",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
+    "time": "2026-11-04T15:25:48+00:00",
+    "link": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:441a3903-c8df-449b-8425-aa03f0270256",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Stocks bounced on Wednesday after Democrats' sweeping mid-term elections.",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Coca-Cola (KO) Weighs India Bottling IPO Through Hindustan Coca-Cola Holdings",
+    "time": "2026-11-04T15:17:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-weighs-india-151700929.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:KO:rss:1e816c07-a080-3688-9e9a-a8522ea85141",
+    "type": "news",
+    "sym": "KO",
+    "summary": "Coca-Cola (NYSE:KO) is reportedly weighing an IPO of its Indian bottling operations through Hindustan Coca-Cola Holdings. The potential listing would involve Coca-Cola's company owned bottling assets in India, a key market within its global network. Management is said to be in the early stages of as",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Airbnb (ABNB) Brings Over 1 Million Listings To A Major Card Travel Portal",
+    "time": "2026-11-04T15:15:42+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-brings-over-1-151542068.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AXP:rss:1733b55c-15db-3443-8daa-98e9be9a74ec",
+    "type": "news",
+    "sym": "AXP",
+    "summary": "Airbnb (NasdaqGS:ABNB) and American Express have partnered to list over 1 million Airbnb properties on the Amex Travel platform. Eligible U.S. American Express Card Members can now earn Membership Rewards points and receive statement credits on Airbnb bookings made through Amex Travel. The arrangeme",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "What Wall Street is Missing About Micron’s (MU) Ultra-Low Earnings Multiple",
+    "time": "2026-11-04T15:11:07+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-missing-micron-mu-151107352.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:GOOGL:rss:3b9e2da1-920f-3209-9197-724978ef1cb8",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "We just published the list of the 10 Best Tech Stocks for the Next 5 Years and Micron Technology (MU) ranked 8th on this list. Big Tech just had a week investors will remember. At its low on Friday, Alphabet had lost $477 billion in market value for the week, its worst week ever and […]",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Post-election gridlock might be a bullish sign for Apple,",
+    "time": "2026-11-04T15:08:24+00:00",
+    "link": "https://finance.yahoo.com/video/post-election-gridlock-might-be-a-bullish-sign-for-apple-150824062.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:AAPL:rss:7981c6be-f811-4af5-bd0a-94c8876db5ee",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Yahoo Finance Executive Editor Brian Sozzi explains why he views any post-midterm election moves in the AI space as a bullish signal for Apple (AAPL). Plus, who are the winners and losers from the changes in Congress? Sozzi sits down with Novo Nordisk (NVO) President & CEO Mike Doudstar to discuss t",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "KHC Q3 Earnings Top Estimates, Emerging Markets Sales Rise",
+    "time": "2026-11-04T15:05:00+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/khc-q3-earnings-top-estimates-150500280.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:KHC:rss:5373032b-52bc-3b40-b710-8007d4a15bc8",
+    "type": "news",
+    "sym": "KHC",
+    "summary": "Kraft Heinz tops Q3 earnings and sales estimates despite annual declines, supported by Emerging Markets growth, and raises its 2026 earnings outlook.",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Amazon Rallies 7%, Apple and Microsoft Climb 5% as Big Tech Leads Post-Election Rebound",
+    "time": "2026-11-04T15:02:35+00:00",
+    "link": "https://247wallst.com/investing/2026/11/04/amazon-rallies-7-apple-and-microsoft-climb-5-as-big-tech-leads-post-election-rebound/?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:58042c2e-38ea-3e2f-8486-8eaa89a39db7",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Election night sent futures into a tailspin, but Big Tech opened with a surprising surge that left some Magnificent Seven names celebrating while others kept sliding. Whether the rebound signals a true turning point or a one-day distraction depends on what drove Amazon so far ahead of its peers.",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Post-election gridlock might be a bullish sign for Apple, memory prices",
+    "time": "2026-11-04T14:56:14+00:00",
+    "link": "https://finance.yahoo.com/video/post-election-gridlock-might-be-a-bullish-sign-for-apple-memory-prices-145614312.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:837808a8-b6aa-40f3-92b5-3e96c41430a8",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Yahoo Finance Executive Editor Brian Sozzi explains why he is viewing any post-midterm election moves in the AI space as a bullish signal for Apple (AAPL).",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Kraft Heinz earnings beat estimates despite falling sales",
+    "time": "2026-11-04T14:56:00+00:00",
+    "link": "https://www.proactiveinvestors.com/companies/news/1101232/kraft-heinz-earnings-beat-estimates-despite-falling-sales-1101232.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:KHC:rss:5c6b8da9-360a-373b-8205-8e8d40787d07",
+    "type": "news",
+    "sym": "KHC",
+    "summary": "Kraft Heinz Co (NASDAQ:KHC, XETRA:KHNZ), the food and beverage maker, raised its fiscal year 2026 adjusted earnings forecast after beating third-quarter profit estimates despite a sales decline. Adjusted earnings of $0.53 per share exceeded the $0.43 estimate but fell 13.1% from a year...",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
     "id": "trade:2026-11-04T14:36:15+00:00:VERKAUF:CVX",
     "type": "trade",
     "sym": "CVX",
@@ -43,6 +236,21 @@
     "seen": "2026-11-04T14:36:15+00:00"
   },
   {
+    "title": "GOOGL Q3 Earnings Call Highlights AI Growth and Spending Pressures",
+    "time": "2026-11-04T14:00:00+00:00",
+    "link": "https://finance.yahoo.com/technology/ai/articles/googl-q3-earnings-call-highlights-140000677.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:GOOGL:rss:2b092888-174b-3dda-b75e-482774b27b9d",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet's Q3 earnings call spotlighted surging AI-driven cloud demand, expanding TPU sales and rising infrastructure costs weighing on cash flow and margins.",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
     "title": "Meet the Only \"Magnificent Seven\" Stock That's Outperforming the S&P 500 and Nasdaq This Year (Hint: It's Not Nvidia)",
     "time": "2026-11-04T13:50:00+00:00",
     "link": "https://www.fool.com/investing/2026/11/04/meet-the-only-magnificent-seven-stock-thats-outper/?.tsrc=rss",
@@ -56,6 +264,47 @@
     "seen": "2026-11-04T14:36:15+00:00"
   },
   {
+    "title": "Are Oils-Energy Stocks Lagging  Chevron (CVX) This Year?",
+    "time": "2026-11-04T13:40:02+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/oils-energy-stocks-lagging-chevron-134002464.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:88462413-0d36-3b87-9319-41217de1fea8",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Here is how Chevron (CVX) and Chord Energy Corporation (CHRD) have performed compared to their sector so far this year.",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Kraft Heinz (KHC) Reports Q3 Earnings: What Key Metrics Have to Say",
+    "time": "2026-11-04T13:30:05+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-khc-reports-q3-133005861.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:KHC:rss:895f0732-4c78-37b8-ab98-53fbb9406a2d",
+    "type": "news",
+    "sym": "KHC",
+    "summary": "The headline numbers for Kraft Heinz (KHC) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Wall Street Analysts Think Chevron (CVX) Is a Good Investment: Is It?",
+    "time": "2026-11-04T13:30:03+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-chevron-133003186.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CVX:rss:5ace041e-14c2-3753-bb24-81a45b8d9d22",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Based on the average brokerage recommendation (ABR), Chevron (CVX) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
+    "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
     "title": "Global X Launches Magnificent Six ETF",
     "time": "2026-11-04T13:30:00+00:00",
     "link": "https://finance.yahoo.com/markets/stocks/articles/global-x-launches-magnificent-six-133000809.html?.tsrc=rss",
@@ -67,6 +316,21 @@
     "sym": "AAPL",
     "summary": "NEW YORK, November 04, 2026--Global X launches the Global X Magnificent Six ETF, which seeks to provide exposure to Alphabet; Amazon; Apple; Meta; Microsoft; and NVIDIA.",
     "seen": "2026-11-04T14:36:15+00:00"
+  },
+  {
+    "title": "Chevron Advances Iraq Oilfield Deal, Expands Growth Prospects",
+    "time": "2026-11-04T13:29:00+00:00",
+    "link": "https://finance.yahoo.com/energy/articles/chevron-advances-iraq-oilfield-deal-132900779.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "deal"
+    ],
+    "id": "news:CVX:rss:d4d293ce-4b16-37db-bccc-bc4081da3423",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "CVX advances Iraq oilfield talks, reaching key terms for West Qurna 2 and pursuing Nasiriyah and four exploration blocks to expand its upstream growth opportunities.",
+    "seen": "2026-11-04T16:27:51+00:00"
   },
   {
     "title": "Company News for Nov 4, 2026",
