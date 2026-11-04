@@ -1,5 +1,97 @@
 [
   {
+    "id": "regime:2026-11-04T17:28:07+00:00",
+    "type": "market",
+    "sym": "MARKT",
+    "time": "2026-11-04T17:28:07+00:00",
+    "title": "Marktlage wechselt von vorsichtig zu normal",
+    "detail": "S&P 500 im Aufwärtstrend; VIX 17.3: ruhig",
+    "tone": 1,
+    "seen": "2026-11-04T17:28:07+00:00"
+  },
+  {
+    "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
+    "time": "2026-11-04T17:06:03+00:00",
+    "link": "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:2cda200a-af3f-33b0-9c4f-4f0795b4a217",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Microsoft and Alphabet surged while Nvidia and Tesla fell, highlighting a divided market as investors reassess Washington's approach to AI and Big Tech.",
+    "seen": "2026-11-04T17:28:07+00:00"
+  },
+  {
+    "title": "Apple opens up Siri to all apps as it continues to transform its voice assistant",
+    "time": "2026-11-04T17:05:30+00:00",
+    "link": "https://www.independent.co.uk/tech/apple-siri-ai-new-apps-iphone-b3079287.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:1b4adf31-8da5-3a86-a50c-6c6432eb59f7",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "iPhone maker has been gradually trying to integrate AI into its phones – though more carefully and slowly than its competitors",
+    "seen": "2026-11-04T17:28:07+00:00"
+  },
+  {
+    "title": "Advanced Micro Devices (AMD): AI Data Center Sales Jump 107% as Helios Racks Roll Out",
+    "time": "2026-11-04T16:56:14+00:00",
+    "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-ai-165614786.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:81b3ee20-fe4b-3791-ae47-137bfef90aea",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "We just published the list of the 10 Best Tech Stocks for the Next 5 Years and Advanced Micro Devices (AMD) ranked 9th on this list. Big Tech just had a week investors will remember. At its low on Friday, Alphabet had lost $477 billion in market value for the week, its worst week ever […]",
+    "seen": "2026-11-04T17:28:07+00:00"
+  },
+  {
+    "title": "Microsoft Soars 7% to Record, Apple and Amazon Up 7% After Democratic Midterm Sweep",
+    "time": "2026-11-04T16:54:14+00:00",
+    "link": "https://www.tikr.com/blog/microsoft-soars-7-to-record-apple-and-amazon-up-7-after-democratic-midterm-sweep?ref=yahoofinance&tlnk=yf-261104-7xxvx929&.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:cfac14bb-1992-3284-ba1b-cc16d39d3829",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Key TakeawaysMicrosoft rose 7% to a record after Democrats swept Congress in Tuesday’s midterms, and Amazon rallied too. Fears of a slower AI data-center build-out hit CoreWeave instead.",
+    "seen": "2026-11-04T17:28:07+00:00"
+  },
+  {
+    "title": "Google's Latest AI Model Nearly Matches Anthropic at One-Third the Cost: Report",
+    "time": "2026-11-04T16:30:19+00:00",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/11/62873862/google-ai-cost?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:a596ee55-a33a-3eb5-8bdf-a19ec8946865",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet Inc. (NASDAQ:GOOGL) has nearly caught Anthropic in a demanding new AI benchmark, with its latest Gemini model delivering almost the same performance at roughly one-third the price. The new benchmark from SemiAnalysis puts Google’s Gemini 4 Carbon just behind...",
+    "seen": "2026-11-04T17:28:07+00:00"
+  },
+  {
+    "title": "Constellation Research CEO R ‘Ray’ Wang Talks Data Center Growth After AMD Reports Earnings",
+    "time": "2026-11-04T16:22:09+00:00",
+    "link": "https://finance.yahoo.com/video/constellation-research-ceo-r-ray-162209968.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "analyst",
+      "people"
+    ],
+    "id": "news:AAPL:rss:480b899b-7c16-34bd-9a10-4e86158adc50",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "How are investors evaluating the next phase of artificial intelligence growth, and what role will data centers, semiconductor companies, and hyperscalers play in shaping the future of technology markets? In this NYSE Live interview, R \"Ray\" Wang, CEO and Principal Analyst of Constellation Research, ",
+    "seen": "2026-11-04T17:28:07+00:00"
+  },
+  {
     "title": "Apple's AI problem could reach your next iPhone",
     "time": "2026-11-04T16:07:00+00:00",
     "link": "https://www.thestreet.com/investing/apples-ai-problem-could-reach-your-next-iphone?.tsrc=rss",
@@ -11,6 +103,19 @@
     "sym": "AAPL",
     "summary": "AI demand is driving up a hidden Apple cost that shoppers may eventually feel.",
     "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "What Makes Chubb (CB) a Strong Momentum Stock: Buy Now?",
+    "time": "2026-11-04T16:00:02+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/makes-chubb-cb-strong-momentum-160002018.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CB:rss:dd18427f-b910-3287-8c34-a6e06b2cc982",
+    "type": "news",
+    "sym": "CB",
+    "summary": "Does Chubb (CB) have what it takes to be a top stock pick for momentum investors? Let's find out.",
+    "seen": "2026-11-04T17:28:07+00:00"
   },
   {
     "title": "Apple Stocks Rise 4.5% While China AI Testing Arrives With a Product Gap",
@@ -191,6 +296,19 @@
     "sym": "KHC",
     "summary": "Kraft Heinz Co (NASDAQ:KHC, XETRA:KHNZ), the food and beverage maker, raised its fiscal year 2026 adjusted earnings forecast after beating third-quarter profit estimates despite a sales decline. Adjusted earnings of $0.53 per share exceeded the $0.43 estimate but fell 13.1% from a year...",
     "seen": "2026-11-04T16:27:51+00:00"
+  },
+  {
+    "title": "Morgan Stanley Tokenizes U.S. Equities",
+    "time": "2026-11-04T14:39:00+00:00",
+    "link": "https://www.cryptoprowl.com/releases/morgan-stanley-tokenizes-us-equities-7645?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BAC:rss:6e584b3e-c1f6-325a-bb22-8a29b37ded51",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Investment bank Morgan Stanley (NYSE: $MS) has moved quickly to tokenize U.S. equities following the launch of new ...",
+    "seen": "2026-11-04T17:28:07+00:00"
   },
   {
     "id": "trade:2026-11-04T14:36:15+00:00:VERKAUF:CVX",
