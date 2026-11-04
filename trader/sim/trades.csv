@@ -7,3 +7,6 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund
 2026-10-30T14:29:59+00:00,KAUF,MCO,0.169816,492.36,1.1148,75.00,,"Alle Kaufregeln erfüllt, Score 8 (Signale +2, Trend +2, Momentum +2, Volumen +3, Intraday -1)"
 2026-10-30T14:29:59+00:00,KAUF,AAPL,0.241417,346.33,1.1148,75.00,,"Alle Kaufregeln erfüllt, Score 6 (Signale +2, Trend +2, Momentum -1, Volumen +2, Intraday +1)"
 2026-11-03T14:30:24+00:00,VERKAUF,AAPL,0.241417,327.07,1.1192,70.55,-4.45,Stop-Loss: Kurs 327.07 $ ist unter die Verlustgrenze von 330.93 $ gefallen
+2026-11-04T14:36:15+00:00,VERKAUF,CVX,0.354941,218.84,1.1266,68.95,-6.05,Stop-Loss: Kurs 218.84 $ ist unter die Verlustgrenze von 224.12 $ gefallen
+2026-11-04T14:36:15+00:00,VERKAUF,OXY,1.314519,58.49,1.1266,68.25,-6.75,Stop-Loss: Kurs 58.49 $ ist unter die Verlustgrenze von 59.86 $ gefallen
+2026-11-04T14:36:15+00:00,KAUF,AAPL,0.240326,347.15,1.1266,74.05,,"Alle Kaufregeln erfüllt, Score 6 (Signale +2, Trend +2, Momentum -1, Volumen +2, Intraday +1)"
