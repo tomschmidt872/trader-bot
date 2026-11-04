@@ -1,5 +1,87 @@
 [
   {
+    "title": "Kraft Heinz earnings analysis: questions answered and next catalysts",
+    "time": "2026-11-04T18:11:54+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-earnings-analysis-questions-181154534.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:KHC:rss:0a4033bc-c2c8-3210-9567-32b0a3d901de",
+    "type": "news",
+    "sym": "KHC",
+    "summary": "Investing.com -- Kraft Heinz Co (KHC) is trading at $25.94 (+5.77%) as of Nov 4, 12:26 PM EST. Q3 2026 adjusted EPS was $0.53 against a $0.42 estimate, a 26.2% surprise. Revenue was $6.12B against $6.08B. The profit beat was larger than the sales beat. Management said trade and marketing timing adde",
+    "seen": "2026-11-04T18:27:28+00:00"
+  },
+  {
+    "title": "Alphabet (GOOGL) Is Spending $15 Billion On Malaysia Data Centers",
+    "time": "2026-11-04T18:10:05+00:00",
+    "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-spending-15-billion-181005178.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "legal"
+    ],
+    "id": "news:GOOGL:rss:0299ec13-b429-39c2-8d3e-7e0e6cc70c4a",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet (NasdaqGS:GOOGL) announced a US$15b investment to expand Google data centers and AI infrastructure in Malaysia in 2026. The Malaysian expansion includes new cloud facilities intended to support regional AI demand from enterprise and public sector clients. An Alphabet shareholder filed a law",
+    "seen": "2026-11-04T18:27:28+00:00"
+  },
+  {
+    "title": "Job Openings Are Rising, but Hiring Is the Slowest Since 2013. But How?",
+    "time": "2026-11-04T18:08:29+00:00",
+    "link": "https://247wallst.com/investing/2026/11/04/job-openings-are-rising-but-hiring-is-the-slowest-since-2013-but-how/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:SPY:rss:51b91e4a-0a00-3f79-b697-8f2247481492",
+    "type": "news",
+    "sym": "SPY",
+    "summary": "Employers are posting millions of open jobs while hiring sits at its slowest pace in over a decade, and that contradiction is sending mixed signals to SPY investors caught between steady paychecks and a Fed that just made hiring more expensive.",
+    "seen": "2026-11-04T18:27:28+00:00"
+  },
+  {
+    "title": "Cramer’s Blue Wave Call: “Apple Winner” as Slower Data Center Builds Ease the Memory Squeeze",
+    "time": "2026-11-04T17:57:46+00:00",
+    "link": "https://www.tikr.com/blog/cramers-blue-wave-call-apple-winner-as-slower-data-center-builds-ease-the-memory-squeeze?ref=yahoofinance&tlnk=yf-261104-xx6r3h9c&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:1c31ba9a-d7ea-3b26-aac1-65cdd9d4ef7c",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Key TakeawaysApple guided its December-quarter gross margin to 45%-46% this week because memory costs are rising, and those same prices have sent Micron’s sales soaring. Jim Cramer called Apple a winner from the Democratic midterm sweep, because slower data center construction could let DRAM invento",
+    "seen": "2026-11-04T18:27:28+00:00"
+  },
+  {
+    "title": "Alphabet’s Asymmetry Is All You Need To Know About to Hit ‘Buy’",
+    "time": "2026-11-04T17:45:18+00:00",
+    "link": "https://247wallst.com/investing/2026/11/04/alphabets-asymmetry-is-all-you-need-to-know-about-to-hit-buy/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:b58064ca-484c-333e-96b9-a98d97e5160f",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Alphabet's stock keeps falling while its cloud revenue triples and its search business records its fastest query growth in five years. Something in that gap deserves a closer look before the market closes it.",
+    "seen": "2026-11-04T18:27:28+00:00"
+  },
+  {
+    "title": "Apple’s Pain Could Be Micron’s Gain as Memory Prices Surge",
+    "time": "2026-11-04T17:33:14+00:00",
+    "link": "https://247wallst.com/investing/2026/11/04/apples-pain-could-be-microns-gain-as-memory-prices-surge/?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:783b444a-1b9d-37fd-855d-f678d4c4d5a1",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Memory prices are climbing fast, and that single cost is splitting two tech giants onto opposite sides of a trade. One company's suffering feeds the other's record margins, and the gap between them keeps widening.",
+    "seen": "2026-11-04T18:27:28+00:00"
+  },
+  {
     "id": "regime:2026-11-04T17:28:07+00:00",
     "type": "market",
     "sym": "MARKT",
@@ -8,6 +90,22 @@
     "detail": "S&P 500 im Aufwärtstrend; VIX 17.3: ruhig",
     "tone": 1,
     "seen": "2026-11-04T17:28:07+00:00"
+  },
+  {
+    "title": "Is Airbnb (ABNB) Still Undervalued On Growth Hopes And Its American Express Deal?",
+    "time": "2026-11-04T17:12:26+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-abnb-still-undervalued-growth-171226805.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "deal"
+    ],
+    "id": "news:AXP:rss:280cc606-9367-34d8-b688-a6681645847d",
+    "type": "news",
+    "sym": "AXP",
+    "summary": "Airbnb (ABNB) is back in focus after analysts flagged projected year-over-year gains in upcoming quarterly results, as the company rolls out guest-friendly rule changes and deepens distribution through a new American Express partnership. Recent trading shows that Airbnb’s share price has built solid",
+    "seen": "2026-11-04T18:27:28+00:00"
   },
   {
     "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",

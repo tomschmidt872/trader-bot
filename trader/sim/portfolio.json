@@ -39,7 +39,7 @@
       "entry": 492.355,
       "entry_fx": 1.1148,
       "cost_eur": 75.0,
-      "peak": 528.96,
+      "peak": 529.1,
       "atr": 12.357711674369884,
       "bought": "2026-10-30T14:29:59+00:00",
       "name": "Moody's Corporation"
@@ -55,5 +55,5 @@
       "name": "Apple Inc."
     }
   },
-  "fx": 1.124
+  "fx": 1.1236
 }
