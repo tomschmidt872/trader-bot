@@ -1,5 +1,89 @@
 [
   {
+    "title": "Micron Sinks 6% as Democratic Sweep Stokes Fears of an AI “Slowdown in Build”",
+    "time": "2026-11-04T19:17:44+00:00",
+    "link": "https://www.tikr.com/blog/micron-sinks-6-as-democratic-sweep-stokes-fears-of-an-ai-slowdown-in-build?ref=yahoofinance&tlnk=yf-261104-99f4g74r&.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:ebbeffa1-9cc7-305c-bd1e-2e598e9a681c",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Key TakeawaysMicron shares fell 6% today as Democrats won control of Congress. Investors priced in a slower AI build-out, which Jim Cramer said would let memory inventories build up, a win for Apple.",
+    "seen": "2026-11-04T19:36:29+00:00"
+  },
+  {
+    "title": "Kraft Heinz (KHC) Q3 2026 Earnings Call Transcript",
+    "time": "2026-11-04T19:16:27+00:00",
+    "link": "https://www.fool.com/earnings/call-transcripts/2026/11/04/kraft-heinz-khc-q3-2026-earnings-call-transcript/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:KHC:rss:b4a7fafa-d633-3778-bd5f-4a5feca5fc99",
+    "type": "news",
+    "sym": "KHC",
+    "summary": "Emerging markets surged while organic sales slipped and margins took a hit.",
+    "seen": "2026-11-04T19:36:29+00:00"
+  },
+  {
+    "title": "Kraft Heinz Q3 Earnings Call Highlights",
+    "time": "2026-11-04T19:14:48+00:00",
+    "link": "https://www.marketbeat.com/instant-alerts/transcript-kraft-heinz-q3-earnings-call-highlights-2026-11-04/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:KHC:rss:072694fb-f7a8-302b-b915-56e5cbd6293b",
+    "type": "news",
+    "sym": "KHC",
+    "summary": "Kraft Heinz (NASDAQ:KHC) executives said the company is moving to simplify its portfolio, sustain its investment program and prepare for higher input-cost inflation in 2027, while emphasizing plans to improve growth through innovation, retail shelf resets and productivity efforts. Chief Executive O",
+    "seen": "2026-11-04T19:36:29+00:00"
+  },
+  {
+    "title": "Alphabet Stock Jumps 5% as Midterm Election Rally Lifts Google Shares",
+    "time": "2026-11-04T18:53:46+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-jumps-5-midterm-185346799.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOGL:rss:8442d18e-9e3f-38da-80c4-49571894de2f",
+    "type": "news",
+    "sym": "GOOGL",
+    "summary": "Google Stock Surges After Midterms as Investors Return to Big Tech",
+    "seen": "2026-11-04T19:36:29+00:00"
+  },
+  {
+    "title": "Bank of America has unexpected verdict on AI stocks after post-midterm Democrat sweep",
+    "time": "2026-11-04T18:47:00+00:00",
+    "link": "https://www.thestreet.com/investing/stocks/bank-of-america-ai-capex-chip-stocks?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BAC:rss:21dc6104-6b1e-389e-bf54-7d771c7fbf7c",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Investors may have feared the wrong outcome.",
+    "seen": "2026-11-04T19:36:29+00:00"
+  },
+  {
+    "title": "Chevron Stocks Move Lower Refining Supplies Most of the Profit Increase",
+    "time": "2026-11-04T18:27:37+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/chevron-stocks-move-lower-refining-182737164.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:7389d5b8-94d6-335a-a6b2-d4670291c4b4",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Quarterly cash flow weakened sequentially despite a substantial annual earnings improvement.",
+    "seen": "2026-11-04T19:36:29+00:00"
+  },
+  {
     "title": "Kraft Heinz earnings analysis: questions answered and next catalysts",
     "time": "2026-11-04T18:11:54+00:00",
     "link": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-earnings-analysis-questions-181154534.html?.tsrc=rss",
@@ -43,6 +127,22 @@
     "seen": "2026-11-04T18:27:28+00:00"
   },
   {
+    "title": "Super Micro gets BofA upgrade to price target, but margins remain a concern",
+    "time": "2026-11-04T18:08:00+00:00",
+    "link": "https://www.proactiveinvestors.com/companies/news/1101244/super-micro-gets-bofa-upgrade-to-price-target-but-margins-remain-a-concern-1101244.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "analyst"
+    ],
+    "id": "news:BAC:rss:e5caed34-c81c-36bf-a7b4-92b0cb72d187",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Super Micro Computer Inc (NASDAQ:SMCI) received a higher price target from Bank of America at $39 as stronger guidance failed to dispel concerns about margin sustainability. Management raised its fiscal year 2027 revenue guidance to $72 billion to $82 billion and its gross margin outlook to...",
+    "seen": "2026-11-04T19:36:29+00:00"
+  },
+  {
     "title": "Cramer’s Blue Wave Call: “Apple Winner” as Slower Data Center Builds Ease the Memory Squeeze",
     "time": "2026-11-04T17:57:46+00:00",
     "link": "https://www.tikr.com/blog/cramers-blue-wave-call-apple-winner-as-slower-data-center-builds-ease-the-memory-squeeze?ref=yahoofinance&tlnk=yf-261104-xx6r3h9c&.tsrc=rss",
@@ -54,6 +154,22 @@
     "sym": "AAPL",
     "summary": "Key TakeawaysApple guided its December-quarter gross margin to 45%-46% this week because memory costs are rising, and those same prices have sent Micron’s sales soaring. Jim Cramer called Apple a winner from the Democratic midterm sweep, because slower data center construction could let DRAM invento",
     "seen": "2026-11-04T18:27:28+00:00"
+  },
+  {
+    "title": "Arista Networks gets BofA backing as 2027 growth outlook tops Street",
+    "time": "2026-11-04T17:48:00+00:00",
+    "link": "https://www.proactiveinvestors.com/companies/news/1101243/arista-networks-gets-bofa-backing-as-2027-growth-outlook-tops-street-1101243.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "analyst"
+    ],
+    "id": "news:BAC:rss:62532d18-dad8-3b1e-afe3-6093079bd86c",
+    "type": "news",
+    "sym": "BAC",
+    "summary": "Arista Networks Inc (NYSE:ANET) drew higher estimates from Bank of America after its 2027 growth outlook topped Wall Street expectations, with the broker reiterating its \"buy\" rating and $240 price target. Management forecast 39% revenue growth in 2027 against the Street's 28%, following...",
+    "seen": "2026-11-04T19:36:29+00:00"
   },
   {
     "title": "Alphabet’s Asymmetry Is All You Need To Know About to Hit ‘Buy’",
@@ -90,6 +206,32 @@
     "detail": "S&P 500 im Aufwärtstrend; VIX 17.3: ruhig",
     "tone": 1,
     "seen": "2026-11-04T17:28:07+00:00"
+  },
+  {
+    "title": "Big Tech Rallies, Defense and Prison Stocks Sink: Here’s What’s Moving After the Democrats’ Sweep",
+    "time": "2026-11-04T17:26:35+00:00",
+    "link": "https://www.investopedia.com/big-tech-rallies-defense-prison-stocks-sink-here-what-s-moving-after-the-democrats-sweep-12236110?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:0d3e25d4-5237-3ce0-8233-008311136c21",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple, Amazon, and Microsoft, as well as health and solar stocks, rallied while Nvidia, data centers, defense, and prisons fell after Democrats won Congress. Here’s what’s moving.",
+    "seen": "2026-11-04T19:36:29+00:00"
+  },
+  {
+    "title": "Mag 7 Stocks Rise After Elections, Set to Add $600B in Market Cap",
+    "time": "2026-11-04T17:23:00+00:00",
+    "link": "https://finance.yahoo.com/m/d58819ae-9dfd-369b-865e-0165dc6e99c5/mag-7-stocks-rise-after.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:d58819ae-9dfd-369b-865e-0165dc6e99c5",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Nvidia, Apple, Meta Platforms, Amazon.com, Tesla, Alphabet, and Microsoft were on track for their tenth largest combined one-day valuation gain ever.",
+    "seen": "2026-11-04T19:36:29+00:00"
   },
   {
     "title": "Is Airbnb (ABNB) Still Undervalued On Growth Hopes And Its American Express Deal?",
