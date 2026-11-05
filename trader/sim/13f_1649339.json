@@ -1,0 +1,84 @@
+{
+  "fetched": "2026-11-05",
+  "data": {
+    "source": "Scion Asset Management, LLC 13F-HR, quarter ending 2025-09-30, filed 2025-11-03 (accession 0001649339-25-000007)",
+    "as_of": "2025-09-30",
+    "filed": "2025-11-03",
+    "cik": "0001649339",
+    "method": "top 10 stock positions by value, share classes combined, pct_of_13f scaled to 100",
+    "weights": [
+      {
+        "ticker": "MOH",
+        "name": "Molina Healthcare",
+        "weight": 35.09,
+        "pct_of_13f": 1.73,
+        "value": 23920000.0,
+        "shares": 125000.0,
+        "cusips": [
+          "60855R100"
+        ]
+      },
+      {
+        "ticker": "LULU",
+        "name": "lululemon athletica",
+        "weight": 26.17,
+        "pct_of_13f": 1.29,
+        "value": 17793000.0,
+        "shares": 100000.0,
+        "cusips": [
+          "550021109"
+        ]
+      },
+      {
+        "ticker": "SLM",
+        "name": "Slm",
+        "weight": 19.47,
+        "pct_of_13f": 0.96,
+        "value": 13287895.0,
+        "shares": 480054.0,
+        "cusips": [
+          "78442P106"
+        ]
+      },
+      {
+        "ticker": "BRKR",
+        "name": "Bruker",
+        "weight": 19.27,
+        "pct_of_13f": 0.95,
+        "value": 13137181.0,
+        "shares": 48334.0,
+        "cusips": [
+          "116794207"
+        ]
+      }
+    ],
+    "skipped": [
+      {
+        "issuer": "PALANTIR TECHNOLOGIES INC",
+        "ticker": "PLTR",
+        "why": "PUT row, not a stock you can copy"
+      },
+      {
+        "issuer": "NVIDIA CORPORATION",
+        "ticker": "NVDA",
+        "why": "PUT row, not a stock you can copy"
+      },
+      {
+        "issuer": "PFIZER INC",
+        "ticker": "PFE",
+        "why": "CALL row, not a stock you can copy"
+      },
+      {
+        "issuer": "HALLIBURTON CO",
+        "ticker": "HAL",
+        "why": "CALL row, not a stock you can copy"
+      }
+    ],
+    "caveats": [
+      "A 13F is a snapshot of the last day of the quarter, filed up to 45 days later. The investor may have sold or added since.",
+      "It shows long positions in US-listed stocks only: no shorts, cash, bonds, foreign stocks, private companies or trades made inside the quarter.",
+      "It is filed by the firm, not by the person it is known for.",
+      "Education and tooling, not financial advice. Nothing here places an order."
+    ]
+  }
+}

@@ -10,3 +10,10 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund
 2026-11-04T14:36:15+00:00,VERKAUF,CVX,0.354941,218.84,1.1266,68.95,-6.05,Stop-Loss: Kurs 218.84 $ ist unter die Verlustgrenze von 224.12 $ gefallen
 2026-11-04T14:36:15+00:00,VERKAUF,OXY,1.314519,58.49,1.1266,68.25,-6.75,Stop-Loss: Kurs 58.49 $ ist unter die Verlustgrenze von 59.86 $ gefallen
 2026-11-04T14:36:15+00:00,KAUF,AAPL,0.240326,347.15,1.1266,74.05,,"Alle Kaufregeln erfüllt, Score 6 (Signale +2, Trend +2, Momentum -1, Volumen +2, Intraday +1)"
+2026-11-05T14:34:28+00:00,KAUF,ACN,0.311416,268.68,1.1218,74.59,,"Alle Kaufregeln erfüllt, Score 13 (Signale +4, Trend +3, Momentum +1, Volumen +3, News +2)"
+2026-11-05T14:34:28+00:00,KAUF,MRNA,0.325051,257.41,1.1218,74.59,,"Alle Kaufregeln erfüllt, Score 12 (Signale +1, Trend +3, Momentum +2, Volumen +3, Intraday +1, News +2)"
+2026-11-05T14:34:28+00:00,KAUF,EL,0.730722,114.50,1.1218,74.59,,"Alle Kaufregeln erfüllt, Score 11 (Signale +2, Trend +3, Momentum +1, Volumen +4, Intraday +1)"
+2026-11-05T14:34:28+00:00,KAUF,CDW,0.495214,168.96,1.1218,74.59,,"Alle Kaufregeln erfüllt, Score 10 (Signale +1, Trend +3, Momentum +2, Volumen +3, Intraday -1, News +2)"
+2026-11-05T14:34:28+00:00,KAUF,EMR,0.494175,169.31,1.1218,74.59,,"Alle Kaufregeln erfüllt, Score 10 (Trend +2, Momentum +2, Volumen +3, Intraday +1, News +2)"
+2026-11-05T14:34:28+00:00,KAUF,FMAO,2.182919,38.33,1.1218,74.59,,"Alle Kaufregeln erfüllt, Score 10 (Signale +1, Trend +2, Momentum +1, Volumen +5, Intraday +1)"
+2026-11-05T14:34:28+00:00,KAUF,GDDY,0.576399,120.12,1.1218,61.72,,"Alle Kaufregeln erfüllt, Score 10 (Signale +1, Trend +3, Momentum +2, Volumen +2, Intraday +1, News +1)"

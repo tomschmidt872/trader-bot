@@ -1,0 +1,135 @@
+{
+  "fetched": "2026-11-05",
+  "data": {
+    "source": "Pershing Square Capital Management, L.P. 13F-HR, quarter ending 2026-03-31, filed 2026-05-15 (accession 0001172661-26-002336)",
+    "as_of": "2026-03-31",
+    "filed": "2026-05-15",
+    "cik": "0001336528",
+    "method": "top 10 stock positions by value, share classes combined, pct_of_13f scaled to 100",
+    "weights": [
+      {
+        "ticker": "BKPA",
+        "name": "Brookfield",
+        "weight": 17.62,
+        "pct_of_13f": 17.62,
+        "value": 2415946008.0,
+        "shares": 59697208.0,
+        "cusips": [
+          "11271J107"
+        ],
+        "check_ticker": true
+      },
+      {
+        "ticker": "AMZN",
+        "name": "Amazon Com",
+        "weight": 17.39,
+        "pct_of_13f": 17.39,
+        "value": 2385104083.0,
+        "shares": 11451981.0,
+        "cusips": [
+          "023135106"
+        ]
+      },
+      {
+        "ticker": "UBER",
+        "name": "Uber Technologies",
+        "weight": 15.71,
+        "pct_of_13f": 15.71,
+        "value": 2154934398.0,
+        "shares": 29958771.0,
+        "cusips": [
+          "90353T100"
+        ]
+      },
+      {
+        "ticker": "MSFT",
+        "name": "Microsoft",
+        "weight": 15.26,
+        "pct_of_13f": 15.26,
+        "value": 2092970053.0,
+        "shares": 5654078.0,
+        "cusips": [
+          "594918104"
+        ]
+      },
+      {
+        "ticker": "QSR",
+        "name": "Restaurant Brands International",
+        "weight": 12.2,
+        "pct_of_13f": 12.2,
+        "value": 1673501194.0,
+        "shares": 22645483.0,
+        "cusips": [
+          "76131D103"
+        ]
+      },
+      {
+        "ticker": "META",
+        "name": "Meta Platforms",
+        "weight": 11.1,
+        "pct_of_13f": 11.1,
+        "value": 1522358404.0,
+        "shares": 2660861.0,
+        "cusips": [
+          "30303M102"
+        ]
+      },
+      {
+        "ticker": "HHH",
+        "name": "Howard Hughes Holdings",
+        "weight": 8.7,
+        "pct_of_13f": 8.7,
+        "value": 1192581569.0,
+        "shares": 18852064.0,
+        "cusips": [
+          "44267T102"
+        ]
+      },
+      {
+        "ticker": "SEG",
+        "name": "Seaport Entertainment Group",
+        "weight": 0.79,
+        "pct_of_13f": 0.79,
+        "value": 107910794.0,
+        "shares": 5023780.0,
+        "cusips": [
+          "812215200"
+        ]
+      },
+      {
+        "ticker": "GOOG",
+        "name": "Alphabet",
+        "weight": 0.72,
+        "pct_of_13f": 0.72,
+        "value": 98731763.0,
+        "shares": 344102.0,
+        "cusips": [
+          "02079K107",
+          "02079K305"
+        ],
+        "classes": [
+          "GOOG",
+          "GOOGL"
+        ]
+      },
+      {
+        "ticker": "HTZ",
+        "name": "Hertz Global Holdings",
+        "weight": 0.51,
+        "pct_of_13f": 0.51,
+        "value": 70261595.0,
+        "shares": 15241127.0,
+        "cusips": [
+          "42806J700"
+        ]
+      }
+    ],
+    "skipped": [],
+    "caveats": [
+      "A 13F is a snapshot of the last day of the quarter, filed up to 45 days later. The investor may have sold or added since.",
+      "It shows long positions in US-listed stocks only: no shorts, cash, bonds, foreign stocks, private companies or trades made inside the quarter.",
+      "It is filed by the firm, not by the person it is known for.",
+      "Education and tooling, not financial advice. Nothing here places an order."
+    ]
+  }
+}

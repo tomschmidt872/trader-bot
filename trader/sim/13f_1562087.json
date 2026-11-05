@@ -1,0 +1,104 @@
+{
+  "fetched": "2026-11-05",
+  "data": {
+    "source": "Thiel Macro LLC 13F-HR, quarter ending 2026-06-30, filed 2026-08-14 (accession 0001315863-26-000593)",
+    "as_of": "2026-06-30",
+    "filed": "2026-08-14",
+    "cik": "0001562087",
+    "method": "top 10 stock positions by value, share classes combined, pct_of_13f scaled to 100",
+    "weights": [
+      {
+        "ticker": "AMZN",
+        "name": "Amazon Com",
+        "weight": 31.34,
+        "pct_of_13f": 28.18,
+        "value": 117978300.0,
+        "shares": 495000.0,
+        "cusips": [
+          "023135106"
+        ]
+      },
+      {
+        "ticker": "VIST",
+        "name": "Vista Energy, S.A.B. de C.V.",
+        "weight": 20.16,
+        "pct_of_13f": 18.13,
+        "value": 75908730.0,
+        "shares": 1189792.0,
+        "cusips": [
+          "92837L109"
+        ],
+        "check_ticker": true
+      },
+      {
+        "ticker": "VST",
+        "name": "Vistra",
+        "weight": 15.7,
+        "pct_of_13f": 14.12,
+        "value": 59130126.0,
+        "shares": 372755.0,
+        "cusips": [
+          "92840M102"
+        ]
+      },
+      {
+        "ticker": "DTE",
+        "name": "Dte Energy",
+        "weight": 10.7,
+        "pct_of_13f": 9.62,
+        "value": 40294247.0,
+        "shares": 264450.0,
+        "cusips": [
+          "233331107"
+        ],
+        "check_ticker": true
+      },
+      {
+        "ticker": "FE",
+        "name": "Firstenergy",
+        "weight": 10.6,
+        "pct_of_13f": 9.53,
+        "value": 39901225.0,
+        "shares": 839319.0,
+        "cusips": [
+          "337932107"
+        ]
+      },
+      {
+        "ticker": "CMS",
+        "name": "Cms Energy",
+        "weight": 10.51,
+        "pct_of_13f": 9.45,
+        "value": 39559986.0,
+        "shares": 517124.0,
+        "cusips": [
+          "125896100"
+        ]
+      },
+      {
+        "ticker": "XE",
+        "name": "X-Energy",
+        "weight": 0.98,
+        "pct_of_13f": 0.88,
+        "value": 3672000.0,
+        "shares": 200000.0,
+        "cusips": [
+          "98386P102"
+        ]
+      }
+    ],
+    "skipped": [
+      {
+        "issuer": "AMERICAN ELEC PWR CO INC",
+        "ticker": null,
+        "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
+      }
+    ],
+    "caveats": [
+      "A 13F is a snapshot of the last day of the quarter, filed up to 45 days later. The investor may have sold or added since.",
+      "It shows long positions in US-listed stocks only: no shorts, cash, bonds, foreign stocks, private companies or trades made inside the quarter.",
+      "It is filed by the firm, not by the person it is known for.",
+      "Education and tooling, not financial advice. Nothing here places an order."
+    ]
+  }
+}
