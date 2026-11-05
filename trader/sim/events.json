@@ -4811,6 +4811,17 @@
     "seen": "2026-11-05T14:34:28+00:00"
   },
   {
+    "id": "insider:0001280628-26-000018:S:2026-11-04:10000.0",
+    "type": "insider",
+    "sym": "ISRG",
+    "time": "2026-11-05T12:00:00+00:00",
+    "title": "GUTHART GARY S (Aufsichtsrat/Direktor) verkauft 10.000 Aktien für 4.6 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-04 zu 457,34 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1035267/000128062826000018/",
+    "tone": -1,
+    "seen": "2026-11-05T19:30:05+00:00"
+  },
+  {
     "title": "Mondelēz International and Accenture Transform Order-to-Cash With AI",
     "time": "2026-11-05T11:59:00+00:00",
     "link": "https://finance.yahoo.com/technology/ai/articles/mondel-z-international-accenture-transform-115900761.html?.tsrc=rss",
@@ -20895,21 +20906,6 @@
     "type": "news",
     "sym": "DVN",
     "summary": "Due to Devon Energy's outperformance relative to the S&P 500 Index over the past year, Wall Street analysts remain strongly optimistic about the stock’s prospects.",
-    "seen": "2026-11-05T14:34:28+00:00"
-  },
-  {
-    "title": "FedEx CEO is seeing a shift in its customer base",
-    "time": "2026-11-03T15:07:00+00:00",
-    "link": "https://www.thestreet.com/investing/stocks/fedex-ceo-is-seeing-a-shift-in-its-customer-base?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "people"
-    ],
-    "id": "news:FDX:rss:7be30f41-3a76-37bc-a156-b19b37252d1c",
-    "type": "news",
-    "sym": "FDX",
-    "summary": "The parcel giant is rebuilding around a different kind of customer. The quarter shows it is working.",
     "seen": "2026-11-05T14:34:28+00:00"
   }
 ]
