@@ -193,7 +193,7 @@ footer.note { margin-top: 28px; font-size: 12.5px; color: var(--muted); }
   <aside class="sidebar">
     <div class="brand">
       <div class="brand-logo"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 8-8M15 7h6v6"/></svg></div>
-      <div><strong>Trading-Bot</strong><small>Simulation · 1.000 €</small></div>
+      <div><strong>Trading-Bot</strong><small>Simulation · 1.000 € Start</small></div>
     </div>
     <nav id="nav"></nav>
     <div class="side-foot">
@@ -208,7 +208,7 @@ footer.note { margin-top: 28px; font-size: 12.5px; color: var(--muted); }
 // ------------------------------------------------------------------ Grundlagen
 const CATS = ["Signale", "Trend", "Momentum", "Volumen", "Intraday", "News"];
 const CAT_INFO = {
-  Signale: "Was bekannte Investoren tun: Buffett/Berkshire hält die Aktie (+2), ein Kongressmitglied hat gekauft (+2) oder verkauft (−1).",
+  Signale: "Was andere tun: Top-Fonds halten die Aktie (+1 je Fonds, max. +2), Kongressmitglieder kaufen (+2, bei Beträgen unter 15.000 $ +1) oder verkaufen (−1), Firmen-Insider kaufen (+2, mehrere +3) oder verkaufen massiv (−1), beobachtete Personen wie Thiel oder die Trump-Familie kaufen/beteiligen sich (+2) oder verkaufen (−1).",
   Trend: "Geht es langfristig nach oben? Kurs über dem 50-Tage-Schnitt, 50- über 200-Tage-Schnitt, Golden/Death Cross und Trendstärke (ADX).",
   Momentum: "Hat der Kurs gerade Schwung? MACD, RSI, Stochastik, Bollinger-Bänder und Rendite der letzten 20 Tage.",
   Volumen: "Steckt echtes Geld dahinter? Handelsvolumen, OBV, Chaikin Money Flow und ob an Plus- oder Minus-Tagen mehr gehandelt wird.",
@@ -669,7 +669,8 @@ function drawStockChart(sym) {
 
 const EV_TYPES = {
   news: {l: "News", i: "doc", t: "t-blue"}, filing: {l: "SEC-Meldung", i: "bank", t: "t-purple"},
-  congress: {l: "Kongress", i: "globe", t: "t-yellow"}, trade: {l: "Bot-Trade", i: "bot", t: "t-green"},
+  congress: {l: "Kongress", i: "globe", t: "t-yellow"}, insider: {l: "Insider", i: "layers", t: "t-purple"},
+  person: {l: "Personen", i: "target", t: "t-yellow"}, trade: {l: "Bot-Trade", i: "bot", t: "t-green"},
   market: {l: "Markt", i: "trend", t: "t-red"},
 };
 function evIcon(e, s = 34) {
@@ -677,6 +678,7 @@ function evIcon(e, s = 34) {
   let tint = t.t;
   if (e.type === "news") tint = e.tone > 0 ? "t-green" : e.tone < 0 ? "t-red" : "t-blue";
   if (e.type === "filing" && e.severity === "block") tint = "t-red";
+  if (["insider", "person", "congress"].includes(e.type)) tint = e.tone > 0 ? "t-green" : e.tone < 0 ? "t-red" : t.t;
   return `<div class="ev-icon stat-icon ${tint}" style="width:${s}px;height:${s}px">${icon(ICONS[t.i], s * .5)}</div>`;
 }
 function viewNews() {
@@ -719,7 +721,9 @@ function viewRules() {
   <div class="panel-grid">
     <div class="panel"><div class="panel-header"><h2>Ablauf jeder Stunde</h2></div><ol class="rules">
       <li>Prüfen, ob die New Yorker Börse offen ist. Wenn nicht: nichts tun.</li>
-      <li>Signale sammeln: Depots von ${inv}; Aktienmeldungen von ${(R.congress_members || []).map(esc).join(", ") || "–"} (letzte ${R.congress_days ?? "–"} Tage).</li>
+      <li>Signale sammeln: Depots (13F) von ${inv}; Aktiengeschäfte ${(R.congress_members || []).length ? "von " + R.congress_members.map(esc).join(", ") : "<b>aller Mitglieder des Repräsentantenhauses</b>"} (letzte ${R.congress_days ?? "–"} Tage);
+        Insider-Käufe und -Verkäufe aller beobachteten Firmen (Form 4, letzte ${R.insider_days ?? "–"} Tage); Meldungen von ${(R.people || []).map(p => esc(p.name)).join(", ") || "–"} (Form 4, 13D/13G, Form 144, letzte ${R.people_days ?? "–"} Tage).</li>
+      <li>Beobachtet werden die <b>${R.universe_size ?? "–"} größten US-Firmen (S&amp;P 100)</b> plus jede Aktie, die in diesen Signalen auftaucht.</li>
       <li>Marktlage bestimmen (S&amp;P 500 und VIX).</li>
       <li>Für jede Aktie ein Jahr Kurse laden und Punkte in 6 Bereichen vergeben.</li>
       <li>Erst verkaufen, dann kaufen – und alles mit Begründung protokollieren.</li></ol></div>
@@ -738,6 +742,9 @@ function viewRules() {
         <div><dt>Opening Range</dt><dd>Hoch und Tief der ersten 30 Minuten nach Börsenstart. Ein Ausbruch darüber gilt als starkes Tagessignal.</dd></div>
         <div><dt>13F</dt><dd>Pflichtmeldung großer Fonds an die SEC, einmal pro Quartal, mit allen US-Aktienpositionen.</dd></div>
         <div><dt>8-K</dt><dd>Meldung an die SEC bei wichtigen Ereignissen: Quartalszahlen, Vorstandswechsel, Übernahmen, Insolvenz.</dd></div>
+        <div><dt>Form 4</dt><dd>Insider (Vorstände, Aufsichtsräte, Großaktionäre) müssen Käufe und Verkäufe innerhalb von 2 Werktagen melden. Käufe über die Börse gelten als starkes Signal – Insider kaufen meist nur, wenn sie an steigende Kurse glauben.</dd></div>
+        <div><dt>13D / 13G</dt><dd>Wer mehr als 5 % einer Firma besitzt, muss das melden. 13D = aktiver Investor, 13G = passiver Investor.</dd></div>
+        <div><dt>Form 144</dt><dd>Ankündigung, dass ein Insider bald Aktien verkaufen will.</dd></div>
         <div><dt>PTR</dt><dd>Periodic Transaction Report: Kongressmitglieder müssen Aktiengeschäfte innerhalb von 45 Tagen melden.</dd></div>
         <div><dt>VIX</dt><dd>„Angstbarometer“ der Börse: erwartete Schwankung des S&amp;P 500. Über 30 = Panik.</dd></div></dl></div>
   </div>

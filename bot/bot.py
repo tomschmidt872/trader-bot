@@ -43,6 +43,9 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import insider  # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SKILLS = os.path.join(ROOT, "skills")
 CONFIG = os.path.join(ROOT, "trader", "bot.json")
@@ -65,6 +68,11 @@ DEFAULTS = {
     "atr_stop": 2.5,
     "trailing_atr": 3.5,
     "news_hours": 48,
+    "universe": [],
+    "people": [],
+    "insider_days": 14,
+    "people_days": 90,
+    "insider_max_docs": 250,
 }
 
 POSITIVE = re.compile(
@@ -112,15 +120,27 @@ def load_skill(rel, name):
 def run_skill(rel, args):
     """Startet ein Skill-Skript im Projektordner und liefert dessen JSON."""
     cmd = [sys.executable, "-I", os.path.join(SKILLS, rel)] + args + ["--json"]
-    out = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True, timeout=900)
+    out = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True, timeout=1800)
     try:
         return json.loads(out.stdout)
     except ValueError:
         raise RuntimeError((out.stderr or out.stdout).strip()[-300:] or "keine Ausgabe")
 
 
+def sec_user_agent():
+    ua = os.environ.get("SEC_USER_AGENT") or read_json(os.path.join(ROOT, "trader", "config.json"), {}).get(
+        "sec_user_agent")
+    if not ua:
+        raise RuntimeError("SEC_USER_AGENT fehlt")
+    return ua
+
+
 def log(msg):
     print(msg, flush=True)
+
+
+def norm(sym):
+    return (sym or "").strip().upper().replace(".", "-")
 
 
 def clip(x, lo, hi):
@@ -146,7 +166,7 @@ def investor_signals(cfg, errors):
                 errors.append("13F %s: %s" % (inv["name"], e))
         for w in (doc.get("data") or {}).get("weights", []):
             if w.get("ticker"):
-                out.setdefault(w["ticker"], []).append(
+                out.setdefault(norm(w["ticker"]), []).append(
                     "%s hält %.1f %%" % (inv["name"], w.get("pct_of_13f", 0)))
     return out
 
@@ -173,9 +193,9 @@ def congress_signals(cfg, errors):
                 if key in seen:
                     continue
                 seen.add(key)
-                entry = {"doc_id": r.get("doc_id"), "member": r.get("name"), "ticker": row["ticker"].upper(),
+                entry = {"doc_id": r.get("doc_id"), "member": r.get("name"), "ticker": norm(row["ticker"]),
                          "type": row["type"], "date": row.get("date"), "amount": row.get("amount"),
-                         "filed": r.get("filed"), "url": r.get("url")}
+                         "amount_low": row.get("amount_low") or 0, "filed": r.get("filed"), "url": r.get("url")}
                 store["congress"].append(entry)
                 events.append({
                     "id": "congress:%s:%s:%s:%s" % key, "type": "congress", "sym": entry["ticker"],
@@ -192,8 +212,11 @@ def congress_signals(cfg, errors):
     buys, sells = {}, {}
     for s in store["congress"]:
         target = buys if s["type"] == "P" else sells
-        target.setdefault(s["ticker"], []).append("%s %s (%s)" % (
+        target.setdefault(norm(s["ticker"]), []).append("%s %s (%s)" % (
             s["member"], "kauft" if s["type"] == "P" else "verkauft", s.get("amount") or "?"))
+    big = {norm(s["ticker"]) for s in store["congress"] if s["type"] == "P" and (s.get("amount_low") or 0) >= 15001}
+    buys = {k: (2 if k in big else 1, v) for k, v in buys.items()}
+    sells = {k: (-1, v) for k, v in sells.items()}
     return buys, sells, events
 
 
@@ -598,7 +621,14 @@ def run(cfg, force=False):
     fx = fx_rate(pf, errors)
     pf["fx"] = fx
 
-    universe = sorted(set(inv) | set(cbuy) | set(csell) | set(cfg["watchlist"]) | set(pf["positions"]))
+    base = {norm(x) for x in cfg["universe"]} | {norm(x) for x in cfg["watchlist"]} | set(pf["positions"])
+    try:
+        isig, iev, iextra = insider.collect(cfg, sec_user_agent(), SIM, sorted(base), errors)
+    except Exception as e:
+        errors.append("Insider: %s" % e)
+        isig, iev, iextra = {}, [], set()
+    isig = {norm(k): v for k, v in isig.items()}
+    universe = sorted({norm(x) for x in base | set(inv) | set(cbuy) | set(csell) | set(iextra) if x and x != "–"})
     log("Analysiere %d Ticker ..." % len(universe))
     data, intr = {}, {}
     for i, sym in enumerate(universe):
@@ -623,10 +653,16 @@ def run(cfg, force=False):
         except (ZeroDivisionError, IndexError, ValueError, TypeError) as e:
             errors.append("Analyse %s: %s" % (sym, e))
             continue
-        for src, pts in ((inv, 2), (cbuy, 2), (csell, -1)):
+        if sym in inv:
+            cat["Signale"][0] += min(2, len(inv[sym]))
+            cat["Signale"][1] += inv[sym]
+        for src in (cbuy, csell):
             if sym in src:
-                cat["Signale"][0] += pts
-                cat["Signale"][1] += src[sym]
+                cat["Signale"][0] += src[sym][0]
+                cat["Signale"][1] += src[sym][1]
+        if sym in isig:
+            cat["Signale"][0] += clip(sum(p for p, _ in isig[sym]), -2, 3)
+            cat["Signale"][1] += [w for _, w in isig[sym]]
         n = news[sym]
         cat["News"][0] += n[0]
         cat["News"][1] += n[1]
@@ -750,7 +786,7 @@ def run(cfg, force=False):
     # Ereignisse sammeln
     epath = os.path.join(SIM, "events.json")
     ev = {e["id"]: e for e in read_json(epath, [])}
-    new_events = cev + nev
+    new_events = cev + nev + iev
     for t in trades:
         new_events.append({"id": "trade:%s:%s:%s" % (stamp, t["action"], t["sym"]), "type": "trade",
                            "sym": t["sym"], "time": stamp, "title": "Bot: %s %s für %s €" % (
@@ -767,13 +803,17 @@ def run(cfg, force=False):
             e["seen"] = stamp
             ev[e["id"]] = e
     cutoff = (now_utc() - datetime.timedelta(days=30)).isoformat()
-    evs = sorted((e for e in ev.values() if (e.get("time") or e["seen"]) >= cutoff),
+    cutoff_pp = (now_utc() - datetime.timedelta(days=cfg["people_days"])).isoformat()
+    evs = sorted((e for e in ev.values()
+                  if (e.get("time") or e["seen"]) >= (cutoff_pp if e["type"] == "person" else cutoff)),
                  key=lambda e: e.get("time") or e["seen"], reverse=True)[:1500]
     write_json(epath, evs)
 
     rules = {k: cfg[k] for k in ("buy_score", "sell_score", "stop_loss_pct", "atr_stop", "trailing_atr",
                                  "max_position_pct", "cash_buffer_pct", "min_order", "news_hours", "congress_days")}
-    rules.update(investors=cfg["investors"], congress_members=cfg["congress_members"], watchlist=cfg["watchlist"])
+    rules.update(investors=cfg["investors"], congress_members=cfg["congress_members"], watchlist=cfg["watchlist"],
+                 people=cfg["people"], universe_size=len(cfg["universe"]), insider_days=cfg["insider_days"],
+                 people_days=cfg["people_days"])
     write_json(os.path.join(SIM, "analysis.json"), {
         "time": stamp, "market": status, "regime": regime, "currency": "EUR", "fx": fx, "equity": equity,
         "cash": pf["cash"], "start_cash": pf["start_cash"], "trades": trades, "rows": rows, "errors": errors,

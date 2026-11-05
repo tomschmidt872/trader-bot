@@ -2,14 +2,37 @@
   "start_cash": 1000,
   "investors": [
     {
-      "name": "Berkshire Hathaway",
+      "name": "Berkshire Hathaway (Buffett)",
       "cik": "1067983",
+      "top": 10
+    },
+    {
+      "name": "Thiel Macro (Peter Thiel)",
+      "cik": "1562087",
+      "top": 10
+    },
+    {
+      "name": "Pershing Square (Bill Ackman)",
+      "cik": "1336528",
+      "top": 10
+    },
+    {
+      "name": "Scion (Michael Burry)",
+      "cik": "1649339",
+      "top": 10
+    },
+    {
+      "name": "Duquesne (Stanley Druckenmiller)",
+      "cik": "1536411",
+      "top": 10
+    },
+    {
+      "name": "ARK Invest (Cathie Wood)",
+      "cik": "1697748",
       "top": 10
     }
   ],
-  "congress_members": [
-    "pelosi"
-  ],
+  "congress_members": [],
   "congress_days": 60,
   "watchlist": [
     "SPY",
@@ -23,5 +46,139 @@
   "stop_loss_pct": 8,
   "atr_stop": 2.5,
   "trailing_atr": 3.5,
-  "news_hours": 48
+  "news_hours": 48,
+  "people": [
+    {
+      "name": "Peter Thiel",
+      "cik": "1211060"
+    },
+    {
+      "name": "Donald J. Trump",
+      "cik": "947033"
+    },
+    {
+      "name": "Donald Trump Jr.",
+      "cik": "2016181"
+    },
+    {
+      "name": "Eric Trump",
+      "cik": "2057754"
+    },
+    {
+      "name": "Ivanka Trump",
+      "cik": "1406847"
+    },
+    {
+      "name": "Jared Kushner",
+      "cik": "2031474"
+    }
+  ],
+  "universe": [
+    "AAPL",
+    "ABBV",
+    "ABT",
+    "ACN",
+    "ADBE",
+    "AIG",
+    "AMD",
+    "AMGN",
+    "AMT",
+    "AMZN",
+    "AVGO",
+    "AXP",
+    "BA",
+    "BAC",
+    "BK",
+    "BKNG",
+    "BLK",
+    "BMY",
+    "BRK-B",
+    "C",
+    "CAT",
+    "CHTR",
+    "CL",
+    "CMCSA",
+    "COF",
+    "COP",
+    "COST",
+    "CRM",
+    "CSCO",
+    "CVS",
+    "CVX",
+    "DE",
+    "DHR",
+    "DIS",
+    "DUK",
+    "EMR",
+    "F",
+    "FDX",
+    "GD",
+    "GE",
+    "GILD",
+    "GM",
+    "GOOGL",
+    "GS",
+    "HD",
+    "HON",
+    "IBM",
+    "INTC",
+    "INTU",
+    "ISRG",
+    "JNJ",
+    "JPM",
+    "KHC",
+    "KO",
+    "LIN",
+    "LLY",
+    "LMT",
+    "LOW",
+    "MA",
+    "MCD",
+    "MDLZ",
+    "MDT",
+    "MET",
+    "META",
+    "MMM",
+    "MO",
+    "MRK",
+    "MS",
+    "MSFT",
+    "NEE",
+    "NFLX",
+    "NKE",
+    "NOW",
+    "NVDA",
+    "ORCL",
+    "PEP",
+    "PFE",
+    "PG",
+    "PLTR",
+    "PM",
+    "PYPL",
+    "QCOM",
+    "RTX",
+    "SBUX",
+    "SCHW",
+    "SO",
+    "SPG",
+    "T",
+    "TGT",
+    "TMO",
+    "TMUS",
+    "TSLA",
+    "TXN",
+    "UBER",
+    "UNH",
+    "UNP",
+    "UPS",
+    "USB",
+    "V",
+    "VZ",
+    "WFC",
+    "WMT",
+    "XOM"
+  ],
+  "insider_days": 14,
+  "people_days": 90,
+  "insider_max_docs": 250
 }
