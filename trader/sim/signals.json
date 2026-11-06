@@ -3288,6 +3288,39 @@
       "amount_low": 1001,
       "filed": "2026-09-08",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035401.pdf"
+    },
+    {
+      "doc_id": "20035778",
+      "member": "Hon. Maria Elvira Salazar",
+      "ticker": "CSCO",
+      "type": "S",
+      "date": "2026-10-23",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-05",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+    },
+    {
+      "doc_id": "20035778",
+      "member": "Hon. Maria Elvira Salazar",
+      "ticker": "NVDA",
+      "type": "P",
+      "date": "2026-10-23",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-05",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
+    },
+    {
+      "doc_id": "20035778",
+      "member": "Hon. Maria Elvira Salazar",
+      "ticker": "PG",
+      "type": "P",
+      "date": "2026-10-23",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-05",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf"
     }
   ]
 }
