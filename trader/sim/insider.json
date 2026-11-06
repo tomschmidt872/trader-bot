@@ -295,7 +295,8 @@
   "0001886367-26-000031": "2026-11-05",
   "0002058309-26-000021": "2026-11-05",
   "0002110304-26-000025": "2026-11-05",
-  "0002110643-26-000022": "2026-11-05"
+  "0002110643-26-000022": "2026-11-05",
+  "0001628280-26-071528": "2026-11-06"
  },
  "tx": [
   {
@@ -3274,6 +3275,58 @@
    "role": "PRESIDENT, TECHNOLOGY",
    "filed": "2026-11-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000136/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-04",
+   "shares": 15686.0,
+   "price": 524.25,
+   "value": 8223385.5,
+   "acc": "0001628280-26-071528",
+   "sym": "LIN",
+   "owner": "White Matthew J",
+   "role": "Chief Financial Officer",
+   "filed": "2026-11-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1707925/000162828026071528/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-04",
+   "shares": 30095.0,
+   "price": 518.5,
+   "value": 15604257.5,
+   "acc": "0001628280-26-071528",
+   "sym": "LIN",
+   "owner": "White Matthew J",
+   "role": "Chief Financial Officer",
+   "filed": "2026-11-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1707925/000162828026071528/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-04",
+   "shares": 24376.0,
+   "price": 520.0,
+   "value": 12675520.0,
+   "acc": "0001628280-26-071528",
+   "sym": "LIN",
+   "owner": "White Matthew J",
+   "role": "Chief Financial Officer",
+   "filed": "2026-11-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1707925/000162828026071528/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-04",
+   "shares": 16676.0,
+   "price": 525.0,
+   "value": 8754900.0,
+   "acc": "0001628280-26-071528",
+   "sym": "LIN",
+   "owner": "White Matthew J",
+   "role": "Chief Financial Officer",
+   "filed": "2026-11-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1707925/000162828026071528/"
   }
  ],
  "people": [
