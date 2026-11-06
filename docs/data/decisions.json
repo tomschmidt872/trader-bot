@@ -4930,5 +4930,640 @@
       }
     ],
     "block": null
+  },
+  {
+    "action": "VERKAUF",
+    "sym": "CDW",
+    "shares": 0.4952136271065616,
+    "price": 154.15,
+    "value": 68.41475230191475,
+    "pnl": -6.171889199176945,
+    "why": "Stop-Loss: Kurs 154.15 $ ist unter die Verlustgrenze von 155.44 $ gefallen",
+    "id": "2026-11-06T15:21:50+00:00:VERKAUF:CDW",
+    "time": "2026-11-06T15:21:50+00:00",
+    "kind": "stop",
+    "fx": 1.1158,
+    "pnl_pct": -8.274791671758823,
+    "entry": 168.96,
+    "bought": "2026-11-05T14:34:28+00:00",
+    "regime": "vorsichtig",
+    "levels": {
+      "stop": 155.44320000000002,
+      "trail": 145.14029713928633,
+      "sell_score": -4,
+      "entry": 168.96,
+      "peak": 170.49
+    },
+    "name": "CDW Corporation",
+    "total": 5,
+    "scores": {
+      "Signale": 1,
+      "Trend": 3,
+      "Momentum": 0,
+      "Volumen": 1,
+      "Intraday": -2,
+      "News": 2
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Gilbert Cisneros kauft ($1,001 - $15,000)"
+      ],
+      "Trend": [
+        "Kurs > SMA50",
+        "SMA50 > SMA200",
+        "ADX 28: starker Aufwärtstrend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 50 neutral",
+        "+8.4 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "Volumen 0.6x normal",
+        "Chaikin Money Flow +0.13 (Geld fließt rein)"
+      ],
+      "Intraday": [
+        "Kurs < VWAP 156.54",
+        "unter Opening Range 155.75"
+      ],
+      "News": [
+        "10 Schlagzeilen: 4 positiv, 0 negativ"
+      ]
+    },
+    "ind": {
+      "price": 154.15,
+      "sma50": 148.66940014648438,
+      "sma200": 133.8193501968384,
+      "adx": 28.27710970770537,
+      "plus_di": 28.5571015930594,
+      "minus_di": 20.946996486720987,
+      "macd_hist": -0.6980059142095767,
+      "rsi": 50.49796798563165,
+      "stoch_k": 34.87380717841011,
+      "stoch_d": 57.19872259421428,
+      "bb_upper": 169.78008381632702,
+      "bb_lower": 143.64291484089955,
+      "bb_width": 16.67852652000964,
+      "roc20": 8.426533013539505,
+      "rvol": 0.5597045975212374,
+      "obv_trend": 0.029062538241529944,
+      "cmf": 0.13389071455193446,
+      "buy_sell_ratio": 1.0621517174927908,
+      "high52": 172.47000122070312,
+      "low52": 97.12000274658203,
+      "vwap": 156.54016610327162,
+      "or_high": 159.58999633789062,
+      "or_low": 155.75,
+      "gap": -0.8018209971304202,
+      "atr": 7.849206150457862,
+      "chg": -2.676936300263366,
+      "spark": [
+        104.35,
+        106.21,
+        106.88,
+        110.82,
+        108.59,
+        114.19,
+        116.16,
+        125.45,
+        140.98,
+        139.72,
+        137.3,
+        139.45,
+        133.04,
+        134.81,
+        133.33,
+        129.3,
+        129.13,
+        132.19,
+        131.3,
+        130.09,
+        126.7,
+        128.37,
+        123.57,
+        130.06,
+        130.22,
+        128.02,
+        133.3,
+        139.82,
+        140.64,
+        138.41,
+        133.37,
+        134.19,
+        139.23,
+        137.72,
+        140.21,
+        144.39,
+        144.36,
+        139.38,
+        130.86,
+        134.34,
+        133.24,
+        130.01,
+        129.72,
+        129.83,
+        130.18,
+        133.82,
+        138.04,
+        144.03,
+        147.92,
+        145.56,
+        147.81,
+        147.7,
+        154.0,
+        140.1,
+        141.97,
+        135.81,
+        136.43,
+        135.37,
+        136.67,
+        142.05,
+        139.42,
+        135.3,
+        134.97,
+        137.2,
+        133.54,
+        137.25,
+        132.51,
+        142.09,
+        141.46,
+        148.97,
+        147.69,
+        151.58,
+        150.3,
+        148.67,
+        153.92,
+        152.38,
+        144.48,
+        142.37,
+        142.6,
+        153.79,
+        151.7,
+        153.74,
+        149.96,
+        149.2,
+        146.19,
+        146.41,
+        147.43,
+        146.16,
+        139.46,
+        135.43,
+        130.33,
+        129.71,
+        128.16,
+        135.83,
+        133.29,
+        133.92,
+        135.67,
+        136.82,
+        139.88,
+        142.17,
+        143.76,
+        151.97,
+        150.1,
+        154.33,
+        150.48,
+        152.65,
+        154.99,
+        158.28,
+        164.62,
+        165.11,
+        163.23,
+        161.41,
+        162.66,
+        165.2,
+        153.79,
+        150.59,
+        149.77,
+        168.75,
+        158.39,
+        154.15
+      ]
+    },
+    "headlines": [
+      {
+        "title": "CDW Stock Earnings Beat Has The Bull Case Changed?",
+        "time": "2026-11-05T12:18:52+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cdw-stock-earnings-beat-bull-121852998.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings",
+          "deal",
+          "capital"
+        ]
+      },
+      {
+        "title": "CDW Just Raised Its Dividend 8%. Is This Tech Stock a Hidden Gem?",
+        "time": "2026-11-05T11:47:14+00:00",
+        "link": "https://247wallst.com/investing/2026/11/05/cdw-just-raised-its-dividend-8-is-this-tech-stock-a-hidden-gem/?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "capital"
+        ]
+      },
+      {
+        "title": "Is CDW (CDW) Fully Valued After Strong Results, Higher Guidance, And The Lovelytics Deal?",
+        "time": "2026-11-05T04:40:47+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cdw-cdw-fully-valued-strong-044047171.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings",
+          "deal",
+          "capital"
+        ]
+      },
+      {
+        "title": "CDW (CDW) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+        "time": "2026-11-05T01:30:02+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cdw-cdw-q3-earnings-key-013002934.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "CDW Stock Returns To Buy Zone After Earnings Beat",
+        "time": "2026-11-04T21:56:27+00:00",
+        "link": "https://finance.yahoo.com/m/101a65dd-0f0c-3960-85e0-69d2aeffa6ba/cdw-stock-returns-to-buy-zone.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "CDW Corp (CDW) Q3 2026 Earnings Call Highlights: Record $6. ...",
+        "time": "2026-11-04T21:11:56+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cdw-corp-cdw-q3-2026-211156489.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings",
+          "capital"
+        ]
+      },
+      {
+        "title": "CDW (CDW) Q3 2026 Earnings Call Transcript",
+        "time": "2026-11-04T19:16:27+00:00",
+        "link": "https://www.fool.com/earnings/call-transcripts/2026/11/04/cdw-cdw-q3-2026-earnings-call-transcript/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "CDW Corporation Q3 2026 Earnings Call Summary",
+        "time": "2026-11-04T18:33:37+00:00",
+        "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-cdw-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Gesamt-Score mindestens 6",
+        "ok": false,
+        "val": 5
+      },
+      {
+        "rule": "Trend positiv (mindestens +1)",
+        "ok": true,
+        "val": 3
+      },
+      {
+        "rule": "Volumen nicht negativ",
+        "ok": true,
+        "val": 1
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      },
+      {
+        "rule": "Marktlage nicht risk-off",
+        "ok": true,
+        "val": "vorsichtig"
+      }
+    ],
+    "block": null
+  },
+  {
+    "action": "KAUF",
+    "sym": "BRK-B",
+    "shares": 0.13917248633936646,
+    "price": 569.514,
+    "value": 71.0348444031887,
+    "why": "Alle Kaufregeln erfüllt, Score 11 (Signale +2, Trend +3, Momentum +1, Volumen +1, Intraday +2, News +2)",
+    "id": "2026-11-06T15:21:50+00:00:KAUF:BRK-B",
+    "time": "2026-11-06T15:21:50+00:00",
+    "kind": "buy",
+    "fx": 1.1158,
+    "regime": "vorsichtig",
+    "levels": {
+      "stop": 546.4928372100085,
+      "sell_score": -4,
+      "entry": 569.514
+    },
+    "name": "Berkshire Hathaway Inc. New",
+    "total": 11,
+    "scores": {
+      "Signale": 2,
+      "Trend": 3,
+      "Momentum": 1,
+      "Volumen": 1,
+      "Intraday": 2,
+      "News": 2
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Richard Dean Dr McCormick kauft ($1,001 - $15,000)",
+        "Hon. Maria Elvira Salazar kauft ($1,001 - $15,000)",
+        "Hon. Pete Sessions verkauft ($15,001 - $50,000)",
+        "Insider kauft: BERKSHIRE HATHAWAY INC (Großaktionär (10 %)) für 26.9 Mio. $"
+      ],
+      "Trend": [
+        "Kurs > SMA50",
+        "SMA50 > SMA200",
+        "ADX 51: starker Aufwärtstrend"
+      ],
+      "Momentum": [
+        "MACD positiv",
+        "RSI 72 überkauft",
+        "+10.5 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "1.6x Volumen an einem Minus-Tag",
+        "OBV steigt (Akkumulation)",
+        "Kaufdruck: 2.1x mehr Volumen an Plus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs > VWAP 565.22",
+        "Ausbruch über Opening Range 568.00"
+      ],
+      "News": [
+        "10 Schlagzeilen: 2 positiv, 0 negativ"
+      ]
+    },
+    "ind": {
+      "price": 569.514,
+      "sma50": 521.5328800976563,
+      "sma200": 497.71606990844725,
+      "adx": 51.043096377271,
+      "plus_di": 40.22874152451171,
+      "minus_di": 13.326282383736265,
+      "macd_hist": 2.693615315185669,
+      "rsi": 72.18641587427169,
+      "stoch_k": 68.20834910267898,
+      "stoch_d": 80.31095378210136,
+      "bb_upper": 576.111063377445,
+      "bb_lower": 511.1783371108362,
+      "bb_width": 11.943963812660883,
+      "roc20": 10.452272098285054,
+      "rvol": 1.551852327753147,
+      "obv_trend": 0.34171785490976125,
+      "cmf": 0.0052831248722973794,
+      "buy_sell_ratio": 2.0905825012393704,
+      "high52": 586.2999877929688,
+      "low52": 464.010009765625,
+      "vwap": 565.2199254238034,
+      "or_high": 567.9998779296875,
+      "or_low": 559.6099853515625,
+      "gap": -1.793548187570615,
+      "atr": 9.208465115996635,
+      "chg": -0.49202680372462115,
+      "spark": [
+        480.46,
+        480.9,
+        479.98,
+        486.38,
+        483.62,
+        479.92,
+        477.42,
+        474.48,
+        470.29,
+        471.51,
+        475.37,
+        478.63,
+        488.13,
+        487.0,
+        487.77,
+        483.68,
+        485.79,
+        489.25,
+        495.52,
+        494.95,
+        491.28,
+        489.46,
+        488.69,
+        492.81,
+        494.81,
+        487.81,
+        498.66,
+        496.0,
+        500.39,
+        499.74,
+        507.78,
+        506.58,
+        504.0,
+        494.79,
+        495.45,
+        493.71,
+        496.85,
+        491.09,
+        488.35,
+        493.12,
+        490.91,
+        491.25,
+        489.65,
+        489.39,
+        490.85,
+        494.93,
+        497.18,
+        512.37,
+        509.16,
+        509.68,
+        511.54,
+        513.14,
+        517.22,
+        518.85,
+        524.61,
+        521.8,
+        529.42,
+        516.38,
+        510.0,
+        506.93,
+        504.03,
+        498.23,
+        502.96,
+        499.62,
+        496.86,
+        495.82,
+        504.32,
+        504.32,
+        504.91,
+        503.7,
+        505.0,
+        504.03,
+        502.33,
+        505.24,
+        508.13,
+        506.03,
+        505.83,
+        506.72,
+        507.0,
+        510.37,
+        514.95,
+        516.76,
+        519.8,
+        509.2,
+        509.77,
+        502.01,
+        503.49,
+        507.17,
+        505.18,
+        505.48,
+        503.09,
+        502.35,
+        497.95,
+        500.5,
+        502.65,
+        504.26,
+        505.54,
+        506.25,
+        511.05,
+        515.62,
+        517.6,
+        520.59,
+        526.35,
+        525.68,
+        532.02,
+        532.23,
+        539.82,
+        538.99,
+        546.97,
+        542.19,
+        548.56,
+        542.99,
+        540.34,
+        541.96,
+        542.49,
+        556.11,
+        557.07,
+        579.09,
+        572.33,
+        569.51
+      ]
+    },
+    "headlines": [
+      {
+        "title": "The Zacks Analyst Blog Highlights Berkshire Hathaway, Micron Technology, Chevron and Orbit International",
+        "time": "2026-11-06T13:05:00+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-berkshire-130500361.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Financial Select Sector SPDR (XLF) Buys $70.9 Million More Berkshire on Nov. 4",
+        "time": "2026-11-06T11:04:56+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/financial-select-sector-spdr-xlf-110456567.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Berkshire Hathaway Reports Nov. 7 With Its Stock at a Record. Its Cash Pile Is the Number to Watch.",
+        "time": "2026-11-05T20:37:02+00:00",
+        "link": "https://www.fool.com/investing/2026/11/05/berkshire-hathaway-reports-nov-7-with-its-stock-at-a-record-its-cash-pile-is-the-number-to-watch/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Top Stock Reports for Berkshire Hathaway, Micron & Chevron",
+        "time": "2026-11-05T20:09:00+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-berkshire-hathaway-200900700.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Greg Abel's 2 Big Acquisitions This Year Cost Berkshire Hathaway About $16 Billion, Less Than 5% of Its Cash Pile",
+        "time": "2026-11-05T16:20:00+00:00",
+        "link": "https://www.fool.com/investing/2026/11/05/abels-2-big-acquisitions-this-year-cost-berkshire/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "deal"
+        ]
+      },
+      {
+        "title": "Berkshire Hathaway Stock Has Surged. Can Earnings Keep the Rally Going?",
+        "time": "2026-11-05T15:38:00+00:00",
+        "link": "https://finance.yahoo.com/m/ed99c73b-43dc-3c7c-a70e-9a5734b2ccdc/berkshire-hathaway-stock-has.html?.tsrc=rss",
+        "tone": 2,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Prediction: Berkshire Hathaway Stock Tops $700 a Share Before the End of 2030",
+        "time": "2026-11-05T15:05:00+00:00",
+        "link": "https://www.fool.com/investing/2026/11/05/prediction-berkshire-hathaway-stock-tops-700-share/?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Berkshire Has Gained 16% in About 5 Weeks",
+        "time": "2026-11-05T14:47:19+00:00",
+        "link": "https://247wallst.com/investing/2026/11/05/berkshire-has-gained-16-in-about-5-weeks/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Gesamt-Score mindestens 6",
+        "ok": true,
+        "val": 11
+      },
+      {
+        "rule": "Trend positiv (mindestens +1)",
+        "ok": true,
+        "val": 3
+      },
+      {
+        "rule": "Volumen nicht negativ",
+        "ok": true,
+        "val": 1
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      },
+      {
+        "rule": "Marktlage nicht risk-off",
+        "ok": true,
+        "val": "vorsichtig"
+      }
+    ],
+    "block": null
   }
 ]
