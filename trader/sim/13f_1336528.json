@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-06",
+  "fetched": "2026-11-09",
   "data": {
     "source": "Pershing Square Capital Management, L.P. 13F-HR, quarter ending 2026-03-31, filed 2026-05-15 (accession 0001172661-26-002336)",
     "as_of": "2026-03-31",
@@ -113,7 +113,7 @@
         ]
       },
       {
-        "ticker": "HTZ",
+        "ticker": "HTZWW",
         "name": "Hertz Global Holdings",
         "weight": 0.51,
         "pct_of_13f": 0.51,
@@ -121,7 +121,8 @@
         "shares": 15241127.0,
         "cusips": [
           "42806J700"
-        ]
+        ],
+        "check_ticker": true
       }
     ],
     "skipped": [],
