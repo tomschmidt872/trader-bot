@@ -69,7 +69,7 @@
       "entry": 257.41,
       "entry_fx": 1.1218,
       "cost_eur": 74.58664150109169,
-      "peak": 278.005,
+      "peak": 279.16,
       "atr": 19.12285709569102,
       "bought": "2026-11-05T14:34:28+00:00",
       "name": "Moderna, Inc."
@@ -79,7 +79,7 @@
       "entry": 114.505,
       "entry_fx": 1.1218,
       "cost_eur": 74.58664150109169,
-      "peak": 114.505,
+      "peak": 114.705,
       "atr": 4.0935155972889605,
       "bought": "2026-11-05T14:34:28+00:00",
       "name": "Estee Lauder Companies, Inc. (T"
@@ -89,7 +89,7 @@
       "entry": 169.315,
       "entry_fx": 1.1218,
       "cost_eur": 74.58664150109169,
-      "peak": 170.26,
+      "peak": 170.78,
       "atr": 4.781765352647089,
       "bought": "2026-11-05T14:34:28+00:00",
       "name": "Emerson Electric Company"
@@ -125,5 +125,5 @@
       "name": "Berkshire Hathaway Inc. New"
     }
   },
-  "fx": 1.1206
+  "fx": 1.1207
 }

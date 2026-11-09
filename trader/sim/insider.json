@@ -337,7 +337,9 @@
   "0001193125-26-452767": "2026-11-09",
   "0001225208-26-008757": "2026-11-06",
   "0000080424-26-000273": "2026-11-09",
-  "0000080424-26-000272": "2026-11-09"
+  "0000080424-26-000272": "2026-11-09",
+  "0001070938-26-000024": "2026-11-09",
+  "0000021344-26-000171": "2026-11-09"
  },
  "tx": [
   {
@@ -3862,6 +3864,110 @@
    "role": "CEO - Grooming",
    "filed": "2026-11-09",
    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000272/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-05",
+   "shares": 5808.0,
+   "price": 109.59,
+   "value": 636498.72,
+   "acc": "0001070938-26-000024",
+   "sym": "EL",
+   "owner": "FRIBOURG PAUL J",
+   "role": "Aufsichtsrat/Direktor",
+   "filed": "2026-11-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000107093826000024/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-05",
+   "shares": 2941.0,
+   "price": 111.15,
+   "value": 326892.15,
+   "acc": "0001070938-26-000024",
+   "sym": "EL",
+   "owner": "FRIBOURG PAUL J",
+   "role": "Aufsichtsrat/Direktor",
+   "filed": "2026-11-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000107093826000024/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-05",
+   "shares": 2742.0,
+   "price": 111.88,
+   "value": 306774.95999999996,
+   "acc": "0001070938-26-000024",
+   "sym": "EL",
+   "owner": "FRIBOURG PAUL J",
+   "role": "Aufsichtsrat/Direktor",
+   "filed": "2026-11-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000107093826000024/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-05",
+   "shares": 5667.0,
+   "price": 113.31,
+   "value": 642127.77,
+   "acc": "0001070938-26-000024",
+   "sym": "EL",
+   "owner": "FRIBOURG PAUL J",
+   "role": "Aufsichtsrat/Direktor",
+   "filed": "2026-11-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000107093826000024/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-05",
+   "shares": 2046.0,
+   "price": 113.77,
+   "value": 232773.41999999998,
+   "acc": "0001070938-26-000024",
+   "sym": "EL",
+   "owner": "FRIBOURG PAUL J",
+   "role": "Aufsichtsrat/Direktor",
+   "filed": "2026-11-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000107093826000024/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-05",
+   "shares": 1768.0,
+   "price": 115.02,
+   "value": 203355.36,
+   "acc": "0001070938-26-000024",
+   "sym": "EL",
+   "owner": "FRIBOURG PAUL J",
+   "role": "Aufsichtsrat/Direktor",
+   "filed": "2026-11-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000107093826000024/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-06",
+   "shares": 70000.0,
+   "price": 110.21,
+   "value": 7714700.0,
+   "acc": "0001070938-26-000024",
+   "sym": "EL",
+   "owner": "FRIBOURG PAUL J",
+   "role": "Aufsichtsrat/Direktor",
+   "filed": "2026-11-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000107093826000024/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-05",
+   "shares": 20585.0,
+   "price": 95.6233,
+   "value": 1968405.6305,
+   "acc": "0000021344-26-000171",
+   "sym": "KO",
+   "owner": "QUAN NANCY",
+   "role": "Executive Vice President",
+   "filed": "2026-11-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000171/"
   }
  ],
  "people": [
