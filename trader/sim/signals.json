@@ -2683,6 +2683,28 @@
       "amount_low": 1001,
       "filed": "2026-11-05",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035770.pdf"
+    },
+    {
+      "doc_id": "20035780",
+      "member": "Hon. Nancy Pelosi",
+      "ticker": "WBD",
+      "type": "S",
+      "date": "2026-10-07",
+      "amount": "$50,001 - $100,000",
+      "amount_low": 50001,
+      "filed": "2026-11-06",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf"
+    },
+    {
+      "doc_id": "20035775",
+      "member": "Hon. John J Mr McGuire III",
+      "ticker": "WDC",
+      "type": "S",
+      "date": "2026-10-15",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-06",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035775.pdf"
     }
   ]
 }
