@@ -1,5 +1,400 @@
 [
   {
+    "title": "Intel Sees 2027 Growth as Data-Center Strength Offsets PC Weakness, RBC Says",
+    "time": "2026-11-10T17:18:29+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-sees-2027-growth-data-171829093.html?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:INTC:rss:3831c42d-cfbd-3c67-887a-9fb229898935",
+    "type": "news",
+    "sym": "INTC",
+    "summary": "Intel's (INTC) management sees 2027 as a growth year, with data-center strength expected to more tha",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "MetLife Forecasts CRE Returns Improving to 6.4% in 2027",
+    "time": "2026-11-10T17:15:26+00:00",
+    "link": "https://www.credaily.com/briefs/metlife-forecasts-cre-returns-improving-to-6-4-in-2027/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:MET:rss:c5a05c4b-748c-3bf4-bfa8-1c7ab0e08782",
+    "type": "news",
+    "sym": "MET",
+    "summary": "MetLife expects unleveraged CRE returns to rise from 5% this year to 6.4% in 2027 as limited construction supports income growth.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Enbridge vs. ExxonMobil: Which Energy Stock Is a Better Buy for 2027?",
+    "time": "2026-11-10T17:15:02+00:00",
+    "link": "https://www.fool.com/coverage/better-buy/2026/11/10/enbridge-vs-exxonmobil-which-energy-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:XOM:rss:d64ae6a1-69f4-3ac1-a368-be730f3dbbef",
+    "type": "news",
+    "sym": "XOM",
+    "summary": "Enbridge's pipeline toll-road model faces off against ExxonMobil's fortress balance sheet and global scale, with a valuation gap that may tip the scales.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Why Nvidia Stock Fell Again on Tuesday",
+    "time": "2026-11-10T17:14:54+00:00",
+    "link": "https://www.fool.com/investing/2026/11/10/why-nvidia-stock-fell-again-on-tuesday/?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:NVDA:rss:d557b79c-86c6-35cb-bac2-153946a591da",
+    "type": "news",
+    "sym": "NVDA",
+    "summary": "Nvidia looks set to face multiple investigations at the federal level.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Former Novartis CEO on What AI Can’t Replace in the Workplace",
+    "time": "2026-11-10T17:10:00+00:00",
+    "link": "https://finance.yahoo.com/video/former-novartis-ceo-ai-t-171000632.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:NVS:rss:f5a18142-8980-3e87-9767-49684144fbe0",
+    "type": "news",
+    "sym": "NVS",
+    "summary": "What risks do companies face as AI transforms the workplace—and what do they risk losing in pursuit of greater productivity? Former Novartis CEO Joe Jimenez discusses what businesses need to consider as they embrace AI in a conversation with Poppy Harlow at the WSJ Leadership Institute Board of Dire",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Tesla Bull Predicts Democrats Will “Block Autonomy,” a Bigger Risk Than Data Centers",
+    "time": "2026-11-10T17:06:25+00:00",
+    "link": "https://www.tikr.com/blog/tesla-bull-predicts-democrats-will-block-autonomy-a-bigger-risk-than-data-centers?ref=yahoofinance&tlnk=yf-261110-qjgp8mrq&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOG:rss:63998203-c8eb-3cf6-8dae-57e8e492da70",
+    "type": "news",
+    "sym": "GOOG",
+    "summary": "Key TakeawaysJason Calacanis, a Tesla shareholder, said on This Week in Startups that after the midterms Democrats will “block autonomy,” a bigger risk for tech than data centers. The risk is bigger for Tesla than for Alphabet’s Waymo, since Elon Musk says Cybercab will dominate only where the law a",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Meta’s Lease Could Back Up to $4.6 Billion in Louisiana Bonds for Applied Digital’s AI Campus",
+    "time": "2026-11-10T17:05:55+00:00",
+    "link": "https://www.tikr.com/blog/metas-lease-could-back-up-to-4-6-billion-in-louisiana-bonds-for-applied-digitals-ai-campus?ref=yahoofinance&tlnk=yf-261110-2fq6qmm3&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:META:rss:4b963ad8-72fa-3781-8b6a-ccc530edea7d",
+    "type": "news",
+    "sym": "META",
+    "summary": "Key TakeawaysA Louisiana public authority’s Nov. 9 meeting packet includes a proposed agreement for up to $4.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "AMD Is Up 142% This Year After Another Beat. How Much Higher Can It Go?",
+    "time": "2026-11-10T17:03:46+00:00",
+    "link": "https://247wallst.com/investing/2026/11/10/amd-is-up-142-this-year-after-another-beat-how-much-higher-can-it-go/?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:AMD:rss:2c63cd04-d5ff-3395-8c3e-41273d14df95",
+    "type": "news",
+    "sym": "AMD",
+    "summary": "AMD crushed its fourth straight earnings beat and the stock jumped again, yet a 182 trailing P/E, collapsing free cash flow, and swelling inventory complicate the celebration. Our model weighs the bull and bear cases to see where the stock heads next.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Google just handed AMD a job its own chip already does",
+    "time": "2026-11-10T17:03:00+00:00",
+    "link": "https://www.thestreet.com/technology/amd-wins-google-confidential-ai-chip-role?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AMD:rss:a337e638-2406-35c9-b318-a97d17e006ee",
+    "type": "news",
+    "sym": "AMD",
+    "summary": "AMD did not win this one on raw speed. The reason Google chose it says a lot about what cloud customers fear most.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Introducing the New Honeywell HEPA 3-in-1 Air Comfort System with Turbo360™, Combining Air Purification, Fan and Air Circulation in One",
+    "time": "2026-11-10T17:03:00+00:00",
+    "link": "https://finance.yahoo.com/healthcare/articles/introducing-honeywell-hepa-3-1-170300579.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:HON:rss:7fbc16ed-3777-36a9-98c9-ca42f733832b",
+    "type": "news",
+    "sym": "HON",
+    "summary": "Helen of Troy Limited today announced the Canadian launch of the new Honeywell HEPA 3-in-1 Air Comfort System with Turbo360™. Combining an air purifier, fan and air circulator in one convenient unit, the new 3-in-1 system is designed to help Canadians enjoy cleaner air and greater comfort at home th",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Top Midday Stories: US Consumer Prices Rise Faster Than Expected in October; Nvidia Slides After China Chip Report",
+    "time": "2026-11-10T17:00:37+00:00",
+    "link": "https://finance.yahoo.com/economy/policy/articles/top-midday-stories-us-consumer-170037195.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:NVDA:rss:2732238d-428c-368c-83be-b67a1e226f73",
+    "type": "news",
+    "sym": "NVDA",
+    "summary": "All three major US stock indexes were down in late-morning trading after the latest consumer price i",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Goldman Sachs CEO Drops Stark Take on Wall Street's Fears",
+    "time": "2026-11-10T17:00:35+00:00",
+    "link": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-ceo-drops-stark-170035331.html?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:GS:rss:0f7d11ba-06aa-374e-b956-2f681eb63c73",
+    "type": "news",
+    "sym": "GS",
+    "summary": "Wall Street's growing anxiety contrasts with another financial reality.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "AMD Showcases 6th Gen AMD EPYC Processors to Lead Next Era of AI and Enterprise Computing",
+    "time": "2026-11-10T17:00:00+00:00",
+    "link": "https://finance.yahoo.com/technology/ai/articles/amd-showcases-6th-gen-amd-170000763.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AMD:rss:48ab9d10-bde1-344f-a3e8-b4dcfd84a01b",
+    "type": "news",
+    "sym": "AMD",
+    "summary": "News Highlights: 6th Gen AMD EPYC SP7 CPU-based platforms are now shipping from leading server OEMs and ODMs.6th Gen EPYC CPUs are expected to power cloud instances across all major, global cloud service providers, with recent announcements from Microsoft Azure and OCI showcasing leadership agent or",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Hyve Solutions Brings 6th Gen AMD EPYC™ Processors to Market at Rack Scale",
+    "time": "2026-11-10T17:00:00+00:00",
+    "link": "https://finance.yahoo.com/technology/articles/hyve-solutions-brings-6th-gen-170000866.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AMD:rss:aca0d3f9-6087-3888-bd5a-49244c257922",
+    "type": "news",
+    "sym": "AMD",
+    "summary": "FREMONT, Calif., November 10, 2026--Hyve Solutions Corporation, a U.S.-based design and manufacturing partner for compute, storage, and networking systems in AI, cloud, and digital infrastructure, and a wholly owned subsidiary of TD SYNNEX Corporation (NYSE: SNX), today announced it's featuring 6th ",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Trump Media Jumps 9% as Crypto Gains Drive $410 Million Q3 Profit; Rumble Falls 3%, Meta Holds Steady",
+    "time": "2026-11-10T16:57:37+00:00",
+    "link": "https://247wallst.com/investing/2026/11/10/trump-media-jumps-9-as-crypto-gains-drive-410-million-q3-profit-rumble-falls-3-meta-holds-steady/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:META:rss:ab60a627-68cd-3362-b72f-684c3b49015d",
+    "type": "news",
+    "sym": "META",
+    "summary": "Trump Media's bottom line flipped dramatically last quarter, yet the real story hides beneath the headline number. While Rumble slips and Meta barely moves, one quiet product and a looming December vote may matter far more than the profit.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Lucid Jumps 8% on $1.75 Billion Liquidity Boost Despite Q3 Miss; Rivian Dips, Tesla Little Changed",
+    "time": "2026-11-10T16:55:51+00:00",
+    "link": "https://247wallst.com/investing/2026/11/10/lucid-jumps-8-on-1-75-billion-liquidity-boost-despite-q3-miss-rivian-dips-tesla-little-changed/?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:TSLA:rss:f9134164-3282-3f95-b7f6-74d86fcb575e",
+    "type": "news",
+    "sym": "TSLA",
+    "summary": "Lucid missed on both revenue and earnings, yet investors rushed in anyway. Behind the rally sits a Saudi backer, a shrinking cash burn, and a risky dependence that Rivian and Tesla avoid.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Apple Is Holding Strong While Big Tech Sells Off. Is It Next?",
+    "time": "2026-11-10T16:54:13+00:00",
+    "link": "https://www.fool.com/investing/2026/11/10/apple-is-holding-strong-big-tech-sells-off-next/?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AAPL:rss:c81d1046-8423-3136-a949-2314d088dd98",
+    "type": "news",
+    "sym": "AAPL",
+    "summary": "Apple is near all-time highs when none of its peers are.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Microsoft Is Back Above $4 Trillion and Only $266 Billion Behind Nvidia",
+    "time": "2026-11-10T16:53:55+00:00",
+    "link": "https://247wallst.com/investing/2026/11/10/microsoft-is-back-above-4-trillion-and-only-266-billion-behind-nvidia/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "legal",
+      "people"
+    ],
+    "id": "news:MSFT:rss:59b1d42e-9cea-3c06-b1c0-f5c3bdc838b7",
+    "type": "news",
+    "sym": "MSFT",
+    "summary": "Two AI giants just posted blockbuster quarters, yet only one is watching its stock slide while its CEO faces a board investigation. What separates their paths, and could the rankings flip after NVIDIA's next earnings report?",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Steve Eisman: Oracle Could Suffer if OpenAI 'Demise' Causes US Recession",
+    "time": "2026-11-10T16:52:58+00:00",
+    "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63104820/eisman-ai-bear-market?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:ORCL:rss:1288abca-308a-3b78-84b5-e960418229a9",
+    "type": "news",
+    "sym": "ORCL",
+    "summary": "Steve Eisman, famous for betting against the housing market before the 2008 crash, sees a 70% chance the AI boom ends in a bear market or worse. He sees two ways it could go wrong: AI succeeds while investors lose...",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Caterpillar Is the Quiet Winner in Anthropic’s IPO: a $3.4 Billion Generator Order",
+    "time": "2026-11-10T16:49:32+00:00",
+    "link": "https://www.tikr.com/blog/caterpillar-is-the-quiet-winner-in-anthropics-ipo-a-3-4-billion-generator-order?ref=yahoofinance&tlnk=yf-261110-pq5x5699&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CAT:rss:863057a3-bcb6-3d6b-a9c8-b5704c3b26ae",
+    "type": "news",
+    "sym": "CAT",
+    "summary": "Key TakeawaysAnthropic reportedly agreed to pay $3. 4 billion to take over 1.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Medicus Pharma shares rationale as CD228V becomes lead development priority",
+    "time": "2026-11-10T16:48:49+00:00",
+    "link": "https://finance.yahoo.com/video/medicus-pharma-shares-rationale-cd228v-164849554.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "deal",
+      "people"
+    ],
+    "id": "news:PFE:rss:d9bbf7f5-a031-392f-a0f8-b40ea48f7c2a",
+    "type": "news",
+    "sym": "PFE",
+    "summary": "Medicus Pharma CEO Dr Raza Bokhari joined Steve Darling from Proactive to discuss the company's third-quarter 2026 financial results, which showed a narrower net loss and lower general and administrative expenses as Medicus shifts its development focus towards CD228V, an antibody-drug conjugate lice",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "ServiceNow (NOW) Gets a Boost From AI Demand and a Major Partnership",
+    "time": "2026-11-10T16:45:23+00:00",
+    "link": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-gets-boost-ai-164523318.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:NOW:rss:d51080e3-bd53-396b-b770-2504499a07ee",
+    "type": "news",
+    "sym": "NOW",
+    "summary": "We just published our list of the 10 Best US Stocks to Invest In for Long Term and ServiceNow, Inc. (NYSE:NOW) ranked 8th on this list. Recent economic and corporate developments have highlighted the importance of identifying businesses with durable growth opportunities. According to the US Bureau o",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "OpenAI is eating Google Search's lunch and making strides with enterprise",
+    "time": "2026-11-10T16:42:42+00:00",
+    "link": "https://finance.yahoo.com/video/openai-is-eating-google-searchs-lunch-and-making-strides-with-enterprise-164242268.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOG:rss:633db19d-897d-4371-92e3-7f6c4b847c6c",
+    "type": "news",
+    "sym": "GOOG",
+    "summary": "In the Loop host Ejaaz Ahamadeen breaks down how OpenAI's (OPAI.PVT) enterprise revenue has overtaken consumer revenue, even as it has begun to eat into Google Search (GOOG).",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Uber (UBER) Delivers Strong Growth, but Its Q4 Outlook Raises Concerns",
+    "time": "2026-11-10T16:42:26+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-delivers-strong-growth-164226446.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:UBER:rss:8aebdf9b-5a36-31ba-a932-9302755ad45e",
+    "type": "news",
+    "sym": "UBER",
+    "summary": "We just published our list of the Best US Stocks to Invest In for Long Term and Uber Technologies, Inc. (NYSE:UBER) ranked 6th on this list. Recent economic and corporate developments have highlighted the importance of identifying businesses with durable growth opportunities. According to the US Bur",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Meta’s Former Security Chief: AI Attack Costs Are “Going Towards Zero.” CrowdStrike Sells the Defense",
+    "time": "2026-11-10T16:39:38+00:00",
+    "link": "https://www.tikr.com/blog/metas-former-security-chief-ai-attack-costs-are-going-towards-zero-crowdstrike-sells-the-defense?ref=yahoofinance&tlnk=yf-261110-87424vvw&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:META:rss:140b1898-ba79-31d8-a924-51d977347c9a",
+    "type": "news",
+    "sym": "META",
+    "summary": "Key TakeawaysAlex Stamos, Facebook’s former security chief, says AI is driving the cost of cyberattacks toward zero while defense stays expensive. He said it after a record $6.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Nvidia Faces “Too Many Semiconductors and Not Enough Data Center Shells” by 2028, Goldman Warns",
+    "time": "2026-11-10T16:35:16+00:00",
+    "link": "https://www.tikr.com/blog/nvidia-faces-too-many-semiconductors-and-not-enough-data-center-shells-by-2028-goldman-warns?ref=yahoofinance&tlnk=yf-261110-6424jvq3&.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:GS:rss:8cc48db7-8792-3cb1-b3f2-f7a65c564710",
+    "type": "news",
+    "sym": "GS",
+    "summary": "Key TakeawaysGoldman Sachs warned that by 2028 there won’t be enough data center shells for all the AI chips being made, and Super Micro Computer’s CFO says shells already set the pace of its deliveries. For NVIDIA, chips waiting on buildings would hit inventory and pricing long before any customer ",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Wall Street Turns Bullish on Uber as Profitability Strengthens Its Growth Story",
+    "time": "2026-11-10T16:33:05+00:00",
+    "link": "https://247wallst.com/investing/2026/11/10/wall-street-turns-bullish-on-uber-as-profitability-strengthens-its-growth-story/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:UBER:rss:92a73edb-3dfd-377f-b1c2-282105957065",
+    "type": "news",
+    "sym": "UBER",
+    "summary": "Uber's profits are surging, yet the stock still sits far below its high and a driver shortage keeps nagging at the story. Can a cheap multiple and a robotaxi push outrun the risks hiding in the fine print?",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Podcast: Driving DBS access for Parkinson’s patients in the UK and Europe",
+    "time": "2026-11-10T16:32:25+00:00",
+    "link": "https://www.medicaldevice-network.com/comment/podcast-driving-dbs-access-for-parkinson-patients-in-the-uk-and-europe/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BSX:rss:cdfce1f7-d5de-315a-9111-10d9640a1e9b",
+    "type": "news",
+    "sym": "BSX",
+    "summary": "A recent survey by Boston Scientific found that UK clinicians view deep-brain stimulation for Parkinson's disease positively, yet feel it is on not reaching enough patients.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Amazon.com, Inc. (AMZN) Sold Off After AWS Growth Accelerated: What Changed?",
+    "time": "2026-11-10T16:22:58+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-sold-162258148.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AMZN:rss:714da9ec-73ed-3ef1-a790-eecbb4507784",
+    "type": "news",
+    "sym": "AMZN",
+    "summary": "Liontrust Investment Partners recently released its “Global Innovation Fund” Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -1.6% in the third quarter of 2026, compared with gains of 0.4% for the IA Global sector average and 1.5% for the MSCI AC World Index. ",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
     "title": "Alphabet Inc. (GOOGL) Is Seeing Its AI Investments Pay Off: Is More Upside Ahead?",
     "time": "2026-11-10T16:22:46+00:00",
     "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-inc-googl-seeing-ai-162246427.html?.tsrc=rss",
@@ -24,6 +419,36 @@
     "sym": "ORCL",
     "summary": "Liontrust Investment Partners recently released its “Global Innovation Fund” Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -1.6% in the third quarter of 2026, compared with gains of 0.4% for the IA Global sector average and 1.5% for the MSCI AC World Index. ",
     "seen": "2026-11-10T16:27:02+00:00"
+  },
+  {
+    "title": "Microsoft Dumps Oracle. Good News: Those Old Chips Renew at a “20% Premium”",
+    "time": "2026-11-10T16:20:41+00:00",
+    "link": "https://www.tikr.com/blog/microsoft-dumps-oracle-good-news-those-old-chips-renew-at-a-20-premium?ref=yahoofinance&tlnk=yf-261110-hp4jrccf&.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "deal"
+    ],
+    "id": "news:MSFT:rss:2baa5b44-d73b-3741-bc9f-e82514c4af2c",
+    "type": "news",
+    "sym": "MSFT",
+    "summary": "Key TakeawaysMicrosoft is winding down a 2023 deal to rent AI computing from Oracle because its older Nvidia chips no longer fit Microsoft’s specifications, Bloomberg reported. Oracle says GPUs renewed last quarter, mostly four years or older, went at a 20% premium, and IREN just recontracted older ",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
+    "title": "Intel Corporation (INTC) Is Showing Signs of a Turnaround: Could the Agentic AI Era Change Its Future?",
+    "time": "2026-11-10T16:18:45+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-showing-signs-161845690.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "capital"
+    ],
+    "id": "news:INTC:rss:847e208a-109e-35c1-a983-ed8462b2967a",
+    "type": "news",
+    "sym": "INTC",
+    "summary": "Liontrust Investment Partners recently released its “GF Global Dividend Fund” Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -0.6% in the third quarter of 2026, underperforming the MSCI AC World Index, which gained 1.6%. However, the Fund remained ahead of th",
+    "seen": "2026-11-10T17:26:18+00:00"
   },
   {
     "title": "Microsoft Corporation (MSFT) Surged 38% as Azure Accelerated, but One Investor Remains Skeptical: Here’s Why",
@@ -408,6 +833,21 @@
     "sym": "NVDA",
     "summary": "Stock Market Today: The Dow Jones index falls Tuesday on a hot inflation report. Anthropic prices its IPO range. Nvidia sells off.",
     "seen": "2026-11-10T16:27:02+00:00"
+  },
+  {
+    "title": "Elon Musk Says Tesla Will Have to Return Cybertruck Deposits to 'A Lot of People,' Rejects Unprofitability Reports",
+    "time": "2026-11-10T15:30:08+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-tesla-return-153008541.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:TSLA:rss:600b02d0-4929-39b9-b924-4edb3e072365",
+    "type": "news",
+    "sym": "TSLA",
+    "summary": "Tesla Inc. CEO Elon Musk said the automaker will refund Cybertruck deposits to many customers as it prepares to wind down production of the electric pickup, rejecting reports that the decision stems from unprofitability. Musk Rejects Reports Of Cybertruck Unprofitability...",
+    "seen": "2026-11-10T17:26:18+00:00"
   },
   {
     "title": "Johnson & Johnson Says Caplyta Improves Manic Symptoms in Second Phase 3 Study",
@@ -988,6 +1428,21 @@
     "seen": "2026-11-10T15:19:54+00:00"
   },
   {
+    "title": "Global High-Performance Computing (HPC) Application-Specific Integrated Circuit (ASIC) Market Report 2026-2030",
+    "time": "2026-11-10T14:36:00+00:00",
+    "link": "https://finance.yahoo.com/technology/articles/global-high-performance-computing-hpc-143600151.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "capital"
+    ],
+    "id": "news:META:rss:30f7d254-08bd-3958-9afa-a8ee7ad5622f",
+    "type": "news",
+    "sym": "META",
+    "summary": "Google, Microsoft, NVIDIA, Meta and AWS are profiled as major HPC ASIC players, covering custom chips, accelerators and data-center computing solutionsDublin, Nov. 10, 2026 (GLOBE NEWSWIRE) -- \"High-Performance Computing (HPC) Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\"",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
     "title": "Nvidia and Broadcom Are Scaling AI Data Centers With This Growth Stock. Here's Why It Could Soar.",
     "time": "2026-11-10T14:35:00+00:00",
     "link": "https://www.fool.com/investing/2026/11/10/nvidia-and-broadcom-are-scaling-ai-data-centers/?.tsrc=rss",
@@ -1373,6 +1828,21 @@
     "sym": "TJX",
     "summary": "This holiday season, Marshalls (NYSE: TJX) is teaming up with Lindsay Lohan to launch \"Unwrap the Internet,\" a collection of holiday gift guides inspired by some of the internet's most engaged communities to help shoppers uncover the gifts people actually want. Spanning wellness, travel, parenting a",
     "seen": "2026-11-10T15:19:54+00:00"
+  },
+  {
+    "title": "Only One Analyst Rates Oracle a Sell. What Does the Lone Bear See?",
+    "time": "2026-11-10T14:06:13+00:00",
+    "link": "https://247wallst.com/investing/2026/11/10/only-one-analyst-rates-oracle-a-sell-what-does-the-lone-bear-see/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:ORCL:rss:ca0a8ac9-9989-3ea8-8b45-5832d96ab72b",
+    "type": "news",
+    "sym": "ORCL",
+    "summary": "Oracle keeps beating earnings estimates and Wall Street keeps cheering, yet the stock has slid hard this year. The lone skeptic points to a number that the bulls rarely mention, and it may explain why the market refuses to follow the consensus.",
+    "seen": "2026-11-10T17:26:18+00:00"
   },
   {
     "title": "Here's what we learned in Anthropic's amended filing",
@@ -2218,6 +2688,19 @@
     "sym": "IBM",
     "summary": "Quantum X Labs has expanded its AI-powered quantum error correction program across three IBM quantum processors, building on its earlier work using datasets generated by Google quantum hardware and advancing its hardware-agnostic decoding technology TEL AVIV, Israel, Nov. 10, 2026 (GLOBE NEWSWIRE) -",
     "seen": "2026-11-10T15:19:54+00:00"
+  },
+  {
+    "title": "Tesla’s China Sales Hit Lowest Since 2022. What It Means for Year-End Targets.",
+    "time": "2026-11-10T13:12:00+00:00",
+    "link": "https://finance.yahoo.com/m/9d505476-c029-3e00-a09f-8dfcd8785824/tesla%E2%80%99s-china-sales-hit.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:TSLA:rss:9d505476-c029-3e00-a09f-8dfcd8785824",
+    "type": "news",
+    "sym": "TSLA",
+    "summary": "Tesla’s October sales to retail customers in China were the worst since 2022.",
+    "seen": "2026-11-10T17:26:18+00:00"
   },
   {
     "title": "Chevron (CVX) Brings In A 25% Partner For Its Namibia Exploration Block",
@@ -3168,6 +3651,19 @@
     "seen": "2026-11-10T15:19:54+00:00"
   },
   {
+    "title": "Are Wall Street Analysts Predicting Prologis Stock Will Climb or Sink?",
+    "time": "2026-11-10T11:25:46+00:00",
+    "link": "https://www.barchart.com/story/news/8752595/are-wall-street-analysts-predicting-prologis-stock-will-climb-or-sink?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:PLD:rss:adf596c7-b88e-3f7c-b9fb-767d79e6f47c",
+    "type": "news",
+    "sym": "PLD",
+    "summary": "Despite Prologis’ underperformance relative to the broader market over the past year, Wall Street analysts remain moderately optimistic about the stock’s prospects.",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
     "title": "Pfizer Hits a New 52-Week High. Here's Why It's Not Too Late to Buy the Stock",
     "time": "2026-11-10T11:20:02+00:00",
     "link": "https://www.fool.com/investing/2026/11/10/pfizer-hits-a-new-52-week-high-here-s-why-it-s-not-too-late-to-buy-the-stock/?.tsrc=rss",
@@ -3365,6 +3861,19 @@
     "sym": "AAPL",
     "summary": "The fund bought $206.8 million more than it sold, with Apple's $14.6 million purchase the largest of its buys.",
     "seen": "2026-11-10T15:19:54+00:00"
+  },
+  {
+    "title": "What Goldman Sachs Nasdaq-100 Premium Income (GPIQ) Bought: Honeywell Leads on Nov. 6",
+    "time": "2026-11-10T11:05:52+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-nasdaq-100-premium-110552738.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:HON:rss:b106277e-ad31-36e7-b11b-dc1c95e41c6a",
+    "type": "news",
+    "sym": "HON",
+    "summary": "The fund traded $236.7 million in all, adding $30.7 million net across 47 increases and 28 decreases.",
+    "seen": "2026-11-10T17:26:18+00:00"
   },
   {
     "title": "State Street SPDR Portfolio S&P 500 ETF (SPYM) Adds Apple and Nvidia on Nov. 6",
@@ -4050,6 +4559,19 @@
     "sym": "TSLA",
     "summary": "Jason Calacanis said he bought another $1 million of Uber shares at $65, calling it half price under his valuation model.",
     "seen": "2026-11-10T15:19:54+00:00"
+  },
+  {
+    "title": "Elon Musk Ally Jason Calacanis Bets Another $1M On Uber — Says Waymo Team-Up Could Steal Tesla’s Driverless Crown",
+    "time": "2026-11-10T08:25:57+00:00",
+    "link": "https://stocktwits.com/news-articles/markets/equity/elon-musk-ally-jason-calacanis-1m-uber-waymo-team-up-steal-tesla-driverless-crown/cNGuaWKR97Y?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:UBER:rss:0273038d-2240-3cdc-9e0a-5dc05294d728",
+    "type": "news",
+    "sym": "UBER",
+    "summary": "Jason Calacanis said he bought another $1 million of Uber shares at $65, calling it half price under his valuation model.",
+    "seen": "2026-11-10T17:26:18+00:00"
   },
   {
     "title": "Why Netflix Stock Plunged 11% in October",
@@ -7409,6 +7931,19 @@
     "seen": "2026-11-09T18:23:21+00:00"
   },
   {
+    "title": "FDA requires vision-loss warning on Novo Nordisk and Eli Lilly GLP-1 drugs",
+    "time": "2026-11-09T17:06:46+00:00",
+    "link": "https://finance.yahoo.com/healthcare/articles/fda-requires-vision-loss-warning-170646867.html?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:NVO:rss:21d02bd0-31b5-362b-960c-8cbd245436a3",
+    "type": "news",
+    "sym": "NVO",
+    "summary": "Investing.com -- U.S. health regulators will require drugmakers including Novo Nordisk A/S (NYSE:NVO) and Eli Lilly and Company (NYSE:LLY) to add safety warnings to their blockbuster weight-loss and diabetes treatments regarding a rare eye condition that can cause permanent vision loss. The Food and",
+    "seen": "2026-11-10T17:26:18+00:00"
+  },
+  {
     "title": "Morgan Stanley buys Vinyl Equity to capture more IPO wealth",
     "time": "2026-11-09T17:05:14+00:00",
     "link": "https://finance.yahoo.com/markets/article/morgan-stanley-buys-vinyl-equity-to-capture-more-ipo-wealth-170514799.html?.tsrc=rss",
@@ -8060,6 +8595,19 @@
     "sym": "NVDA",
     "summary": "Chris McGuire, senior fellow for China and emerging technologies at the Council on Foreign Relations, joined Bloomberg Open Interest and says the US Commerce Department should have cut Nvidia's ties to the company Megaspeed much sooner. He believes Congress will be getting involved and asking more q",
     "seen": "2026-11-09T16:40:45+00:00"
+  },
+  {
+    "title": "Why Palantir Stock Popped Today",
+    "time": "2026-11-09T16:15:53+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-stock-popped-today-161553360.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:PLTR:rss:08ba476f-af09-3d88-a0c5-48a8332fc768",
+    "type": "news",
+    "sym": "PLTR",
+    "summary": "Palantir Stock Rebounds as AI Fears Fade and Revenue Beats Estimates",
+    "seen": "2026-11-10T17:26:18+00:00"
   },
   {
     "title": "Hedge funds cut tech exposure at near-record pace as Nasdaq drops 6.4%",
@@ -12386,6 +12934,19 @@
     "sym": "LULU",
     "summary": "The fund bought $4.0 million of Lululemon and sold out of PTC in a $36.3 million exit, with net selling of $115.7 million.",
     "seen": "2026-11-09T14:32:29+00:00"
+  },
+  {
+    "title": "What State Street Industrial Select SPDR (XLI) Sold: GE Leads on Nov. 5",
+    "time": "2026-11-09T11:05:48+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-industrial-select-spdr-110548649.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GE:rss:fb8aa9d8-082a-3c6b-9695-92c303d9b359",
+    "type": "news",
+    "sym": "GE",
+    "summary": "The fund sold $274.7 million of stock, cutting all 83 positions and adding nothing new.",
+    "seen": "2026-11-10T17:26:18+00:00"
   },
   {
     "title": "State Street SPDR Portfolio S&P 500 (SPYM) Buys $23.9 Million More Apple on Nov. 5",
@@ -20255,576 +20816,6 @@
     "type": "news",
     "sym": "AAPL",
     "summary": "Apple is sitting on a mountain of cash, yet it just went to the bond market anyway. The reason points to a shift in strategy, and a trade-off shareholders paying a premium for the stock may not love.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
-    "time": "2026-11-06T13:53:04+00:00",
-    "link": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "people"
-    ],
-    "id": "news:TSLA:rss:ac49aded-448e-3a45-b447-c3e2e9070d76",
-    "type": "news",
-    "sym": "TSLA",
-    "summary": "The Tesla CEO said the Texas plant will make room for the Cybercab, as sales of the stainless-steel pickup run far below capacity.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "AT&T Stock Falls 11.8% in a Year: Should You Buy the Dip?",
-    "time": "2026-11-06T13:52:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/t-stock-falls-11-8-135200234.html?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:T:rss:b0482d58-1a08-33c6-a746-eee5c79e2eb2",
-    "type": "news",
-    "sym": "T",
-    "summary": "AT&T stock has declined 11.8% in a year despite strong fiber and wireless growth. Can its attractive valuation offset rising debt and competitive pressures?",
-    "seen": "2026-11-06T15:21:50+00:00"
-  },
-  {
-    "title": "Apple boosts purchase commitments by $33B amid memory crunch",
-    "time": "2026-11-06T13:51:00+00:00",
-    "link": "https://www.supplychaindive.com/news/apple-boosts-purchase-commitments-by-33b-amid-memory-crunch/873936/?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AAPL:rss:9e61fcb4-f06a-388f-a664-aa82738557e8",
-    "type": "news",
-    "sym": "AAPL",
-    "summary": "The iPhone maker mitigated some of the higher memory costs in Q4 with price increases and carry-in inventory from the previous quarter.",
-    "seen": "2026-11-06T17:26:07+00:00"
-  },
-  {
-    "title": "Tesla winds down Cybertruck production as Musk shifts focus to robotaxis",
-    "time": "2026-11-06T13:49:40+00:00",
-    "link": "https://finance.yahoo.com/technology/articles/tesla-winds-down-cybertruck-production-134940487.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TSLA:rss:1221b2ac-1deb-362f-86b6-9a15d20c3c67",
-    "type": "news",
-    "sym": "TSLA",
-    "summary": "Investing.com -- Tesla (NASDAQ: TSLA) is preparing to wind down production of its highly anticipated Cybertruck, marking a major setback for one of Elon Musk's most ambitious automotive projects as the company shifts its focus toward autonomous driving and robotaxis.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Do Options Traders Know Something About Deckers Outdoor We Don't?",
-    "time": "2026-11-06T13:49:00+00:00",
-    "link": "https://finance.yahoo.com/markets/options/articles/options-traders-know-something-deckers-134900118.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:DECK:rss:56b69b34-bdc4-33f2-98cf-b6ca3746521e",
-    "type": "news",
-    "sym": "DECK",
-    "summary": "Investors need to pay close attention to DECK stock based on the movements in the options market lately.",
-    "seen": "2026-11-06T15:21:50+00:00"
-  },
-  {
-    "title": "SPG Q3 FFO Tops Estimates on Leasing Strength, Outlook Raised",
-    "time": "2026-11-06T13:49:00+00:00",
-    "link": "https://finance.yahoo.com/real-estate/articles/spg-q3-ffo-tops-estimates-134900748.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:SPG:rss:164faa8f-101c-33a0-b0ba-9a1866c31b14",
-    "type": "news",
-    "sym": "SPG",
-    "summary": "Simon Property Group beats Q3 FFO and revenue estimates as higher rents, strong retailer sales and leasing momentum drive growth, prompting an increase in 2026 guidance.",
-    "seen": "2026-11-06T15:21:50+00:00"
-  },
-  {
-    "title": "How Quant Strategies and Leveraged ETFs Helped Fuel Thursday's QQQ Bloodbath on Wall Street — and Whether It's Safe to Buy Yet",
-    "time": "2026-11-06T13:47:43+00:00",
-    "link": "https://www.barchart.com/story/news/8700237/how-quant-strategies-and-leveraged-etfs-helped-fuel-thursday-s-qqq-bloodbath-on-wall-street-and-whether-it-s-safe-to-buy-yet?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:QQQ:rss:586b90da-978b-33bc-b47b-40a22c8de93f",
-    "type": "news",
-    "sym": "QQQ",
-    "summary": "After a $2.3T plunge on Wall Street, UBS says 30% of US data center capacity is now at risk",
-    "seen": "2026-11-06T20:22:26+00:00"
-  },
-  {
-    "title": "AST SpaceMobile Will Use Firefly in Bold Move to Build Its Starlink Competitor",
-    "time": "2026-11-06T13:47:00+00:00",
-    "link": "https://finance.yahoo.com/m/2bffda9d-f667-380c-b5e7-f41771dbe478/ast-spacemobile-will-use.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:SPCX:rss:2bffda9d-f667-380c-b5e7-f41771dbe478",
-    "type": "news",
-    "sym": "SPCX",
-    "summary": "Mobile communications satellite operator AST SpaceMobile drops a space-bombshell on Friday.",
-    "seen": "2026-11-06T15:21:50+00:00"
-  },
-  {
-    "title": "Tesla’s Primary Growth Drivers Just Got Choked Out",
-    "time": "2026-11-06T13:45:13+00:00",
-    "link": "https://247wallst.com/investing/2026/11/06/teslas-primary-growth-drivers-just-got-choked-out/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TSLA:rss:4e0c81cc-9569-33ae-9bb5-4a60834661b5",
-    "type": "news",
-    "sym": "TSLA",
-    "summary": "Robotaxis, Megapacks and self-driving software now carry Tesla's valuation, yet a new Congress and a $20 billion spending spree threaten to test each one. Can Musk's regulatory timelines survive the scrutiny before the cash cushion matters?",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "AMD Vs. Nvidia: The Balance of Power Shifts To AMD Now",
-    "time": "2026-11-06T13:45:11+00:00",
-    "link": "https://247wallst.com/investing/2026/11/06/amd-vs-nvidia-the-balance-of-power-shifts-to-amd-now/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMD:rss:928fdb84-9485-393a-a9c4-315ae5d3e84d",
-    "type": "news",
-    "sym": "AMD",
-    "summary": "AMD's data center business nearly doubled while NVIDIA still dwarfs it in scale, and a sudden chip selloff has muddied the race. Which company holds the steeper path into 2027, and what single slip could flip the verdict?",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Cathie Wood Is Buying The Dip In Nvidia As She Adds $45.9 Million Of NVDA And Sells $119.7 Million Of Broadcom",
-    "time": "2026-11-06T13:43:39+00:00",
-    "link": "https://247wallst.com/investing/2026/11/06/cathie-wood-is-buying-the-dip-in-nvidia-as-she-adds-45-9-million-of-nvda-and-sells-119-7-million-of-broadcom/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AVGO:rss:7e9406dc-c9a7-31c7-b461-c58982be4766",
-    "type": "news",
-    "sym": "AVGO",
-    "summary": "ARK bet on one AI chip giant and dumped another on the same brutal selloff day. A midterm shock, data center politics, and a surprising Friday rebound make the swap harder to read than it looks.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020",
-    "time": "2026-11-06T13:43:36+00:00",
-    "link": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMD:rss:791f98cd-b260-4865-b042-61f10bdbf20e",
-    "type": "news",
-    "sym": "AMD",
-    "summary": "Nvida, AMD, Micron and Sandisk rebounded on Friday after the chip sector suffered its worst daily drop since 2020.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Is ASE Technology (ASX) Stock Outpacing Its Computer and Technology Peers This Year?",
-    "time": "2026-11-06T13:40:04+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ase-technology-asx-stock-outpacing-134004270.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMD:rss:0d346d06-2454-3a83-aa12-adf54733ce3e",
-    "type": "news",
-    "sym": "AMD",
-    "summary": "Here is how ASE Technology Hldg (ASX) and Advanced Micro Devices (AMD) have performed compared to their sector so far this year.",
-    "seen": "2026-11-06T15:21:50+00:00"
-  },
-  {
-    "title": "Are Retail-Wholesale Stocks Lagging  Signet Jewelers (SIG) This Year?",
-    "time": "2026-11-06T13:40:02+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/retail-wholesale-stocks-lagging-signet-134002316.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:KMX:rss:6381a978-27a6-3945-a9d2-39334fbec7bc",
-    "type": "news",
-    "sym": "KMX",
-    "summary": "Here is how Signet (SIG) and CarMax (KMX) have performed compared to their sector so far this year.",
-    "seen": "2026-11-06T15:21:50+00:00"
-  },
-  {
-    "title": "AI semiconductor rout may be buying opportunity, LYNX Equity says: ’Dip a toe in’",
-    "time": "2026-11-06T13:39:44+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/ai-semiconductor-rout-may-buying-133944257.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:LRCX:rss:deae8b87-e7f4-3384-a959-4d57223e64a1",
-    "type": "news",
-    "sym": "LRCX",
-    "summary": "Investing.com -- Lam Research (NASDAQ:LRCX) shares rebounded sharply in premarket trading Friday after the semiconductor equipment maker announced a $25 billion share repurchase authorization, offering a potential signal of corporate confidence following one of the technology sector’s worst trading ",
-    "seen": "2026-11-06T17:26:07+00:00"
-  },
-  {
-    "title": "Nvidia makes major chip policy change as China scrutiny grows",
-    "time": "2026-11-06T13:38:31+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-makes-major-chip-policy-133831132.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NVDA:rss:c22672b0-9b84-3df9-a358-4eb4fd7da524",
-    "type": "news",
-    "sym": "NVDA",
-    "summary": "Southeast Asian buyers must enroll in Nvidia's chip-tracking program to qualify as official cloud partners.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Google parent reveals $548 million bet on beaten-down chip stock",
-    "time": "2026-11-06T13:36:11+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/google-parent-reveals-548-million-133611955.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:GOOG:rss:2d6e155f-78f8-3a71-b772-043ab4ced7c3",
-    "type": "news",
-    "sym": "GOOG",
-    "summary": "Alphabet disclosed nearly 3 million Qualcomm shares worth $547.9 million.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Google parent reveals $548 million bet on beaten-down chip stock",
-    "time": "2026-11-06T13:36:11+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/google-parent-reveals-548-million-133611955.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:QCOM:rss:2d6e155f-78f8-3a71-b772-043ab4ced7c3",
-    "type": "news",
-    "sym": "QCOM",
-    "summary": "Alphabet disclosed nearly 3 million Qualcomm shares worth $547.9 million.",
-    "seen": "2026-11-06T17:26:07+00:00"
-  },
-  {
-    "title": "Costco Stock: Earnings Growth Could Shape the Next Big Move",
-    "time": "2026-11-06T13:33:45+00:00",
-    "link": "https://247wallst.com/investing/2026/11/06/costco-stock-earnings-growth-could-shape-the-next-big-move/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:COST:rss:55adccae-d771-390f-9a09-a6a45b062d50",
-    "type": "news",
-    "sym": "COST",
-    "summary": "Six straight earnings beats have pushed Costco shares up 20% this year, yet a 49x trailing P/E leaves little room for error. One metric could decide whether the rally keeps running or finally stalls.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Moderna Stock Soars After $162 Million Profit Reverses Last Year's Loss",
-    "time": "2026-11-06T13:30:21+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/moderna-stock-soars-162-million-133021956.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "analyst"
-    ],
-    "id": "news:MRNA:rss:737a3f4b-9993-3657-aa1e-fd6f393dac9c",
-    "type": "news",
-    "sym": "MRNA",
-    "summary": "Moderna Delivers Stunning Earnings Surprise as Revenue Outlook Gets Major Upgrade",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Charter (CHTR) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
-    "time": "2026-11-06T13:30:02+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/charter-chtr-q3-earnings-taking-133002941.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:CHTR:rss:922c7232-a430-39d8-b655-ddf4935f6de5",
-    "type": "news",
-    "sym": "CHTR",
-    "summary": "The headline numbers for Charter (CHTR) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-    "seen": "2026-11-06T15:21:50+00:00"
-  },
-  {
-    "title": "Is It Worth Investing in Wells Fargo (WFC) Based on Wall Street's Bullish Views?",
-    "time": "2026-11-06T13:30:02+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-wells-fargo-wfc-133002297.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:WFC:rss:23ce0423-adf0-3bea-995f-b58ae594c271",
-    "type": "news",
-    "sym": "WFC",
-    "summary": "According to the average brokerage recommendation (ABR), one should invest in Wells Fargo (WFC). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
-    "seen": "2026-11-06T15:21:50+00:00"
-  },
-  {
-    "title": "Is It Worth Investing in Advanced Micro (AMD) Based on Wall Street's Bullish Views?",
-    "time": "2026-11-06T13:30:01+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-advanced-micro-amd-133001599.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMD:rss:3476e942-6ccd-36ea-b118-5b097434172f",
-    "type": "news",
-    "sym": "AMD",
-    "summary": "According to the average brokerage recommendation (ABR), one should invest in Advanced Micro (AMD). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
-    "seen": "2026-11-06T15:21:50+00:00"
-  },
-  {
-    "title": "Wall Street Analysts See UnitedHealth (UNH) as a Buy: Should You Invest?",
-    "time": "2026-11-06T13:30:01+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-unitedhealth-133001958.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:UNH:rss:cdbddcea-d0cb-3711-87e6-81963edc0196",
-    "type": "news",
-    "sym": "UNH",
-    "summary": "The average brokerage recommendation (ABR) for UnitedHealth (UNH) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
-    "seen": "2026-11-06T15:21:50+00:00"
-  },
-  {
-    "title": "Lululemon Faces Investor Suit Over Turnaround Claims",
-    "time": "2026-11-06T13:30:00+00:00",
-    "link": "https://wwd.com/sourcing-journal/industry-news/lululemon-securities-lawsuit-turnaround-demand-investors-1239403246/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:LULU:rss:a5fac4df-13b9-306a-8393-529e5e5a1584",
-    "type": "news",
-    "sym": "LULU",
-    "summary": "A shareholder alleges the retailer understated weakening demand before two guidance cuts and sharp stock decline.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Goldman Sachs BDC, Inc. Q3 2026 Earnings Call Summary",
-    "time": "2026-11-06T13:30:00+00:00",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-goldman-sachs-bdc-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:GS:rss:4f9716f2-3eeb-3c1b-8790-a422a76883da",
-    "type": "news",
-    "sym": "GS",
-    "summary": "Moby summary of Goldman Sachs BDC, Inc.'s Q3 2026 earnings call",
-    "seen": "2026-11-06T19:30:38+00:00"
-  },
-  {
-    "title": "Pembina Pipeline Corporation Q3 2026 Earnings Call Summary",
-    "time": "2026-11-06T13:30:00+00:00",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-pembina-pipeline-corporation-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:PBA:rss:4e91b58c-b64e-33a2-a257-d57ac35190cf",
-    "type": "news",
-    "sym": "PBA",
-    "summary": "Moby summary of Pembina Pipeline Corporation's Q3 2026 earnings call",
-    "seen": "2026-11-06T19:30:38+00:00"
-  },
-  {
-    "title": "Wheaton Precious Metals Corp. Q3 2026 Earnings Call Summary",
-    "time": "2026-11-06T13:30:00+00:00",
-    "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-wheaton-precious-metals-corp-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:WPM:rss:b0e9c01e-9360-3299-987a-d336939500af",
-    "type": "news",
-    "sym": "WPM",
-    "summary": "Moby summary of Wheaton Precious Metals Corp.'s Q3 2026 earnings call",
-    "seen": "2026-11-06T19:30:38+00:00"
-  },
-  {
-    "title": "Tesla To End Cybertruck Production; Shares Inch Up After Election Rout",
-    "time": "2026-11-06T13:29:02+00:00",
-    "link": "https://finance.yahoo.com/m/074f46fb-f6e9-3694-96c6-f50bda3b76ea/tesla-to-end-cybertruck.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "people"
-    ],
-    "id": "news:SPCX:rss:074f46fb-f6e9-3694-96c6-f50bda3b76ea",
-    "type": "news",
-    "sym": "SPCX",
-    "summary": "The factory space dedicated to the Cybertruck will be turned over to production of the Cybercab, according to CEO Elon Musk.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "The Zacks Analyst Blog Highlights Archer-Daniels-Midland, Freeport-McMoRan, UnitedHealth, Casey's General Stores and Crane",
-    "time": "2026-11-06T13:23:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-archer-132300344.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CR:rss:5b7af754-1b4b-3b17-b71e-e41bed5294b0",
-    "type": "news",
-    "sym": "CR",
-    "summary": "Democratic control of Congress could shift investor interest toward cyclical stocks, putting Archer-Daniels-Midland, Freeport-McMoRan and three other picks in focus.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Apple Is Now Worth $600 Billion More Than Nvidia",
-    "time": "2026-11-06T13:22:06+00:00",
-    "link": "https://247wallst.com/investing/2026/11/06/apple-is-now-worth-600-billion-more-than-nvidia/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AAPL:rss:93ee7711-e078-3a0a-b08f-5f2f874aee92",
-    "type": "news",
-    "sym": "AAPL",
-    "summary": "A Democratic Congress rattled the AI trade, and one megacap barely flinched while its chip-making rival got hammered. Apple's bond sale and Nvidia's suddenly cheap multiple hint at a twist investors may be misreading.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Why MACOM Stock Is In Focus After Record Earnings And Strong 2027 Guidance",
-    "time": "2026-11-06T13:19:01+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-macom-stock-focus-record-131901598.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:MTSI:rss:6695890b-2edd-3410-b321-23c9124ed926",
-    "type": "news",
-    "sym": "MTSI",
-    "summary": "MACOM Technology Solutions Holdings reported fourth quarter sales of US$424.82 million and net income of US$139.45 million, with full year 2026 sales of US$1.33 billion and net income of US$335.25 million from continuing operations. The shift from a full year loss in the prior period to positive ear",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Micron's 17% stock plunge reveals a surprising valuation",
-    "time": "2026-11-06T13:18:43+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/microns-17-stock-plunge-reveals-131843845.html?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MU:rss:6fe180ee-e709-378a-be9e-537403dfdef5",
-    "type": "news",
-    "sym": "MU",
-    "summary": "Its forward P/E ratio of 3.72 was the lowest among 10 semiconductor-related stocks.",
-    "seen": "2026-11-06T15:21:50+00:00"
-  },
-  {
-    "title": "Chipotle (CMG) Stock Sees Fair Value Cut As Analysts Turn More Cautious",
-    "time": "2026-11-06T13:18:04+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/chipotle-cmg-stock-sees-fair-131804832.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "analyst"
-    ],
-    "id": "news:CMG:rss:df01681e-057f-351d-a882-6fc444c5db88",
-    "type": "news",
-    "sym": "CMG",
-    "summary": "The Fair Value estimate for Chipotle Mexican Grill has shifted from US$42.71 to US$40.57, leaving it about 5% below the prior mark. Analysts link this reset in price targets to a more cautious stance that factors in recent food safety headlines, mixed near term growth drivers, and questions around h",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Waste Management vs. Republic Services: Which Pays Investors More?",
-    "time": "2026-11-06T13:17:41+00:00",
-    "link": "https://247wallst.com/investing/2026/11/06/waste-management-vs-republic-services-which-pays-investors-more/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:RSG:rss:f0c26b85-5eb9-3d20-b456-5cfec82916b4",
-    "type": "news",
-    "sym": "RSG",
-    "summary": "Two garbage giants just surged about 17% in a month, and both ask income investors to pay up. Yield, cash coverage, and valuation point in different directions, so which one actually rewards a retiree's patience?",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Moderna Shares Jump 10% as Q3 Earnings Beat Forecasts and Revenue Outlook Improves",
-    "time": "2026-11-06T13:16:54+00:00",
-    "link": "https://investorshub.advfn.com/market-news/article/39451/moderna-shares-jump-10-as-q3-earnings-beat-forecasts-and-revenue-outlook-improves?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:MRNA:rss:1dc68a1c-b366-3c74-828f-348a770dc55c",
-    "type": "news",
-    "sym": "MRNA",
-    "summary": "Moderna Inc. (NASDAQ:MRNA) shares surged 10% after the biotechnology company reported stronger-than-expected third-quarter 2026 earnings and revenue, raised its full-year sales growth forecast and increased its projected year-end cash balance.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "TJX Companies Stock: Is Wall Street Bullish or Bearish?",
-    "time": "2026-11-06T13:14:24+00:00",
-    "link": "https://www.barchart.com/story/news/8699210/tjx-companies-stock-is-wall-street-bullish-or-bearish?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TJX:rss:4d0a3c16-ed7b-3d9a-8e65-b58ead29cadf",
-    "type": "news",
-    "sym": "TJX",
-    "summary": "TJX Companies has trailed the broader market over the past year, and analysts are very bullish on its growth outlook.",
-    "seen": "2026-11-06T19:30:38+00:00"
-  },
-  {
-    "title": "Vistra Shares Rise 5% as Q3 Profit Surges Despite Revenue Miss, Raises 2026 Outlook",
-    "time": "2026-11-06T13:13:36+00:00",
-    "link": "https://investorshub.advfn.com/market-news/article/39445/vistra-shares-rise-5-as-q3-profit-surges-despite-revenue-miss-raises-2026-outlook?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:VST:rss:108338c3-33d2-3dbc-b53a-4c7fe369240f",
-    "type": "news",
-    "sym": "VST",
-    "summary": "Vistra Corp. (NYSE:VST) shares gained approximately 5% in premarket trading after the power generation company reported strong third-quarter 2026 profit growth and raised its full-year earnings guidance, despite revenue falling short of Wall Street expectations.",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "IMAX (IMAX) CEO Defends Offering Premium Screens To A High Profile Streaming Release",
-    "time": "2026-11-06T13:12:41+00:00",
-    "link": "https://finance.yahoo.com/media-advertising/articles/imax-imax-ceo-defends-offering-131241627.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital",
-      "people"
-    ],
-    "id": "news:NFLX:rss:f076aea2-5dd7-3a70-898c-585e1196df5b",
-    "type": "news",
-    "sym": "NFLX",
-    "summary": "IMAX (NYSE:IMAX) CEO publicly addressed decisions by major theater chains to forgo showing a high profile Netflix film on IMAX screens. The chief executive said the company had offered IMAX auditoriums for the Netflix title while some exhibition partners held back. Management framed the episode as p",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Elon Musk's controversial Tesla Cybertruck appears to be dead",
-    "time": "2026-11-06T13:12:08+00:00",
-    "link": "https://www.independent.co.uk/tech/elon-musk-cybertruck-tesla-production-cyber-cab-b3080447.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "people"
-    ],
-    "id": "news:TSLA:rss:011722ae-2e8c-32d8-ac53-5c5e755452cc",
-    "type": "news",
-    "sym": "TSLA",
-    "summary": "CEO took a particular interest in sharp-edged vehicle – but it faced criticism over its safety, difficulties with recalls and ultimately failed to sell in good numbers",
-    "seen": "2026-11-06T14:33:58+00:00"
-  },
-  {
-    "title": "Charter shares fall 6% in premarket trade as Q3 Internet losses worsen",
-    "time": "2026-11-06T13:10:14+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/charter-shares-fall-6-premarket-131014473.html?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CHTR:rss:718d380f-6f3e-3e19-bbc6-377819028b39",
-    "type": "news",
-    "sym": "CHTR",
-    "summary": "Investing.com -- Charter Communications (NASDAQ:CHTR) shares fell over 6% in premarket trading on Friday after the U.S. cable and broadband provider reported worsening quarterly Internet subscriber losses and a $6.3 billion franchise writedown, and announced a $2 billion cost-cutting plan to try to ",
     "seen": "2026-11-06T14:33:58+00:00"
   }
 ]
