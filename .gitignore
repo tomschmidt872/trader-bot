@@ -3,3 +3,4 @@ trader/sim/ptr_pdfs/
 __pycache__/
 *.tmp
 .DS_Store
+trader/backtest_cache/

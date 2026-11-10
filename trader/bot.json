@@ -43,9 +43,8 @@
   "min_order": 25,
   "buy_score": 6,
   "sell_score": -4,
-  "stop_loss_pct": 8,
   "atr_stop": 2.5,
-  "trailing_atr": 3.5,
+  "trailing_atr": 5,
   "news_hours": 48,
   "people": [
     {
@@ -180,5 +179,11 @@
   ],
   "insider_days": 14,
   "people_days": 90,
-  "insider_max_docs": 250
+  "insider_max_docs": 250,
+  "stop_min_pct": 5,
+  "stop_max_pct": 10,
+  "tech_buy": 6,
+  "max_positions": 6,
+  "cooldown_days": 7,
+  "min_dollar_volume": 20000000
 }

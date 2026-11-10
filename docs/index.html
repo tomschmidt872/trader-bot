@@ -277,8 +277,8 @@ let D = {}; const charts = []; const ui = {range: "all", spx: true, decFilter: "
   stockDir: -1, q: "", evType: "all", evTone: "all", evSym: "", evQ: "", open: new Set()};
 
 async function loadData() {
-  const [an, pf, st, eq, tr, dec, ev] = await Promise.all([get("analysis.json"), get("portfolio.json"), get("status.json"),
-    get("equity.csv", "csv"), get("trades.csv", "csv"), get("decisions.json"), get("events.json")]);
+  const [an, pf, st, eq, tr, dec, ev, bt] = await Promise.all([get("analysis.json"), get("portfolio.json"), get("status.json"),
+    get("equity.csv", "csv"), get("trades.csv", "csv"), get("decisions.json"), get("events.json"), get("backtest.json")]);
   const rows = an?.rows || [];
   const bySym = Object.fromEntries(rows.map(r => [r.sym, r]));
   const fx = an?.fx || pf?.fx || 1.1;
@@ -291,7 +291,7 @@ async function loadData() {
   const cash = pf?.cash ?? start;
   const equity = cash + positions.reduce((a, p) => a + p.value, 0);
   D = {an, pf, st, eq: eq || [], tr: tr || [], dec: (dec || []).slice().reverse(), ev: ev || [], rows, bySym, fx,
-       positions, start, cash, equity, rules: an?.rules || {}};
+       positions, start, cash, equity, rules: an?.rules || {}, bt};
 }
 
 // ------------------------------------------------------------------ Erklärungen
@@ -714,6 +714,22 @@ function viewNews() {
   ${list.length ? `<div class="feed">${html}</div>` : `<div class="panel"><div class="empty">Keine Ereignisse für diesen Filter.</div></div>`}`;
 }
 
+function backtestPanel() {
+  const B = D.bt;
+  if (!B) return "";
+  const rowsH = B.periods.map(p => `<tr><td><b>${esc(p.label)}</b><div class="muted" style="font-size:12px">${esc(p.from)} – ${esc(p.to)}</div></td>
+    <td class="r num ${cls(p.spy.ret)}">${pct(p.spy.ret, 1)}<div class="muted" style="font-size:12px">max. ${pct(p.spy.mdd, 1)}</div></td>
+    ${p.variants.map(v => `<td class="r num ${cls(v.ret)}"><b>${pct(v.ret, 1)}</b><div class="muted" style="font-size:12px">max. ${pct(v.mdd, 1)} · ${v.trades} Trades</div></td>`).join("")}</tr>`).join("");
+  return `<div class="panel wide"><div class="panel-header"><h2>Backtest: Wie hätten die Regeln in den letzten 2 Jahren abgeschnitten?</h2>
+      <span class="muted" style="font-size:13px">${B.stocks} Aktien · berechnet am ${esc(B.generated)}</span></div>
+    <div class="table-wrap"><table class="data-table"><tr><th>Zeitraum</th><th class="r">S&amp;P 500 halten</th>
+      ${B.periods[0].variants.map(v => `<th class="r">${esc(v.name)}</th>`).join("")}</tr>${rowsH}</table></div>
+    <p class="muted" style="font-size:13px;margin:12px 0 0">„max.“ = größter Rückgang vom Höchststand. Getestet wurden nur die technischen Regeln (Trend, Momentum, Volumen, Marktlage, Stops)
+      auf Tageskursen – Signale, News und Intraday-Daten gibt es rückwirkend nicht. Gerechnet wird mit 0,1 % Kosten pro Order.
+      Wichtig: Getestet wird mit den <b>heutigen</b> S&amp;P-100-Firmen (das sind die Gewinner der letzten Jahre), und die neuen Regeln wurden aus 288 getesteten Varianten ausgewählt.
+      Die echten Ergebnisse werden deshalb wahrscheinlich schlechter ausfallen. Vergangene Ergebnisse sind keine Garantie.</p></div>`;
+}
+
 function viewRules() {
   const R = D.rules;
   const inv = (R.investors || []).map(i => `${esc(i.name)} (Top ${i.top})`).join(", ") || "–";
@@ -728,13 +744,18 @@ function viewRules() {
       <li>Für jede Aktie ein Jahr Kurse laden und Punkte in 6 Bereichen vergeben.</li>
       <li>Erst verkaufen, dann kaufen – und alles mit Begründung protokollieren.</li></ol></div>
     <div class="panel"><div class="panel-header"><h2>Kaufen</h2><span class="badge b-green">alle Regeln müssen passen</span></div><ul class="rules">
-      <li>Gesamt-Score mindestens <b>${R.buy_score ?? "–"}</b></li><li>Trend-Punkte mindestens <b>+1</b></li><li>Volumen-Punkte nicht negativ</li>
+      <li>Technik-Score (Trend + Momentum + Volumen) mindestens <b>${R.tech_buy ?? "–"}</b> und Gesamt-Score mindestens <b>${R.buy_score ?? "–"}</b></li>
+      <li>Trend-Punkte mindestens <b>+1</b>, Volumen-Punkte nicht negativ</li>
+      <li>Genug Handel: mindestens <b>${R.min_dollar_volume ? nf(R.min_dollar_volume / 1e6, 0) : "–"} Mio. $</b> pro Tag (keine Mini-Werte)</li>
+      <li>Nicht in den letzten <b>${R.cooldown_days ?? "–"} Tagen</b> verkauft (kein sofortiges Zurückkaufen)</li>
+      <li>Höchstens <b>${R.max_positions ?? "–"} Positionen</b> gleichzeitig – bei mehr Kandidaten gewinnt der höchste Score (Signale wie Insider, Fonds und Kongress geben hier den Ausschlag)</li>
       <li>Keine Warnmeldung der SEC (Insolvenz, Delisting, unzuverlässige Bilanzen …)</li><li>Marktlage nicht „risk-off“; bei „vorsichtig“ nur halbe Position</li>
       <li>Pro Aktie höchstens <b>${R.max_position_pct ?? "–"} %</b> des Depots, <b>${R.cash_buffer_pct ?? "–"} %</b> bleiben immer frei, Mindestorder ${eur(R.min_order, 0)}</li></ul></div>
     <div class="panel"><div class="panel-header"><h2>Verkaufen</h2><span class="badge b-red">eine Regel reicht</span></div><ul class="rules">
-      <li><b>Stop-Loss:</b> Kurs fällt ${R.stop_loss_pct ?? "–"} % unter den Kaufpreis (oder ${R.atr_stop ?? "–"} × ATR – was zuerst kommt)</li>
-      <li><b>Trailing-Stop:</b> Kurs fällt ${R.trailing_atr ?? "–"} × ATR unter das Hoch seit dem Kauf (sichert Gewinne)</li>
+      <li><b>Stop-Loss:</b> Kurs fällt ${R.atr_stop ?? "–"} × die normale Tagesschwankung (ATR) unter den Kaufpreis – aber mindestens ${R.stop_min_pct ?? "–"} % und höchstens ${R.stop_max_pct ?? "–"} %</li>
+      <li><b>Trailing-Stop:</b> Liegt die Aktie im Plus und fällt dann ${R.trailing_atr ?? "–"} × ATR unter das Hoch seit dem Kauf, wird der Gewinn gesichert</li>
       <li><b>Schwaches Bild:</b> Gesamt-Score fällt auf ${R.sell_score ?? "–"} oder tiefer</li><li><b>Warnung:</b> SEC-Warnmeldung zur Aktie</li></ul></div>
+    ${backtestPanel()}
     <div class="panel"><div class="panel-header"><h2>Die 6 Bereiche</h2></div><dl class="glossary" style="margin:0">${CATS.map(c => `<dt>${c}</dt><dd>${CAT_INFO[c]}</dd>`).join("")}</dl></div>
     <div class="panel wide"><div class="panel-header"><h2>Glossar der Indikatoren</h2></div>
       <dl class="glossary cols" style="margin:0">${IND_ORDER.map(k => `<div><dt>${IND[k].n}</dt><dd>${IND[k].i}</dd></div>`).join("")}

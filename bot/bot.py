@@ -64,9 +64,14 @@ DEFAULTS = {
     "min_order": 25,
     "buy_score": 6,
     "sell_score": -4,
-    "stop_loss_pct": 8,
+    "stop_min_pct": 5,
+    "stop_max_pct": 10,
     "atr_stop": 2.5,
-    "trailing_atr": 3.5,
+    "trailing_atr": 5,
+    "tech_buy": 6,
+    "max_positions": 6,
+    "cooldown_days": 7,
+    "min_dollar_volume": 20000000,
     "news_hours": 48,
     "universe": [],
     "people": [],
@@ -391,6 +396,7 @@ def analyse(sym, d, ib, market_open):
 
     # Volumen
     avg_v = sum(v[-21:-1]) / 20
+    ind["dollar_vol"] = avg_v * price
     elapsed = 1.0
     if market_open and ib:
         elapsed = clip(len(ib) * 5 / 390, 0.05, 1.0)
@@ -585,15 +591,36 @@ def record_trade(stamp, action, sym, shares, price, fx, value, reason, pnl=None)
                     "" if pnl is None else "%.2f" % pnl, reason])
 
 
-def buy_checks(r, cfg, regime):
+def stop_level(entry, atr, cfg):
+    """Stop-Abstand: 2,5 × ATR, aber mindestens 5 % und höchstens 10 % (per Backtest gewählt)."""
+    dist = min(max(cfg["atr_stop"] * (atr or 0), entry * cfg["stop_min_pct"] / 100), entry * cfg["stop_max_pct"] / 100)
+    return entry - dist
+
+
+def trail_level(pos, cfg):
+    a = pos.get("atr") or 0
+    return pos["peak"] - cfg["trailing_atr"] * a if a and pos["peak"] > pos["entry"] else None
+
+
+def buy_checks(r, cfg, regime, pf):
     sc = r["scores"]
+    tech = sc["Trend"] + sc["Momentum"] + sc["Volumen"]
+    sold = (pf.get("sold") or {}).get(r["sym"])
+    cool = sold and (now_utc() - datetime.datetime.fromisoformat(sold)).days < cfg["cooldown_days"]
+    dv = r["ind"].get("dollar_vol") or 0
     return [
+        {"rule": "Technik-Score (Trend + Momentum + Volumen) mindestens %d" % cfg["tech_buy"], "ok": tech >= cfg["tech_buy"],
+         "val": tech},
         {"rule": "Gesamt-Score mindestens %d" % cfg["buy_score"], "ok": r["total"] >= cfg["buy_score"],
          "val": r["total"]},
         {"rule": "Trend positiv (mindestens +1)", "ok": sc["Trend"] >= 1, "val": sc["Trend"]},
         {"rule": "Volumen nicht negativ", "ok": sc["Volumen"] >= 0, "val": sc["Volumen"]},
         {"rule": "Keine Warnmeldung der SEC", "ok": not r["block"], "val": r["block"] or "keine"},
         {"rule": "Marktlage nicht risk-off", "ok": regime["mode"] != "risk-off", "val": regime["mode"]},
+        {"rule": "Genug Handel (mind. %.0f Mio. $ pro Tag)" % (cfg["min_dollar_volume"] / 1e6),
+         "ok": dv >= cfg["min_dollar_volume"], "val": "%.0f Mio. $" % (dv / 1e6)},
+        {"rule": "Nicht in den letzten %d Tagen verkauft" % cfg["cooldown_days"], "ok": not cool,
+         "val": "verkauft am %s" % sold[:10] if cool else "nein"},
     ]
 
 
@@ -670,7 +697,7 @@ def run(cfg, force=False):
         r = {"sym": sym, "name": d["name"], "price": d["price"], "price_eur": d["price"] / fx,
              "total": sum(scores.values()), "scores": scores, "reasons": {k: v[1] for k, v in cat.items()},
              "ind": ind, "block": n[2], "headlines": n[3][:8]}
-        r["checks"] = buy_checks(r, cfg, regime)
+        r["checks"] = buy_checks(r, cfg, regime, pf)
         rows.append(r)
     rows.sort(key=lambda r: -r["total"])
     by_sym = {r["sym"]: r for r in rows}
@@ -684,15 +711,14 @@ def run(cfg, force=False):
             continue
         price = r["price"]
         pos["peak"] = max(pos.get("peak", pos["entry"]), price)
-        a = pos.get("atr") or 0
-        stop = max(pos["entry"] * (1 - cfg["stop_loss_pct"] / 100), pos["entry"] - cfg["atr_stop"] * a)
-        trail = pos["peak"] - cfg["trailing_atr"] * a if a else 0
-        r["levels"] = {"stop": stop, "trail": trail if pos["peak"] > pos["entry"] else None,
+        stop = stop_level(pos["entry"], pos.get("atr"), cfg)
+        trail = trail_level(pos, cfg)
+        r["levels"] = {"stop": stop, "trail": trail,
                        "sell_score": cfg["sell_score"], "entry": pos["entry"], "peak": pos["peak"]}
         why, kind = None, None
         if price <= stop:
             why, kind = "Stop-Loss: Kurs %.2f $ ist unter die Verlustgrenze von %.2f $ gefallen" % (price, stop), "stop"
-        elif trail and price <= trail and pos["peak"] > pos["entry"]:
+        elif trail and price <= trail:
             why, kind = ("Trailing-Stop: Kurs %.2f $ ist unter %.2f $ gefallen (Hoch seit Kauf: %.2f $), "
                          "Gewinn gesichert" % (price, trail, pos["peak"])), "trailing"
         elif r["block"]:
@@ -714,6 +740,7 @@ def run(cfg, force=False):
                                   regime=regime["mode"], levels=r["levels"], **snapshot(r)))
             r["verdict"] = "Verkauft"
             del pf["positions"][sym]
+            pf.setdefault("sold", {})[sym] = stamp
 
     # Käufe nach Score
     def equity_now():
@@ -729,6 +756,9 @@ def run(cfg, force=False):
             continue
         if not all(c["ok"] for c in r["checks"]):
             continue
+        if len(pf["positions"]) >= cfg["max_positions"]:
+            r["verdict"] = "Kaufkandidat – Depot voll (%d Positionen)" % cfg["max_positions"]
+            continue
         amount = min(target, pf["cash"] - buffer)
         if amount < cfg["min_order"]:
             r["verdict"] = "Kaufkandidat – kein freies Geld"
@@ -743,8 +773,7 @@ def run(cfg, force=False):
         record_trade(stamp, "KAUF", r["sym"], shares, r["price"], fx, amount, why)
         t = {"action": "KAUF", "sym": r["sym"], "shares": shares, "price": r["price"], "value": amount, "why": why}
         trades.append(t)
-        a = r["ind"].get("atr") or 0
-        levels = {"stop": max(r["price"] * (1 - cfg["stop_loss_pct"] / 100), r["price"] - cfg["atr_stop"] * a),
+        levels = {"stop": stop_level(r["price"], r["ind"].get("atr"), cfg),
                   "sell_score": cfg["sell_score"], "entry": r["price"]}
         decisions.append(dict(t, id="%s:KAUF:%s" % (stamp, r["sym"]), time=stamp, kind="buy", fx=fx,
                               regime=regime["mode"], levels=levels, **snapshot(r)))
@@ -761,9 +790,7 @@ def run(cfg, force=False):
     for sym, pos in pf["positions"].items():
         r = by_sym.get(sym)
         if r and "levels" not in r:
-            a = pos.get("atr") or 0
-            r["levels"] = {"stop": max(pos["entry"] * (1 - cfg["stop_loss_pct"] / 100), pos["entry"] - cfg["atr_stop"] * a),
-                           "trail": pos["peak"] - cfg["trailing_atr"] * a if a and pos["peak"] > pos["entry"] else None,
+            r["levels"] = {"stop": stop_level(pos["entry"], pos.get("atr"), cfg), "trail": trail_level(pos, cfg),
                            "sell_score": cfg["sell_score"], "entry": pos["entry"], "peak": pos["peak"]}
 
     write_json(os.path.join(SIM, "portfolio.json"), pf)
@@ -809,7 +836,8 @@ def run(cfg, force=False):
                  key=lambda e: e.get("time") or e["seen"], reverse=True)[:1500]
     write_json(epath, evs)
 
-    rules = {k: cfg[k] for k in ("buy_score", "sell_score", "stop_loss_pct", "atr_stop", "trailing_atr",
+    rules = {k: cfg[k] for k in ("buy_score", "tech_buy", "sell_score", "stop_min_pct", "stop_max_pct", "atr_stop",
+                                 "trailing_atr", "max_positions", "cooldown_days", "min_dollar_volume",
                                  "max_position_pct", "cash_buffer_pct", "min_order", "news_hours", "congress_days")}
     rules.update(investors=cfg["investors"], congress_members=cfg["congress_members"], watchlist=cfg["watchlist"],
                  people=cfg["people"], universe_size=len(cfg["universe"]), insider_days=cfg["insider_days"],
