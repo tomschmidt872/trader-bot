@@ -229,10 +229,12 @@ const ICONS = {
   swap: "M7 7h13l-3-3M17 17H4l3 3",
   doc: "M7 3h7l5 5v13H7zM14 3v5h5",
   bank: "M3 10l9-6 9 6M5 10v8M19 10v8M9 10v8M15 10v8M3 20h18",
+  bolt: "M13 2L4 14h7l-1 8 9-12h-7z",
+  event: "M13 2L4 14h7l-1 8 9-12h-7z",
   bot: "M12 3v3M6 8h12a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2zM9 13h.01M15 13h.01",
   globe: "M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18zM3 12h18M12 3a14 14 0 0 1 0 18",
 };
-const NAV = [["uebersicht", "Übersicht"], ["entscheidungen", "Entscheidungen"], ["aktien", "Aktien & Analyse"],
+const NAV = [["uebersicht", "Übersicht"], ["entscheidungen", "Entscheidungen"], ["event", "Event-Bot 5x"], ["aktien", "Aktien & Analyse"],
              ["news", "News & Ereignisse"], ["regeln", "Regeln & Glossar"]];
 
 const $ = s => document.querySelector(s);
@@ -279,6 +281,8 @@ let D = {}; const charts = []; const ui = {range: "all", spx: true, decFilter: "
 async function loadData() {
   const [an, pf, st, eq, tr, dec, ev, bt] = await Promise.all([get("analysis.json"), get("portfolio.json"), get("status.json"),
     get("equity.csv", "csv"), get("trades.csv", "csv"), get("decisions.json"), get("events.json"), get("backtest.json")]);
+  const [epf, est, eeq, etr, edec, ebt] = await Promise.all([get("event/portfolio.json"), get("event/status.json"),
+    get("event/equity.csv", "csv"), get("event/trades.csv", "csv"), get("event/decisions.json"), get("event_backtest.json")]);
   const rows = an?.rows || [];
   const bySym = Object.fromEntries(rows.map(r => [r.sym, r]));
   const fx = an?.fx || pf?.fx || 1.1;
@@ -292,6 +296,13 @@ async function loadData() {
   const equity = cash + positions.reduce((a, p) => a + p.value, 0);
   D = {an, pf, st, eq: eq || [], tr: tr || [], dec: (dec || []).slice().reverse(), ev: ev || [], rows, bySym, fx,
        positions, start, cash, equity, rules: an?.rules || {}, bt};
+  const epos = Object.entries(epf?.positions || {}).map(([sym, p]) => {
+    const price = bySym[sym]?.price ?? p.entry, pnl = p.side * p.shares * (price - p.entry) / fx;
+    return {sym, ...p, price, pnl, pnlPct: pnl / p.margin_eur * 100, exposure: p.shares * price / fx};
+  });
+  const estart = epf?.start_cash ?? 1000, ecash = epf?.cash ?? estart;
+  D.E = {pf: epf, st: est, eq: eeq || [], tr: etr || [], dec: (edec || []).slice().reverse(), bt: ebt, positions: epos,
+         start: estart, cash: ecash, equity: ecash + epos.reduce((a, p) => a + p.margin_eur + p.pnl, 0), rules: est?.rules || {}};
 }
 
 // ------------------------------------------------------------------ Erklärungen
@@ -436,6 +447,8 @@ function viewOverview() {
       ${stat("target", "t-purple", "Realisiert", `<span class="${cls(realized)}">${signed(realized)}</span>`, sells.length ? `${wins} von ${sells.length} Verkäufen im Plus` : "noch keine Verkäufe")}
       ${stat("globe", "t-yellow", "vs. S&P 500", vsSpx == null ? "–" : `<span class="${cls(vsSpx)}">${pct(vsSpx)}</span>`, "Vorsprung seit Start")}
       ${stat("cash", "t-green", "Freies Geld", eur(cash), pct(cash / equity * 100).replace("+", "") + " des Depots")}
+      <a href="#event" style="text-decoration:none;color:inherit">${stat("bolt", "t-purple", "Event-Bot 5x", eur(D.E.equity),
+        `<span class="${cls(D.E.equity - D.E.start)}">${signed(D.E.equity - D.E.start)} · ${pct((D.E.equity / D.E.start - 1) * 100)}</span>`)}</a>
     </div>
 
     <div class="panel-grid">
@@ -772,6 +785,105 @@ function viewRules() {
   <footer class="note">Simulation mit Spielgeld (Start ${eur(D.start, 0)}) und leicht verzögerten Kursen von Yahoo Finance. Die News-Stimmung wird über Schlüsselwörter erkannt und kann sich irren. Keine Anlageberatung.</footer>`;
 }
 
+// ------------------------------------------------------------------ Event-Bot
+function eventStory(d) {
+  return esc(d.story || d.why).replace(/(\d+[\d.,]* €)/g, "<b>$1</b>");
+}
+function viewEvent(openId) {
+  const E = D.E, R = E.rules, gain = E.equity - E.start;
+  const closes = E.tr.filter(t => t.aktion === "SCHLIESSEN");
+  const wins = closes.filter(t => parseFloat(t.gewinn_eur) > 0).length;
+  const realized = closes.reduce((a, t) => a + (parseFloat(t.gewinn_eur) || 0), 0);
+  const exposure = E.positions.reduce((a, p) => a + p.exposure, 0);
+  const stat = (ic, tint, label, value, sub) => `<div class="stat-card"><div class="stat-icon ${tint}">${icon(ICONS[ic])}</div>
+    <div><span class="stat-label">${label}</span><span class="stat-value">${value}</span><span class="stat-sub">${sub}</span></div></div>`;
+  if (openId) ui.open.add(openId);
+  const side = s => `<span class="badge ${s > 0 ? "b-green" : "b-red"}">${s > 0 ? "Long ↑" : "Short ↓"}</span>`;
+  const decs = E.dec.map(d => {
+    const isOpen = ui.open.has(d.id), opn = d.action === "ERÖFFNEN";
+    return `<div class="decision" id="dec-${esc(d.id)}">
+      <div class="decision-head" data-etoggle="${esc(d.id)}">
+        <span class="badge ${opn ? "b-blue" : d.pnl >= 0 ? "b-green" : "b-red"}">${opn ? "Eröffnet" : "Geschlossen"}</span>${side(d.side)}
+        <span class="title">${esc(d.sym)} <span class="muted" style="font-weight:400">${esc(d.name || "")}</span></span>
+        <div class="meta"><span class="muted">${dt(d.time)}</span><span class="num">Einsatz ${eur(d.value)}</span>
+          ${d.pnl != null ? `<span class="num ${cls(d.pnl)}">${signed(d.pnl)} (${pct(d.pnl_pct, 1)})</span>` : ""}
+          <span class="muted">${isOpen ? "▲" : "▼"}</span></div></div>
+      ${isOpen ? `<div class="decision-body">
+        <div class="explain ${opn ? "" : "sell"}">${eventStory(d)}</div>
+        <div class="cols">
+          <div><div class="sec-title">Einstiegsregeln zum Zeitpunkt</div>${checklist(d.checks)}</div>
+          <div><div class="sec-title">Auslöser</div><ul class="reasons">${(d.trigger || []).map(t => `<li>${esc(t)}</li>`).join("") || "<li>–</li>"}</ul></div>
+        </div>
+        <div style="margin-top:20px"><div class="sec-title">Indikatoren zum Zeitpunkt</div>${indGrid(d, ["rvol", "vwap", "atr", "rsi", "macd_hist", "buy_sell_ratio", "cmf", "sma50"])}</div>
+        <div style="margin-top:20px"><div class="sec-title">Schlagzeilen zum Zeitpunkt</div>${headlineList(d.headlines)}</div>
+        <div style="margin-top:16px"><a href="#aktie/${encodeURIComponent(d.sym)}">Aktuelle Analyse von ${esc(d.sym)} ansehen →</a></div>
+      </div>` : ""}</div>`;
+  }).join("");
+  const pos = E.positions.length ? `<div class="table-wrap"><table class="data-table"><tr><th>Aktie</th><th>Richtung</th><th class="r">Einsatz</th>
+      <th class="r">Engagement</th><th class="r">G/V</th><th class="r">Einstieg</th><th class="r">Kurs</th><th class="r">Stop</th><th class="r">Ziel</th><th>Seit</th></tr>
+      ${E.positions.map(p => `<tr class="clickable-row" data-go="#aktie/${p.sym}"><td><b>${esc(p.sym)}</b> <span class="muted">${esc(p.name || "")}</span></td>
+        <td>${side(p.side)} <span class="muted">${p.leverage}x</span></td><td class="r num">${eur(p.margin_eur)}</td><td class="r num">${eur(p.exposure)}</td>
+        <td class="r num ${cls(p.pnl)}">${signed(p.pnl)} <small>(${pct(p.pnlPct, 1)})</small></td><td class="r num">${usd(p.entry)}</td>
+        <td class="r num">${usd(p.price)}</td><td class="r num">${usd(p.stop)}</td><td class="r num">${usd(p.target)}</td><td>${dt(p.opened)}</td></tr>`).join("")}
+    </table></div>` : `<div class="empty">Keine offenen Positionen. Der Event-Bot hält nie über Nacht – er wartet auf das nächste Ereignis mit Kurssprung.</div>`;
+  const B = E.bt;
+  const btPanel = B ? `<div class="panel wide"><div class="panel-header"><h2>Backtest: Kurssprünge nach Quartalszahlen, 10 Jahre</h2>
+      <span class="muted" style="font-size:13px">${B.events} Ereignisse · ${esc(B.start)} – ${esc(B.end)}</span></div>
+    <div class="table-wrap"><table class="data-table"><tr><th>Hebel</th><th class="r">Gesamt</th><th class="r">pro Jahr</th><th class="r">größter Rückgang</th><th class="r">Margin Calls</th></tr>
+      ${B.leverage.map(l => `<tr><td><b>${l.L}x</b></td><td class="r num ${cls(l.full.ret)}">${pct(l.full.ret, 0)}</td><td class="r num ${cls(l.full.cagr)}">${pct(l.full.cagr, 1)}</td>
+        <td class="r num down">${pct(l.full.mdd, 0)}</td><td class="r num">${l.full.calls}${l.full.dead ? " · <b class='down'>vernichtet</b>" : ""}</td></tr>`).join("")}
+      <tr><td><b>S&amp;P 500 halten</b></td><td class="r num">${pct(B.spy_total, 0)}</td><td colspan="3"></td></tr></table></div>
+    <p class="muted" style="font-size:13px;margin:12px 0 0">Getestet auf Tageskursen mit der besten gefundenen Variante (Kurslücke ≥ ${nf(B.best.g * 100, 0)} %, ${B.best.H} Tage halten).
+      Mit Kurzhaltedauer (1–3 Tage, long und short, 5x) lag das Ergebnis zwischen +2 % und +13 % pro Jahr bei Rückgängen von −30 bis −35 %.
+      Der Live-Bot hält sogar nur Stunden – dafür gibt es keine verlässlichen historischen Stundendaten. <b>Hebel vergrößert Gewinne und Verluste gleichermaßen;</b> die meisten Varianten lagen unter dem S&amp;P 500.</p></div>` : "";
+  return header("Event-Bot 5x", "Zweites Depot · reagiert auf Ereignisse mit Kurssprung · long und short mit Hebel · Haltedauer Stunden, nie über Nacht",
+      `<div style="display:flex;gap:8px;flex-wrap:wrap">${marketBadge()}${E.pf?.dead ? `<span class="badge b-red">Depot vernichtet</span>` : ""}</div>`) + `
+  <div class="stack">
+    <div class="stat-grid">
+      ${stat("wallet", "t-blue", "Depotwert", eur(E.equity), `<span class="${cls(gain)}">${signed(gain)} · ${pct(gain / E.start * 100)}</span>`)}
+      ${stat("target", "t-purple", "Realisiert", `<span class="${cls(realized)}">${signed(realized)}</span>`, closes.length ? `${wins} von ${closes.length} Trades im Plus` : "noch keine Trades")}
+      ${stat("layers", "t-yellow", "Engagement", eur(exposure), `${E.positions.length} von ${R.slots ?? 5} Slots · ${R.leverage ?? 5}x Hebel`)}
+      ${stat("swap", "t-green", "vs. Swing-Bot", `<span class="${cls(E.equity / E.start - D.equity / D.start)}">${pct((E.equity / E.start - D.equity / D.start) * 100)}</span>`, `Swing-Bot ${pct((D.equity / D.start - 1) * 100)}`)}
+    </div>
+    <div class="panel-grid">
+      <div class="panel wide"><div class="panel-header"><h2>Depotwert Event-Bot vs. Swing-Bot</h2></div>
+        <div class="chart-box"><canvas id="evChart"></canvas></div>
+        <div class="legend-row muted" style="margin-top:10px"><span style="--c:${cssVar("--purple")}">Event-Bot (€)</span><span style="--c:${cssVar("--muted")}">Swing-Bot (€)</span></div></div>
+      <div class="panel wide"><div class="panel-header"><h2>Offene Positionen</h2></div>${pos}</div>
+      <div class="panel"><div class="panel-header"><h2>Einsteigen</h2><span class="badge b-green">alle Regeln müssen passen</span></div><ul class="rules">
+        <li><b>Auslöser</b> in den letzten 24 Std.: Quartalszahlen oder andere SEC-Meldung, Schlagzeile mit klarer Stimmung, Insider-, Kongress- oder Thiel/Trump-Meldung – oder ein Kurssprung mit mindestens doppeltem Volumen. Die Meldung darf nicht gegen die Richtung sprechen.</li>
+        <li>Kurs heute mindestens <b>±${R.move_pct ?? 4} %</b> – nach oben = <b>Long</b>, nach unten = <b>Short</b></li>
+        <li>Kurs über (Long) bzw. unter (Short) dem Tagesdurchschnitt VWAP und Ausbruch aus der Spanne der ersten 30 Minuten</li>
+        <li>Volumen mindestens <b>${nf(R.min_rvol ?? 1.5, 1)}x</b> normal, mindestens ${nf((R.min_dollar_volume ?? 5e7) / 1e6, 0)} Mio. $ Handel pro Tag</li>
+        <li>Nicht in der ersten und nicht in den letzten 75 Minuten vor Börsenschluss</li>
+        <li>Einsatz = Depotwert / ${R.slots ?? 5} Slots, mit <b>${R.leverage ?? 5}x Hebel</b> (200 € Einsatz = 1.000 € in der Aktie)</li></ul></div>
+      <div class="panel"><div class="panel-header"><h2>Aussteigen</h2><span class="badge b-red">eine Regel reicht</span></div><ul class="rules">
+        <li><b>Stop:</b> ${nf(R.stop_atr ?? .75, 2)} × Tagesschwankung (ATR) gegen die Position</li>
+        <li><b>Kursziel:</b> ${nf(R.target_atr ?? 1.5, 1)} × ATR in Richtung der Position</li>
+        <li><b>Break-even:</b> ab ${nf(R.breakeven_atr ?? .75, 2)} × ATR Gewinn wird der Stop auf den Einstieg gezogen</li>
+        <li><b>Zeit:</b> nach ${R.max_hold_hours ?? 4} Std. – und immer im letzten Lauf vor Börsenschluss (nichts über Nacht)</li>
+        <li><b>Margin Call:</b> fällt das Eigenkapital unter ${nf((R.maintenance ?? .25) * 100, 0)} % des Engagements, wird alles zwangsweise geschlossen</li>
+        <li>Kosten: ${nf(R.cost_pct ?? .1, 1)} % pro Order. Der Bot prüft nur stündlich – Stops können deshalb deutlich überschritten werden.</li></ul></div>
+      ${btPanel}
+    </div>
+    <h2 style="margin:8px 0 0;font-size:18px">Entscheidungen</h2>
+    ${decs || `<div class="panel"><div class="empty">Noch keine Trades. Der Event-Bot handelt nur, wenn ein Ereignis einen deutlichen Kurssprung mit hohem Volumen auslöst.</div></div>`}
+  </div>`;
+}
+function drawEventChart() {
+  const cv = $("#evChart"); if (!cv) return;
+  const rows = D.E.eq;
+  if (rows.length < 2) { cv.parentElement.innerHTML = `<div class="empty">Die Kurve erscheint nach den ersten Läufen bei offener Börse.</div>`; return; }
+  // Swing-Bot auf denselben Startwert normiert
+  const swAt = t => { let v = null; for (const r of D.eq) { if (new Date(r.zeit) <= t) v = parseFloat(r.depotwert_eur); else break; } return v; };
+  const s0 = swAt(new Date(rows[0].zeit));
+  const ds = [{label: "Event-Bot", data: rows.map(r => parseFloat(r.depotwert_eur)), borderColor: cssVar("--purple"), borderWidth: 2, pointRadius: 0, tension: .2}];
+  if (s0) ds.push({label: "Swing-Bot", data: rows.map(r => { const v = swAt(new Date(r.zeit)); return v == null ? null : D.E.start * v / s0; }),
+    borderColor: cssVar("--muted"), borderDash: [4, 4], borderWidth: 1.5, pointRadius: 0, tension: .2});
+  charts.push(new Chart(cv, {type: "line", data: {labels: rows.map(r => dt(r.zeit)), datasets: ds},
+    options: baseOpts({scales: {...baseOpts().scales, y: {...baseOpts().scales.y, ticks: {color: cssVar("--muted"), callback: v => nf(v, 0) + " €"}}}})}));
+}
+
 // ------------------------------------------------------------------ Router
 function render() {
   destroyCharts();
@@ -785,6 +897,7 @@ function render() {
   else if (route === "aktie") v.innerHTML = viewStock(arg);
   else if (route === "news") v.innerHTML = viewNews();
   else if (route === "regeln") v.innerHTML = viewRules();
+  else if (route === "event") { v.innerHTML = viewEvent(arg); drawEventChart(); if (arg) document.getElementById("dec-" + arg)?.scrollIntoView({block: "start"}); }
   else { v.innerHTML = viewOverview(); drawOverviewCharts(); }
   if (route === "aktie") drawStockChart(arg);
   if (route === "entscheidungen" && arg) document.getElementById("dec-" + arg)?.scrollIntoView({block: "start"});
@@ -796,6 +909,9 @@ document.addEventListener("click", e => {
   const t = e.target.closest("[data-toggle]");
   if (t) { const id = t.dataset.toggle; ui.open.has(id) ? ui.open.delete(id) : ui.open.add(id);
            history.replaceState(null, "", "#entscheidungen"); render(); return; }
+  const et = e.target.closest("[data-etoggle]");
+  if (et) { const id = et.dataset.etoggle; ui.open.has(id) ? ui.open.delete(id) : ui.open.add(id);
+            history.replaceState(null, "", "#event"); render(); return; }
   const btn = e.target.closest("button"); if (!btn) return;
   const par = btn.parentElement?.id;
   if (par === "range") { ui.range = btn.dataset.r; render(); }

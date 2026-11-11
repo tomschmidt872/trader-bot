@@ -33,11 +33,18 @@ jobs:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
         run: python3 bot/bot.py ${{ inputs.force && '--force' || '' }}
 
+      - name: Event-Bot (Hebel, long/short) ausführen
+        run: python3 bot/event_bot.py
+
       - name: Dashboard-Daten aktualisieren
         run: |
           mkdir -p docs/data
           for f in analysis.json portfolio.json status.json equity.csv trades.csv decisions.json events.json; do
             [ -f "trader/sim/$f" ] && cp "trader/sim/$f" docs/data/ || true
+          done
+          mkdir -p docs/data/event
+          for f in portfolio.json status.json equity.csv trades.csv decisions.json; do
+            [ -f "trader/sim/event/$f" ] && cp "trader/sim/event/$f" docs/data/event/ || true
           done
 
       - name: Ergebnisse speichern
