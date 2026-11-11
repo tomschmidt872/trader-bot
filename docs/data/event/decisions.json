@@ -1,0 +1,616 @@
+[
+  {
+    "action": "ERÖFFNEN",
+    "sym": "AMD",
+    "side": 1,
+    "shares": 1.9919381626551989,
+    "price": 556.945,
+    "value": 200.0,
+    "why": "Long: AMD Price Prediction: AI Boom and Record Revenue Set the Stage for Another Monster Rally; AMD Rises 4% as CoreWeave’s Raised Outlook Revives the AI Chip Trade; MU, AMD, AVGO, Other Chip Stocks Surge As CoreWeave Earnings Reignite AI Trade — Nasdaq-100 Futures Jump",
+    "id": "2026-11-11T17:37:18+00:00:ERÖFFNEN:AMD",
+    "time": "2026-11-11T17:37:18+00:00",
+    "kind": "open",
+    "bot": "event",
+    "story": "Der Event-Bot setzt auf steigende Advanced Micro Devices, Inc. (AMD), weil: AMD Price Prediction: AI Boom and Record Revenue Set the Stage for Another Monster Rally; AMD Rises 4% as CoreWeave’s Raised Outlook Revives the AI Chip Trade; MU, AMD, AVGO, Other Chip Stocks Surge As CoreWeave Earnings Reignite AI Trade — Nasdaq-100 Futures Jump. Heute 8,1 % mit 1,7x Volumen, Kurs über VWAP und Ausbruch über das Hoch der ersten 30 Minuten. Einsatz 200,00 € mit 5x Hebel = 1000,00 € Engagement. Stop bei 527,34 $ (Verlust ca. 53,15 €), Ziel bei 616,15 $ (Gewinn ca. 106,30 €). Spätestens nach 4 Std. oder vor Börsenschluss wird geschlossen.",
+    "name": "Advanced Micro Devices, Inc.",
+    "leverage": 5,
+    "levels": {
+      "stop": 527.3437818022469,
+      "target": 616.1474363955064
+    },
+    "total": 10,
+    "scores": {
+      "Signale": 1,
+      "Trend": 2,
+      "Momentum": 1,
+      "Volumen": 2,
+      "Intraday": 2,
+      "News": 2
+    },
+    "reasons": {
+      "Signale": [
+        "ARK Invest (Cathie Wood) hält 5.3 %"
+      ],
+      "Trend": [
+        "Kurs > SMA50",
+        "SMA50 > SMA200",
+        "ADX 22: kein klarer Trend"
+      ],
+      "Momentum": [
+        "MACD positiv",
+        "RSI 54 neutral"
+      ],
+      "Volumen": [
+        "1.7x Volumen an einem Plus-Tag",
+        "OBV steigt (Akkumulation)",
+        "Chaikin Money Flow -0.07 (Geld fließt raus)",
+        "Kaufdruck: 1.4x mehr Volumen an Plus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs > VWAP 544.79",
+        "Ausbruch über Opening Range 543.28",
+        "Gap +5.4 % zur Eröffnung"
+      ],
+      "News": [
+        "10 Schlagzeilen: 3 positiv, 0 negativ"
+      ]
+    },
+    "ind": {
+      "price": 556.945,
+      "sma50": 550.5102983154297,
+      "sma200": 420.0660749450684,
+      "adx": 21.92487818053547,
+      "plus_di": 27.728875603486095,
+      "minus_di": 28.206123523955977,
+      "macd_hist": 2.305968257189516,
+      "rsi": 54.110124404390916,
+      "stoch_k": 87.44353153273637,
+      "stoch_d": 70.48321260207642,
+      "bb_upper": 602.7797203945917,
+      "bb_lower": 432.83077081634576,
+      "bb_width": 32.82101736523062,
+      "roc20": -2.4307149620174218,
+      "dollar_vol": 17172371511.475002,
+      "rvol": 1.6526913778707575,
+      "obv_trend": 0.17847953120593724,
+      "cmf": -0.0658217663184539,
+      "buy_sell_ratio": 1.4323714053262633,
+      "high52": 658.52001953125,
+      "low52": 188.22000122070312,
+      "vwap": 544.7893824522534,
+      "or_high": 543.2750244140625,
+      "or_low": 522.6500244140625,
+      "gap": 5.405557811027117,
+      "atr": 39.46829093033751,
+      "chg": 8.100575735609205,
+      "spark": [
+        467.51,
+        503.89,
+        495.54,
+        518.09,
+        516.1,
+        510.13,
+        521.54,
+        542.52,
+        523.2,
+        466.38,
+        490.33,
+        475.51,
+        452.4,
+        488.45,
+        511.57,
+        547.26,
+        507.29,
+        512.48,
+        537.37,
+        551.63,
+        519.85,
+        519.74,
+        532.57,
+        521.58,
+        539.49,
+        580.91,
+        540.88,
+        517.82,
+        552.05,
+        516.11,
+        517.41,
+        546.72,
+        557.89,
+        534.39,
+        548.13,
+        529.14,
+        500.94,
+        495.76,
+        503.57,
+        544.43,
+        552.33,
+        539.69,
+        521.95,
+        494.95,
+        454.62,
+        429.56,
+        485.39,
+        476.15,
+        484.64,
+        518.58,
+        482.05,
+        489.28,
+        483.36,
+        469.56,
+        474.32,
+        482.93,
+        483.01,
+        514.39,
+        506.0,
+        484.39,
+        466.42,
+        469.46,
+        473.25,
+        456.75,
+        479.18,
+        480.93,
+        476.67,
+        465.58,
+        470.72,
+        459.61,
+        457.06,
+        456.16,
+        477.57,
+        505.74,
+        521.1,
+        503.6,
+        516.13,
+        493.41,
+        504.2,
+        512.5,
+        545.09,
+        559.82,
+        615.52,
+        623.77,
+        614.61,
+        629.26,
+        630.63,
+        607.87,
+        607.57,
+        611.76,
+        615.73,
+        633.91,
+        631.75,
+        649.42,
+        645.86,
+        620.68,
+        608.1,
+        594.24,
+        605.53,
+        570.82,
+        562.23,
+        528.75,
+        538.05,
+        534.74,
+        552.72,
+        507.93,
+        516.79,
+        531.28,
+        560.26,
+        578.44,
+        566.42,
+        504.8,
+        466.84,
+        483.9,
+        488.78,
+        404.4,
+        449.04,
+        508.58,
+        515.21,
+        556.95
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Why Is Dell Technologies (DELL) Talking Up 157 PB Storage And AI Racks?",
+        "time": "2026-11-11T17:15:57+00:00",
+        "link": "https://finance.yahoo.com/technology/ai/articles/why-dell-technologies-dell-talking-171557642.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "AMD Stocks Rise as $2.5 Billion Anthropic Stake Meets Goldman Top-Pick Call",
+        "time": "2026-11-11T17:01:38+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-rise-2-5-170138086.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Supermicro Begins Shipping New AMD-Powered AI Servers — Claims Up To 1.8x Higher AI Throughput",
+        "time": "2026-11-11T15:28:19+00:00",
+        "link": "https://stocktwits.com/news-articles/markets/equity/supermicro-begins-shipping-new-amd-powered-ai-servers-claims-up-to-1-8x-higher-ai-throughput/cNGDsMrR9BA?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "AMD Price Prediction: AI Boom and Record Revenue Set the Stage for Another Monster Rally",
+        "time": "2026-11-11T15:03:46+00:00",
+        "link": "https://247wallst.com/investing/2026/11/11/amd-price-prediction-ai-boom-and-record-revenue-set-the-stage-for-another-monster-rally/?.tsrc=rss",
+        "tone": 2,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "AMD Rises 4% as CoreWeave’s Raised Outlook Revives the AI Chip Trade",
+        "time": "2026-11-11T15:00:51+00:00",
+        "link": "https://www.tikr.com/blog/amd-rises-4-as-coreweaves-raised-outlook-revives-the-ai-chip-trade?ref=yahoofinance&tlnk=yf-261111-c9f92pr4&.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "1 Unstoppable Stock-Split Stock to Buy Before It Joins the $1 Trillion Club",
+        "time": "2026-11-11T14:15:00+00:00",
+        "link": "https://www.fool.com/investing/2026/11/11/1-unstoppable-stock-split-stock-to-buy-before-it-j/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "NVIDIA Rises 4% Despite Baird Downgrade and Huang Uncertainty; AMD Climbs 5%, Broadcom Gains 4%",
+        "time": "2026-11-11T14:05:16+00:00",
+        "link": "https://247wallst.com/investing/2026/11/11/nvidia-rises-4-despite-baird-downgrade-and-huang-uncertainty-amd-climbs-5-broadcom-gains-4/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "analyst",
+          "people"
+        ]
+      },
+      {
+        "title": "Supermicro Now Shipping Next-Generation Servers Powered by 6th Gen AMD EPYC™ 9006 Series CPUs for Cloud, HPC, and Agentic AI Workloads",
+        "time": "2026-11-11T14:05:00+00:00",
+        "link": "https://finance.yahoo.com/technology/ai/articles/supermicro-now-shipping-next-generation-140500879.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "AMD Price Prediction: AI Boom and Record Revenue Set the Stage for Another Monst"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "8,1 %"
+      },
+      {
+        "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "556,95 $ vs. 544,79 $"
+      },
+      {
+        "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+        "ok": true,
+        "val": "543,28 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "1,7x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "17172 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "AMD Price Prediction: AI Boom and Record Revenue Set the Stage for Another Monster Rally",
+      "AMD Rises 4% as CoreWeave’s Raised Outlook Revives the AI Chip Trade",
+      "MU, AMD, AVGO, Other Chip Stocks Surge As CoreWeave Earnings Reignite AI Trade — Nasdaq-100 Futures Jump"
+    ]
+  },
+  {
+    "action": "ERÖFFNEN",
+    "sym": "NVDA",
+    "side": 1,
+    "shares": 6.271804651689208,
+    "price": 176.71,
+    "value": 199.8,
+    "why": "Long: Stock Market Today: Nasdaq Jumps As CoreWeave Results Fuel AI Stampede; Bloom Energy, Dell Soar (Live Coverage)",
+    "id": "2026-11-11T17:37:18+00:00:ERÖFFNEN:NVDA",
+    "time": "2026-11-11T17:37:18+00:00",
+    "kind": "open",
+    "bot": "event",
+    "story": "Der Event-Bot setzt auf steigende NVIDIA Corporation (NVDA), weil: Stock Market Today: Nasdaq Jumps As CoreWeave Results Fuel AI Stampede; Bloom Energy, Dell Soar (Live Coverage). Heute 4,6 % mit 2,2x Volumen, Kurs über VWAP und Ausbruch über das Hoch der ersten 30 Minuten. Einsatz 199,80 € mit 5x Hebel = 999,00 € Engagement. Stop bei 170,23 $ (Verlust ca. 36,65 €), Ziel bei 189,68 $ (Gewinn ca. 73,30 €). Spätestens nach 4 Std. oder vor Börsenschluss wird geschlossen.",
+    "name": "NVIDIA Corporation",
+    "leverage": 5,
+    "levels": {
+      "stop": 170.22739143686678,
+      "target": 189.67521712626643
+    },
+    "total": -2,
+    "scores": {
+      "Signale": 0,
+      "Trend": -1,
+      "Momentum": -1,
+      "Volumen": -2,
+      "Intraday": 2,
+      "News": 0
+    },
+    "reasons": {
+      "Signale": [
+        "Cleo Fields kauft ($1,001 - $15,000)",
+        "Hon. Maria Elvira Salazar kauft ($1,001 - $15,000)",
+        "Hon. Pete Sessions verkauft ($15,001 - $50,000)"
+      ],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 > SMA200",
+        "ADX 37: starker Abwärtstrend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 31 neutral",
+        "Stochastik 20 dreht aus überverkauft",
+        "-20.1 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "2.2x Volumen an einem Plus-Tag",
+        "OBV fällt (Distribution)",
+        "Chaikin Money Flow -0.13 (Geld fließt raus)",
+        "Verkaufsdruck: 2.9x mehr Volumen an Minus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs > VWAP 174.85",
+        "Ausbruch über Opening Range 175.13",
+        "Gap +2.3 % zur Eröffnung"
+      ],
+      "News": [
+        "4 Schlagzeilen: 1 positiv, 1 negativ"
+      ]
+    },
+    "ind": {
+      "price": 176.71,
+      "sma50": 217.18320085449216,
+      "sma200": 204.48065014343263,
+      "adx": 36.96589332357511,
+      "plus_di": 8.886563628810123,
+      "minus_di": 43.95306268757801,
+      "macd_hist": -3.897615453793925,
+      "rsi": 31.396907222833278,
+      "stoch_k": 19.999998871808717,
+      "stoch_d": 13.92413769650482,
+      "bb_upper": 235.74327017232412,
+      "bb_lower": 172.16373294046883,
+      "bb_width": 31.173545316295797,
+      "roc20": -20.149119944354034,
+      "dollar_vol": 27289052283.050003,
+      "rvol": 2.2372412192258766,
+      "obv_trend": -0.49680331063339334,
+      "cmf": -0.1339968676131398,
+      "buy_sell_ratio": 0.34322564393822175,
+      "high52": 243.3699951171875,
+      "low52": 164.27000427246094,
+      "vwap": 174.84795737444637,
+      "or_high": 175.1300048828125,
+      "or_low": 170.77000427246094,
+      "gap": 2.267749330863844,
+      "atr": 8.643478084177625,
+      "chg": 4.630233073960732,
+      "spark": [
+        215.33,
+        214.86,
+        212.6,
+        214.25,
+        211.14,
+        224.36,
+        222.82,
+        214.75,
+        218.66,
+        205.1,
+        208.64,
+        208.19,
+        200.42,
+        204.87,
+        205.19,
+        212.45,
+        207.41,
+        204.65,
+        210.69,
+        208.65,
+        200.04,
+        199.0,
+        195.74,
+        192.53,
+        194.97,
+        200.09,
+        197.58,
+        194.83,
+        195.55,
+        196.93,
+        204.12,
+        202.78,
+        210.96,
+        203.53,
+        211.8,
+        212.5,
+        207.4,
+        202.81,
+        203.28,
+        207.29,
+        212.06,
+        208.76,
+        206.84,
+        196.51,
+        197.01,
+        190.01,
+        195.04,
+        200.75,
+        206.64,
+        211.94,
+        219.22,
+        218.99,
+        223.96,
+        217.55,
+        217.5,
+        224.09,
+        225.3,
+        225.16,
+        225.01,
+        219.74,
+        217.56,
+        216.85,
+        214.72,
+        208.48,
+        213.05,
+        209.66,
+        227.98,
+        217.55,
+        220.78,
+        217.44,
+        224.41,
+        228.45,
+        230.36,
+        225.73,
+        223.67,
+        218.36,
+        218.29,
+        210.96,
+        212.17,
+        213.9,
+        219.34,
+        222.27,
+        227.38,
+        228.87,
+        225.51,
+        224.58,
+        225.07,
+        228.86,
+        227.21,
+        228.38,
+        230.86,
+        233.95,
+        238.9,
+        239.24,
+        237.47,
+        230.48,
+        229.28,
+        226.32,
+        228.52,
+        221.3,
+        217.23,
+        214.13,
+        217.09,
+        216.47,
+        221.97,
+        212.21,
+        210.96,
+        216.0,
+        217.94,
+        215.38,
+        213.66,
+        204.64,
+        202.06,
+        206.69,
+        200.13,
+        181.6,
+        186.64,
+        178.67,
+        168.89,
+        176.71
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Stock Market Today: Nasdaq Jumps As CoreWeave Results Fuel AI Stampede; Bloom Energy, Dell Soar (Live Coverage)",
+        "time": "2026-11-11T17:29:06+00:00",
+        "link": "https://finance.yahoo.com/m/2199baae-3d36-344b-b4d8-76ff24b7f5e9/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+        "tone": 2,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Michael Burry Has a Urgent Message for Nvidia Stock Investors",
+        "time": "2026-11-11T17:10:38+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-urgent-message-nvidia-171038140.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "NVIDIA Stocks Rise Despite Baird Downgrade as $10 Billion Anthropic Bet Emerges",
+        "time": "2026-11-11T17:09:12+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-rise-despite-baird-170912416.html?.tsrc=rss",
+        "tone": -1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings",
+          "analyst"
+        ]
+      },
+      {
+        "title": "When It Comes To Options, Don't Give Up On Nvidia Stock Just Yet",
+        "time": "2026-11-11T16:57:46+00:00",
+        "link": "https://finance.yahoo.com/m/fdf3ece9-e440-31c4-9f3f-da4ea6c289a5/when-it-comes-to-options%2C.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "analyst"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Stock Market Today: Nasdaq Jumps As CoreWeave Results Fuel AI Stampede; Bloom En"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "4,6 %"
+      },
+      {
+        "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "176,71 $ vs. 174,85 $"
+      },
+      {
+        "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+        "ok": true,
+        "val": "175,13 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,2x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "27289 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Stock Market Today: Nasdaq Jumps As CoreWeave Results Fuel AI Stampede; Bloom Energy, Dell Soar (Live Coverage)"
+    ]
+  }
+]

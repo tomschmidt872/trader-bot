@@ -49,7 +49,7 @@
       "entry": 347.15,
       "entry_fx": 1.1266,
       "cost_eur": 74.0538759627013,
-      "peak": 353.08,
+      "peak": 354.195,
       "atr": 8.043394211128994,
       "bought": "2026-11-04T14:36:15+00:00",
       "name": "Apple Inc."
@@ -125,5 +125,5 @@
       "name": "Berkshire Hathaway Inc. New"
     }
   },
-  "fx": 1.1167
+  "fx": 1.1094
 }

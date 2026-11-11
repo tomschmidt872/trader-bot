@@ -1,0 +1,21 @@
+{
+  "time": "2026-11-11T17:37:18+00:00",
+  "equity": 998.001,
+  "rules": {
+    "start_cash": 1000,
+    "leverage": 5,
+    "slots": 5,
+    "allow_short": true,
+    "move_pct": 4,
+    "min_rvol": 1.5,
+    "stop_atr": 0.75,
+    "target_atr": 1.5,
+    "breakeven_atr": 0.75,
+    "max_hold_hours": 4,
+    "cost_pct": 0.1,
+    "maintenance": 0.25,
+    "min_dollar_volume": 50000000
+  },
+  "candidates": 2,
+  "dead": false
+}

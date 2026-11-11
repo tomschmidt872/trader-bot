@@ -1,0 +1,119 @@
+{
+  "currency": "EUR",
+  "type": "event",
+  "cash": 598.201,
+  "start_cash": 1000.0,
+  "leverage": 5,
+  "started": "2026-11-11T17:37:18+00:00",
+  "positions": {
+    "AMD": {
+      "side": 1,
+      "shares": 1.9919381626551989,
+      "entry": 556.945,
+      "entry_fx": 1.1094,
+      "margin_eur": 200.0,
+      "atr": 39.46829093033751,
+      "leverage": 5,
+      "stop": 527.3437818022469,
+      "target": 616.1474363955064,
+      "opened": "2026-11-11T17:37:18+00:00",
+      "name": "Advanced Micro Devices, Inc.",
+      "trigger": [
+        "AMD Price Prediction: AI Boom and Record Revenue Set the Stage for Another Monster Rally",
+        "AMD Rises 4% as CoreWeave’s Raised Outlook Revives the AI Chip Trade",
+        "MU, AMD, AVGO, Other Chip Stocks Surge As CoreWeave Earnings Reignite AI Trade — Nasdaq-100 Futures Jump"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "AMD Price Prediction: AI Boom and Record Revenue Set the Stage for Another Monst"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "8,1 %"
+        },
+        {
+          "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "556,95 $ vs. 544,79 $"
+        },
+        {
+          "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+          "ok": true,
+          "val": "543,28 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "1,7x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "17172 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "NVDA": {
+      "side": 1,
+      "shares": 6.271804651689208,
+      "entry": 176.71,
+      "entry_fx": 1.1094,
+      "margin_eur": 199.8,
+      "atr": 8.643478084177625,
+      "leverage": 5,
+      "stop": 170.22739143686678,
+      "target": 189.67521712626643,
+      "opened": "2026-11-11T17:37:18+00:00",
+      "name": "NVIDIA Corporation",
+      "trigger": [
+        "Stock Market Today: Nasdaq Jumps As CoreWeave Results Fuel AI Stampede; Bloom Energy, Dell Soar (Live Coverage)"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "Stock Market Today: Nasdaq Jumps As CoreWeave Results Fuel AI Stampede; Bloom En"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "4,6 %"
+        },
+        {
+          "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "176,71 $ vs. 174,85 $"
+        },
+        {
+          "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+          "ok": true,
+          "val": "175,13 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "2,2x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "27289 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    }
+  },
+  "dead": false
+}
