@@ -1,5 +1,75 @@
 [
   {
+    "id": "etrade:2026-11-12T18:33:54+00:00:ERÖFFNEN:AMD",
+    "type": "trade",
+    "sym": "AMD",
+    "time": "2026-11-12T18:33:54+00:00",
+    "seen": "2026-11-12T18:33:54+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long AMD (5x)",
+    "detail": "Long: AMD Shares Jump on Stunning Upgrade Amid Nvidia Turmoil; AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns; AMD Stock Gets Upgrade. What It Says About the Future of the AI Trade."
+  },
+  {
+    "id": "etrade:2026-11-12T18:33:54+00:00:ERÖFFNEN:MBGL",
+    "type": "trade",
+    "sym": "MBGL",
+    "time": "2026-11-12T18:33:54+00:00",
+    "seen": "2026-11-12T18:33:54+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long MBGL (5x)",
+    "detail": "Long: Mobility Global Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+  },
+  {
+    "id": "etrade:2026-11-12T18:33:54+00:00:SCHLIESSEN:XE",
+    "type": "trade",
+    "sym": "XE",
+    "time": "2026-11-12T18:33:54+00:00",
+    "seen": "2026-11-12T18:33:54+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Long XE (5x) – -2,56 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-12T18:33:54+00:00:SCHLIESSEN:IBP",
+    "type": "trade",
+    "sym": "IBP",
+    "time": "2026-11-12T18:33:54+00:00",
+    "seen": "2026-11-12T18:33:54+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Long IBP (5x) – 7,02 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-12T18:33:54+00:00:SCHLIESSEN:AVGO",
+    "type": "trade",
+    "sym": "AVGO",
+    "time": "2026-11-12T18:33:54+00:00",
+    "seen": "2026-11-12T18:33:54+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Long AVGO (5x) – -4,55 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-12T18:33:54+00:00:SCHLIESSEN:AMD",
+    "type": "trade",
+    "sym": "AMD",
+    "time": "2026-11-12T18:33:54+00:00",
+    "seen": "2026-11-12T18:33:54+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Long AMD (5x) – -11,47 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-12T18:33:54+00:00:SCHLIESSEN:MBGL",
+    "type": "trade",
+    "sym": "MBGL",
+    "time": "2026-11-12T18:33:54+00:00",
+    "seen": "2026-11-12T18:33:54+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Long MBGL (5x) – 18,41 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
     "id": "etrade:2026-11-12T16:42:42+00:00:ERÖFFNEN:XE",
     "type": "trade",
     "sym": "XE",
@@ -20612,71 +20682,6 @@
     "type": "news",
     "sym": "PFE",
     "summary": "This surprising healthcare stock has been outperforming the markets this year.",
-    "seen": "2026-11-10T15:19:54+00:00"
-  },
-  {
-    "title": "What Does Novo Nordisk (CPSE:NOVO B) FDA Vision Warning Mean For Investors?",
-    "time": "2026-11-10T11:13:36+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/does-novo-nordisk-cpse-novo-111336370.html?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NVO:rss:14b65db3-ae99-3596-b235-9624b82681da",
-    "type": "news",
-    "sym": "NVO",
-    "summary": "Novo Nordisk (CPSE:NOVO B) faces a new US FDA safety warning on Wegovy and other GLP-1 drugs over rare vision loss risk. The FDA is asking all GLP-1 manufacturers to add label warnings about nonarteritic anterior ischemic optic neuropathy, a sudden vision loss condition. The agency move follows a re",
-    "seen": "2026-11-10T15:19:54+00:00"
-  },
-  {
-    "title": "TSMC Reports 59.7% Rise in October Revenue to NT$367.47 Billion Amid AI Chip Demand",
-    "time": "2026-11-10T11:12:42+00:00",
-    "link": "https://investorshub.advfn.com/market-news/article/39603/tsmc-reports-59-7-rise-in-october-revenue-to-nt367-47-billion-amid-ai-chip-demand?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TSM:rss:d42ddc53-0418-3935-b82e-4b3096fe72c2",
-    "type": "news",
-    "sym": "TSM",
-    "summary": "Taiwan Semiconductor Manufacturing Company (NYSE:TSM) reported a 59. 7% year-on-year increase in October 2026 revenue, supported by continued demand for advanced semiconductors used in artificial intelligence applications.",
-    "seen": "2026-11-10T15:19:54+00:00"
-  },
-  {
-    "title": "Broadcom Heads These 3 Top Undervalued Stocks",
-    "time": "2026-11-10T11:10:19+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-heads-3-top-undervalued-111019939.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AVGO:rss:8c64a8d9-d9af-3844-b5db-60c428b1db73",
-    "type": "news",
-    "sym": "AVGO",
-    "summary": "With the Federal Reserve openly weighing a larger interest rate hike if inflation stays sticky, investors are again reminded that borrowing is never guaranteed to stay cheap. Higher rates can punish companies that rely heavily on debt, yet they can also leave some cash generative businesses overlook",
-    "seen": "2026-11-10T15:19:54+00:00"
-  },
-  {
-    "title": "TSMC Sales Jump Again -- Nvidia and Apple Orders Keep the AI Chip Boom Going",
-    "time": "2026-11-10T11:10:06+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-sales-jump-again-nvidia-111006983.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AAPL:rss:f23b9ab3-fd3c-32bd-8434-739182f1d40f",
-    "type": "news",
-    "sym": "AAPL",
-    "summary": "TSMC Monthly Sales Point to a Solid Quarter for the World's Top Contract Chipmaker",
-    "seen": "2026-11-10T15:19:54+00:00"
-  },
-  {
-    "title": "FedEx (FDX) Stock Trades Below Fair Value On Cash Flow",
-    "time": "2026-11-10T11:09:23+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/fedex-fdx-stock-trades-below-110923616.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:FDX:rss:c936a6bf-c01a-3298-aae1-a28cf5208930",
-    "type": "news",
-    "sym": "FDX",
-    "summary": "FedEx has delivered a strong multiyear run, and with the stock recently closing at US$318.84, the live question for investors is whether that share price is properly grounded in the cash the business can generate over time. Over the past 5 years the stock has returned 73.4%, which puts real weight o",
     "seen": "2026-11-10T15:19:54+00:00"
   }
 ]

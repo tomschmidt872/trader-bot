@@ -10,3 +10,10 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-12T16:42:42+00:00,ERÖFFNEN,AVGO,2.860354,366.04,1.1062,946.50,,"Long: Nvidia CEO Exit Reports Sends Shockwaves Through AI Chip Stocks --  AMD and Broadcom Stocks Jump; AMD, Broadcom rally as Nvidia faces a major leadership test; Broadcom Stocks Climb 5.18% as Goldman Calls Chips Oversold and Anthropic Stake Lands",Long,5,189.30
 2026-11-12T16:42:42+00:00,ERÖFFNEN,IBP,4.763170,219.59,1.1062,945.55,,"Long: Installed Building Products, In: SEC-Meldung 8-K – wichtiger Vertrag",Long,5,189.11
 2026-11-12T16:42:42+00:00,ERÖFFNEN,XE,89.952363,11.50,1.1062,935.14,,"Long: X-Energy, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht",Long,5,187.03
+2026-11-12T18:33:54+00:00,SCHLIESSEN,MBGL,46.175726,23.18,1.1056,968.29,18.41,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Long,5,189.68
+2026-11-12T18:33:54+00:00,SCHLIESSEN,AMD,1.779168,582.53,1.1056,937.43,-11.47,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Long,5,189.49
+2026-11-12T18:33:54+00:00,SCHLIESSEN,AVGO,2.860354,364.65,1.1056,943.40,-4.55,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Long,5,189.30
+2026-11-12T18:33:54+00:00,SCHLIESSEN,IBP,4.763170,221.44,1.1056,954.03,7.02,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Long,5,189.11
+2026-11-12T18:33:54+00:00,SCHLIESSEN,XE,89.952363,11.48,1.1056,934.02,-2.56,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Long,5,187.03
+2026-11-12T18:33:54+00:00,ERÖFFNEN,MBGL,45.328271,23.18,1.1056,950.52,,Long: Mobility Global Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht,Long,5,190.10
+2026-11-12T18:33:54+00:00,ERÖFFNEN,AMD,1.802207,582.53,1.1056,949.57,,"Long: AMD Shares Jump on Stunning Upgrade Amid Nvidia Turmoil; AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns; AMD Stock Gets Upgrade. What It Says About the Future of the AI Trade.",Long,5,189.91
