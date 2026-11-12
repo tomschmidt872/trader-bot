@@ -1,10 +1,280 @@
 {
   "currency": "EUR",
   "type": "event",
-  "cash": 948.3931393381486,
+  "cash": -0.935140275594307,
   "start_cash": 1000.0,
   "leverage": 5,
   "started": "2026-11-11T17:37:18+00:00",
-  "positions": {},
+  "positions": {
+    "MBGL": {
+      "side": 1,
+      "shares": 46.17572582464173,
+      "entry": 22.72,
+      "entry_fx": 1.1062,
+      "margin_eur": 189.6786278676297,
+      "atr": 0.7824831089721257,
+      "leverage": 5,
+      "stop": 22.133137668270905,
+      "target": 23.893724663458187,
+      "opened": "2026-11-12T16:42:42+00:00",
+      "name": "Mobility Global Inc.",
+      "trigger": [
+        "Mobility Global Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "Mobility Global Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "14,1 %"
+        },
+        {
+          "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "22,72 $ vs. 22,48 $"
+        },
+        {
+          "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+          "ok": true,
+          "val": "22,72 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "1,8x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "83 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "AMD": {
+      "side": 1,
+      "shares": 1.779167980724227,
+      "entry": 589.075,
+      "entry_fx": 1.1062,
+      "margin_eur": 189.4889492397621,
+      "atr": 40.13866877554266,
+      "leverage": 5,
+      "stop": 558.970998418343,
+      "target": 649.283003163314,
+      "opened": "2026-11-12T16:42:42+00:00",
+      "name": "Advanced Micro Devices, Inc.",
+      "trigger": [
+        "AMD Shares Jump on Stunning Upgrade Amid Nvidia Turmoil",
+        "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
+        "AMD Stock Gets Upgrade. What It Says About the Future of the AI Trade."
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "AMD Shares Jump on Stunning Upgrade Amid Nvidia Turmoil"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "6,5 %"
+        },
+        {
+          "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "589,08 $ vs. 570,62 $"
+        },
+        {
+          "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+          "ok": true,
+          "val": "578,78 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "3,1x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "18829 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "AVGO": {
+      "side": 1,
+      "shares": 2.8603537139438946,
+      "entry": 366.044,
+      "entry_fx": 1.1062,
+      "margin_eur": 189.29946029052232,
+      "atr": 17.156717793093303,
+      "leverage": 5,
+      "stop": 353.17646165518,
+      "target": 391.77907668963996,
+      "opened": "2026-11-12T16:42:42+00:00",
+      "name": "Broadcom Inc.",
+      "trigger": [
+        "Nvidia CEO Exit Reports Sends Shockwaves Through AI Chip Stocks --  AMD and Broadcom Stocks Jump",
+        "AMD, Broadcom rally as Nvidia faces a major leadership test",
+        "Broadcom Stocks Climb 5.18% as Goldman Calls Chips Oversold and Anthropic Stake Lands"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "Nvidia CEO Exit Reports Sends Shockwaves Through AI Chip Stocks --  AMD and Broa"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "6,0 %"
+        },
+        {
+          "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "366,04 $ vs. 362,28 $"
+        },
+        {
+          "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+          "ok": true,
+          "val": "365,71 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "2,6x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "9509 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "IBP": {
+      "side": 1,
+      "shares": 4.763169924415456,
+      "entry": 219.595,
+      "entry_fx": 1.1062,
+      "margin_eur": 189.1101608302318,
+      "atr": 10.37634362023376,
+      "leverage": 5,
+      "stop": 211.81274228482468,
+      "target": 235.15951543035064,
+      "opened": "2026-11-12T16:42:42+00:00",
+      "name": "Installed Building Products, In",
+      "trigger": [
+        "Installed Building Products, In: SEC-Meldung 8-K – wichtiger Vertrag"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "Installed Building Products, In: SEC-Meldung 8-K – wichtiger Vertrag"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "4,8 %"
+        },
+        {
+          "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "219,59 $ vs. 215,51 $"
+        },
+        {
+          "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+          "ok": true,
+          "val": "217,40 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "1,9x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "91 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "XE": {
+      "side": 1,
+      "shares": 89.9523628576022,
+      "entry": 11.5,
+      "entry_fx": 1.1062,
+      "margin_eur": 187.0280551188619,
+      "atr": 0.977183700049821,
+      "leverage": 5,
+      "stop": 10.767112224962634,
+      "target": 12.965775550074731,
+      "opened": "2026-11-12T16:42:42+00:00",
+      "name": "X-Energy, Inc.",
+      "trigger": [
+        "X-Energy, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "X-Energy, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "5,1 %"
+        },
+        {
+          "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "11,50 $ vs. 11,27 $"
+        },
+        {
+          "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+          "ok": true,
+          "val": "11,45 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "1,7x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "73 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    }
+  },
   "dead": false
 }

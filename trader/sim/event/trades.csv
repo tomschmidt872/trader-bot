@@ -5,3 +5,8 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-12T14:37:10+00:00,SCHLIESSEN,AMD,1.991938,557.84,1.1098,1001.24,0.60,maximale Haltedauer von 4 Std. erreicht,Long,5,200.00
 2026-11-12T14:37:10+00:00,SCHLIESSEN,NVDA,6.271805,156.02,1.1098,881.71,-117.81,"Stop bei 170,23 $ erreicht",Long,5,199.80
 2026-11-12T14:37:10+00:00,SCHLIESSEN,YETI,25.935857,39.72,1.1098,928.13,68.60,"Kursziel 40,10 $ erreicht",Short,5,199.57
+2026-11-12T16:42:42+00:00,ERÖFFNEN,MBGL,46.175726,22.72,1.1062,948.39,,Long: Mobility Global Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht,Long,5,189.68
+2026-11-12T16:42:42+00:00,ERÖFFNEN,AMD,1.779168,589.08,1.1062,947.44,,"Long: AMD Shares Jump on Stunning Upgrade Amid Nvidia Turmoil; AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns; AMD Stock Gets Upgrade. What It Says About the Future of the AI Trade.",Long,5,189.49
+2026-11-12T16:42:42+00:00,ERÖFFNEN,AVGO,2.860354,366.04,1.1062,946.50,,"Long: Nvidia CEO Exit Reports Sends Shockwaves Through AI Chip Stocks --  AMD and Broadcom Stocks Jump; AMD, Broadcom rally as Nvidia faces a major leadership test; Broadcom Stocks Climb 5.18% as Goldman Calls Chips Oversold and Anthropic Stake Lands",Long,5,189.30
+2026-11-12T16:42:42+00:00,ERÖFFNEN,IBP,4.763170,219.59,1.1062,945.55,,"Long: Installed Building Products, In: SEC-Meldung 8-K – wichtiger Vertrag",Long,5,189.11
+2026-11-12T16:42:42+00:00,ERÖFFNEN,XE,89.952363,11.50,1.1062,935.14,,"Long: X-Energy, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht",Long,5,187.03

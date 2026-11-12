@@ -1,5 +1,55 @@
 [
   {
+    "id": "etrade:2026-11-12T16:42:42+00:00:ERÖFFNEN:XE",
+    "type": "trade",
+    "sym": "XE",
+    "time": "2026-11-12T16:42:42+00:00",
+    "seen": "2026-11-12T16:42:42+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long XE (5x)",
+    "detail": "Long: X-Energy, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+  },
+  {
+    "id": "etrade:2026-11-12T16:42:42+00:00:ERÖFFNEN:IBP",
+    "type": "trade",
+    "sym": "IBP",
+    "time": "2026-11-12T16:42:42+00:00",
+    "seen": "2026-11-12T16:42:42+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long IBP (5x)",
+    "detail": "Long: Installed Building Products, In: SEC-Meldung 8-K – wichtiger Vertrag"
+  },
+  {
+    "id": "etrade:2026-11-12T16:42:42+00:00:ERÖFFNEN:AVGO",
+    "type": "trade",
+    "sym": "AVGO",
+    "time": "2026-11-12T16:42:42+00:00",
+    "seen": "2026-11-12T16:42:42+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long AVGO (5x)",
+    "detail": "Long: Nvidia CEO Exit Reports Sends Shockwaves Through AI Chip Stocks --  AMD and Broadcom Stocks Jump; AMD, Broadcom rally as Nvidia faces a major leadership test; Broadcom Stocks Climb 5.18% as Goldman Calls Chips Oversold and Anthropic Stake Lands"
+  },
+  {
+    "id": "etrade:2026-11-12T16:42:42+00:00:ERÖFFNEN:AMD",
+    "type": "trade",
+    "sym": "AMD",
+    "time": "2026-11-12T16:42:42+00:00",
+    "seen": "2026-11-12T16:42:42+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long AMD (5x)",
+    "detail": "Long: AMD Shares Jump on Stunning Upgrade Amid Nvidia Turmoil; AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns; AMD Stock Gets Upgrade. What It Says About the Future of the AI Trade."
+  },
+  {
+    "id": "etrade:2026-11-12T16:42:42+00:00:ERÖFFNEN:MBGL",
+    "type": "trade",
+    "sym": "MBGL",
+    "time": "2026-11-12T16:42:42+00:00",
+    "seen": "2026-11-12T16:42:42+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long MBGL (5x)",
+    "detail": "Long: Mobility Global Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+  },
+  {
     "title": "AMD CEO Dr. Lisa Su continues making the 'right, big bets'",
     "time": "2026-11-12T15:23:05+00:00",
     "link": "https://finance.yahoo.com/video/amd-ceo-dr-lisa-su-continues-making-the-right-big-bets-152305265.html?.tsrc=rss",
