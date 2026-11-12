@@ -19,3 +19,4 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund
 2026-11-05T14:34:28+00:00,KAUF,GDDY,0.576399,120.12,1.1218,61.72,,"Alle Kaufregeln erfüllt, Score 10 (Signale +1, Trend +3, Momentum +2, Volumen +2, Intraday +1, News +1)"
 2026-11-06T15:21:50+00:00,VERKAUF,CDW,0.495214,154.15,1.1158,68.41,-6.17,Stop-Loss: Kurs 154.15 $ ist unter die Verlustgrenze von 155.44 $ gefallen
 2026-11-06T15:21:50+00:00,KAUF,BRK-B,0.139172,569.51,1.1158,71.03,,"Alle Kaufregeln erfüllt, Score 11 (Signale +2, Trend +3, Momentum +1, Volumen +1, Intraday +2, News +2)"
+2026-11-12T19:32:42+00:00,VERKAUF,MRNA,0.325051,231.57,1.1057,68.08,-6.51,Stop-Loss: Kurs 231.57 $ ist unter die Verlustgrenze von 231.67 $ gefallen

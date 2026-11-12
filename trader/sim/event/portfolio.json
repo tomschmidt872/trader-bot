@@ -1,7 +1,7 @@
 {
   "currency": "EUR",
   "type": "event",
-  "cash": 568.599695172924,
+  "cash": 380.40652622576226,
   "start_cash": 1000.0,
   "leverage": 5,
   "started": "2026-11-11T17:37:18+00:00",
@@ -106,6 +106,61 @@
           "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
           "ok": true,
           "val": "18620 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "YETI": {
+      "side": -1,
+      "shares": 26.826890025755745,
+      "entry": 38.59,
+      "entry_fx": 1.1057,
+      "margin_eur": 187.2568845245391,
+      "atr": 1.9345134965030903,
+      "leverage": 5,
+      "stop": 40.04088512237732,
+      "target": 35.68822975524537,
+      "opened": "2026-11-12T19:40:03+00:00",
+      "name": "YETI Holdings, Inc.",
+      "trigger": [
+        "Yeti Lowers Full-Year Outlook as Third-Quarter Sales Miss Street Views",
+        "YETI Stock Slides After Q3 Revenue Miss: Company Cuts 2026 Sales And EPS Outlook",
+        "YETI Holdings, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "Yeti Lowers Full-Year Outlook as Third-Quarter Sales Miss Street Views"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "-9,8 %"
+        },
+        {
+          "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "38,59 $ vs. 39,23 $"
+        },
+        {
+          "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+          "ok": true,
+          "val": "39,12 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "3,8x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "58 Mio. $"
         },
         {
           "rule": "Keine Warnmeldung der SEC",

@@ -5565,5 +5565,329 @@
       }
     ],
     "block": null
+  },
+  {
+    "action": "VERKAUF",
+    "sym": "MRNA",
+    "shares": 0.3250506757154914,
+    "price": 231.57,
+    "value": 68.07631814726992,
+    "pnl": -6.510323353821775,
+    "why": "Stop-Loss: Kurs 231.57 $ ist unter die Verlustgrenze von 231.67 $ gefallen",
+    "id": "2026-11-12T19:32:42+00:00:VERKAUF:MRNA",
+    "time": "2026-11-12T19:32:42+00:00",
+    "kind": "stop",
+    "fx": 1.1057,
+    "pnl_pct": -8.728538010022193,
+    "entry": 257.41,
+    "bought": "2026-11-05T14:34:28+00:00",
+    "regime": "vorsichtig",
+    "levels": {
+      "stop": 231.669,
+      "trail": 183.54571452154494,
+      "sell_score": -4,
+      "entry": 257.41,
+      "peak": 279.16
+    },
+    "name": "Moderna, Inc.",
+    "total": 2,
+    "scores": {
+      "Signale": 1,
+      "Trend": 3,
+      "Momentum": -1,
+      "Volumen": 1,
+      "Intraday": -2,
+      "News": 0
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Gilbert Cisneros kauft ($1,001 - $15,000)"
+      ],
+      "Trend": [
+        "Kurs > SMA50",
+        "SMA50 > SMA200",
+        "ADX 38: starker Aufwärtstrend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 52 neutral"
+      ],
+      "Volumen": [
+        "Volumen 0.3x normal",
+        "Chaikin Money Flow +0.09 (Geld fließt rein)"
+      ],
+      "Intraday": [
+        "Kurs < VWAP 238.84",
+        "unter Opening Range 233.01",
+        "Gap -4.3 % zur Eröffnung"
+      ],
+      "News": [
+        "9 Schlagzeilen: 1 positiv, 1 negativ"
+      ]
+    },
+    "ind": {
+      "price": 231.57,
+      "sma50": 200.1805012573242,
+      "sma200": 95.53025041732788,
+      "adx": 37.52538608266175,
+      "plus_di": 25.414166315504556,
+      "minus_di": 16.203987237434514,
+      "macd_hist": -0.4707626242009617,
+      "rsi": 52.4846264299923,
+      "stoch_k": 51.3873870507456,
+      "stoch_d": 63.36197913763046,
+      "bb_upper": 270.05329814416547,
+      "bb_lower": 190.38420417517045,
+      "bb_width": 34.605823186722354,
+      "roc20": -2.0845665961945037,
+      "dollar_vol": 3713576936.4,
+      "rvol": 0.34123626733271634,
+      "obv_trend": -0.054277458575800734,
+      "cmf": 0.08844691142318757,
+      "buy_sell_ratio": 0.8929288679585152,
+      "high52": 280.79998779296875,
+      "low52": 22.280000686645508,
+      "vwap": 238.83992498390214,
+      "or_high": 242.4055938720703,
+      "or_low": 233.00999450683594,
+      "gap": -4.3467760876879975,
+      "atr": 20.486251385722916,
+      "chg": -6.884073454235418,
+      "spark": [
+        47.03,
+        47.61,
+        47.57,
+        47.19,
+        46.06,
+        45.64,
+        49.06,
+        51.59,
+        47.44,
+        47.6,
+        47.73,
+        45.99,
+        49.64,
+        49.91,
+        52.13,
+        55.4,
+        61.8,
+        63.96,
+        59.35,
+        61.0,
+        60.42,
+        59.75,
+        67.27,
+        69.7,
+        70.03,
+        72.5,
+        79.76,
+        81.8,
+        79.77,
+        73.8,
+        76.56,
+        68.27,
+        67.01,
+        67.44,
+        68.28,
+        63.15,
+        61.82,
+        59.49,
+        59.66,
+        58.07,
+        57.02,
+        54.07,
+        55.63,
+        55.81,
+        54.49,
+        57.92,
+        54.82,
+        55.14,
+        56.99,
+        56.26,
+        53.86,
+        59.17,
+        59.81,
+        60.57,
+        63.67,
+        63.65,
+        63.32,
+        64.46,
+        62.96,
+        174.38,
+        133.32,
+        145.13,
+        138.89,
+        158.83,
+        149.66,
+        142.77,
+        137.99,
+        140.34,
+        154.27,
+        150.81,
+        148.87,
+        145.55,
+        140.33,
+        135.61,
+        136.62,
+        143.97,
+        146.69,
+        143.77,
+        145.62,
+        158.07,
+        154.04,
+        172.94,
+        182.56,
+        182.11,
+        194.82,
+        198.88,
+        197.28,
+        203.46,
+        192.57,
+        188.94,
+        190.01,
+        203.21,
+        187.46,
+        196.48,
+        197.0,
+        225.0,
+        213.74,
+        216.25,
+        226.3,
+        236.5,
+        218.01,
+        226.89,
+        242.08,
+        245.81,
+        202.63,
+        200.1,
+        198.85,
+        207.97,
+        214.16,
+        222.76,
+        221.72,
+        220.83,
+        228.44,
+        258.38,
+        241.46,
+        254.19,
+        269.0,
+        250.83,
+        248.69,
+        231.57
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Why Is Moderna (MRNA) Joining A Global Benchmark And Publishing New Vaccine Data?",
+        "time": "2026-11-12T19:10:02+00:00",
+        "link": "https://finance.yahoo.com/healthcare/articles/why-moderna-mrna-joining-global-191002480.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Why Moderna Stock Dropped on Thursday",
+        "time": "2026-11-12T17:33:30+00:00",
+        "link": "https://www.fool.com/investing/2026/11/12/why-moderna-stock-dropped-on-thursday/?.tsrc=rss",
+        "tone": -1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Moderna Needs a Post-Covid Hit. Its Cancer-Drug Spending Plan Ups the Stakes.",
+        "time": "2026-11-12T15:35:00+00:00",
+        "link": "https://finance.yahoo.com/m/de21e165-70de-341f-afd1-3672f935c4cb/moderna-needs-a-post-covid.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Moderna Raises 2026 Revenue Growth Forecast to 15%–25% and Reports Progress in Cancer Vaccine Development",
+        "time": "2026-11-12T13:26:57+00:00",
+        "link": "https://investorshub.advfn.com/market-news/article/39899/moderna-raises-2026-revenue-growth-forecast-to-15-25-and-reports-progress-in-cancer-vaccine-development?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Moderna Outlines Next Phase of Growth at Analyst Day",
+        "time": "2026-11-12T12:00:00+00:00",
+        "link": "https://finance.yahoo.com/healthcare/articles/moderna-outlines-next-phase-growth-120000477.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Moderna Announces JAMA Network Open Publication of Real-World Comparative Effectiveness Data for mNEXSPIKE (COVID-19 Vaccine, mRNA) in Adults Aged 65 Years and Older",
+        "time": "2026-11-11T16:10:00+00:00",
+        "link": "https://finance.yahoo.com/healthcare/articles/moderna-announces-jama-network-open-161000734.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Moderna Stock Jumped 10% in 5 Sessions: Take Profits, or Buy More?",
+        "time": "2026-11-11T13:39:53+00:00",
+        "link": "https://www.tikr.com/blog/moderna-stock-jumped-10-in-5-sessions-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261111-mw53gx88&.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Moderna’s CEO eyes Keytruda-eclipsing future for personalised cancer vaccine",
+        "time": "2026-11-11T12:27:05+00:00",
+        "link": "https://www.pharmaceutical-technology.com/news/modernas-ceo-eyes-keytruda-eclipsing-future-for-personalised-cancer-vaccine/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Technik-Score (Trend + Momentum + Volumen) mindestens 6",
+        "ok": false,
+        "val": 3
+      },
+      {
+        "rule": "Gesamt-Score mindestens 6",
+        "ok": false,
+        "val": 2
+      },
+      {
+        "rule": "Trend positiv (mindestens +1)",
+        "ok": true,
+        "val": 3
+      },
+      {
+        "rule": "Volumen nicht negativ",
+        "ok": true,
+        "val": 1
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      },
+      {
+        "rule": "Marktlage nicht risk-off",
+        "ok": true,
+        "val": "vorsichtig"
+      },
+      {
+        "rule": "Genug Handel (mind. 20 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "3714 Mio. $"
+      },
+      {
+        "rule": "Nicht in den letzten 7 Tagen verkauft",
+        "ok": true,
+        "val": "nein"
+      }
+    ],
+    "block": null
   }
 ]
