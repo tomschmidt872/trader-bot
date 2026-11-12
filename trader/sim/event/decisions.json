@@ -857,5 +857,957 @@
     "trigger": [
       "Kurssprung -4,6 % mit 2,2x Volumen ohne bekannte Meldung"
     ]
+  },
+  {
+    "action": "SCHLIESSEN",
+    "sym": "AMD",
+    "side": 1,
+    "shares": 1.9919381626551989,
+    "price": 557.837,
+    "value": 200.0,
+    "pnl": 0.5997765653696412,
+    "why": "maximale Haltedauer von 4 Std. erreicht",
+    "id": "2026-11-12T14:37:10+00:00:SCHLIESSEN:AMD",
+    "time": "2026-11-12T14:37:10+00:00",
+    "kind": "time",
+    "bot": "event",
+    "story": "Long-Position in AMD nach 21,0 Std. geschlossen: maximale Haltedauer von 4 Std. erreicht. Ergebnis 0,60 € (0,3 % auf den Einsatz von 200,00 €, mit 5x Hebel). Einstieg 556,95 $, Ausstieg 557,84 $.",
+    "name": "Advanced Micro Devices, Inc.",
+    "entry": 556.945,
+    "bought": "2026-11-11T17:37:18+00:00",
+    "leverage": 5,
+    "pnl_pct": 0.2998882826848206,
+    "levels": {
+      "stop": 527.3437818022469,
+      "target": 616.1474363955064
+    },
+    "total": 7,
+    "scores": {
+      "Signale": 1,
+      "Trend": 2,
+      "Momentum": 1,
+      "Volumen": 2,
+      "Intraday": 0,
+      "News": 1
+    },
+    "reasons": {
+      "Signale": [
+        "ARK Invest (Cathie Wood) hält 5.3 %"
+      ],
+      "Trend": [
+        "Kurs > SMA50",
+        "SMA50 > SMA200",
+        "ADX 21: kein klarer Trend"
+      ],
+      "Momentum": [
+        "MACD positiv",
+        "RSI 54 neutral"
+      ],
+      "Volumen": [
+        "5.4x Volumen an einem Plus-Tag",
+        "OBV steigt (Akkumulation)",
+        "Chaikin Money Flow -0.12 (Geld fließt raus)",
+        "Kaufdruck: 1.7x mehr Volumen an Plus-Tagen"
+      ],
+      "Intraday": [
+        "keine Intraday-Daten"
+      ],
+      "News": [
+        "10 Schlagzeilen: 2 positiv, 1 negativ"
+      ]
+    },
+    "ind": {
+      "price": 557.837,
+      "sma50": 552.444938852539,
+      "sma200": 421.5713350396729,
+      "adx": 20.593907855769793,
+      "plus_di": 28.259278884535583,
+      "minus_di": 26.92799321397619,
+      "macd_hist": 5.830362173488762,
+      "rsi": 54.25958262129821,
+      "stoch_k": 87.94725869991453,
+      "stoch_d": 78.99387468892306,
+      "bb_upper": 601.559893575424,
+      "bb_lower": 433.2068020300447,
+      "bb_width": 32.539333215951935,
+      "roc20": -0.7813493803883298,
+      "dollar_vol": 17831318277.885,
+      "rvol": 5.3710776172954855,
+      "obv_trend": 0.26218223434585936,
+      "cmf": -0.11535977336020337,
+      "buy_sell_ratio": 1.7425762950499093,
+      "high52": 658.52001953125,
+      "low52": 188.22000122070312,
+      "atr": 38.38866877554266,
+      "chg": 0.8929237417143243,
+      "spark": [
+        503.89,
+        495.54,
+        518.09,
+        516.1,
+        510.13,
+        521.54,
+        542.52,
+        523.2,
+        466.38,
+        490.33,
+        475.51,
+        452.4,
+        488.45,
+        511.57,
+        547.26,
+        507.29,
+        512.48,
+        537.37,
+        551.63,
+        519.85,
+        519.74,
+        532.57,
+        521.58,
+        539.49,
+        580.91,
+        540.88,
+        517.82,
+        552.05,
+        516.11,
+        517.41,
+        546.72,
+        557.89,
+        534.39,
+        548.13,
+        529.14,
+        500.94,
+        495.76,
+        503.57,
+        544.43,
+        552.33,
+        539.69,
+        521.95,
+        494.95,
+        454.62,
+        429.56,
+        485.39,
+        476.15,
+        484.64,
+        518.58,
+        482.05,
+        489.28,
+        483.36,
+        469.56,
+        474.32,
+        482.93,
+        483.01,
+        514.39,
+        506.0,
+        484.39,
+        466.42,
+        469.46,
+        473.25,
+        456.75,
+        479.18,
+        480.93,
+        476.67,
+        465.58,
+        470.72,
+        459.61,
+        457.06,
+        456.16,
+        477.57,
+        505.74,
+        521.1,
+        503.6,
+        516.13,
+        493.41,
+        504.2,
+        512.5,
+        545.09,
+        559.82,
+        615.52,
+        623.77,
+        614.61,
+        629.26,
+        630.63,
+        607.87,
+        607.57,
+        611.76,
+        615.73,
+        633.91,
+        631.75,
+        649.42,
+        645.86,
+        620.68,
+        608.1,
+        594.24,
+        605.53,
+        570.82,
+        562.23,
+        528.75,
+        538.05,
+        534.74,
+        552.72,
+        507.93,
+        516.79,
+        531.28,
+        560.26,
+        578.44,
+        566.42,
+        504.8,
+        466.84,
+        483.9,
+        488.78,
+        404.4,
+        449.04,
+        508.58,
+        515.21,
+        552.9,
+        557.84
+      ]
+    },
+    "headlines": [
+      {
+        "title": "AMD Shares Jump on Stunning Upgrade Amid Nvidia Turmoil",
+        "time": "2026-11-12T14:04:14+00:00",
+        "link": "https://finance.yahoo.com/technology/ai/articles/amd-shares-jump-stunning-upgrade-140414998.html?.tsrc=rss",
+        "tone": 2,
+        "source": "Yahoo Finance",
+        "tags": [
+          "analyst"
+        ]
+      },
+      {
+        "title": "NVIDIA Sinks 9% on Reports Board Is Preparing to Oust Jensen Huang; Intel Falls 4%, AMD Holds Steady",
+        "time": "2026-11-12T13:48:57+00:00",
+        "link": "https://247wallst.com/investing/2026/11/12/nvidia-sinks-9-on-reports-board-is-preparing-to-oust-jensen-huang-intel-falls-4-amd-holds-steady/?.tsrc=rss",
+        "tone": -2,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      },
+      {
+        "title": "AMD Has Leverage Beyond Nvidia’s Current and Emerging Troubles",
+        "time": "2026-11-12T13:45:56+00:00",
+        "link": "https://247wallst.com/investing/2026/11/12/amd-has-leverage-beyond-nvidias-current-and-emerging-troubles/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "‘No family dinners’: AMD boss Lisa Su is Jensen Huang’s cousin — with Nvidia on the ropes, is this her time to shine?",
+        "time": "2026-11-12T13:45:00+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/no-family-dinners-amd-boss-134500284.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "AMD Stock Gets Upgrade. What It Says About the Future of the AI Trade.",
+        "time": "2026-11-12T13:19:00+00:00",
+        "link": "https://finance.yahoo.com/m/e24000fb-771f-351d-965d-387bb526b5ce/amd-stock-gets-upgrade.-what.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "analyst",
+          "people"
+        ]
+      },
+      {
+        "title": "Buy, Sell, or Hold? Thursday’s Top Upgrades and Downgrades: Advanced Micro Devices, Alibaba Group, Cleveland-Cliffs, Conoco Phillips, Diamondback Energy, General Mills, NVIDIA, Toyota, Wendy’s and More",
+        "time": "2026-11-12T13:07:06+00:00",
+        "link": "https://247wallst.com/investing/2026/11/12/buy-sell-or-hold-thursdays-top-upgrades-and-downgrades-advanced-micro-devices-alibaba-group-cleveland-cliffs-conoco-phillips-diamondback-energy-general-mills-nvidia-toyota-wendys-and-m/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "analyst",
+          "people"
+        ]
+      },
+      {
+        "title": "PsiQuantum and AMD Collaborate to Build the Computing Foundation for Utility-Scale Quantum Computing",
+        "time": "2026-11-12T13:00:00+00:00",
+        "link": "https://finance.yahoo.com/technology/ai/articles/psiquantum-amd-collaborate-build-computing-130000396.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "AMD Has Opportunity As NVDA Faces Scrutiny And Potential Leadership Vacuum, William Blair Says — Sees Runway For Shares",
+        "time": "2026-11-12T12:24:57+00:00",
+        "link": "https://stocktwits.com/news-articles/markets/equity/amd-has-opportunity-as-nvda-faces-scrutiny-and-potential-leadership-vacuum-william-blair-says-sees-runway-for-shares/cNGzvc2R9af?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "AMD Price Prediction: AI Boom and Record Revenue Set the Stage for Another Monst"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "8,1 %"
+      },
+      {
+        "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "556,95 $ vs. 544,79 $"
+      },
+      {
+        "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+        "ok": true,
+        "val": "543,28 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "1,7x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "17172 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "AMD Price Prediction: AI Boom and Record Revenue Set the Stage for Another Monster Rally",
+      "AMD Rises 4% as CoreWeave’s Raised Outlook Revives the AI Chip Trade",
+      "MU, AMD, AVGO, Other Chip Stocks Surge As CoreWeave Earnings Reignite AI Trade — Nasdaq-100 Futures Jump"
+    ]
+  },
+  {
+    "action": "SCHLIESSEN",
+    "sym": "NVDA",
+    "side": 1,
+    "shares": 6.271804651689208,
+    "price": 156.02,
+    "value": 199.8,
+    "pnl": -117.80696089854591,
+    "why": "Stop bei 170,23 $ erreicht",
+    "id": "2026-11-12T14:37:10+00:00:SCHLIESSEN:NVDA",
+    "time": "2026-11-12T14:37:10+00:00",
+    "kind": "stop",
+    "bot": "event",
+    "story": "Long-Position in NVDA nach 21,0 Std. geschlossen: Stop bei 170,23 $ erreicht. Ergebnis -117,81 € (-59,0 % auf den Einsatz von 199,80 €, mit 5x Hebel). Einstieg 176,71 $, Ausstieg 156,02 $.",
+    "name": "NVIDIA Corporation",
+    "entry": 176.71,
+    "bought": "2026-11-11T17:37:18+00:00",
+    "leverage": 5,
+    "pnl_pct": -58.962442892165114,
+    "levels": {
+      "stop": 170.22739143686678,
+      "target": 189.67521712626643
+    },
+    "total": -6,
+    "scores": {
+      "Signale": 0,
+      "Trend": -1,
+      "Momentum": 1,
+      "Volumen": -4,
+      "Intraday": 0,
+      "News": -2
+    },
+    "reasons": {
+      "Signale": [
+        "Cleo Fields kauft ($1,001 - $15,000)",
+        "Hon. Maria Elvira Salazar kauft ($1,001 - $15,000)",
+        "Hon. Pete Sessions verkauft ($15,001 - $50,000)"
+      ],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 > SMA200",
+        "ADX 39: starker Abwärtstrend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 23 überverkauft",
+        "Stochastik 10 dreht aus überverkauft",
+        "unter dem unteren Bollinger-Band",
+        "-28.2 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "19.8x Volumen an einem Minus-Tag",
+        "OBV fällt (Distribution)",
+        "Chaikin Money Flow -0.16 (Geld fließt raus)",
+        "Verkaufsdruck: 2.5x mehr Volumen an Minus-Tagen"
+      ],
+      "Intraday": [
+        "keine Intraday-Daten"
+      ],
+      "News": [
+        "9 Schlagzeilen: 0 positiv, 2 negativ",
+        "8-K: Wechsel im Vorstand"
+      ]
+    },
+    "ind": {
+      "price": 156.02,
+      "sma50": 215.7558006958008,
+      "sma200": 204.28825010070798,
+      "adx": 39.483451971922825,
+      "plus_di": 7.734714474301914,
+      "minus_di": 51.71528027403683,
+      "macd_hist": -4.811475537816982,
+      "rsi": 23.023366025658802,
+      "stoch_k": 10.141869224101656,
+      "stoch_d": 10.059609590370096,
+      "bb_upper": 238.53166181681848,
+      "bb_lower": 162.95634129597448,
+      "bb_width": 37.64761085506809,
+      "roc20": -28.177506298122722,
+      "dollar_vol": 25633539149.9,
+      "rvol": 19.796417933322314,
+      "obv_trend": -0.4344344363524006,
+      "cmf": -0.16431596676077007,
+      "buy_sell_ratio": 0.39881029723759154,
+      "high52": 243.3699951171875,
+      "low52": 148.8000030517578,
+      "atr": 9.85588154556696,
+      "chg": -10.193976954511442,
+      "spark": [
+        214.86,
+        212.6,
+        214.25,
+        211.14,
+        224.36,
+        222.82,
+        214.75,
+        218.66,
+        205.1,
+        208.64,
+        208.19,
+        200.42,
+        204.87,
+        205.19,
+        212.45,
+        207.41,
+        204.65,
+        210.69,
+        208.65,
+        200.04,
+        199.0,
+        195.74,
+        192.53,
+        194.97,
+        200.09,
+        197.58,
+        194.83,
+        195.55,
+        196.93,
+        204.12,
+        202.78,
+        210.96,
+        203.53,
+        211.8,
+        212.5,
+        207.4,
+        202.81,
+        203.28,
+        207.29,
+        212.06,
+        208.76,
+        206.84,
+        196.51,
+        197.01,
+        190.01,
+        195.04,
+        200.75,
+        206.64,
+        211.94,
+        219.22,
+        218.99,
+        223.96,
+        217.55,
+        217.5,
+        224.09,
+        225.3,
+        225.16,
+        225.01,
+        219.74,
+        217.56,
+        216.85,
+        214.72,
+        208.48,
+        213.05,
+        209.66,
+        227.98,
+        217.55,
+        220.78,
+        217.44,
+        224.41,
+        228.45,
+        230.36,
+        225.73,
+        223.67,
+        218.36,
+        218.29,
+        210.96,
+        212.17,
+        213.9,
+        219.34,
+        222.27,
+        227.38,
+        228.87,
+        225.51,
+        224.58,
+        225.07,
+        228.86,
+        227.21,
+        228.38,
+        230.86,
+        233.95,
+        238.9,
+        239.24,
+        237.47,
+        230.48,
+        229.28,
+        226.32,
+        228.52,
+        221.3,
+        217.23,
+        214.13,
+        217.09,
+        216.47,
+        221.97,
+        212.21,
+        210.96,
+        216.0,
+        217.94,
+        215.38,
+        213.66,
+        204.64,
+        202.06,
+        206.69,
+        200.13,
+        181.6,
+        186.64,
+        178.67,
+        168.89,
+        173.73,
+        156.02
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off?",
+        "time": "2026-11-12T14:29:02+00:00",
+        "link": "https://www.fool.com/investing/2026/11/12/nvidia-vs-amd-which-is-the-better-artificial-intelligence-ai-stock-for-2027-after-the-tech-sell-off/?.tsrc=rss",
+        "tone": -1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang resigns, board announces",
+        "time": "2026-11-12T14:24:07+00:00",
+        "link": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-resigns/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      },
+      {
+        "title": "Why replacing Jensen Huang is an impossible task",
+        "time": "2026-11-12T14:20:32+00:00",
+        "link": "https://finance.yahoo.com/video/why-replacing-jensen-huang-is-an-impossible-task-142032893.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      },
+      {
+        "title": "Planning Nvidia investigations, top Democrats tell Trump administration to 'preserve all records'",
+        "time": "2026-11-12T14:19:32+00:00",
+        "link": "https://finance.yahoo.com/markets/article/planning-nvidia-investigations-top-democrats-tell-trump-administration-to-preserve-all-records-141932940.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Nvidia Stock Plunges As CEO Jensen Huang Resigns",
+        "time": "2026-11-12T14:18:00+00:00",
+        "link": "https://www.cryptoprowl.com/releases/nvidia-stock-plunges-as-ceo-jensen-huang-resigns-7869?.tsrc=rss",
+        "tone": -1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      },
+      {
+        "title": "Musk Offers To Hire Huang; Prediction Markets Capitalize On Scandal",
+        "time": "2026-11-12T14:15:54+00:00",
+        "link": "https://finance.yahoo.com/m/fd39cc0a-7d86-300c-bfea-eea35ddc02a0/musk-offers-to-hire-huang%3B.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang resigns",
+        "time": "2026-11-12T14:13:26+00:00",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-preparing-oust-ceo-jensen-002910155.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      },
+      {
+        "title": "Alibaba Is Spinning Off Its Nvidia Rival in a Hong Kong IPO",
+        "time": "2026-11-12T14:12:18+00:00",
+        "link": "https://247wallst.com/investing/2026/11/12/alibaba-is-spinning-off-its-nvidia-rival-in-a-hong-kong-ipo/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Stock Market Today: Nasdaq Jumps As CoreWeave Results Fuel AI Stampede; Bloom En"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "4,6 %"
+      },
+      {
+        "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "176,71 $ vs. 174,85 $"
+      },
+      {
+        "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+        "ok": true,
+        "val": "175,13 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,2x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "27289 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Stock Market Today: Nasdaq Jumps As CoreWeave Results Fuel AI Stampede; Bloom Energy, Dell Soar (Live Coverage)"
+    ]
+  },
+  {
+    "action": "SCHLIESSEN",
+    "sym": "YETI",
+    "side": -1,
+    "shares": 25.935856550314647,
+    "price": 39.715,
+    "value": 199.56772100449393,
+    "pnl": 68.59716227634726,
+    "why": "Kursziel 40,10 $ erreicht",
+    "id": "2026-11-12T14:37:10+00:00:SCHLIESSEN:YETI",
+    "time": "2026-11-12T14:37:10+00:00",
+    "kind": "target",
+    "bot": "event",
+    "story": "Short-Position in YETI nach 18,9 Std. geschlossen: Kursziel 40,10 $ erreicht. Ergebnis 68,60 € (34,4 % auf den Einsatz von 199,57 €, mit 5x Hebel). Einstieg 42,69 $, Ausstieg 39,72 $.",
+    "name": "YETI Holdings, Inc.",
+    "entry": 42.69,
+    "bought": "2026-11-11T19:41:59+00:00",
+    "leverage": 5,
+    "pnl_pct": 34.372874496473585,
+    "levels": {
+      "stop": 42.69,
+      "target": 40.10353324021592
+    },
+    "total": -4,
+    "scores": {
+      "Signale": 1,
+      "Trend": -2,
+      "Momentum": -1,
+      "Volumen": -2,
+      "Intraday": 0,
+      "News": 0
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Gilbert Cisneros kauft ($1,001 - $15,000)"
+      ],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 < SMA200",
+        "ADX 25: kein klarer Trend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 39 neutral",
+        "unter dem unteren Bollinger-Band",
+        "-5.5 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "6.1x Volumen an einem Minus-Tag",
+        "OBV fällt (Distribution)"
+      ],
+      "Intraday": [
+        "keine Intraday-Daten"
+      ],
+      "News": [
+        "5 Schlagzeilen: 1 positiv, 1 negativ",
+        "8-K: Quartalszahlen veröffentlicht"
+      ]
+    },
+    "ind": {
+      "price": 39.715,
+      "sma50": 42.14230003051758,
+      "sma200": 43.810074938964846,
+      "adx": 24.872730014763796,
+      "plus_di": 20.183837935488803,
+      "minus_di": 29.745132976267193,
+      "macd_hist": -0.3990045871570703,
+      "rsi": 39.229091168876664,
+      "stoch_k": 3.663564911866344,
+      "stoch_d": 17.263459262212354,
+      "bb_upper": 47.58246010174811,
+      "bb_lower": 40.17103986773431,
+      "bb_width": 16.891452162229978,
+      "roc20": -5.485484132920315,
+      "dollar_vol": 60137445.87500001,
+      "rvol": 6.065716785814526,
+      "obv_trend": -0.1057221681057967,
+      "cmf": 0.0005694844393106461,
+      "buy_sell_ratio": 0.802263199666649,
+      "high52": 53.9900016784668,
+      "low52": 34.900001525878906,
+      "atr": 1.876656255553732,
+      "chg": -7.186260457432015,
+      "spark": [
+        46.04,
+        46.97,
+        46.72,
+        47.97,
+        47.38,
+        46.17,
+        46.92,
+        47.82,
+        47.37,
+        47.67,
+        49.28,
+        48.27,
+        50.68,
+        50.42,
+        49.88,
+        49.42,
+        47.24,
+        48.97,
+        47.94,
+        47.97,
+        49.64,
+        50.01,
+        51.21,
+        50.24,
+        49.56,
+        49.22,
+        49.69,
+        48.42,
+        48.68,
+        47.74,
+        49.34,
+        48.91,
+        48.33,
+        47.34,
+        48.33,
+        51.06,
+        51.05,
+        50.82,
+        50.95,
+        51.76,
+        50.11,
+        50.38,
+        50.92,
+        51.87,
+        51.09,
+        49.64,
+        48.94,
+        50.77,
+        51.75,
+        52.51,
+        51.88,
+        52.2,
+        52.68,
+        50.79,
+        50.84,
+        45.47,
+        44.56,
+        43.0,
+        43.24,
+        44.08,
+        44.0,
+        43.76,
+        43.08,
+        42.58,
+        41.78,
+        41.84,
+        41.57,
+        41.05,
+        40.16,
+        41.45,
+        41.43,
+        40.82,
+        40.74,
+        40.51,
+        39.47,
+        40.26,
+        40.83,
+        39.39,
+        40.55,
+        41.22,
+        42.21,
+        42.79,
+        43.58,
+        41.86,
+        41.99,
+        42.28,
+        43.33,
+        42.55,
+        41.02,
+        41.37,
+        40.87,
+        40.52,
+        40.25,
+        39.47,
+        39.6,
+        39.79,
+        39.01,
+        39.34,
+        40.51,
+        42.02,
+        43.07,
+        42.12,
+        42.55,
+        42.77,
+        44.03,
+        42.79,
+        43.57,
+        42.25,
+        42.91,
+        44.19,
+        43.66,
+        45.42,
+        44.85,
+        48.33,
+        46.95,
+        44.97,
+        45.83,
+        44.77,
+        42.79,
+        39.72
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Yeti shares slide 7% on revenue miss despite earnings beat",
+        "time": "2026-11-12T13:07:50+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/yeti-shares-slide-7-revenue-130750451.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "YETI Stock Slides After Q3 Revenue Miss: Company Cuts 2026 Sales And EPS Outlook",
+        "time": "2026-11-12T12:43:53+00:00",
+        "link": "https://stocktwits.com/news-articles/markets/equity/yeti-stock-slides-after-q3-revenue-miss-company-cuts-2026-sales-and-eps-outlook/cNGzvl8R9ag?.tsrc=rss",
+        "tone": -1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings",
+          "people"
+        ]
+      },
+      {
+        "title": "Yeti (YETI) Tops Q3 Earnings Estimates",
+        "time": "2026-11-12T11:25:01+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/yeti-yeti-tops-q3-earnings-112501917.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Yeti: Q3 Earnings Snapshot",
+        "time": "2026-11-12T11:13:24+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/yeti-q3-earnings-snapshot-111324795.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "YETI Reports Third Quarter 2026 Results",
+        "time": "2026-11-12T11:00:00+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/yeti-reports-third-quarter-2026-110000043.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Kurssprung -4,6 % mit 2,2x Volumen ohne bekannte Meldung"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "-4,6 %"
+      },
+      {
+        "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "42,69 $ vs. 43,51 $"
+      },
+      {
+        "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+        "ok": true,
+        "val": "43,99 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,2x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "58 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Kurssprung -4,6 % mit 2,2x Volumen ohne bekannte Meldung"
+    ]
   }
 ]

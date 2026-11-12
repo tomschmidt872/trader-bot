@@ -2135,39 +2135,6 @@
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035455.pdf"
     },
     {
-      "doc_id": "20035444",
-      "member": "Hon. John W. Rose",
-      "ticker": "GOOGL",
-      "type": "S",
-      "date": "2025-06-03",
-      "amount": "$250,001 - $500,000",
-      "amount_low": 250001,
-      "filed": "2026-09-12",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035444.pdf"
-    },
-    {
-      "doc_id": "20035431",
-      "member": "Hon. Thomas H. Kean Jr",
-      "ticker": "LIN",
-      "type": "P",
-      "date": "2026-08-10",
-      "amount": "$1,001 - $15,000",
-      "amount_low": 1001,
-      "filed": "2026-09-12",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf"
-    },
-    {
-      "doc_id": "20035431",
-      "member": "Hon. Thomas H. Kean Jr",
-      "ticker": "MTZ",
-      "type": "P",
-      "date": "2026-08-21",
-      "amount": "$1,001 - $15,000",
-      "amount_low": 1001,
-      "filed": "2026-09-12",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035431.pdf"
-    },
-    {
       "doc_id": "20035778",
       "member": "Hon. Maria Elvira Salazar",
       "ticker": "CSCO",
