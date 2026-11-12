@@ -18,3 +18,6 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-12T18:33:54+00:00,ERÖFFNEN,MBGL,45.328271,23.18,1.1056,950.52,,Long: Mobility Global Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht,Long,5,190.10
 2026-11-12T18:33:54+00:00,ERÖFFNEN,AMD,1.802207,582.53,1.1056,949.57,,"Long: AMD Shares Jump on Stunning Upgrade Amid Nvidia Turmoil; AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns; AMD Stock Gets Upgrade. What It Says About the Future of the AI Trade.",Long,5,189.91
 2026-11-12T19:40:03+00:00,ERÖFFNEN,YETI,26.826890,38.59,1.1057,936.28,,"Short: Yeti Lowers Full-Year Outlook as Third-Quarter Sales Miss Street Views; YETI Stock Slides After Q3 Revenue Miss: Company Cuts 2026 Sales And EPS Outlook; YETI Holdings, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht",Short,5,187.26
+2026-11-12T20:33:32+00:00,SCHLIESSEN,MBGL,45.328271,22.94,1.1059,940.26,-10.94,Börsenschluss naht – keine Position über Nacht,Long,5,190.10
+2026-11-12T20:33:32+00:00,SCHLIESSEN,AMD,1.802207,582.58,1.1059,949.39,-0.87,Börsenschluss naht – keine Position über Nacht,Long,5,189.91
+2026-11-12T20:33:32+00:00,SCHLIESSEN,YETI,26.826890,38.18,1.1059,926.17,9.02,Börsenschluss naht – keine Position über Nacht,Short,5,187.26

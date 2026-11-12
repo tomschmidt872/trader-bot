@@ -5043,5 +5043,936 @@
       "YETI Stock Slides After Q3 Revenue Miss: Company Cuts 2026 Sales And EPS Outlook",
       "YETI Holdings, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
     ]
+  },
+  {
+    "action": "SCHLIESSEN",
+    "sym": "MBGL",
+    "side": 1,
+    "shares": 45.32827059022127,
+    "price": 22.94,
+    "value": 190.10322455927826,
+    "pnl": -10.941250159466184,
+    "why": "Börsenschluss naht – keine Position über Nacht",
+    "id": "2026-11-12T20:33:32+00:00:SCHLIESSEN:MBGL",
+    "time": "2026-11-12T20:33:32+00:00",
+    "kind": "time",
+    "bot": "event",
+    "story": "Long-Position in MBGL nach 2,0 Std. geschlossen: Börsenschluss naht – keine Position über Nacht. Ergebnis -10,94 € (-5,8 % auf den Einsatz von 190,10 €, mit 5x Hebel). Einstieg 23,18 $, Ausstieg 22,94 $.",
+    "name": "Mobility Global Inc.",
+    "entry": 23.184,
+    "bought": "2026-11-12T18:33:54+00:00",
+    "leverage": 5,
+    "pnl_pct": -5.755425866568858,
+    "levels": {
+      "stop": 22.582137631486326,
+      "target": 24.38772473702735
+    },
+    "total": 10,
+    "scores": {
+      "Signale": 2,
+      "Trend": 2,
+      "Momentum": 0,
+      "Volumen": 4,
+      "Intraday": 2,
+      "News": 0
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Gilbert Cisneros kauft ($50,001 - $100,000)"
+      ],
+      "Trend": [
+        "Kurs > SMA50",
+        "ADX 27: starker Aufwärtstrend"
+      ],
+      "Momentum": [
+        "MACD positiv",
+        "RSI 79 überkauft",
+        "über dem oberen Bollinger-Band",
+        "+22.5 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "1.6x Volumen an einem Plus-Tag",
+        "OBV steigt (Akkumulation)",
+        "Chaikin Money Flow +0.13 (Geld fließt rein)",
+        "Kaufdruck: 1.3x mehr Volumen an Plus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs > VWAP 22.93",
+        "Ausbruch über Opening Range 22.72",
+        "Gap +6.0 % zur Eröffnung"
+      ],
+      "News": [
+        "4 Schlagzeilen: 0 positiv, 0 negativ",
+        "8-K: Quartalszahlen veröffentlicht"
+      ]
+    },
+    "ind": {
+      "price": 22.94,
+      "sma50": 19.01040011291504,
+      "sma200": null,
+      "adx": 27.079763807579916,
+      "plus_di": 46.926269761914824,
+      "minus_di": 9.61046283319637,
+      "macd_hist": 0.309342612266464,
+      "rsi": 79.31113430758313,
+      "stoch_k": 93.10669877400173,
+      "stoch_d": 89.86812830176412,
+      "bb_upper": 21.33346263978,
+      "bb_lower": 17.2765379171658,
+      "bb_width": 21.0148907748947,
+      "roc20": 22.54273953757595,
+      "dollar_vol": 84556151.80000001,
+      "rvol": 1.5719534803221442,
+      "obv_trend": 0.131185983608114,
+      "cmf": 0.13387404134447245,
+      "buy_sell_ratio": 1.3097192304859262,
+      "high52": 26.0,
+      "low52": 16.950000762939453,
+      "vwap": 22.927340954451264,
+      "or_high": 22.719999313354492,
+      "or_low": 21.09000015258789,
+      "gap": 6.024100192487092,
+      "atr": 0.8056974491820866,
+      "chg": 15.160642129213887,
+      "spark": [
+        21.0,
+        23.0,
+        22.05,
+        21.19,
+        19.8,
+        19.26,
+        21.2,
+        21.5,
+        22.26,
+        20.8,
+        20.26,
+        20.57,
+        21.0,
+        20.66,
+        20.11,
+        20.12,
+        19.86,
+        20.38,
+        20.7,
+        20.55,
+        20.62,
+        21.72,
+        21.47,
+        20.48,
+        20.38,
+        21.3,
+        21.21,
+        21.26,
+        20.73,
+        19.7,
+        19.0,
+        19.37,
+        19.62,
+        19.83,
+        20.34,
+        19.72,
+        19.82,
+        20.69,
+        20.2,
+        19.85,
+        19.7,
+        20.26,
+        20.55,
+        20.27,
+        20.24,
+        20.3,
+        19.83,
+        20.38,
+        20.46,
+        20.58,
+        20.52,
+        19.76,
+        20.19,
+        20.16,
+        20.26,
+        20.34,
+        19.94,
+        20.05,
+        19.49,
+        19.2,
+        19.09,
+        18.88,
+        18.34,
+        17.87,
+        17.76,
+        17.8,
+        17.15,
+        17.71,
+        17.21,
+        17.59,
+        17.62,
+        17.37,
+        18.08,
+        18.22,
+        18.11,
+        18.11,
+        17.84,
+        18.72,
+        18.69,
+        18.43,
+        18.52,
+        18.52,
+        19.28,
+        18.76,
+        18.68,
+        18.2,
+        18.33,
+        18.92,
+        18.91,
+        19.6,
+        19.32,
+        19.79,
+        19.86,
+        19.64,
+        19.86,
+        19.93,
+        19.92,
+        22.94
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Mobility Global Raises FY2026 EBITDA Guidance as Q3 Revenue Increases 7.4% to $478 Million",
+        "time": "2026-11-12T13:19:36+00:00",
+        "link": "https://investorshub.advfn.com/market-news/article/39893/mobility-global-raises-fy2026-ebitda-guidance-as-q3-revenue-increases-7-4-to-478-million?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Mobility Global shares rise 3% on raised profit guidance",
+        "time": "2026-11-12T12:48:43+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/mobility-global-shares-rise-3-124843696.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Mobility Global: Q3 Earnings Snapshot",
+        "time": "2026-11-12T12:07:56+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/mobility-global-q3-earnings-snapshot-120756751.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Mobility Global Reports Third Quarter 2026 Financial Results",
+        "time": "2026-11-12T12:00:00+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/mobility-global-reports-third-quarter-120000470.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Mobility Global Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "16,4 %"
+      },
+      {
+        "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "23,18 $ vs. 22,75 $"
+      },
+      {
+        "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+        "ok": true,
+        "val": "22,72 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "1,6x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "85 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Mobility Global Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+    ]
+  },
+  {
+    "action": "SCHLIESSEN",
+    "sym": "AMD",
+    "side": 1,
+    "shares": 1.802207156263757,
+    "price": 582.58,
+    "value": 189.91312133471897,
+    "pnl": -0.8679080272021238,
+    "why": "Börsenschluss naht – keine Position über Nacht",
+    "id": "2026-11-12T20:33:32+00:00:SCHLIESSEN:AMD",
+    "time": "2026-11-12T20:33:32+00:00",
+    "kind": "time",
+    "bot": "event",
+    "story": "Long-Position in AMD nach 2,0 Std. geschlossen: Börsenschluss naht – keine Position über Nacht. Ergebnis -0,87 € (-0,5 % auf den Einsatz von 189,91 €, mit 5x Hebel). Einstieg 582,53 $, Ausstieg 582,58 $.",
+    "name": "Advanced Micro Devices, Inc.",
+    "entry": 582.53,
+    "bought": "2026-11-12T18:33:54+00:00",
+    "leverage": 5,
+    "pnl_pct": -0.4570026657991942,
+    "levels": {
+      "stop": 552.4259984183429,
+      "target": 642.7380031633139
+    },
+    "total": 10,
+    "scores": {
+      "Signale": 1,
+      "Trend": 2,
+      "Momentum": 1,
+      "Volumen": 2,
+      "Intraday": 2,
+      "News": 2
+    },
+    "reasons": {
+      "Signale": [
+        "ARK Invest (Cathie Wood) hält 5.3 %"
+      ],
+      "Trend": [
+        "Kurs > SMA50",
+        "SMA50 > SMA200",
+        "ADX 21: kein klarer Trend"
+      ],
+      "Momentum": [
+        "MACD positiv",
+        "RSI 57 neutral"
+      ],
+      "Volumen": [
+        "1.6x Volumen an einem Plus-Tag",
+        "OBV steigt (Akkumulation)",
+        "Chaikin Money Flow -0.07 (Geld fließt raus)",
+        "Kaufdruck: 1.9x mehr Volumen an Plus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs > VWAP 574.31",
+        "Ausbruch über Opening Range 578.78",
+        "Gap +3.0 % zur Eröffnung"
+      ],
+      "News": [
+        "8 Schlagzeilen: 2 positiv, 0 negativ"
+      ]
+    },
+    "ind": {
+      "price": 582.58,
+      "sma50": 552.9397988525391,
+      "sma200": 421.6950500396729,
+      "adx": 21.125763589565576,
+      "plus_di": 31.387092182333856,
+      "minus_di": 25.753963542290318,
+      "macd_hist": 7.409402629329218,
+      "rsi": 57.18147485128314,
+      "stoch_k": 94.04898365647672,
+      "stoch_d": 81.02778300777713,
+      "bb_upper": 605.812182005177,
+      "bb_lower": 431.4288136002917,
+      "bb_width": 33.624465123091774,
+      "roc20": 3.6195187446751875,
+      "dollar_vol": 18656186546.2,
+      "rvol": 1.6385707301521348,
+      "obv_trend": 0.32679857129429457,
+      "cmf": -0.06880027435707854,
+      "buy_sell_ratio": 1.9272762561963077,
+      "high52": 658.52001953125,
+      "low52": 188.22000122070312,
+      "vwap": 574.3129080111216,
+      "or_high": 578.7799072265625,
+      "or_low": 554.9000244140625,
+      "gap": 2.962561794091312,
+      "atr": 40.13866877554266,
+      "chg": 5.368054670894784,
+      "spark": [
+        503.89,
+        495.54,
+        518.09,
+        516.1,
+        510.13,
+        521.54,
+        542.52,
+        523.2,
+        466.38,
+        490.33,
+        475.51,
+        452.4,
+        488.45,
+        511.57,
+        547.26,
+        507.29,
+        512.48,
+        537.37,
+        551.63,
+        519.85,
+        519.74,
+        532.57,
+        521.58,
+        539.49,
+        580.91,
+        540.88,
+        517.82,
+        552.05,
+        516.11,
+        517.41,
+        546.72,
+        557.89,
+        534.39,
+        548.13,
+        529.14,
+        500.94,
+        495.76,
+        503.57,
+        544.43,
+        552.33,
+        539.69,
+        521.95,
+        494.95,
+        454.62,
+        429.56,
+        485.39,
+        476.15,
+        484.64,
+        518.58,
+        482.05,
+        489.28,
+        483.36,
+        469.56,
+        474.32,
+        482.93,
+        483.01,
+        514.39,
+        506.0,
+        484.39,
+        466.42,
+        469.46,
+        473.25,
+        456.75,
+        479.18,
+        480.93,
+        476.67,
+        465.58,
+        470.72,
+        459.61,
+        457.06,
+        456.16,
+        477.57,
+        505.74,
+        521.1,
+        503.6,
+        516.13,
+        493.41,
+        504.2,
+        512.5,
+        545.09,
+        559.82,
+        615.52,
+        623.77,
+        614.61,
+        629.26,
+        630.63,
+        607.87,
+        607.57,
+        611.76,
+        615.73,
+        633.91,
+        631.75,
+        649.42,
+        645.86,
+        620.68,
+        608.1,
+        594.24,
+        605.53,
+        570.82,
+        562.23,
+        528.75,
+        538.05,
+        534.74,
+        552.72,
+        507.93,
+        516.79,
+        531.28,
+        560.26,
+        578.44,
+        566.42,
+        504.8,
+        466.84,
+        483.9,
+        488.78,
+        404.4,
+        449.04,
+        508.58,
+        515.21,
+        552.9,
+        582.58
+      ]
+    },
+    "headlines": [
+      {
+        "title": "AMD Is Up 127% in a Year. William Blair Just Upgraded It as Nvidia Loses Its CEO",
+        "time": "2026-11-12T20:05:35+00:00",
+        "link": "https://www.tikr.com/blog/amd-is-up-127-in-a-year-william-blair-just-upgraded-it-as-nvidia-loses-its-ceo?ref=yahoofinance&tlnk=yf-261112-7jqr74fj&.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "analyst",
+          "people"
+        ]
+      },
+      {
+        "title": "Bank of America Revamps AMD Stock Price Target for 2027",
+        "time": "2026-11-12T19:44:41+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-revamps-amd-stock-194441792.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "analyst"
+        ]
+      },
+      {
+        "title": "AMD makes surprise quantum computing move with new investment",
+        "time": "2026-11-12T19:44:39+00:00",
+        "link": "https://finance.yahoo.com/technology/ai/articles/amd-makes-surprise-quantum-computing-194439551.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference",
+        "time": "2026-11-12T19:00:00+00:00",
+        "link": "https://finance.yahoo.com/technology/ai/articles/lmsys-org-launches-sglang-consortium-190000546.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Why AMD Shares Are Surging and What a $10,000 Investment in the Stock Could Be Worth in 3 Years",
+        "time": "2026-11-12T18:24:01+00:00",
+        "link": "https://www.fool.com/investing/2026/11/12/why-amd-shares-are-surging-and-what-a-usd10-000-investment-in-the-stock-could-be-worth-in-3-years/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting",
+        "time": "2026-11-12T18:06:03+00:00",
+        "link": "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Stock Market Midday, Nov. 12: Nvidia CEO Resigns, AMD Surges as Wall Street Edges Higher",
+        "time": "2026-11-12T18:05:02+00:00",
+        "link": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-midday-nov-12-nvidia-ceo-resigns-amd-surges-as-wall-street-edges-higher/?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      },
+      {
+        "title": "Nvidia’s Loss Is AMD and Broadcom’s Gain",
+        "time": "2026-11-12T18:02:00+00:00",
+        "link": "https://finance.yahoo.com/m/e24000fb-771f-351d-965d-387bb526b5ce/nvidia%E2%80%99s-loss-is-amd-and.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "AMD Shares Jump on Stunning Upgrade Amid Nvidia Turmoil"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "5,4 %"
+      },
+      {
+        "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "582,53 $ vs. 572,92 $"
+      },
+      {
+        "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+        "ok": true,
+        "val": "578,78 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,1x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "18620 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "AMD Shares Jump on Stunning Upgrade Amid Nvidia Turmoil",
+      "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
+      "AMD Stock Gets Upgrade. What It Says About the Future of the AI Trade."
+    ]
+  },
+  {
+    "action": "SCHLIESSEN",
+    "sym": "YETI",
+    "side": -1,
+    "shares": 26.826890025755745,
+    "price": 38.18,
+    "value": 187.2568845245391,
+    "pnl": 9.019598742541458,
+    "why": "Börsenschluss naht – keine Position über Nacht",
+    "id": "2026-11-12T20:33:32+00:00:SCHLIESSEN:YETI",
+    "time": "2026-11-12T20:33:32+00:00",
+    "kind": "time",
+    "bot": "event",
+    "story": "Short-Position in YETI nach 0,9 Std. geschlossen: Börsenschluss naht – keine Position über Nacht. Ergebnis 9,02 € (4,8 % auf den Einsatz von 187,26 €, mit 5x Hebel). Einstieg 38,59 $, Ausstieg 38,18 $.",
+    "name": "YETI Holdings, Inc.",
+    "entry": 38.59,
+    "bought": "2026-11-12T19:40:03+00:00",
+    "leverage": 5,
+    "pnl_pct": 4.816698069842919,
+    "levels": {
+      "stop": 40.04088512237732,
+      "target": 35.68822975524537
+    },
+    "total": -10,
+    "scores": {
+      "Signale": 1,
+      "Trend": -3,
+      "Momentum": -1,
+      "Volumen": -4,
+      "Intraday": -2,
+      "News": -1
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Gilbert Cisneros kauft ($1,001 - $15,000)"
+      ],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 < SMA200",
+        "ADX 25: starker Abwärtstrend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 36 neutral",
+        "unter dem unteren Bollinger-Band",
+        "-9.1 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "3.9x Volumen an einem Minus-Tag",
+        "OBV fällt (Distribution)",
+        "Chaikin Money Flow -0.15 (Geld fließt raus)",
+        "Verkaufsdruck: 1.6x mehr Volumen an Minus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs < VWAP 39.22",
+        "unter Opening Range 39.12",
+        "Gap -5.4 % zur Eröffnung"
+      ],
+      "News": [
+        "7 Schlagzeilen: 1 positiv, 2 negativ",
+        "8-K: Quartalszahlen veröffentlicht"
+      ]
+    },
+    "ind": {
+      "price": 38.18,
+      "sma50": 42.11160003051757,
+      "sma200": 43.80239993896485,
+      "adx": 25.36353008919687,
+      "plus_di": 19.289310847711103,
+      "minus_di": 32.858756946188734,
+      "macd_hist": -0.49696470111718327,
+      "rsi": 36.20178601705929,
+      "stoch_k": 0.3520080459621365,
+      "stoch_d": 16.15960697357762,
+      "bb_upper": 47.89087821709162,
+      "bb_lower": 39.70912175239079,
+      "bb_width": 18.67980928664644,
+      "roc20": -9.138506463424346,
+      "dollar_vol": 57813110.5,
+      "rvol": 3.8947781099649283,
+      "obv_trend": -0.2728135184665423,
+      "cmf": -0.14911289374580522,
+      "buy_sell_ratio": 0.6112396440823762,
+      "high52": 53.9900016784668,
+      "low52": 34.900001525878906,
+      "vwap": 39.21800958843789,
+      "or_high": 40.849998474121094,
+      "or_low": 39.125,
+      "gap": -5.375085739308638,
+      "atr": 1.9636847589717008,
+      "chg": -10.773547129919548,
+      "spark": [
+        46.04,
+        46.97,
+        46.72,
+        47.97,
+        47.38,
+        46.17,
+        46.92,
+        47.82,
+        47.37,
+        47.67,
+        49.28,
+        48.27,
+        50.68,
+        50.42,
+        49.88,
+        49.42,
+        47.24,
+        48.97,
+        47.94,
+        47.97,
+        49.64,
+        50.01,
+        51.21,
+        50.24,
+        49.56,
+        49.22,
+        49.69,
+        48.42,
+        48.68,
+        47.74,
+        49.34,
+        48.91,
+        48.33,
+        47.34,
+        48.33,
+        51.06,
+        51.05,
+        50.82,
+        50.95,
+        51.76,
+        50.11,
+        50.38,
+        50.92,
+        51.87,
+        51.09,
+        49.64,
+        48.94,
+        50.77,
+        51.75,
+        52.51,
+        51.88,
+        52.2,
+        52.68,
+        50.79,
+        50.84,
+        45.47,
+        44.56,
+        43.0,
+        43.24,
+        44.08,
+        44.0,
+        43.76,
+        43.08,
+        42.58,
+        41.78,
+        41.84,
+        41.57,
+        41.05,
+        40.16,
+        41.45,
+        41.43,
+        40.82,
+        40.74,
+        40.51,
+        39.47,
+        40.26,
+        40.83,
+        39.39,
+        40.55,
+        41.22,
+        42.21,
+        42.79,
+        43.58,
+        41.86,
+        41.99,
+        42.28,
+        43.33,
+        42.55,
+        41.02,
+        41.37,
+        40.87,
+        40.52,
+        40.25,
+        39.47,
+        39.6,
+        39.79,
+        39.01,
+        39.34,
+        40.51,
+        42.02,
+        43.07,
+        42.12,
+        42.55,
+        42.77,
+        44.03,
+        42.79,
+        43.57,
+        42.25,
+        42.91,
+        44.19,
+        43.66,
+        45.42,
+        44.85,
+        48.33,
+        46.95,
+        44.97,
+        45.83,
+        44.77,
+        42.79,
+        38.18
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Yeti Lowers Full-Year Outlook as Third-Quarter Sales Miss Street Views",
+        "time": "2026-11-12T14:45:13+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/yeti-lowers-full-outlook-third-144513289.html?.tsrc=rss",
+        "tone": -1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Compared to Estimates, Yeti (YETI) Q3 Earnings: A Look at Key Metrics",
+        "time": "2026-11-12T13:30:02+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-yeti-yeti-q3-133002366.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Yeti shares slide 7% on revenue miss despite earnings beat",
+        "time": "2026-11-12T13:07:50+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/yeti-shares-slide-7-revenue-130750451.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "YETI Stock Slides After Q3 Revenue Miss: Company Cuts 2026 Sales And EPS Outlook",
+        "time": "2026-11-12T12:43:53+00:00",
+        "link": "https://stocktwits.com/news-articles/markets/equity/yeti-stock-slides-after-q3-revenue-miss-company-cuts-2026-sales-and-eps-outlook/cNGzvl8R9ag?.tsrc=rss",
+        "tone": -1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings",
+          "people"
+        ]
+      },
+      {
+        "title": "Yeti (YETI) Tops Q3 Earnings Estimates",
+        "time": "2026-11-12T11:25:01+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/yeti-yeti-tops-q3-earnings-112501917.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Yeti: Q3 Earnings Snapshot",
+        "time": "2026-11-12T11:13:24+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/yeti-q3-earnings-snapshot-111324795.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "YETI Reports Third Quarter 2026 Results",
+        "time": "2026-11-12T11:00:00+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/yeti-reports-third-quarter-2026-110000043.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Yeti Lowers Full-Year Outlook as Third-Quarter Sales Miss Street Views"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "-9,8 %"
+      },
+      {
+        "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "38,59 $ vs. 39,23 $"
+      },
+      {
+        "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+        "ok": true,
+        "val": "39,12 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "3,8x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "58 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Yeti Lowers Full-Year Outlook as Third-Quarter Sales Miss Street Views",
+      "YETI Stock Slides After Q3 Revenue Miss: Company Cuts 2026 Sales And EPS Outlook",
+      "YETI Holdings, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+    ]
   }
 ]

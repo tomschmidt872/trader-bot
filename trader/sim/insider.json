@@ -405,7 +405,9 @@
   "0000100885-26-000327": "2026-11-12",
   "0000100885-26-000326": "2026-11-12",
   "0000100885-26-000325": "2026-11-12",
-  "0001760581-26-000081": "2026-11-12"
+  "0001760581-26-000081": "2026-11-12",
+  "0001861032-26-000018": "2026-11-12",
+  "0001943551-26-000005": "2026-11-12"
  },
  "tx": [
   {
@@ -4437,6 +4439,32 @@
    "role": "EVP and Group CEO-VZ Business",
    "filed": "2026-11-12",
    "url": "https://www.sec.gov/Archives/edgar/data/732712/000176058126000081/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-10",
+   "shares": 785.0,
+   "price": 129.155,
+   "value": 101386.675,
+   "acc": "0001861032-26-000018",
+   "sym": "DUK",
+   "owner": "Renjel Louis E.",
+   "role": "EVP&CEO DEF&MW&ChiefCorpAffOff",
+   "filed": "2026-11-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000186103226000018/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-11",
+   "shares": 750.0,
+   "price": 279.0,
+   "value": 209250.0,
+   "acc": "0001943551-26-000005",
+   "sym": "MCD",
+   "owner": "Banner Jonathan",
+   "role": "EVP - Chief Impact Officer",
+   "filed": "2026-11-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/63908/000194355126000005/"
   }
  ],
  "people": [
