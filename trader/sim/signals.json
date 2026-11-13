@@ -2760,6 +2760,17 @@
       "amount_low": 1001,
       "filed": "2026-11-10",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf"
+    },
+    {
+      "doc_id": "20035826",
+      "member": "Hon. Lloyd Doggett",
+      "ticker": "KO",
+      "type": "P",
+      "date": "2026-10-01",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-11",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf"
     }
   ]
 }
