@@ -1,5 +1,45 @@
 [
   {
+    "id": "etrade:2026-11-13T19:37:24+00:00:SCHLIESSEN:TNDM",
+    "type": "trade",
+    "sym": "TNDM",
+    "time": "2026-11-13T19:37:24+00:00",
+    "seen": "2026-11-13T19:37:24+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Long TNDM (5x) – -2,79 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-13T19:37:24+00:00:SCHLIESSEN:AMAT",
+    "type": "trade",
+    "sym": "AMAT",
+    "time": "2026-11-13T19:37:24+00:00",
+    "seen": "2026-11-13T19:37:24+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short AMAT (5x) – -26,42 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-13T19:37:24+00:00:SCHLIESSEN:AVGO",
+    "type": "trade",
+    "sym": "AVGO",
+    "time": "2026-11-13T19:37:24+00:00",
+    "seen": "2026-11-13T19:37:24+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short AVGO (5x) – -10,08 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-13T19:37:24+00:00:SCHLIESSEN:AMD",
+    "type": "trade",
+    "sym": "AMD",
+    "time": "2026-11-13T19:37:24+00:00",
+    "seen": "2026-11-13T19:37:24+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short AMD (5x) – -9,43 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
     "id": "etrade:2026-11-13T18:30:32+00:00:ERÖFFNEN:TNDM",
     "type": "trade",
     "sym": "TNDM",
@@ -20714,22 +20754,6 @@
     "type": "news",
     "sym": "GLW",
     "summary": "ETF trading put Corning (GLW) in focus after a net US$47.6 million of shares shifted into funds over five days, capped by strong buying from Capital Group Core Equity ETF. Corning’s share price has retreated sharply in the short term, with the stock down 3.3% on the day, 11.1% over the past week and",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Epigenetics - Global Strategic Business Report: Capitalize on an 18.2% CAGR to Secure the $5.5 Billion 2030 Market as Illumina, Thermo Fisher Scientific, Qiagen, and Bio-Rad Disrupt Precision Medicine",
-    "time": "2026-11-11T14:12:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/epigenetics-global-strategic-business-report-141200018.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "capital"
-    ],
-    "id": "news:TMO:rss:b84efb67-8799-3176-9b33-710b4ef5270a",
-    "type": "news",
-    "sym": "TMO",
-    "summary": "Target epigenetics kits, precision oncology and AI-enabled sequencing; leverage tariff, regional and competitive insights to optimize sourcing and unlock revenue.Dublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Epigenetics - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offe",
     "seen": "2026-11-11T17:32:52+00:00"
   }
 ]

@@ -19,7 +19,7 @@
       "entry": 94.45,
       "entry_fx": 1.1148,
       "cost_eur": 75.0,
-      "peak": 99.075,
+      "peak": 99.11,
       "atr": 1.6271381998754761,
       "bought": "2026-10-30T14:29:59+00:00",
       "name": "Coca-Cola Company (The)"
@@ -115,7 +115,7 @@
       "name": "Berkshire Hathaway Inc. New"
     }
   },
-  "fx": 1.1038,
+  "fx": 1.103,
   "sold": {
     "MRNA": "2026-11-12T19:32:42+00:00"
   }
