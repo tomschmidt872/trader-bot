@@ -1,9 +1,9 @@
-# Bot-Bericht 2026-11-13T15:20:17+00:00
+# Bot-Bericht 2026-11-13T16:29:10+00:00
 
-Börse: offen (New York 2026-11-13 10:20)
-Marktlage: **vorsichtig** (S&P 500 unter 50-Tage-Linie; VIX 19.9: ruhig) · EUR/USD 1.1052
+Börse: offen (New York 2026-11-13 11:29)
+Marktlage: **vorsichtig** (S&P 500 unter 50-Tage-Linie; VIX 20.2: ruhig) · EUR/USD 1.1039
 
-**Depotwert: 977.49 €** (Start 1000.00 €, -2.25 %), Cash 164.91 €
+**Depotwert: 982.11 €** (Start 1000.00 €, -1.79 %), Cash 164.91 €
 
 ## Orders in diesem Lauf
 
@@ -13,17 +13,17 @@ Marktlage: **vorsichtig** (S&P 500 unter 50-Tage-Linie; VIX 19.9: ruhig) · EUR/
 
 | Ticker | Stück | Einstand $ | Kurs $ | Wert € | G/V € |
 |---|---|---|---|---|---|
-| AAPL | 0.2403 | 347.15 | 357.99 | 77.84 | +3.79 |
-| ACN | 0.3114 | 268.68 | 252.18 | 71.06 | -3.53 |
-| BRK-B | 0.1392 | 569.51 | 591.00 | 74.42 | +3.39 |
-| CB | 0.2281 | 366.56 | 375.65 | 77.53 | +2.53 |
-| EL | 0.7307 | 114.50 | 110.66 | 73.16 | -1.42 |
-| EMR | 0.4942 | 169.31 | 164.34 | 73.48 | -1.10 |
-| FMAO | 2.1829 | 38.33 | 36.61 | 72.31 | -2.28 |
-| GDDY | 0.5764 | 120.12 | 113.79 | 59.34 | -2.38 |
-| KHC | 3.3995 | 24.59 | 24.79 | 76.25 | +1.25 |
-| KO | 0.8852 | 94.45 | 98.64 | 79.01 | +4.01 |
-| MCO | 0.1698 | 492.36 | 508.81 | 78.18 | +3.18 |
+| AAPL | 0.2403 | 347.15 | 358.36 | 78.02 | +3.96 |
+| ACN | 0.3114 | 268.68 | 253.12 | 71.41 | -3.18 |
+| BRK-B | 0.1392 | 569.51 | 593.56 | 74.83 | +3.80 |
+| CB | 0.2281 | 366.56 | 377.02 | 77.90 | +2.90 |
+| EL | 0.7307 | 114.50 | 112.47 | 74.45 | -0.13 |
+| EMR | 0.4942 | 169.31 | 165.67 | 74.16 | -0.42 |
+| FMAO | 2.1829 | 38.33 | 36.61 | 72.39 | -2.19 |
+| GDDY | 0.5764 | 120.12 | 113.58 | 59.31 | -2.42 |
+| KHC | 3.3995 | 24.59 | 24.96 | 76.86 | +1.86 |
+| KO | 0.8852 | 94.45 | 98.98 | 79.38 | +4.38 |
+| MCO | 0.1698 | 492.36 | 510.24 | 78.49 | +3.49 |
 
 ## Rangliste
 
@@ -31,259 +31,259 @@ Marktlage: **vorsichtig** (S&P 500 unter 50-Tage-Linie; VIX 19.9: ruhig) · EUR/
 |---|---|---|---|---|---|---|---|---|
 | ACN | **11** | +4 | +3 | +0 | +3 | +1 | +0 | Halten |
 | TBBB | **11** | +1 | +3 | +1 | +5 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
-| UNP | **11** | +0 | +3 | +2 | +3 | +1 | +2 | Kaufkandidat – Depot voll (6 Positionen) |
-| EL | **9** | +1 | +3 | +0 | +3 | +1 | +1 | Halten |
+| EL | **10** | +1 | +3 | +0 | +3 | +2 | +1 | Halten |
+| ARGX | **9** | +2 | +2 | +1 | +3 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| BRK-B | **9** | +2 | +3 | +1 | +2 | +1 | +0 | Halten |
+| CMCSA | **9** | +1 | +1 | +2 | +3 | +2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| DTE | **9** | +1 | +1 | +2 | +3 | +2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| FITB | **9** | +1 | +2 | +2 | +3 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
 | IBP | **9** | +1 | +1 | +2 | +3 | +1 | +1 | Kaufkandidat – Depot voll (6 Positionen) |
-| RSG | **9** | +1 | +3 | +1 | +3 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
-| CHTR | **8** | +0 | +1 | +2 | +3 | +2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
-| CMCSA | **8** | +1 | +1 | +2 | +3 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
-| JNJ | **8** | +1 | +3 | +2 | +1 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
-| KO | **8** | +2 | +3 | +1 | +1 | +1 | +0 | Halten |
+| JNJ | **9** | +1 | +3 | +2 | +1 | +2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| LLY | **9** | +1 | +3 | +2 | +1 | +2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| SARO | **9** | +1 | +1 | +2 | +3 | +2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| UPS | **9** | +0 | +1 | +2 | +3 | +2 | +1 | Kaufkandidat – Depot voll (6 Positionen) |
+| ALKS | **8** | +1 | +2 | +2 | +2 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| DIS | **8** | -1 | +3 | +2 | +3 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| EPAC | **8** | +1 | +3 | +0 | +3 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| ESAB | **8** | +1 | +0 | +2 | +3 | +2 | +0 | Nicht gekauft |
+| KO | **8** | +2 | +3 | +0 | +1 | +2 | +0 | Halten |
+| LNT | **8** | +1 | +1 | +2 | +2 | +2 | +0 | Nicht gekauft |
+| NCLH | **8** | +1 | +1 | +2 | +3 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| PEP | **8** | +0 | +1 | +2 | +3 | +2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
 | PPG | **8** | +1 | +1 | +2 | +3 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
-| UPS | **8** | +0 | +1 | +2 | +3 | +1 | +1 | Kaufkandidat – Depot voll (6 Positionen) |
-| ARGX | **7** | +2 | +2 | +1 | +3 | -1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| REZI | **8** | -1 | +1 | +2 | +3 | +1 | +2 | Kaufkandidat – Depot voll (6 Positionen) |
+| APP | **7** | +0 | +1 | +1 | +3 | +1 | +1 | Nicht gekauft |
+| BN | **7** | +1 | +1 | +2 | +1 | +1 | +1 | Nicht gekauft |
+| BRKR | **7** | +1 | +3 | +2 | +2 | -1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| CACI | **7** | +2 | +2 | -1 | +3 | +1 | +0 | Nicht gekauft |
+| CB | **7** | +1 | +3 | +1 | +0 | +2 | +0 | Halten |
+| CHTR | **7** | +0 | +1 | +1 | +3 | +2 | +0 | Nicht gekauft |
+| CINF | **7** | +0 | +3 | +1 | +2 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| DUK | **7** | +0 | +1 | +2 | +2 | +2 | +0 | Nicht gekauft |
+| EIX | **7** | +1 | +0 | +2 | +3 | +1 | +0 | Nicht gekauft |
+| HD | **7** | +0 | +1 | +2 | +1 | +2 | +1 | Nicht gekauft |
 | HHH | **7** | +1 | +4 | +2 | -1 | +1 | +0 | Nicht gekauft |
+| MCO | **7** | +0 | +3 | +2 | +3 | -1 | +0 | Halten |
 | MRSH | **7** | -1 | +3 | +2 | +1 | +2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
 | NVO | **7** | +0 | +0 | +2 | +2 | +1 | +2 | Nicht gekauft |
-| PEP | **7** | +0 | +1 | +2 | +3 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
-| RARE | **7** | +1 | +0 | +2 | +3 | +1 | +0 | Nicht gekauft |
-| ALKS | **6** | +1 | +2 | +2 | +2 | -1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| PG | **7** | -1 | +3 | +2 | +0 | +2 | +1 | Nicht gekauft |
+| PODD | **7** | +1 | +1 | +0 | +3 | +2 | +0 | Nicht gekauft |
+| PYPL | **7** | +0 | +2 | +1 | +3 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| ROL | **7** | -1 | +1 | +2 | +3 | +2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| RSG | **7** | +1 | +3 | +1 | +3 | -1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| SBUX | **7** | -1 | +1 | +2 | +3 | +1 | +1 | Kaufkandidat – Depot voll (6 Positionen) |
+| SPG | **7** | +0 | +3 | +0 | +3 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| TNDM | **7** | +1 | +0 | +2 | +3 | +1 | +0 | Nicht gekauft |
 | BBIO | **6** | +1 | +1 | +2 | +3 | -1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
-| BRK-B | **6** | +2 | +3 | +0 | +3 | -2 | +0 | Halten |
-| BRKR | **6** | +1 | +3 | +2 | +2 | -2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
-| CB | **6** | +1 | +3 | +1 | +0 | +1 | +0 | Halten |
-| EPAC | **6** | +1 | +3 | +0 | +3 | -1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
-| FITB | **6** | +1 | +2 | +2 | +3 | -2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
-| LLY | **6** | +1 | +3 | +1 | +1 | -1 | +1 | Nicht gekauft |
-| MBGL | **6** | +2 | +2 | +0 | +3 | -1 | +0 | Nicht gekauft |
-| MCO | **6** | +0 | +3 | +1 | +3 | -1 | +0 | Halten |
-| MDLZ | **6** | +0 | +3 | +2 | +0 | +1 | +0 | Nicht gekauft |
+| CL | **6** | -2 | +4 | +2 | +0 | +2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| COST | **6** | -1 | +1 | +1 | +3 | +2 | +0 | Nicht gekauft |
+| GTES | **6** | +1 | +0 | +1 | +3 | +1 | +0 | Nicht gekauft |
+| ITW | **6** | -1 | +2 | +2 | +2 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
+| MA | **6** | -1 | +3 | +0 | +3 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
 | MMM | **6** | +0 | +3 | +2 | +3 | -2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
-| PG | **6** | -1 | +3 | +2 | +0 | +1 | +1 | Nicht gekauft |
-| PODD | **6** | +1 | +1 | +0 | +3 | +1 | +0 | Nicht gekauft |
-| ROL | **6** | -1 | +1 | +2 | +3 | +1 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
-| TNDM | **6** | +1 | +0 | +2 | +4 | -1 | +0 | Nicht gekauft |
+| TXRH | **6** | +1 | +1 | +2 | +1 | +1 | +0 | Nicht gekauft |
+| V | **6** | -2 | +3 | +0 | +3 | +2 | +0 | Kaufkandidat – Depot voll (6 Positionen) |
 | AMGN | **5** | +1 | +3 | +0 | +2 | -1 | +0 | Nicht gekauft |
-| APP | **5** | +0 | +1 | +1 | +3 | -1 | +1 | Nicht gekauft |
-| BLK | **5** | +0 | +2 | +2 | +2 | -2 | +1 | Nicht gekauft |
+| BLK | **5** | +0 | +2 | +1 | +2 | -1 | +1 | Nicht gekauft |
 | BMY | **5** | +0 | +2 | +1 | +1 | +1 | +0 | Nicht gekauft |
-| CINF | **5** | +0 | +3 | +1 | +2 | -1 | +0 | Nicht gekauft |
-| COST | **5** | -1 | +1 | +1 | +3 | +1 | +0 | Nicht gekauft |
+| CF | **5** | +1 | +2 | +1 | +0 | +1 | +0 | Nicht gekauft |
+| CMG | **5** | -1 | +1 | +1 | +3 | +1 | +0 | Nicht gekauft |
+| COCO | **5** | +1 | +0 | +1 | +0 | +2 | +1 | Nicht gekauft |
+| CPB | **5** | -1 | +1 | +2 | +1 | +2 | +0 | Nicht gekauft |
 | CVS | **5** | +2 | +0 | +1 | +3 | -2 | +1 | Nicht gekauft |
-| DIS | **5** | -1 | +3 | +1 | +3 | -1 | +0 | Nicht gekauft |
-| DTE | **5** | +1 | +1 | +1 | +3 | -1 | +0 | Nicht gekauft |
-| ESAB | **5** | +1 | +0 | +2 | +3 | -1 | +0 | Nicht gekauft |
+| DPZ | **5** | -1 | +0 | +2 | +1 | +2 | +1 | Nicht gekauft |
 | FOXA | **5** | +2 | +2 | +1 | -1 | +1 | +0 | Nicht gekauft |
+| FSS | **5** | +1 | +0 | +1 | +2 | +1 | +0 | Nicht gekauft |
 | GM | **5** | +0 | +3 | +1 | +1 | -1 | +1 | Nicht gekauft |
-| LNT | **5** | +1 | +1 | +2 | +2 | -1 | +0 | Nicht gekauft |
+| INSM | **5** | +1 | +1 | +1 | +3 | -1 | +0 | Nicht gekauft |
+| INTU | **5** | +0 | +1 | +0 | +2 | +1 | +1 | Nicht gekauft |
+| KHC | **5** | +1 | +0 | +2 | +0 | +2 | +0 | Halten |
+| MBGL | **5** | +2 | +2 | -1 | +3 | -1 | +0 | Nicht gekauft |
 | MCD | **5** | +0 | +1 | +2 | +1 | +1 | +0 | Nicht gekauft |
 | MDT | **5** | +0 | +3 | +2 | -2 | +2 | +0 | Nicht gekauft |
-| NCLH | **5** | +1 | +1 | +2 | +3 | -2 | +0 | Nicht gekauft |
-| REZI | **5** | -1 | +1 | +2 | +3 | -2 | +2 | Nicht gekauft |
-| SARO | **5** | +1 | +1 | +2 | +3 | -2 | +0 | Nicht gekauft |
-| SBUX | **5** | -1 | +1 | +2 | +3 | -1 | +1 | Nicht gekauft |
-| SPG | **5** | +0 | +3 | +0 | +3 | -1 | +0 | Nicht gekauft |
+| NXPI | **5** | +2 | +0 | +2 | +1 | -1 | +1 | Nicht gekauft |
+| RARE | **5** | +1 | +0 | +2 | +3 | -1 | +0 | Nicht gekauft |
+| SO | **5** | +0 | +1 | -1 | +2 | +2 | +1 | Nicht gekauft |
+| TGT | **5** | +0 | +2 | +1 | +1 | +1 | +0 | Nicht gekauft |
+| TKO | **5** | -1 | +1 | +2 | +2 | +1 | +0 | Nicht gekauft |
 | TTD | **5** | -1 | +0 | +2 | +3 | -1 | +2 | Nicht gekauft |
+| UNP | **5** | +0 | +3 | +0 | +3 | -2 | +1 | Nicht gekauft |
+| WFC | **5** | +1 | +2 | +1 | +2 | -1 | +0 | Nicht gekauft |
+| AIG | **4** | +2 | +2 | +1 | +0 | -1 | +0 | Nicht gekauft |
 | AMT | **4** | +2 | +3 | -1 | -1 | +1 | +0 | Nicht gekauft |
 | BCPC | **4** | +1 | +2 | -1 | +0 | +2 | +0 | Nicht gekauft |
-| BN | **4** | +1 | +1 | +2 | +1 | -2 | +1 | Nicht gekauft |
-| CACI | **4** | +2 | +2 | -1 | +3 | -2 | +0 | Nicht gekauft |
-| CL | **4** | -2 | +4 | +1 | +0 | +1 | +0 | Nicht gekauft |
 | COO | **4** | +1 | +1 | +2 | -1 | +1 | +0 | Nicht gekauft |
-| DPZ | **4** | -1 | +0 | +2 | +1 | +1 | +1 | Nicht gekauft |
-| DUK | **4** | +0 | +1 | +0 | +2 | +1 | +0 | Nicht gekauft |
-| EIX | **4** | +1 | +0 | +2 | +3 | -2 | +0 | Nicht gekauft |
-| FMAO | **4** | +1 | +2 | -1 | +3 | -1 | +0 | Halten |
+| GD | **4** | +0 | +1 | +0 | +2 | +1 | +0 | Nicht gekauft |
+| GE | **4** | +0 | +0 | +2 | +1 | +1 | +0 | Nicht gekauft |
 | GILD | **4** | +0 | +3 | +0 | +0 | +1 | +0 | Nicht gekauft |
-| HD | **4** | +0 | +1 | +2 | +1 | -1 | +1 | Nicht gekauft |
-| INSM | **4** | +1 | +1 | +1 | +2 | -1 | +0 | Nicht gekauft |
+| LIN | **4** | -1 | +1 | +2 | +1 | +1 | +0 | Nicht gekauft |
+| LNTH | **4** | -1 | +2 | +1 | +0 | +2 | +0 | Nicht gekauft |
+| LOW | **4** | -1 | +1 | +1 | +1 | +2 | +0 | Nicht gekauft |
 | LULU | **4** | +1 | +1 | +0 | +3 | -1 | +0 | Nicht gekauft |
-| MA | **4** | -1 | +3 | +0 | +3 | -1 | +0 | Nicht gekauft |
+| MDLZ | **4** | +0 | +3 | +2 | +0 | -1 | +0 | Nicht gekauft |
 | MRNA | **4** | +1 | +3 | -1 | +1 | +1 | -1 | Nicht gekauft |
-| NXPI | **4** | +2 | +0 | +2 | +1 | -2 | +1 | Nicht gekauft |
-| OLN | **4** | +2 | +1 | +2 | +1 | -2 | +0 | Nicht gekauft |
 | PRAX | **4** | +1 | +0 | +2 | +3 | -2 | +0 | Nicht gekauft |
-| PTC | **4** | -1 | +3 | -2 | +3 | +1 | +0 | Nicht gekauft |
 | SNEJF | **4** | +1 | +2 | +2 | -1 | +0 | +0 | Nicht gekauft |
-| SO | **4** | +0 | +1 | -1 | +2 | +2 | +0 | Nicht gekauft |
+| STE | **4** | -1 | +1 | +1 | +1 | +2 | +0 | Nicht gekauft |
+| STRC | **4** | +1 | +2 | -2 | +3 | +2 | -2 | Nicht gekauft |
+| TMO | **4** | +0 | +2 | -1 | +1 | +1 | +1 | Nicht gekauft |
 | TMUS | **4** | +0 | +0 | +1 | +3 | -1 | +1 | Nicht gekauft |
-| TWST | **4** | +1 | +0 | -1 | +1 | +1 | +2 | Nicht gekauft |
-| WFC | **4** | +1 | +2 | +1 | +2 | -2 | +0 | Nicht gekauft |
+| WSM | **4** | +1 | +2 | -1 | +0 | +2 | +0 | Nicht gekauft |
 | ABBV | **3** | -1 | +3 | -1 | +3 | -1 | +0 | Nicht gekauft |
-| AIG | **3** | +2 | +2 | +0 | +0 | -1 | +0 | Nicht gekauft |
-| CMG | **3** | -1 | +1 | +1 | +3 | -1 | +0 | Nicht gekauft |
+| CMS | **3** | +2 | +1 | -1 | -1 | +2 | +0 | Nicht gekauft |
 | DE | **3** | +0 | +2 | +1 | +2 | -2 | +0 | Nicht gekauft |
-| INTU | **3** | +0 | +1 | +0 | +2 | -1 | +1 | Nicht gekauft |
-| ITW | **3** | -1 | +2 | +2 | +1 | -1 | +0 | Nicht gekauft |
+| FMAO | **3** | +1 | +2 | -1 | +2 | -1 | +0 | Halten |
+| IBM | **3** | +0 | +0 | +0 | +3 | +1 | -1 | Nicht gekauft |
+| JPM | **3** | +0 | +2 | +1 | -1 | +1 | +0 | Nicht gekauft |
 | MOH | **3** | +1 | +2 | -1 | +3 | -2 | +0 | Nicht gekauft |
-| PYPL | **3** | +0 | +2 | -1 | +3 | -1 | +0 | Nicht gekauft |
+| NEE | **3** | -1 | +1 | +2 | +0 | +1 | +0 | Nicht gekauft |
+| OKTA | **3** | +1 | -1 | -1 | +3 | +1 | +0 | Nicht gekauft |
+| OLN | **3** | +2 | +0 | +2 | +1 | -2 | +0 | Nicht gekauft |
+| RPM | **3** | +1 | +0 | +1 | +0 | +1 | +0 | Nicht gekauft |
+| RTX | **3** | +0 | +0 | +1 | +2 | -1 | +1 | Nicht gekauft |
+| TSLA | **3** | +0 | +0 | +0 | +1 | +1 | +1 | Nicht gekauft |
+| TWST | **3** | +1 | +0 | -2 | +1 | +1 | +2 | Nicht gekauft |
 | TXN | **3** | +0 | +2 | +0 | +3 | -2 | +0 | Nicht gekauft |
-| TXRH | **3** | +1 | +1 | +2 | +1 | -2 | +0 | Nicht gekauft |
-| V | **3** | -2 | +3 | +0 | +3 | -1 | +0 | Nicht gekauft |
-| ABT | **2** | +0 | +2 | -1 | -1 | +1 | +1 | Nicht gekauft |
-| AMD | **2** | +1 | +0 | +1 | +1 | -2 | +1 | Nicht gekauft |
+| ABT | **2** | +0 | +2 | -1 | -1 | +2 | +0 | Nicht gekauft |
 | AMZN | **2** | +1 | +2 | +2 | -1 | -2 | +0 | Nicht gekauft |
+| AZO | **2** | -1 | +1 | +0 | +0 | +2 | +0 | Nicht gekauft |
 | BEP | **2** | -1 | +0 | +1 | +3 | -1 | +0 | Nicht gekauft |
-| BSX | **2** | -1 | +0 | +1 | +1 | +1 | +0 | Nicht gekauft |
-| CF | **2** | +1 | +2 | +0 | +0 | -1 | +0 | Nicht gekauft |
-| CMS | **2** | +2 | +1 | -1 | -1 | +1 | +0 | Nicht gekauft |
-| CPB | **2** | -1 | +1 | +2 | +1 | -1 | +0 | Nicht gekauft |
-| CVX | **2** | +1 | +1 | -1 | +0 | +1 | +0 | Nicht gekauft |
+| BNS | **2** | +1 | +2 | -1 | +0 | +0 | +0 | Nicht gekauft |
+| CR | **2** | -1 | +2 | +1 | +0 | +0 | +0 | Nicht gekauft |
+| CXT | **2** | -1 | +3 | -1 | +0 | +1 | +0 | Nicht gekauft |
+| EMR | **2** | +0 | +2 | -1 | +0 | +1 | +0 | Halten |
 | ENGQF | **2** | -1 | +0 | +1 | +2 | +0 | +0 | Nicht gekauft |
-| GTES | **2** | +1 | +0 | +1 | +2 | -2 | +0 | Nicht gekauft |
-| LNTH | **2** | -1 | +2 | +0 | +0 | +1 | +0 | Nicht gekauft |
-| LOW | **2** | -1 | +1 | +2 | +0 | -1 | +1 | Nicht gekauft |
+| FDX | **2** | -2 | +1 | +2 | +2 | -1 | +0 | Nicht gekauft |
+| FE | **2** | +1 | +0 | -1 | +0 | +2 | +0 | Nicht gekauft |
+| HON | **2** | -1 | +0 | +1 | +3 | -1 | +0 | Nicht gekauft |
+| HONA | **2** | -1 | +1 | +1 | +0 | +1 | +0 | Nicht gekauft |
 | MO | **2** | +0 | +3 | -1 | -1 | +1 | +0 | Nicht gekauft |
-| RTX | **2** | +0 | +0 | +1 | +2 | -2 | +1 | Nicht gekauft |
-| TGT | **2** | +0 | +2 | +1 | +1 | -2 | +0 | Nicht gekauft |
-| TKO | **2** | -1 | +1 | +1 | +2 | -1 | +0 | Nicht gekauft |
-| TMO | **2** | +0 | +2 | -1 | +1 | -1 | +1 | Nicht gekauft |
+| PTC | **2** | -1 | +3 | -2 | +3 | -1 | +0 | Nicht gekauft |
+| QSR | **2** | +2 | -1 | +1 | -2 | +2 | +0 | Nicht gekauft |
 | VSAT | **2** | -1 | +0 | +2 | +3 | -2 | +0 | Nicht gekauft |
 | WMT | **2** | -1 | +1 | +0 | +1 | +1 | +0 | Nicht gekauft |
 | ZTS | **2** | +1 | +1 | -1 | +3 | -2 | +0 | Nicht gekauft |
-| AAPL | **1** | +1 | +2 | +0 | -1 | -1 | +0 | Halten |
-| COCO | **1** | +1 | +0 | +2 | -1 | -2 | +1 | Nicht gekauft |
-| FDX | **1** | -2 | +1 | +2 | +2 | -2 | +0 | Nicht gekauft |
-| GD | **1** | +0 | +1 | -1 | +2 | -1 | +0 | Nicht gekauft |
+| AMD | **1** | +1 | +0 | +1 | +0 | -2 | +1 | Nicht gekauft |
+| C | **1** | +0 | +0 | +1 | +1 | -1 | +0 | Nicht gekauft |
 | GDDY | **1** | -1 | +2 | +0 | +1 | -1 | +0 | Halten |
-| IBM | **1** | +0 | +0 | +0 | +3 | -1 | -1 | Nicht gekauft |
-| KHC | **1** | +1 | +0 | -1 | +0 | +1 | +0 | Halten |
+| ITT | **1** | -1 | +2 | +2 | -1 | -1 | +0 | Nicht gekauft |
 | MET | **1** | +0 | +2 | +1 | -1 | -2 | +1 | Nicht gekauft |
-| MSFT | **1** | +2 | +0 | -1 | -2 | +1 | +1 | Nicht gekauft |
-| NEE | **1** | -1 | +1 | +2 | +0 | -1 | +0 | Nicht gekauft |
+| MSFT | **1** | +2 | +2 | -1 | -2 | +1 | -1 | Nicht gekauft |
 | NVS | **1** | -1 | +1 | +0 | +1 | +1 | -1 | Nicht gekauft |
-| PM | **1** | +0 | +2 | -1 | -1 | +1 | +0 | Nicht gekauft |
-| QSR | **1** | +2 | -1 | +1 | -2 | +1 | +0 | Nicht gekauft |
+| OXM | **1** | -1 | +0 | +2 | -1 | +1 | +0 | Nicht gekauft |
+| OXY | **1** | +1 | -1 | -2 | +3 | -1 | +1 | Nicht gekauft |
+| RIG | **1** | +2 | -3 | -1 | +1 | +2 | +0 | Nicht gekauft |
 | SOLS | **1** | -1 | +0 | +2 | +2 | -2 | +0 | Nicht gekauft |
 | STAG | **1** | +1 | +0 | +1 | +1 | -2 | +0 | Nicht gekauft |
-| STE | **1** | -1 | +1 | +1 | +1 | -1 | +0 | Nicht gekauft |
-| STRC | **1** | +1 | +2 | -2 | +3 | -1 | -2 | Nicht gekauft |
-| VZ | **1** | +0 | -1 | +0 | +1 | +1 | +0 | Nicht gekauft |
+| USB | **1** | +0 | +2 | +1 | -3 | +1 | +0 | Nicht gekauft |
+| WSBC | **1** | -1 | +2 | -1 | -1 | +2 | +0 | Nicht gekauft |
+| AAPL | **0** | +1 | +2 | +0 | -2 | -1 | +0 | Halten |
+| BSX | **0** | -1 | +0 | +1 | +1 | -1 | +0 | Nicht gekauft |
+| CNP | **0** | -1 | -1 | -1 | +1 | +2 | +0 | Nicht gekauft |
 | COP | **0** | +0 | +1 | -1 | +0 | +1 | -1 | Nicht gekauft |
-| CR | **0** | -1 | +2 | +1 | +0 | -2 | +0 | Nicht gekauft |
-| CXT | **0** | -1 | +3 | -1 | +0 | -1 | +0 | Nicht gekauft |
-| FSS | **0** | +1 | -2 | +1 | +2 | -2 | +0 | Nicht gekauft |
-| GE | **0** | +0 | +0 | +1 | +1 | -2 | +0 | Nicht gekauft |
-| GH | **0** | +2 | +0 | -1 | +0 | -1 | +0 | Nicht gekauft |
-| HON | **0** | -1 | +0 | -1 | +3 | -2 | +1 | Nicht gekauft |
-| HONA | **0** | -1 | +1 | +1 | +0 | -1 | +0 | Nicht gekauft |
-| ISRG | **0** | -1 | +0 | -1 | +1 | +1 | +0 | Nicht gekauft |
-| ITT | **0** | -1 | +2 | +2 | -1 | -2 | +0 | Nicht gekauft |
-| JPM | **0** | +0 | +2 | +1 | -1 | -2 | +0 | Nicht gekauft |
+| DECK | **0** | -1 | +0 | +1 | -1 | +1 | +0 | Nicht gekauft |
+| GIS | **0** | -1 | +0 | +1 | -1 | +2 | -1 | Nicht gekauft |
 | LMT | **0** | -1 | +1 | +0 | +2 | -2 | +0 | Nicht gekauft |
-| NTRA | **0** | +1 | -1 | -2 | +2 | -1 | +1 | Nicht gekauft |
+| MRK | **0** | +0 | +2 | +1 | -2 | -1 | +0 | Nicht gekauft |
+| MS | **0** | +0 | -3 | +1 | +1 | -1 | +2 | Nicht gekauft |
+| NKE | **0** | +0 | +0 | -1 | +0 | +1 | +0 | Nicht gekauft |
 | ON | **0** | +2 | -2 | +1 | +0 | -2 | +1 | Nicht gekauft |
-| OXY | **0** | +1 | -1 | -2 | +2 | -1 | +1 | Nicht gekauft |
-| PRGS | **0** | -1 | +2 | +0 | +0 | -1 | +0 | Nicht gekauft |
 | QCOM | **0** | -1 | +0 | +1 | +3 | -2 | -1 | Nicht gekauft |
 | TEM | **0** | +1 | +0 | +0 | +1 | -2 | +0 | Nicht gekauft |
+| TOELF | **0** | -1 | -1 | +0 | +3 | -1 | +0 | Nicht gekauft |
 | ADBE | **-1** | +0 | -3 | -1 | +1 | +1 | +1 | Nicht gekauft |
-| C | **-1** | +0 | +0 | +1 | +0 | -2 | +0 | Nicht gekauft |
-| EMR | **-1** | +0 | +2 | -1 | +0 | -2 | +0 | Halten |
-| FE | **-1** | +1 | +0 | -1 | +0 | -1 | +0 | Nicht gekauft |
+| CRM | **-1** | +0 | +0 | -2 | -1 | +1 | +1 | Nicht gekauft |
+| CVX | **-1** | +1 | +1 | -1 | +0 | -1 | -1 | Nicht gekauft |
+| GH | **-1** | +2 | +0 | -2 | +0 | -1 | +0 | Nicht gekauft |
 | LSYIX | **-1** | +1 | -3 | +1 | +0 | +0 | +0 | Nicht gekauft |
-| NOKBF | **-1** | +2 | -2 | +0 | -1 | +0 | +0 | Nicht gekauft |
-| OKTA | **-1** | +1 | -1 | -2 | +3 | -2 | +0 | Nicht gekauft |
+| META | **-1** | +1 | +0 | +0 | -3 | +1 | +0 | Nicht gekauft |
+| NTRA | **-1** | +1 | -1 | -2 | +2 | -1 | +0 | Nicht gekauft |
 | PBA | **-1** | -1 | +2 | -1 | +0 | -1 | +0 | Nicht gekauft |
 | PFE | **-1** | +0 | +0 | -1 | +1 | -1 | +0 | Nicht gekauft |
-| RIG | **-1** | +2 | -3 | +0 | +1 | -1 | +0 | Nicht gekauft |
-| TSLA | **-1** | +0 | +0 | +0 | +0 | -2 | +1 | Nicht gekauft |
+| PLD | **-1** | +1 | -2 | +1 | -1 | -1 | +1 | Nicht gekauft |
+| PM | **-1** | +0 | +2 | -1 | -1 | -1 | +0 | Nicht gekauft |
+| PRGS | **-1** | -1 | +2 | +0 | +0 | -2 | +0 | Nicht gekauft |
 | TXG | **-1** | +1 | +0 | -2 | +0 | -1 | +1 | Nicht gekauft |
+| UBER | **-1** | +0 | +1 | +1 | -2 | -1 | +0 | Nicht gekauft |
 | UNH | **-1** | -1 | +2 | -1 | +1 | -2 | +0 | Nicht gekauft |
-| WSM | **-1** | +1 | +2 | -1 | -2 | -1 | +0 | Nicht gekauft |
 | WUXIF | **-1** | +1 | +0 | +0 | -2 | +0 | +0 | Nicht gekauft |
-| XOM | **-1** | -1 | +1 | -1 | +0 | -1 | +1 | Nicht gekauft |
-| AIO | **-2** | -1 | -3 | +1 | +2 | -1 | +0 | Nicht gekauft |
+| XE | **-1** | +1 | -1 | +1 | +0 | -2 | +0 | Nicht gekauft |
 | ALGM | **-2** | +1 | -2 | +0 | +1 | -2 | +0 | Nicht gekauft |
 | ARE | **-2** | +1 | -2 | +1 | +0 | -2 | +0 | Nicht gekauft |
-| AVGO | **-2** | +1 | -2 | +1 | +0 | -2 | +0 | Nicht gekauft |
-| AZO | **-2** | -1 | +1 | -1 | +0 | -1 | +0 | Nicht gekauft |
+| AXP | **-2** | +0 | +0 | -1 | -1 | +1 | -1 | Nicht gekauft |
+| BHE | **-2** | +2 | -1 | -2 | -1 | +0 | +0 | Nicht gekauft |
 | BNPQF | **-2** | -1 | -2 | +2 | -1 | +0 | +0 | Nicht gekauft |
-| BNS | **-2** | +1 | +0 | -1 | +0 | -2 | +0 | Nicht gekauft |
-| DECK | **-2** | -1 | +0 | +1 | -1 | -1 | +0 | Nicht gekauft |
 | ETV | **-2** | -1 | +0 | +1 | +0 | -2 | +0 | Nicht gekauft |
-| IBRX | **-2** | +1 | +0 | -1 | -2 | +1 | -1 | Nicht gekauft |
-| LIN | **-2** | -1 | +1 | -1 | +1 | -2 | +0 | Nicht gekauft |
-| MS | **-2** | +0 | -3 | +1 | +0 | -2 | +2 | Nicht gekauft |
-| NKE | **-2** | +0 | +0 | -1 | +0 | -1 | +0 | Nicht gekauft |
-| OXM | **-2** | -1 | +0 | +2 | -1 | -2 | +0 | Nicht gekauft |
-| PLD | **-2** | +1 | -2 | +1 | -1 | -2 | +1 | Nicht gekauft |
-| RPM | **-2** | +1 | +0 | -1 | -1 | -1 | +0 | Nicht gekauft |
+| IQV | **-2** | -1 | +0 | -1 | +1 | -2 | +1 | Nicht gekauft |
+| ISRG | **-2** | -1 | +0 | -1 | +1 | -1 | +0 | Nicht gekauft |
+| NOKBF | **-2** | +2 | -2 | +0 | -1 | -1 | +0 | Nicht gekauft |
+| RA | **-2** | -1 | -3 | -1 | +1 | +2 | +0 | Nicht gekauft |
 | SNOW | **-2** | +2 | +0 | -2 | +0 | -2 | +0 | Nicht gekauft |
-| T | **-2** | +1 | -2 | -1 | -1 | +1 | +0 | Nicht gekauft |
-| USB | **-2** | +0 | +2 | +1 | -3 | -2 | +0 | Nicht gekauft |
-| XE | **-2** | +1 | -1 | +1 | -1 | -2 | +0 | Nicht gekauft |
+| STM | **-2** | +1 | -3 | +1 | +1 | -2 | +0 | Nicht gekauft |
+| TLK | **-2** | -1 | -3 | +2 | -1 | +1 | +0 | Nicht gekauft |
+| TSM | **-2** | +2 | -1 | +1 | -1 | -2 | -1 | Nicht gekauft |
+| TYG | **-2** | -1 | -2 | +1 | -1 | +1 | +0 | Nicht gekauft |
+| VZ | **-2** | +0 | -1 | +0 | +1 | -2 | +0 | Nicht gekauft |
+| XOM | **-2** | -1 | +1 | -2 | +0 | -1 | +1 | Nicht gekauft |
 | ADI | **-3** | +1 | +0 | -1 | -1 | -2 | +0 | Nicht gekauft |
-| CNP | **-3** | -1 | -1 | -1 | +1 | -1 | +0 | Nicht gekauft |
-| CRM | **-3** | +0 | +0 | -2 | -1 | -1 | +1 | Nicht gekauft |
+| AEIS | **-3** | +1 | -3 | +0 | -1 | +0 | +0 | Nicht gekauft |
+| AIO | **-3** | -1 | -3 | +1 | +1 | -1 | +0 | Nicht gekauft |
+| AVGO | **-3** | +1 | -2 | +1 | +0 | -2 | -1 | Nicht gekauft |
+| BAC | **-3** | +2 | -4 | +1 | -1 | +1 | -2 | Nicht gekauft |
+| BKNG | **-3** | +0 | -2 | +1 | -1 | -1 | +0 | Nicht gekauft |
 | DHR | **-3** | -2 | +2 | -1 | +0 | -2 | +0 | Nicht gekauft |
-| IQV | **-3** | -1 | +0 | -1 | +1 | -2 | +0 | Nicht gekauft |
-| LITE | **-3** | +1 | +0 | -2 | -2 | -2 | +2 | Nicht gekauft |
-| META | **-3** | +1 | +0 | +0 | -3 | -1 | +0 | Nicht gekauft |
+| F | **-3** | -1 | -2 | +1 | -1 | +1 | -1 | Nicht gekauft |
+| HTZ | **-3** | +1 | -2 | -2 | -1 | +1 | +0 | Nicht gekauft |
+| MPC | **-3** | -1 | -1 | -2 | -2 | +1 | +2 | Nicht gekauft |
 | MRAAF | **-3** | +1 | -1 | -2 | -1 | +0 | +0 | Nicht gekauft |
-| MTSI | **-3** | +0 | -2 | +0 | +1 | -2 | +0 | Nicht gekauft |
-| SPCX | **-3** | +1 | -1 | +0 | -1 | -2 | +0 | Nicht gekauft |
-| STM | **-3** | +1 | -3 | +1 | +0 | -2 | +0 | Nicht gekauft |
-| TSM | **-3** | +2 | -1 | +1 | -2 | -2 | -1 | Nicht gekauft |
-| TYG | **-3** | -1 | -2 | +1 | +0 | -1 | +0 | Nicht gekauft |
-| UBER | **-3** | +0 | -1 | +1 | -2 | -1 | +0 | Nicht gekauft |
-| BHE | **-4** | +2 | -1 | -2 | -1 | -2 | +0 | Nicht gekauft |
-| BKNG | **-4** | +0 | -2 | +1 | -1 | -2 | +0 | Nicht gekauft |
+| ORCL | **-3** | +0 | -2 | +1 | +0 | -2 | +0 | Nicht gekauft |
+| SLM | **-3** | +1 | -4 | +1 | -3 | +2 | +0 | Nicht gekauft |
 | DVN | **-4** | -1 | -1 | -2 | +1 | -1 | +0 | Nicht gekauft |
 | GS | **-4** | +1 | -2 | +1 | -1 | -2 | -1 | Nicht gekauft |
+| LITE | **-4** | +1 | +0 | -2 | -3 | -2 | +2 | Nicht gekauft |
 | MOG-A | **-4** | +1 | +0 | +0 | -3 | -2 | +0 | Nicht gekauft |
-| MRK | **-4** | +0 | +0 | -1 | -2 | -1 | +0 | Nicht gekauft |
-| ORCL | **-4** | +0 | -2 | +1 | +0 | -2 | -1 | Nicht gekauft |
+| MTSI | **-4** | +0 | -3 | +0 | +1 | -2 | +0 | Nicht gekauft |
+| PLTR | **-4** | +0 | -1 | -2 | -1 | +0 | +0 | Nicht gekauft |
 | SCHW | **-4** | +0 | -4 | +1 | -3 | +2 | +0 | Nicht gekauft |
+| SPCX | **-4** | +1 | -1 | +0 | -1 | -2 | -1 | Nicht gekauft |
 | SPY | **-4** | +0 | +0 | -1 | -1 | -2 | +0 | Nicht gekauft |
-| TOELF | **-4** | -1 | -1 | +0 | -2 | +0 | +0 | Nicht gekauft |
-| YETI | **-4** | +1 | -3 | +0 | -2 | +1 | -1 | Nicht gekauft |
+| T | **-4** | +1 | -2 | -1 | -1 | -1 | +0 | Nicht gekauft |
 | YPF | **-4** | +1 | -1 | +0 | -3 | -1 | +0 | Nicht gekauft |
-| AEIS | **-5** | +1 | -3 | +0 | -1 | -2 | +0 | Nicht gekauft |
-| AXP | **-5** | +0 | +0 | -1 | -1 | -2 | -1 | Nicht gekauft |
-| DOMH | **-5** | +3 | -3 | -1 | -3 | -1 | +0 | Nicht gekauft |
-| GIS | **-5** | -1 | -2 | -1 | -1 | +1 | -1 | Nicht gekauft |
-| GSG | **-5** | +1 | -1 | -2 | -2 | -1 | +0 | Nicht gekauft |
-| MPC | **-5** | -1 | -1 | -2 | -2 | -1 | +2 | Nicht gekauft |
-| MU | **-5** | +1 | -1 | -2 | -2 | -2 | +1 | Nicht gekauft |
+| COF | **-5** | +0 | +0 | -1 | -3 | -1 | +0 | Nicht gekauft |
+| IBRX | **-5** | +1 | +0 | -1 | -3 | -1 | -1 | Nicht gekauft |
+| MU | **-5** | +1 | -1 | -2 | -1 | -2 | +0 | Nicht gekauft |
+| QQQ | **-5** | +0 | -1 | -1 | -1 | +0 | -2 | Nicht gekauft |
 | RBC | **-5** | -1 | -2 | +1 | -1 | -2 | +0 | Nicht gekauft |
-| TLK | **-5** | -1 | -3 | +1 | -1 | -1 | +0 | Nicht gekauft |
 | VIST | **-5** | +1 | -1 | +0 | -3 | -2 | +0 | Nicht gekauft |
-| WSBC | **-5** | -1 | +0 | -1 | -1 | -2 | +0 | Nicht gekauft |
+| YETI | **-5** | +1 | -3 | +0 | -3 | +2 | -2 | Nicht gekauft |
 | AMAT | **-6** | +0 | -4 | +0 | -2 | -2 | +2 | Nicht gekauft |
 | BA | **-6** | +3 | -3 | +0 | -3 | -1 | -2 | Nicht gekauft |
-| BAC | **-6** | +2 | -4 | +1 | -1 | -2 | -2 | Nicht gekauft |
 | CAT | **-6** | +3 | -3 | +0 | -3 | -2 | -1 | Nicht gekauft |
-| COF | **-6** | +0 | +0 | -1 | -3 | -2 | +0 | Nicht gekauft |
+| CRSP | **-6** | +1 | -3 | -1 | -4 | +1 | +0 | Nicht gekauft |
 | CSCO | **-6** | +0 | +0 | -2 | -2 | -1 | -1 | Nicht gekauft |
 | CYTK | **-6** | +1 | -3 | -2 | -1 | -1 | +0 | Nicht gekauft |
 | DDOG | **-6** | +2 | -1 | -2 | -3 | -2 | +0 | Nicht gekauft |
-| F | **-6** | -1 | -2 | +1 | -1 | -2 | -1 | Nicht gekauft |
-| GOOG | **-6** | +2 | -3 | +0 | -3 | -2 | +0 | Nicht gekauft |
-| HTZ | **-6** | +1 | -2 | -2 | -1 | -2 | +0 | Nicht gekauft |
+| DOMH | **-6** | +3 | -3 | -1 | -3 | -2 | +0 | Nicht gekauft |
+| GSG | **-6** | +1 | -1 | -2 | -2 | -2 | +0 | Nicht gekauft |
 | LRCX | **-6** | +1 | -4 | +0 | -1 | -2 | +0 | Nicht gekauft |
-| NFLX | **-6** | +0 | -2 | +0 | -3 | -1 | +0 | Nicht gekauft |
-| PLTR | **-6** | +0 | -1 | -2 | -1 | -2 | +0 | Nicht gekauft |
-| RA | **-6** | -1 | -3 | -1 | +0 | -1 | +0 | Nicht gekauft |
 | SHOP | **-6** | +1 | -1 | -2 | -2 | -2 | +0 | Nicht gekauft |
-| SLM | **-6** | +1 | -4 | +0 | -4 | +1 | +0 | Nicht gekauft |
+| FIS | **-7** | +0 | -3 | -2 | -3 | +1 | +0 | Nicht gekauft |
 | GLW | **-7** | +1 | -3 | +0 | -3 | -2 | +0 | Nicht gekauft |
+| GOOG | **-7** | +2 | -3 | +0 | -3 | -2 | -1 | Nicht gekauft |
 | GOOGL | **-7** | +1 | -3 | +0 | -3 | -2 | +0 | Nicht gekauft |
 | INTC | **-7** | +2 | -1 | -2 | -3 | -2 | -1 | Nicht gekauft |
 | NG | **-7** | +1 | -2 | -2 | -2 | -2 | +0 | Nicht gekauft |
-| NVDA | **-7** | +0 | -1 | -1 | -3 | -2 | +0 | Nicht gekauft |
+| NOW | **-7** | +1 | -1 | -1 | -3 | -1 | -2 | Nicht gekauft |
+| SEG | **-7** | +1 | -4 | -2 | -3 | +1 | +0 | Nicht gekauft |
 | VST | **-7** | +1 | -2 | -2 | -3 | -2 | +1 | Nicht gekauft |
 | CIEN | **-8** | -1 | -2 | -2 | -1 | -2 | +0 | Nicht gekauft |
-| CRSP | **-8** | +1 | -3 | -1 | -4 | -1 | +0 | Nicht gekauft |
 | GMED | **-8** | +1 | -2 | -2 | -3 | -2 | +0 | Nicht gekauft |
-| NOW | **-8** | +1 | -1 | -1 | -3 | -2 | -2 | Nicht gekauft |
-| QQQ | **-8** | +0 | -1 | -2 | -1 | -2 | -2 | Nicht gekauft |
-| VUZI | **-8** | -1 | -2 | -1 | -2 | -2 | +0 | Nicht gekauft |
-| FIS | **-9** | +0 | -3 | -2 | -3 | -1 | +0 | Nicht gekauft |
-| HOOD | **-9** | +1 | -1 | -2 | -3 | -2 | -2 | Nicht gekauft |
-| SEG | **-9** | +1 | -4 | -1 | -4 | -1 | +0 | Nicht gekauft |
-| TJX | **-9** | -1 | -2 | -2 | -3 | -2 | +1 | Nicht gekauft |
-| WDC | **-10** | -1 | -4 | -2 | -3 | -2 | +2 | Nicht gekauft |
+| HOOD | **-8** | +1 | -1 | -2 | -2 | -2 | -2 | Nicht gekauft |
+| NFLX | **-8** | +0 | -2 | +0 | -4 | -2 | +0 | Nicht gekauft |
+| NVDA | **-8** | +0 | -1 | -1 | -3 | -2 | -1 | Nicht gekauft |
+| TJX | **-8** | -1 | -2 | -2 | -3 | -1 | +1 | Nicht gekauft |
+| VUZI | **-9** | -1 | -2 | -1 | -3 | -2 | +0 | Nicht gekauft |
+| WDC | **-11** | -1 | -4 | -2 | -3 | -2 | +1 | Nicht gekauft |
 
 ## Hinweise
 

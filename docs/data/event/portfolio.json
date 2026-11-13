@@ -1,10 +1,171 @@
 {
   "currency": "EUR",
   "type": "event",
-  "cash": 944.8901972001718,
+  "cash": 375.6909871544502,
   "start_cash": 1000.0,
   "leverage": 5,
   "started": "2026-11-11T17:37:18+00:00",
-  "positions": {},
+  "positions": {
+    "AMD": {
+      "side": -1,
+      "shares": 1.9789562241058625,
+      "entry": 527.078,
+      "entry_fx": 1.1039,
+      "margin_eur": 188.97803944003437,
+      "atr": 41.73019121395293,
+      "leverage": 5,
+      "stop": 558.3756434104647,
+      "target": 464.4827131790706,
+      "opened": "2026-11-13T16:37:33+00:00",
+      "name": "Advanced Micro Devices, Inc.",
+      "trigger": [
+        "Kurssprung -9,9 % mit 2,2x Volumen ohne bekannte Meldung"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "Kurssprung -9,9 % mit 2,2x Volumen ohne bekannte Meldung"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "-9,9 %"
+        },
+        {
+          "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "527,08 $ vs. 533,59 $"
+        },
+        {
+          "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+          "ok": true,
+          "val": "539,57 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "2,2x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "17572 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "AVGO": {
+      "side": -1,
+      "shares": 3.0458215056357667,
+      "entry": 342.115,
+      "entry_fx": 1.1039,
+      "margin_eur": 188.7890614005943,
+      "atr": 17.83766451220659,
+      "leverage": 5,
+      "stop": 355.493248384155,
+      "target": 315.3585032316901,
+      "opened": "2026-11-13T16:37:33+00:00",
+      "name": "Broadcom Inc.",
+      "trigger": [
+        "Broadcom Sinks 7% as Rothschild Redburn Downgrade Slashes Target to $398: “Unlikely to Occur Quickly”"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "Broadcom Sinks 7% as Rothschild Redburn Downgrade Slashes Target to $398: “Unlik"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "-6,1 %"
+        },
+        {
+          "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "342,12 $ vs. 346,65 $"
+        },
+        {
+          "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+          "ok": true,
+          "val": "344,50 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "1,5x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "9152 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "AMAT": {
+      "side": -1,
+      "shares": 2.894583886706281,
+      "entry": 359.63,
+      "entry_fx": 1.1039,
+      "margin_eur": 188.60027233919374,
+      "atr": 24.974797045037693,
+      "leverage": 5,
+      "stop": 378.3610977837783,
+      "target": 322.16780443244346,
+      "opened": "2026-11-13T16:37:33+00:00",
+      "name": "Applied Materials, Inc.",
+      "trigger": [
+        "Applied Materials Is 47% Off Its High. Summit Insights Downgraded It, and It’s Not About Demand",
+        "Applied Materials, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "Applied Materials Is 47% Off Its High. Summit Insights Downgraded It, and It’s N"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "-5,6 %"
+        },
+        {
+          "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "359,63 $ vs. 365,72 $"
+        },
+        {
+          "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+          "ok": true,
+          "val": "364,14 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "1,5x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "2998 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    }
+  },
   "dead": false
 }

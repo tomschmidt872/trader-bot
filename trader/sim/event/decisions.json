@@ -5974,5 +5974,928 @@
       "YETI Stock Slides After Q3 Revenue Miss: Company Cuts 2026 Sales And EPS Outlook",
       "YETI Holdings, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
     ]
+  },
+  {
+    "action": "ERÖFFNEN",
+    "sym": "AMD",
+    "side": -1,
+    "shares": 1.9789562241058625,
+    "price": 527.078,
+    "value": 188.97803944003437,
+    "why": "Short: Kurssprung -9,9 % mit 2,2x Volumen ohne bekannte Meldung",
+    "id": "2026-11-13T16:37:33+00:00:ERÖFFNEN:AMD",
+    "time": "2026-11-13T16:37:33+00:00",
+    "kind": "open",
+    "bot": "event",
+    "story": "Der Event-Bot setzt auf fallende Advanced Micro Devices, Inc. (AMD), weil: Kurssprung -9,9 % mit 2,2x Volumen ohne bekannte Meldung. Heute -9,9 % mit 2,2x Volumen, Kurs unter VWAP und Ausbruch unter das Tief der ersten 30 Minuten. Einsatz 188,98 € mit 5x Hebel = 944,89 € Engagement. Stop bei 558,38 $ (Verlust ca. 56,11 €), Ziel bei 464,48 $ (Gewinn ca. 112,21 €). Spätestens nach 4 Std. oder vor Börsenschluss wird geschlossen.",
+    "name": "Advanced Micro Devices, Inc.",
+    "leverage": 5,
+    "levels": {
+      "stop": 558.3756434104647,
+      "target": 464.4827131790706
+    },
+    "total": 1,
+    "scores": {
+      "Signale": 1,
+      "Trend": 0,
+      "Momentum": 1,
+      "Volumen": 0,
+      "Intraday": -2,
+      "News": 1
+    },
+    "reasons": {
+      "Signale": [
+        "ARK Invest (Cathie Wood) hält 5.3 %"
+      ],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 > SMA200",
+        "ADX 20: kein klarer Trend"
+      ],
+      "Momentum": [
+        "MACD positiv",
+        "RSI 50 neutral"
+      ],
+      "Volumen": [
+        "2.2x Volumen an einem Minus-Tag",
+        "OBV steigt (Akkumulation)",
+        "Chaikin Money Flow -0.05 (Geld fließt raus)",
+        "Kaufdruck: 2.0x mehr Volumen an Plus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs < VWAP 533.59",
+        "unter Opening Range 539.57",
+        "Gap -3.2 % zur Eröffnung"
+      ],
+      "News": [
+        "7 Schlagzeilen: 1 positiv, 0 negativ"
+      ]
+    },
+    "ind": {
+      "price": 527.078,
+      "sma50": 554.4125585351562,
+      "sma200": 423.0831400152588,
+      "adx": 19.67359274297701,
+      "plus_di": 28.03360757757151,
+      "minus_di": 28.483128387064543,
+      "macd_hist": 7.101333696867918,
+      "rsi": 49.519865433622094,
+      "stoch_k": 65.12662734314655,
+      "stoch_d": 81.91742547873265,
+      "bb_upper": 606.2356210525504,
+      "bb_lower": 431.11017333221525,
+      "bb_width": 33.764140881141664,
+      "roc20": -0.31621749408984323,
+      "dollar_vol": 17572627667.379997,
+      "rvol": 2.1531044319221735,
+      "obv_trend": 0.32232410989777655,
+      "cmf": -0.05288861620876427,
+      "buy_sell_ratio": 1.9503544382307711,
+      "high52": 658.52001953125,
+      "low52": 188.22000122070312,
+      "vwap": 533.5939272496606,
+      "or_high": 571.125,
+      "or_low": 539.5700073242188,
+      "gap": -3.1829839862225096,
+      "atr": 41.73019121395293,
+      "chg": -9.94737553515257,
+      "spark": [
+        495.54,
+        518.09,
+        516.1,
+        510.13,
+        521.54,
+        542.52,
+        523.2,
+        466.38,
+        490.33,
+        475.51,
+        452.4,
+        488.45,
+        511.57,
+        547.26,
+        507.29,
+        512.48,
+        537.37,
+        551.63,
+        519.85,
+        519.74,
+        532.57,
+        521.58,
+        539.49,
+        580.91,
+        540.88,
+        517.82,
+        552.05,
+        516.11,
+        517.41,
+        546.72,
+        557.89,
+        534.39,
+        548.13,
+        529.14,
+        500.94,
+        495.76,
+        503.57,
+        544.43,
+        552.33,
+        539.69,
+        521.95,
+        494.95,
+        454.62,
+        429.56,
+        485.39,
+        476.15,
+        484.64,
+        518.58,
+        482.05,
+        489.28,
+        483.36,
+        469.56,
+        474.32,
+        482.93,
+        483.01,
+        514.39,
+        506.0,
+        484.39,
+        466.42,
+        469.46,
+        473.25,
+        456.75,
+        479.18,
+        480.93,
+        476.67,
+        465.58,
+        470.72,
+        459.61,
+        457.06,
+        456.16,
+        477.57,
+        505.74,
+        521.1,
+        503.6,
+        516.13,
+        493.41,
+        504.2,
+        512.5,
+        545.09,
+        559.82,
+        615.52,
+        623.77,
+        614.61,
+        629.26,
+        630.63,
+        607.87,
+        607.57,
+        611.76,
+        615.73,
+        633.91,
+        631.75,
+        649.42,
+        645.86,
+        620.68,
+        608.1,
+        594.24,
+        605.53,
+        570.82,
+        562.23,
+        528.75,
+        538.05,
+        534.74,
+        552.72,
+        507.93,
+        516.79,
+        531.28,
+        560.26,
+        578.44,
+        566.42,
+        504.8,
+        466.84,
+        483.9,
+        488.78,
+        404.4,
+        449.04,
+        508.58,
+        515.21,
+        552.9,
+        585.3,
+        527.08
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Advanced Micro Devices Well Positioned as Agentic AI Drives Server CPU Market Growth, BofA Says",
+        "time": "2026-11-13T16:16:07+00:00",
+        "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-well-positioned-161607474.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Intel vs AMD: which chip stock wins the AI rotation trade",
+        "time": "2026-11-13T16:03:45+00:00",
+        "link": "https://finance.yahoo.com/technology/ai/articles/intel-vs-amd-chip-stock-160345701.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "AMD CEO Lisa SU on being named Yahoo Finance CEO of the Year",
+        "time": "2026-11-13T15:35:08+00:00",
+        "link": "https://finance.yahoo.com/video/amd-ceo-lisa-su-on-being-named-yahoo-finance-ceo-of-the-year-153508730.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      },
+      {
+        "title": "Nvidia, AMD, Microsoft, Broadcom, Coinbase, Modine, and More Stocks That Explain Today’s Market",
+        "time": "2026-11-13T14:59:00+00:00",
+        "link": "https://finance.yahoo.com/m/fa0293c5-bebc-3c34-924d-04a0b56c1b18/nvidia%2C-amd%2C-microsoft%2C.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "risk"
+        ]
+      },
+      {
+        "title": "A $14 Billion Fund Just Bought These 3 Stocks",
+        "time": "2026-11-13T14:50:32+00:00",
+        "link": "https://www.tikr.com/blog/14-billion-fund-bought-3-stocks-jpmorgan-amd-first-solar?ref=yahoofinance&tlnk=yf-261113-2p9563x9&.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "NVIDIA Rises 2% Despite Michael Burry Adding to Chip Shorts; AMD Retreats 3%, Broadcom Slides 2%",
+        "time": "2026-11-13T14:15:03+00:00",
+        "link": "https://247wallst.com/investing/2026/11/13/nvidia-rises-2-despite-michael-burry-adding-to-chip-shorts-amd-and-broadcom-slide-2/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "AMD’s Path to $700 Just Got Much Easier as Enterprise and Hyperscaler Diversification Tailwinds Rise",
+        "time": "2026-11-13T13:45:08+00:00",
+        "link": "https://247wallst.com/investing/2026/11/13/amds-path-to-700-just-got-much-easier-as-enterprise-and-hyperscaler-diversification-tailwinds-rise/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Kurssprung -9,9 % mit 2,2x Volumen ohne bekannte Meldung"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "-9,9 %"
+      },
+      {
+        "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "527,08 $ vs. 533,59 $"
+      },
+      {
+        "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+        "ok": true,
+        "val": "539,57 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,2x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "17572 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Kurssprung -9,9 % mit 2,2x Volumen ohne bekannte Meldung"
+    ]
+  },
+  {
+    "action": "ERÖFFNEN",
+    "sym": "AVGO",
+    "side": -1,
+    "shares": 3.0458215056357667,
+    "price": 342.115,
+    "value": 188.7890614005943,
+    "why": "Short: Broadcom Sinks 7% as Rothschild Redburn Downgrade Slashes Target to $398: “Unlikely to Occur Quickly”",
+    "id": "2026-11-13T16:37:33+00:00:ERÖFFNEN:AVGO",
+    "time": "2026-11-13T16:37:33+00:00",
+    "kind": "open",
+    "bot": "event",
+    "story": "Der Event-Bot setzt auf fallende Broadcom Inc. (AVGO), weil: Broadcom Sinks 7% as Rothschild Redburn Downgrade Slashes Target to $398: “Unlikely to Occur Quickly”. Heute -6,1 % mit 1,5x Volumen, Kurs unter VWAP und Ausbruch unter das Tief der ersten 30 Minuten. Einsatz 188,79 € mit 5x Hebel = 943,95 € Engagement. Stop bei 355,49 $ (Verlust ca. 36,91 €), Ziel bei 315,36 $ (Gewinn ca. 73,83 €). Spätestens nach 4 Std. oder vor Börsenschluss wird geschlossen.",
+    "name": "Broadcom Inc.",
+    "leverage": 5,
+    "levels": {
+      "stop": 355.493248384155,
+      "target": 315.3585032316901
+    },
+    "total": -3,
+    "scores": {
+      "Signale": 1,
+      "Trend": -2,
+      "Momentum": 1,
+      "Volumen": 0,
+      "Intraday": -2,
+      "News": -1
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Richard W. Allen kauft ($1,001 - $15,000)"
+      ],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 < SMA200",
+        "ADX 23: kein klarer Trend"
+      ],
+      "Momentum": [
+        "MACD positiv",
+        "RSI 52 neutral"
+      ],
+      "Volumen": [
+        "1.5x Volumen an einem Minus-Tag",
+        "OBV steigt (Akkumulation)",
+        "Chaikin Money Flow -0.12 (Geld fließt raus)",
+        "Kaufdruck: 1.3x mehr Volumen an Plus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs < VWAP 346.65",
+        "unter Opening Range 344.50",
+        "Gap -2.1 % zur Eröffnung"
+      ],
+      "News": [
+        "4 Schlagzeilen: 0 positiv, 1 negativ"
+      ]
+    },
+    "ind": {
+      "price": 342.115,
+      "sma50": 345.2846999023438,
+      "sma200": 367.3991754638672,
+      "adx": 23.008644468365876,
+      "plus_di": 26.846171192832266,
+      "minus_di": 27.955874731364748,
+      "macd_hist": 4.047409651093691,
+      "rsi": 51.64456265343984,
+      "stoch_k": 65.3903797788782,
+      "stoch_d": 80.41070217840202,
+      "bb_upper": 364.2755352679504,
+      "bb_lower": 297.1529630230652,
+      "bb_width": 20.29624439174152,
+      "roc20": 4.065399239543721,
+      "dollar_vol": 9152915630.225,
+      "rvol": 1.5016701936894095,
+      "obv_trend": 0.12919365072364175,
+      "cmf": -0.11913269010818872,
+      "buy_sell_ratio": 1.3079321033523033,
+      "high52": 495.0,
+      "low52": 289.7699890136719,
+      "vwap": 346.6535089672245,
+      "or_high": 358.4700012207031,
+      "or_low": 344.5,
+      "gap": -2.146222725060032,
+      "atr": 17.83766451220659,
+      "chg": -6.105221826183471,
+      "spark": [
+        421.86,
+        426.58,
+        446.77,
+        459.97,
+        481.57,
+        479.23,
+        418.91,
+        385.73,
+        396.6,
+        392.16,
+        372.1,
+        385.57,
+        382.07,
+        393.94,
+        376.71,
+        392.9,
+        411.35,
+        392.13,
+        380.15,
+        382.07,
+        378.91,
+        365.02,
+        372.45,
+        377.75,
+        369.34,
+        360.45,
+        373.9,
+        370.78,
+        388.69,
+        401.11,
+        399.97,
+        384.05,
+        389.11,
+        394.28,
+        374.45,
+        370.83,
+        378.16,
+        386.5,
+        396.81,
+        392.47,
+        381.92,
+        383.22,
+        380.91,
+        370.32,
+        387.84,
+        389.28,
+        392.23,
+        418.16,
+        418.28,
+        420.57,
+        427.76,
+        422.4,
+        416.08,
+        416.05,
+        417.82,
+        392.99,
+        392.43,
+        380.0,
+        362.48,
+        364.03,
+        368.45,
+        358.76,
+        356.74,
+        355.59,
+        371.54,
+        368.79,
+        370.34,
+        369.68,
+        367.24,
+        357.16,
+        357.9,
+        368.56,
+        364.38,
+        360.83,
+        361.99,
+        344.72,
+        339.27,
+        339.51,
+        347.3,
+        357.61,
+        362.66,
+        364.54,
+        354.99,
+        350.36,
+        352.81,
+        349.57,
+        355.1,
+        351.19,
+        343.64,
+        355.14,
+        362.51,
+        375.81,
+        376.51,
+        360.14,
+        361.54,
+        354.73,
+        357.31,
+        346.25,
+        344.33,
+        328.75,
+        334.59,
+        334.37,
+        337.8,
+        323.24,
+        321.68,
+        329.17,
+        342.33,
+        351.81,
+        345.0,
+        326.08,
+        322.23,
+        332.13,
+        325.48,
+        291.53,
+        293.69,
+        319.48,
+        331.98,
+        345.22,
+        364.36,
+        342.12
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Broadcom Sinks 7% as Rothschild Redburn Downgrade Slashes Target to $398: “Unlikely to Occur Quickly”",
+        "time": "2026-11-13T16:06:49+00:00",
+        "link": "https://www.tikr.com/blog/broadcom-sinks-7-as-rothschild-redburn-downgrade-slashes-target-to-398-unlikely-to-occur-quickly?ref=yahoofinance&tlnk=yf-261113-4822c24x&.tsrc=rss",
+        "tone": -2,
+        "source": "Yahoo Finance",
+        "tags": [
+          "analyst"
+        ]
+      },
+      {
+        "title": "Hyperscalers Are About to Lean Into Broadcom Now That Nvidia Faces Serious Heat in The $160s",
+        "time": "2026-11-13T15:45:03+00:00",
+        "link": "https://247wallst.com/investing/2026/11/13/hyperscalers-are-about-to-lean-into-broadcom-now-that-nvidia-faces-serious-heat-in-the-160s/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Not One Analyst Rates Broadcom a Sell. What Are They Missing?",
+        "time": "2026-11-13T15:26:32+00:00",
+        "link": "https://247wallst.com/investing/2026/11/13/not-one-analyst-rates-broadcom-a-sell-what-are-they-missing/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "NVIDIA Leadership Crisis Opens Door for Chip Rivals? ETFs in Focus",
+        "time": "2026-11-13T13:00:00+00:00",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-leadership-crisis-opens-door-130000258.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Broadcom Sinks 7% as Rothschild Redburn Downgrade Slashes Target to $398: “Unlik"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "-6,1 %"
+      },
+      {
+        "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "342,12 $ vs. 346,65 $"
+      },
+      {
+        "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+        "ok": true,
+        "val": "344,50 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "1,5x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "9152 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Broadcom Sinks 7% as Rothschild Redburn Downgrade Slashes Target to $398: “Unlikely to Occur Quickly”"
+    ]
+  },
+  {
+    "action": "ERÖFFNEN",
+    "sym": "AMAT",
+    "side": -1,
+    "shares": 2.894583886706281,
+    "price": 359.63,
+    "value": 188.60027233919374,
+    "why": "Short: Applied Materials Is 47% Off Its High. Summit Insights Downgraded It, and It’s Not About Demand; Applied Materials, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht",
+    "id": "2026-11-13T16:37:33+00:00:ERÖFFNEN:AMAT",
+    "time": "2026-11-13T16:37:33+00:00",
+    "kind": "open",
+    "bot": "event",
+    "story": "Der Event-Bot setzt auf fallende Applied Materials, Inc. (AMAT), weil: Applied Materials Is 47% Off Its High. Summit Insights Downgraded It, and It’s Not About Demand; Applied Materials, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht. Heute -5,6 % mit 1,5x Volumen, Kurs unter VWAP und Ausbruch unter das Tief der ersten 30 Minuten. Einsatz 188,60 € mit 5x Hebel = 943,00 € Engagement. Stop bei 378,36 $ (Verlust ca. 49,12 €), Ziel bei 322,17 $ (Gewinn ca. 98,23 €). Spätestens nach 4 Std. oder vor Börsenschluss wird geschlossen.",
+    "name": "Applied Materials, Inc.",
+    "leverage": 5,
+    "levels": {
+      "stop": 378.3610977837783,
+      "target": 322.16780443244346
+    },
+    "total": -6,
+    "scores": {
+      "Signale": 0,
+      "Trend": -4,
+      "Momentum": 0,
+      "Volumen": -2,
+      "Intraday": -2,
+      "News": 2
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Josh Gottheimer kauft ($1,001 - $15,000)",
+        "Hon. Josh Gottheimer kauft ($1,001 - $15,000)",
+        "Hon. Josh Gottheimer verkauft ($1,001 - $15,000)"
+      ],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 < SMA200",
+        "Death Cross (letzte 10 Tage)",
+        "ADX 32: starker Abwärtstrend"
+      ],
+      "Momentum": [
+        "MACD positiv",
+        "RSI 41 neutral",
+        "-12.1 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "1.5x Volumen an einem Minus-Tag",
+        "Chaikin Money Flow -0.29 (Geld fließt raus)"
+      ],
+      "Intraday": [
+        "Kurs < VWAP 365.72",
+        "unter Opening Range 364.14"
+      ],
+      "News": [
+        "15 Schlagzeilen: 4 positiv, 1 negativ",
+        "8-K: Quartalszahlen veröffentlicht"
+      ]
+    },
+    "ind": {
+      "price": 359.63,
+      "sma50": 437.6916008544922,
+      "sma200": 446.48514981689453,
+      "adx": 31.588255682673683,
+      "plus_di": 21.107294780653664,
+      "minus_di": 36.70680648217982,
+      "macd_hist": 2.555666639675138,
+      "rsi": 40.59607759799286,
+      "stoch_k": 38.9522650609725,
+      "stoch_d": 56.2228107687867,
+      "bb_upper": 432.93356772309824,
+      "bb_lower": 331.83442800444084,
+      "bb_width": 26.43916593880993,
+      "roc20": -12.133208118485362,
+      "dollar_vol": 2998010541.25,
+      "rvol": 1.5117494018683177,
+      "obv_trend": 0.05996571651347258,
+      "cmf": -0.29130629689330534,
+      "buy_sell_ratio": 1.1313639369267094,
+      "high52": 739.6699829101562,
+      "low52": 203.39999389648438,
+      "vwap": 365.7153944241926,
+      "or_high": 381.2200012207031,
+      "or_low": 364.1400146484375,
+      "gap": -1.198320591974511,
+      "atr": 24.974797045037693,
+      "chg": -5.5965380033757945,
+      "spark": [
+        448.25,
+        449.68,
+        450.06,
+        458.17,
+        490.05,
+        500.77,
+        501.7,
+        453.01,
+        492.17,
+        499.21,
+        497.01,
+        552.64,
+        567.25,
+        585.78,
+        568.23,
+        592.92,
+        617.11,
+        640.18,
+        585.88,
+        588.97,
+        668.0,
+        626.84,
+        694.64,
+        723.0,
+        650.91,
+        603.04,
+        592.79,
+        554.5,
+        570.5,
+        588.66,
+        602.5,
+        575.39,
+        595.7,
+        579.43,
+        560.93,
+        529.66,
+        525.7,
+        564.55,
+        553.92,
+        562.8,
+        536.25,
+        516.89,
+        476.46,
+        436.45,
+        501.77,
+        507.67,
+        518.21,
+        546.62,
+        534.24,
+        527.48,
+        539.14,
+        522.12,
+        525.61,
+        548.15,
+        534.54,
+        507.18,
+        535.31,
+        514.33,
+        496.17,
+        496.21,
+        492.32,
+        484.19,
+        480.04,
+        479.76,
+        482.36,
+        461.67,
+        458.39,
+        441.85,
+        438.46,
+        435.91,
+        454.71,
+        472.79,
+        468.85,
+        454.01,
+        456.49,
+        424.21,
+        421.17,
+        415.38,
+        417.4,
+        444.57,
+        464.24,
+        472.46,
+        474.38,
+        474.25,
+        485.0,
+        486.76,
+        512.01,
+        511.38,
+        529.3,
+        540.04,
+        542.28,
+        530.27,
+        520.65,
+        509.57,
+        507.03,
+        497.53,
+        464.24,
+        446.63,
+        430.01,
+        409.29,
+        413.11,
+        404.98,
+        408.94,
+        375.58,
+        377.24,
+        387.59,
+        395.93,
+        416.0,
+        421.66,
+        390.09,
+        374.53,
+        381.92,
+        369.4,
+        319.25,
+        332.72,
+        370.55,
+        372.53,
+        395.08,
+        380.95,
+        359.63
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Applied Materials Outlook Supported by Memory, Advanced Packaging Demand as Margins Stay on Track, RBC Says",
+        "time": "2026-11-13T15:52:13+00:00",
+        "link": "https://finance.yahoo.com/technology/articles/applied-materials-outlook-supported-memory-155213663.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Applied Materials Is 47% Off Its High. Summit Insights Downgraded It, and It’s Not About Demand",
+        "time": "2026-11-13T15:48:55+00:00",
+        "link": "https://www.tikr.com/blog/applied-materials-is-47-off-its-high-summit-insights-downgraded-it-and-its-not-about-demand?ref=yahoofinance&tlnk=yf-261113-qxvgfm6m&.tsrc=rss",
+        "tone": -1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "analyst"
+        ]
+      },
+      {
+        "title": "UBS Cut Its Applied Materials Target After a Record Quarter. It Still Sees 68% Upside",
+        "time": "2026-11-13T15:33:55+00:00",
+        "link": "https://www.tikr.com/blog/ubs-cut-its-applied-materials-target-after-a-record-quarter-it-still-sees-68-upside?ref=yahoofinance&tlnk=yf-261113-q9vrg9r8&.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Applied Materials sees semiconductor systems growth above 40% as AI demand drives record results",
+        "time": "2026-11-13T14:05:00+00:00",
+        "link": "https://www.proactiveinvestors.com/companies/news/1101761/applied-materials-sees-semiconductor-systems-growth-above-40-as-ai-demand-drives-record-results-1101761.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "AMAT Stock Gets Slew Of Price Target Cuts Even After Beat-And-Raise Quarter: Morningstar Calls AI Worries ‘Overblown’",
+        "time": "2026-11-13T14:03:22+00:00",
+        "link": "https://stocktwits.com/news-articles/markets/equity/amat-gets-slew-of-price-target-cuts-even-after-beat-and-raise-quarter-morningstar-calls-ai-worries-overblown/cNbR5vBR9fL?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "analyst"
+        ]
+      },
+      {
+        "title": "Applied Materials Says Chip Demand Remains “Much Higher Than Supply”",
+        "time": "2026-11-13T13:22:38+00:00",
+        "link": "https://247wallst.com/investing/2026/11/13/applied-materials-says-chip-demand-remains-much-higher-than-supply/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      },
+      {
+        "title": "Applied Materials Logs Record Quarter as DRAM Tool Sales Climb",
+        "time": "2026-11-13T11:35:35+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-logs-record-quarter-113535034.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Applied Materials’ Earnings Beat Gets Lukewarm Reception as Nvidia Fallout Lingers",
+        "time": "2026-11-13T11:18:00+00:00",
+        "link": "https://finance.yahoo.com/m/7ef83d64-c59b-35c1-a8d3-c7aa31d7993c/applied-materials%E2%80%99-earnings.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Applied Materials Is 47% Off Its High. Summit Insights Downgraded It, and It’s N"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "-5,6 %"
+      },
+      {
+        "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "359,63 $ vs. 365,72 $"
+      },
+      {
+        "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+        "ok": true,
+        "val": "364,14 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "1,5x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "2998 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Applied Materials Is 47% Off Its High. Summit Insights Downgraded It, and It’s Not About Demand",
+      "Applied Materials, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+    ]
   }
 ]
