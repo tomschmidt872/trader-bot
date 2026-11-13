@@ -1,5 +1,15 @@
 [
   {
+    "id": "etrade:2026-11-13T18:30:32+00:00:ERÖFFNEN:TNDM",
+    "type": "trade",
+    "sym": "TNDM",
+    "time": "2026-11-13T18:30:32+00:00",
+    "seen": "2026-11-13T18:30:32+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long TNDM (5x)",
+    "detail": "Long: Tandem Diabetes stock jumps 8% on FDA clearance for tubeless pump"
+  },
+  {
     "id": "etrade:2026-11-13T16:37:33+00:00:ERÖFFNEN:AMAT",
     "type": "trade",
     "sym": "AMAT",
@@ -13370,6 +13380,126 @@
     "seen": "2026-11-13T14:30:09+00:00"
   },
   {
+    "id": "congress:20035831:GOOGL:P:2026-11-03",
+    "type": "congress",
+    "sym": "GOOGL",
+    "time": "2026-11-12T12:00:00+00:00",
+    "title": "Hon. David J. Taylor kauft GOOGL ($1,001 - $15,000), gehandelt am 2026-11-03",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+    "tone": 1,
+    "seen": "2026-11-13T18:23:46+00:00"
+  },
+  {
+    "id": "congress:20035831:AMGN:S:2026-11-03",
+    "type": "congress",
+    "sym": "AMGN",
+    "time": "2026-11-12T12:00:00+00:00",
+    "title": "Hon. David J. Taylor verkauft AMGN ($1,001 - $15,000), gehandelt am 2026-11-03",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+    "tone": -1,
+    "seen": "2026-11-13T18:23:46+00:00"
+  },
+  {
+    "id": "congress:20035831:T:P:2026-11-03",
+    "type": "congress",
+    "sym": "T",
+    "time": "2026-11-12T12:00:00+00:00",
+    "title": "Hon. David J. Taylor kauft T ($1,001 - $15,000), gehandelt am 2026-11-03",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+    "tone": 1,
+    "seen": "2026-11-13T18:23:46+00:00"
+  },
+  {
+    "id": "congress:20035831:AVGO:P:2026-11-05",
+    "type": "congress",
+    "sym": "AVGO",
+    "time": "2026-11-12T12:00:00+00:00",
+    "title": "Hon. David J. Taylor kauft AVGO ($1,001 - $15,000), gehandelt am 2026-11-05",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+    "tone": 1,
+    "seen": "2026-11-13T18:23:46+00:00"
+  },
+  {
+    "id": "congress:20035831:ETN:P:2026-11-03",
+    "type": "congress",
+    "sym": "ETN",
+    "time": "2026-11-12T12:00:00+00:00",
+    "title": "Hon. David J. Taylor kauft ETN ($1,001 - $15,000), gehandelt am 2026-11-03",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+    "tone": 1,
+    "seen": "2026-11-13T18:23:46+00:00"
+  },
+  {
+    "id": "congress:20035831:LLY:S:2026-11-03",
+    "type": "congress",
+    "sym": "LLY",
+    "time": "2026-11-12T12:00:00+00:00",
+    "title": "Hon. David J. Taylor verkauft LLY ($1,001 - $15,000), gehandelt am 2026-11-03",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+    "tone": -1,
+    "seen": "2026-11-13T18:23:46+00:00"
+  },
+  {
+    "id": "congress:20035831:HD:S:2026-11-05",
+    "type": "congress",
+    "sym": "HD",
+    "time": "2026-11-12T12:00:00+00:00",
+    "title": "Hon. David J. Taylor verkauft HD ($1,001 - $15,000), gehandelt am 2026-11-05",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+    "tone": -1,
+    "seen": "2026-11-13T18:23:46+00:00"
+  },
+  {
+    "id": "congress:20035831:IBP:P:2026-11-03",
+    "type": "congress",
+    "sym": "IBP",
+    "time": "2026-11-12T12:00:00+00:00",
+    "title": "Hon. David J. Taylor kauft IBP ($1,001 - $15,000), gehandelt am 2026-11-03",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+    "tone": 1,
+    "seen": "2026-11-13T18:23:46+00:00"
+  },
+  {
+    "id": "congress:20035831:KR:S:2026-11-03",
+    "type": "congress",
+    "sym": "KR",
+    "time": "2026-11-12T12:00:00+00:00",
+    "title": "Hon. David J. Taylor verkauft KR ($1,001 - $15,000), gehandelt am 2026-11-03",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+    "tone": -1,
+    "seen": "2026-11-13T18:23:46+00:00"
+  },
+  {
+    "id": "congress:20035831:LRCX:P:2026-11-05",
+    "type": "congress",
+    "sym": "LRCX",
+    "time": "2026-11-12T12:00:00+00:00",
+    "title": "Hon. David J. Taylor kauft LRCX ($1,001 - $15,000), gehandelt am 2026-11-05",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+    "tone": 1,
+    "seen": "2026-11-13T18:23:46+00:00"
+  },
+  {
+    "id": "congress:20035831:PG:S:2026-11-05",
+    "type": "congress",
+    "sym": "PG",
+    "time": "2026-11-12T12:00:00+00:00",
+    "title": "Hon. David J. Taylor verkauft PG ($1,001 - $15,000), gehandelt am 2026-11-05",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+    "tone": -1,
+    "seen": "2026-11-13T18:23:46+00:00"
+  },
+  {
+    "id": "congress:20035831:V:S:2026-11-03",
+    "type": "congress",
+    "sym": "V",
+    "time": "2026-11-12T12:00:00+00:00",
+    "title": "Hon. David J. Taylor verkauft V ($1,001 - $15,000), gehandelt am 2026-11-03",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf",
+    "tone": -1,
+    "seen": "2026-11-13T18:23:46+00:00"
+  },
+  {
     "title": "Amgen’s acquired Sjögren’s drug a Phase III hit",
     "time": "2026-11-12T11:52:49+00:00",
     "link": "https://www.clinicaltrialsarena.com/news/amgen-dazodalipeb-sjogrens-disease-phase-iii-results/?.tsrc=rss",
@@ -20600,177 +20730,6 @@
     "type": "news",
     "sym": "TMO",
     "summary": "Target epigenetics kits, precision oncology and AI-enabled sequencing; leverage tariff, regional and competitive insights to optimize sourcing and unlock revenue.Dublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Epigenetics - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offe",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Gene Therapy - Global Strategic Business Report: Capitalize on 23% CAGR as the Market Hits US$6 Billion by 2030; Benchmark Amgen, Alnylam, BioMarin, Biogen and bluebird bio",
-    "time": "2026-11-11T14:10:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/gene-therapy-global-strategic-business-141000869.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:AMGN:rss:6462f6b0-6287-3d85-87d1-1821ec5a813d",
-    "type": "news",
-    "sym": "AMGN",
-    "summary": "Commercialization, regulatory incentives and partnerships boost gene therapy ROI, while gene editing unlocks opportunities in rare diseases and oncology.Dublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Gene Therapy - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. Gl",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Group 1 Automotive Announces Hennessy Ford Lincoln is now Group 1 Ford Lincoln Atlanta",
-    "time": "2026-11-11T14:09:00+00:00",
-    "link": "https://finance.yahoo.com/small-business/articles/group-1-automotive-announces-hennessy-140900504.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "deal"
-    ],
-    "id": "news:F:rss:ab65a779-507a-3e85-870b-c7146584a9c8",
-    "type": "news",
-    "sym": "F",
-    "summary": "In a strategic move to unify its extensive network of dealerships, Group 1 Automotive, Inc., a Houston-based automotive retailer with dealerships across the U.S. and U.K., announced that Hennessy Ford Lincoln has been renamed Group 1 Ford Lincoln Atlanta, following the company's acquisition of Henne",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Western Digital (WDC) Stock Looks Reasonable Despite AI Data Center Fears",
-    "time": "2026-11-11T14:07:56+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-stock-looks-140756640.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:WDC:rss:4e7f03d4-eea6-35f6-af89-4938b3d6cf10",
-    "type": "news",
-    "sym": "WDC",
-    "summary": "Western Digital has gone through sharp swings in recent years, and the latest pullback now puts the spotlight squarely on whether the current share price lines up with what its earnings can support. After such a volatile stretch, the core issue for you as an investor is whether the recent move has b",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "NVIDIA Rises 4% Despite Baird Downgrade and Huang Uncertainty; AMD Climbs 5%, Broadcom Gains 4%",
-    "time": "2026-11-11T14:05:16+00:00",
-    "link": "https://247wallst.com/investing/2026/11/11/nvidia-rises-4-despite-baird-downgrade-and-huang-uncertainty-amd-climbs-5-broadcom-gains-4/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst",
-      "people"
-    ],
-    "id": "news:AMD:rss:77311a17-bb2a-3777-a96a-ab757790c79c",
-    "type": "news",
-    "sym": "AMD",
-    "summary": "Baird slashed its NVIDIA price target by more than half and questioned whether Jensen Huang will still be CEO in 2027, yet buyers rushed in anyway. What spooked one analyst, and what is Goldman seeing that others miss?",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "NVIDIA Rises 4% Despite Baird Downgrade and Huang Uncertainty; AMD Climbs 5%, Broadcom Gains 4%",
-    "time": "2026-11-11T14:05:16+00:00",
-    "link": "https://247wallst.com/investing/2026/11/11/nvidia-rises-4-despite-baird-downgrade-and-huang-uncertainty-amd-climbs-5-broadcom-gains-4/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst",
-      "people"
-    ],
-    "id": "news:AVGO:rss:77311a17-bb2a-3777-a96a-ab757790c79c",
-    "type": "news",
-    "sym": "AVGO",
-    "summary": "Baird slashed its NVIDIA price target by more than half and questioned whether Jensen Huang will still be CEO in 2027, yet buyers rushed in anyway. What spooked one analyst, and what is Goldman seeing that others miss?",
-    "seen": "2026-11-11T18:27:44+00:00"
-  },
-  {
-    "title": "Supermicro Now Shipping Next-Generation Servers Powered by 6th Gen AMD EPYC™ 9006 Series CPUs for Cloud, HPC, and Agentic AI Workloads",
-    "time": "2026-11-11T14:05:00+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/supermicro-now-shipping-next-generation-140500879.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMD:rss:6ab22b27-e530-3692-b94d-d0a6870d840f",
-    "type": "news",
-    "sym": "AMD",
-    "summary": "Super Micro Computer, Inc. (NASDAQ: SMCI), an AI, Enterprise, Storage, and 5G/Edge Total IT Solution Provider featuring Data Center Building Block Solutions® (DCBBS), today announced that its H15 generation server portfolio is now shipping. Powered by the 6th Gen AMD EPYC 9006 Series processors (for",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "CoreWeave Surges 16% as Beat-and-Raise Quarter Eases Financing Fears; Nebius Gains 13%, Oracle Advances 5%",
-    "time": "2026-11-11T14:03:35+00:00",
-    "link": "https://247wallst.com/investing/2026/11/11/coreweave-jumps-16-as-beat-and-raise-quarter-eases-financing-fears-nebius-surges-13-oracle-rises-5/?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "people"
-    ],
-    "id": "news:ORCL:rss:dbff9365-f051-363c-a52d-40f384fc7f1c",
-    "type": "news",
-    "sym": "ORCL",
-    "summary": "Credit markets had flashed distress signals on CoreWeave just days before earnings. Then its CEO made a bold pledge about how the company will pay for its AI buildout, and the neocloud group took notice. Can the promise hold?",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "CVS Health earns global recognition for industry-leading AI and technology innovation",
-    "time": "2026-11-11T14:00:00+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/cvs-health-earns-global-recognition-140000686.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CVS:rss:33eebae0-22ea-3a76-b86f-0136dca952b6",
-    "type": "news",
-    "sym": "CVS",
-    "summary": "CVS Health® (NYSE: CVS) is being recognized with seven Stevie® Awards for technology and responsible AI innovations that are simplifying access to care, supporting colleagues in their work, and helping communities respond to emergencies.",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Elon Musk Aims for Historic 'Double Catch' Friday",
-    "time": "2026-11-11T13:50:42+00:00",
-    "link": "https://www.benzinga.com/markets/prediction-markets/26/11/63136815/starship-double-catch?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:SPCX:rss:ee45c4ec-bfd4-3177-83bf-614b1ca5febb",
-    "type": "news",
-    "sym": "SPCX",
-    "summary": "Elon Musk’s SpaceX (NASDAQ:SPCX) is aiming for a historic “double catch” on Friday’s Starship Flight 15, attempting to recover both stages of the rocket using giant mechanical arms nicknamed “chopsticks.” Morgan Stanley analyst Adam Jonas said in an October research...",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "The Uber Stock Correction Provides a Good Entry Opportunity With Ample Revenue Growth Drivers",
-    "time": "2026-11-11T13:50:42+00:00",
-    "link": "https://www.barchart.com/story/news/8776582/the-uber-stock-correction-provides-a-good-entry-opportunity-with-ample-revenue-growth-drivers?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:UBER:rss:7f585693-00ef-3d9c-b626-405ca61c121a",
-    "type": "news",
-    "sym": "UBER",
-    "summary": "Uber and Amazon have signed on to a food delivery partnership",
-    "seen": "2026-11-12T14:32:29+00:00"
-  },
-  {
-    "title": "Applied Materials Is Up 59% in a Year, Even After Halving From Its High: “Double Our Output”",
-    "time": "2026-11-11T13:50:18+00:00",
-    "link": "https://www.tikr.com/blog/applied-materials-is-up-59-in-a-year-even-after-halving-from-its-high-double-our-output?ref=yahoofinance&tlnk=yf-261111-g2v2x8x2&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMAT:rss:d137333b-4824-3dd9-aecf-cf019f4ccd0e",
-    "type": "news",
-    "sym": "AMAT",
-    "summary": "Key TakeawaysApplied Materials stock is up 59% over the past year, even after losing about half its value since its June 30 record close. Record quarters drove the climb, and worries about AI spending, sparked partly by Lam Research’s outlook, drove the fall, with no bad news from Applied itself.",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Guardant Health Introduces New Epigenomic Applications Providing Deeper Insights for Treatment Selection with Guardant360® Liquid",
-    "time": "2026-11-11T13:46:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/guardant-health-introduces-epigenomic-applications-134600377.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:GH:rss:6178caa2-35b3-3f33-a2d3-150c2bfa5f51",
-    "type": "news",
-    "sym": "GH",
-    "summary": "PALO ALTO, Calif., November 11, 2026--Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company, today announced new applications for Guardant360® Liquid designed to help oncologists understand how a patient’s cancer may respond to treatment in the absence of traditional biomarkers.",
     "seen": "2026-11-11T17:32:52+00:00"
   }
 ]

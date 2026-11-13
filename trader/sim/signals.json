@@ -2771,6 +2771,138 @@
       "amount_low": 1001,
       "filed": "2026-11-11",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf"
+    },
+    {
+      "doc_id": "20035831",
+      "member": "Hon. David J. Taylor",
+      "ticker": "GOOGL",
+      "type": "P",
+      "date": "2026-11-03",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-12",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+    },
+    {
+      "doc_id": "20035831",
+      "member": "Hon. David J. Taylor",
+      "ticker": "AMGN",
+      "type": "S",
+      "date": "2026-11-03",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-12",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+    },
+    {
+      "doc_id": "20035831",
+      "member": "Hon. David J. Taylor",
+      "ticker": "T",
+      "type": "P",
+      "date": "2026-11-03",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-12",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+    },
+    {
+      "doc_id": "20035831",
+      "member": "Hon. David J. Taylor",
+      "ticker": "AVGO",
+      "type": "P",
+      "date": "2026-11-05",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-12",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+    },
+    {
+      "doc_id": "20035831",
+      "member": "Hon. David J. Taylor",
+      "ticker": "ETN",
+      "type": "P",
+      "date": "2026-11-03",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-12",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+    },
+    {
+      "doc_id": "20035831",
+      "member": "Hon. David J. Taylor",
+      "ticker": "LLY",
+      "type": "S",
+      "date": "2026-11-03",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-12",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+    },
+    {
+      "doc_id": "20035831",
+      "member": "Hon. David J. Taylor",
+      "ticker": "HD",
+      "type": "S",
+      "date": "2026-11-05",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-12",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+    },
+    {
+      "doc_id": "20035831",
+      "member": "Hon. David J. Taylor",
+      "ticker": "IBP",
+      "type": "P",
+      "date": "2026-11-03",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-12",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+    },
+    {
+      "doc_id": "20035831",
+      "member": "Hon. David J. Taylor",
+      "ticker": "KR",
+      "type": "S",
+      "date": "2026-11-03",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-12",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+    },
+    {
+      "doc_id": "20035831",
+      "member": "Hon. David J. Taylor",
+      "ticker": "LRCX",
+      "type": "P",
+      "date": "2026-11-05",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-12",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+    },
+    {
+      "doc_id": "20035831",
+      "member": "Hon. David J. Taylor",
+      "ticker": "PG",
+      "type": "S",
+      "date": "2026-11-05",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-12",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
+    },
+    {
+      "doc_id": "20035831",
+      "member": "Hon. David J. Taylor",
+      "ticker": "V",
+      "type": "S",
+      "date": "2026-11-03",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-12",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
     }
   ]
 }

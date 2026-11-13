@@ -1,7 +1,7 @@
 {
   "currency": "EUR",
   "type": "event",
-  "cash": 375.6909871544502,
+  "cash": 188.40672099552512,
   "start_cash": 1000.0,
   "leverage": 5,
   "started": "2026-11-11T17:37:18+00:00",
@@ -158,6 +158,59 @@
           "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
           "ok": true,
           "val": "2998 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "TNDM": {
+      "side": 1,
+      "shares": 51.168132716076705,
+      "entry": 20.1,
+      "entry_fx": 1.1038,
+      "margin_eur": 186.3525036407215,
+      "atr": 1.37713842419443,
+      "leverage": 5,
+      "stop": 19.067146181854177,
+      "target": 22.165707636291646,
+      "opened": "2026-11-13T18:30:32+00:00",
+      "name": "Tandem Diabetes Care, Inc.",
+      "trigger": [
+        "Tandem Diabetes stock jumps 8% on FDA clearance for tubeless pump"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "Tandem Diabetes stock jumps 8% on FDA clearance for tubeless pump"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "14,8 %"
+        },
+        {
+          "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "20,10 $ vs. 19,72 $"
+        },
+        {
+          "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+          "ok": true,
+          "val": "20,05 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "1,5x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "52 Mio. $"
         },
         {
           "rule": "Keine Warnmeldung der SEC",
