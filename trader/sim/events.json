@@ -3192,6 +3192,17 @@
     "seen": "2026-11-13T14:30:09+00:00"
   },
   {
+    "id": "insider:0000021344-26-000173:S:2026-11-12:15000.0",
+    "type": "insider",
+    "sym": "KO",
+    "time": "2026-11-13T12:00:00+00:00",
+    "title": "QUAN NANCY (Executive Vice President) verkauft 15.000 Aktien für 1.5 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-12 zu 98,00 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000173/",
+    "tone": -1,
+    "seen": "2026-11-13T20:29:25+00:00"
+  },
+  {
     "title": "Rocket Lab CEO Takes a Swipe at Elon Musk, Explains Why Neutron Gives Company an Edge Over SpaceX: ‘First Priority Is…’",
     "time": "2026-11-13T11:59:48+00:00",
     "link": "https://finance.yahoo.com/technology/articles/rocket-lab-ceo-takes-swipe-115948505.html?.tsrc=rss",
@@ -20683,77 +20694,6 @@
     "type": "news",
     "sym": "TMO",
     "summary": "Target revenue opportunities in rapid DNA, NGS, multimodal biometrics and personalized medicine, guided by regional, segment and competitive intelligenceDublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Human Identification - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Genomics - Global Strategic Business Report 2026: Capitalize on the $117.3 Billion Market by 2032, Featuring Strategic Intelligence on Illumina, Thermo Fisher Scientific, Danaher, and Oxford Nanopore",
-    "time": "2026-11-11T14:14:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/genomics-global-strategic-business-report-141400144.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:DHR:rss:740e4592-e1bb-39e9-9e73-5336274630a0",
-    "type": "news",
-    "sym": "DHR",
-    "summary": "Dublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Genomics - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global genomics market was valued at US$45.7 billion in 2025 and is projected to reach US$117.3 billion by 2032, expanding at a compound annual growth",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Oracle Commodity Holding Announces $105,000 Private Placement",
-    "time": "2026-11-11T14:14:00+00:00",
-    "link": "https://finance.yahoo.com/markets/commodities/articles/oracle-commodity-holding-announces-105-141400403.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:ORCL:rss:f8538f23-8afd-39b5-aee4-5905111af05b",
-    "type": "news",
-    "sym": "ORCL",
-    "summary": "Vancouver, British Columbia--(Newsfile Corp. - November 11, 2026) - Oracle Commodity Holding Corp. (TSXV: ORCL) (OTCQB: ORLCF) (\"Oracle\" or the \"Company\") announces that it intends to complete a non-brokered private placement financing (the \"Offering\") of up to 3,500,000 units (the \"Units\") at a pri",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Molecular Cytogenetics - Global Strategic Business Report: Capitalize on 8.8% CAGR to US$3.5 Billion by 2030; Outmaneuver Abbott, Agilent, Bio-Rad, Illumina and Roche Amid Tariff Shifts",
-    "time": "2026-11-11T14:13:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/molecular-cytogenetics-global-strategic-business-141300993.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:ABT:rss:c011ac18-b22a-3eb6-b87f-8f7ee75060b1",
-    "type": "news",
-    "sym": "ABT",
-    "summary": "Capitalize on personalized medicine, advanced genetic testing and cancer diagnostics with tariff-aware sourcing, regional analysis and competitive insights.Dublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Molecular Cytogenetics - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Gilead Sciences (GILD) Posts PURPOSE 5 Win As HIV Shot Beats Daily Pills",
-    "time": "2026-11-11T14:12:21+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/gilead-sciences-gild-posts-purpose-141221031.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:GILD:rss:31267687-9ff1-317e-abd0-bfc5a62f551f",
-    "type": "news",
-    "sym": "GILD",
-    "summary": "Gilead Sciences (NasdaqGS:GILD) reported PURPOSE 5 trial data showing twice-yearly injectable lenacapavir for HIV prevention outperformed daily oral PrEP on persistence. The PURPOSE 5 study found higher adherence and zero HIV infections in the lenacapavir group compared with oral prevention medicine",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Is Corning (GLW) Undervalued After Its 28% One Month Slide?",
-    "time": "2026-11-11T14:12:21+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-undervalued-28-one-141221479.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:GLW:rss:982f39fe-f4be-34d3-aa3a-f9509d44fbc7",
-    "type": "news",
-    "sym": "GLW",
-    "summary": "ETF trading put Corning (GLW) in focus after a net US$47.6 million of shares shifted into funds over five days, capped by strong buying from Capital Group Core Equity ETF. Corning’s share price has retreated sharply in the short term, with the stock down 3.3% on the day, 11.1% over the past week and",
     "seen": "2026-11-11T17:32:52+00:00"
   }
 ]
