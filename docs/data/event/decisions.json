@@ -8400,5 +8400,233 @@
     "trigger": [
       "Kurssprung -5,5 % mit 2,2x Volumen ohne bekannte Meldung"
     ]
+  },
+  {
+    "action": "ERÖFFNEN",
+    "sym": "MBGL",
+    "side": 1,
+    "shares": 39.94987559239583,
+    "price": 24.565,
+    "value": 178.3009981699134,
+    "why": "Long: Kurssprung 5,5 % mit 2,4x Volumen ohne bekannte Meldung",
+    "id": "2026-11-16T17:47:35+00:00:ERÖFFNEN:MBGL",
+    "time": "2026-11-16T17:47:35+00:00",
+    "kind": "open",
+    "bot": "event",
+    "story": "Der Event-Bot setzt auf steigende Mobility Global Inc. (MBGL), weil: Kurssprung 5,5 % mit 2,4x Volumen ohne bekannte Meldung. Heute 5,5 % mit 2,4x Volumen, Kurs über VWAP und Ausbruch über das Hoch der ersten 30 Minuten. Einsatz 178,30 € mit 5x Hebel = 891,50 € Engagement. Stop bei 23,93 $ (Verlust ca. 23,16 €), Ziel bei 25,84 $ (Gewinn ca. 46,33 €). Spätestens nach 4 Std. oder vor Börsenschluss wird geschlossen.",
+    "name": "Mobility Global Inc.",
+    "leverage": 5,
+    "levels": {
+      "stop": 23.926760676415835,
+      "target": 25.841478647168334
+    },
+    "total": 9,
+    "scores": {
+      "Signale": 2,
+      "Trend": 2,
+      "Momentum": -1,
+      "Volumen": 4,
+      "Intraday": 2,
+      "News": 0
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Gilbert Cisneros kauft ($50,001 - $100,000)"
+      ],
+      "Trend": [
+        "Kurs > SMA50",
+        "ADX 33: starker Aufwärtstrend"
+      ],
+      "Momentum": [
+        "MACD positiv",
+        "RSI 84 überkauft",
+        "Stochastik 96 dreht aus überkauft",
+        "über dem oberen Bollinger-Band",
+        "+33.3 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "2.4x Volumen an einem Plus-Tag",
+        "OBV steigt (Akkumulation)",
+        "Chaikin Money Flow +0.28 (Geld fließt rein)",
+        "Kaufdruck: 2.1x mehr Volumen an Plus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs > VWAP 24.53",
+        "Ausbruch über Opening Range 24.13"
+      ],
+      "News": []
+    },
+    "ind": {
+      "price": 24.565,
+      "sma50": 19.15030012969971,
+      "sma200": null,
+      "adx": 32.98016528999181,
+      "plus_di": 51.35491922483512,
+      "minus_di": 7.845572321251721,
+      "macd_hist": 0.5506479428170222,
+      "rsi": 83.87463586205419,
+      "stoch_k": 95.6934219865216,
+      "stoch_d": 97.24372484643673,
+      "bb_upper": 23.267128625352385,
+      "bb_lower": 16.434371832411287,
+      "bb_width": 34.420647653909754,
+      "roc20": 33.28811499314679,
+      "dollar_vol": 96461964.825,
+      "rvol": 2.3676161917895087,
+      "obv_trend": 0.3615684761530048,
+      "cmf": 0.28344655291435544,
+      "buy_sell_ratio": 2.140179803252359,
+      "high52": 26.0,
+      "low52": 16.950000762939453,
+      "vwap": 24.52708440428303,
+      "or_high": 24.129899978637695,
+      "or_low": 23.440000534057617,
+      "gap": 0.6872845476499245,
+      "atr": 0.8509857647788882,
+      "chg": 5.519756337857973,
+      "spark": [
+        21.0,
+        23.0,
+        22.05,
+        21.19,
+        19.8,
+        19.26,
+        21.2,
+        21.5,
+        22.26,
+        20.8,
+        20.26,
+        20.57,
+        21.0,
+        20.66,
+        20.11,
+        20.12,
+        19.86,
+        20.38,
+        20.7,
+        20.55,
+        20.62,
+        21.72,
+        21.47,
+        20.48,
+        20.38,
+        21.3,
+        21.21,
+        21.26,
+        20.73,
+        19.7,
+        19.0,
+        19.37,
+        19.62,
+        19.83,
+        20.34,
+        19.72,
+        19.82,
+        20.69,
+        20.2,
+        19.85,
+        19.7,
+        20.26,
+        20.55,
+        20.27,
+        20.24,
+        20.3,
+        19.83,
+        20.38,
+        20.46,
+        20.58,
+        20.52,
+        19.76,
+        20.19,
+        20.16,
+        20.26,
+        20.34,
+        19.94,
+        20.05,
+        19.49,
+        19.2,
+        19.09,
+        18.88,
+        18.34,
+        17.87,
+        17.76,
+        17.8,
+        17.15,
+        17.71,
+        17.21,
+        17.59,
+        17.62,
+        17.37,
+        18.08,
+        18.22,
+        18.11,
+        18.11,
+        17.84,
+        18.72,
+        18.69,
+        18.43,
+        18.52,
+        18.52,
+        19.28,
+        18.76,
+        18.68,
+        18.2,
+        18.33,
+        18.92,
+        18.91,
+        19.6,
+        19.32,
+        19.79,
+        19.86,
+        19.64,
+        19.86,
+        19.93,
+        19.92,
+        23.13,
+        23.28,
+        24.57
+      ]
+    },
+    "headlines": [],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Kurssprung 5,5 % mit 2,4x Volumen ohne bekannte Meldung"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "5,5 %"
+      },
+      {
+        "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "24,57 $ vs. 24,53 $"
+      },
+      {
+        "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+        "ok": true,
+        "val": "24,13 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,4x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "96 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Kurssprung 5,5 % mit 2,4x Volumen ohne bekannte Meldung"
+    ]
   }
 ]

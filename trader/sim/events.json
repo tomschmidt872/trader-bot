@@ -1,5 +1,15 @@
 [
   {
+    "id": "etrade:2026-11-16T17:47:35+00:00:ERÖFFNEN:MBGL",
+    "type": "trade",
+    "sym": "MBGL",
+    "time": "2026-11-16T17:47:35+00:00",
+    "seen": "2026-11-16T17:47:35+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long MBGL (5x)",
+    "detail": "Long: Kurssprung 5,5 % mit 2,4x Volumen ohne bekannte Meldung"
+  },
+  {
     "id": "etrade:2026-11-16T16:03:58+00:00:ERÖFFNEN:TSM",
     "type": "trade",
     "sym": "TSM",
@@ -20651,21 +20661,6 @@
     "type": "news",
     "sym": "SNOW",
     "summary": "Carillon Tower Advisers, an investment management company, released its third-quarter 2026 investor letter for the “Carillon Eagle Mid Cap Growth Fund”. The letter can be downloaded here. Mid-cap stocks pulled back in the third quarter of 2026 as the Russell Midcap Growth Index fell 5.84%, underperf",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Carrier Screening - Global Strategic Business Report 2026: Secure Your Share of a $7.6 Billion Market by 2032 | Features Competitive Intelligence on Illumina, Natera, BGI Genomics, and Myriad Genetics",
-    "time": "2026-11-11T14:25:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/carrier-screening-global-strategic-business-142500428.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:NTRA:rss:ab22b0a3-b12e-397a-862c-2fc26f5bf754",
-    "type": "news",
-    "sym": "NTRA",
-    "summary": "NGS, AI, at-home testing and universal screening are expanding access, accuracy and test breadth, creating opportunities in personalized reproductive careDublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Carrier Screening - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offeri",
     "seen": "2026-11-11T17:32:52+00:00"
   }
 ]
