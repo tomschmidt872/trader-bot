@@ -1,5 +1,25 @@
 [
   {
+    "id": "etrade:2026-11-16T20:31:16+00:00:SCHLIESSEN:MBGL",
+    "type": "trade",
+    "sym": "MBGL",
+    "time": "2026-11-16T20:31:16+00:00",
+    "seen": "2026-11-16T20:31:16+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Long MBGL (5x) – -12,68 €",
+    "detail": "Börsenschluss naht – keine Position über Nacht"
+  },
+  {
+    "id": "etrade:2026-11-16T20:31:16+00:00:SCHLIESSEN:TSM",
+    "type": "trade",
+    "sym": "TSM",
+    "time": "2026-11-16T20:31:16+00:00",
+    "seen": "2026-11-16T20:31:16+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short TSM (5x) – 6,97 €",
+    "detail": "maximale Haltedauer von 4 Std. erreicht"
+  },
+  {
     "id": "etrade:2026-11-16T17:47:35+00:00:ERÖFFNEN:MBGL",
     "type": "trade",
     "sym": "MBGL",
