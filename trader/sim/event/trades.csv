@@ -29,3 +29,4 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-13T19:37:24+00:00,SCHLIESSEN,AVGO,3.045822,345.42,1.1030,953.84,-10.08,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,188.79
 2026-11-13T19:37:24+00:00,SCHLIESSEN,AMAT,2.894584,369.33,1.1030,969.23,-26.42,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,188.60
 2026-11-13T19:37:24+00:00,SCHLIESSEN,TNDM,51.168133,20.06,1.1030,930.58,-2.79,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Long,5,186.35
+2026-11-16T16:03:58+00:00,ERÖFFNEN,TSM,2.606535,376.88,1.1008,892.41,,"Short: Kurssprung -5,5 % mit 2,2x Volumen ohne bekannte Meldung",Short,5,178.48

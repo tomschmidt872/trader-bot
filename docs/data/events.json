@@ -1,5 +1,15 @@
 [
   {
+    "id": "etrade:2026-11-16T16:03:58+00:00:ERÖFFNEN:TSM",
+    "type": "trade",
+    "sym": "TSM",
+    "time": "2026-11-16T16:03:58+00:00",
+    "seen": "2026-11-16T16:03:58+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short TSM (5x)",
+    "detail": "Short: Kurssprung -5,5 % mit 2,2x Volumen ohne bekannte Meldung"
+  },
+  {
     "id": "etrade:2026-11-13T19:37:24+00:00:SCHLIESSEN:TNDM",
     "type": "trade",
     "sym": "TNDM",
@@ -3201,6 +3211,127 @@
     "link": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000173/",
     "tone": -1,
     "seen": "2026-11-13T20:29:25+00:00"
+  },
+  {
+    "id": "insider:0000002488-26-000193:S:2026-11-11:9000.0",
+    "type": "insider",
+    "sym": "AMD",
+    "time": "2026-11-13T12:00:00+00:00",
+    "title": "Denzel Nora (Aufsichtsrat/Direktor) verkauft 9.000 Aktien für 5.1 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-11 zu 564,88 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000193/",
+    "tone": -1,
+    "seen": "2026-11-16T16:00:00+00:00"
+  },
+  {
+    "id": "insider:0001104659-26-127088:P:2026-11-12:350.0",
+    "type": "insider",
+    "sym": "CAT",
+    "time": "2026-11-13T12:00:00+00:00",
+    "title": "MacLennan David (Aufsichtsrat/Direktor) kauft 350 Aktien für 209 Tsd. $",
+    "detail": "Form 4 · gehandelt am 2026-11-12 zu 596,10 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/18230/000110465926127088/",
+    "tone": 1,
+    "seen": "2026-11-16T16:00:00+00:00"
+  },
+  {
+    "id": "insider:0000093410-26-000204:S:2026-11-11:6000.0",
+    "type": "insider",
+    "sym": "CVX",
+    "time": "2026-11-13T12:00:00+00:00",
+    "title": "Booth Thomas Ryder (Chief Technology & Eng Ofr) verkauft 6.000 Aktien für 1.3 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-11 zu 212,14 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000204/",
+    "tone": -1,
+    "seen": "2026-11-16T16:00:00+00:00"
+  },
+  {
+    "id": "insider:0000200406-26-000199:S:2026-11-12:13072.0",
+    "type": "insider",
+    "sym": "JNJ",
+    "time": "2026-11-13T12:00:00+00:00",
+    "title": "Forminard Elizabeth (EVP, Chief Legal Officer) verkauft 13.072 Aktien für 3.7 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-12 zu 284,39 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000199/",
+    "tone": -1,
+    "seen": "2026-11-16T16:00:00+00:00"
+  },
+  {
+    "id": "insider:0001824159-26-000017:S:2026-11-10:19200.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-13T12:00:00+00:00",
+    "title": "Sankar Shyam (See Remarks) verkauft 19.200 Aktien für 3.2 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-10 zu 164,81 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/",
+    "tone": -1,
+    "seen": "2026-11-16T16:00:00+00:00"
+  },
+  {
+    "id": "insider:0001824159-26-000017:S:2026-11-10:58790.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-13T12:00:00+00:00",
+    "title": "Sankar Shyam (See Remarks) verkauft 58.790 Aktien für 9.7 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-10 zu 165,76 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/",
+    "tone": -1,
+    "seen": "2026-11-16T16:00:00+00:00"
+  },
+  {
+    "id": "insider:0001824159-26-000017:S:2026-11-10:64178.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-13T12:00:00+00:00",
+    "title": "Sankar Shyam (See Remarks) verkauft 64.178 Aktien für 10.7 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-10 zu 166,57 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/",
+    "tone": -1,
+    "seen": "2026-11-16T16:00:00+00:00"
+  },
+  {
+    "id": "insider:0001824159-26-000017:S:2026-11-10:92847.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-13T12:00:00+00:00",
+    "title": "Sankar Shyam (See Remarks) verkauft 92.847 Aktien für 15.6 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-10 zu 167,53 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/",
+    "tone": -1,
+    "seen": "2026-11-16T16:00:00+00:00"
+  },
+  {
+    "id": "insider:0001824159-26-000017:S:2026-11-10:64685.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-13T12:00:00+00:00",
+    "title": "Sankar Shyam (See Remarks) verkauft 64.685 Aktien für 10.9 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-10 zu 168,57 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/",
+    "tone": -1,
+    "seen": "2026-11-16T16:00:00+00:00"
+  },
+  {
+    "id": "insider:0001824159-26-000017:S:2026-11-11:84680.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-13T12:00:00+00:00",
+    "title": "Sankar Shyam (See Remarks) verkauft 84.680 Aktien für 14.8 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-11 zu 175,07 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000017/",
+    "tone": -1,
+    "seen": "2026-11-16T16:00:00+00:00"
+  },
+  {
+    "id": "insider:0001646850-26-000006:S:2026-11-12:8758.0",
+    "type": "insider",
+    "sym": "TXN",
+    "time": "2026-11-13T12:00:00+00:00",
+    "title": "Hobby Jean M. (Aufsichtsrat/Direktor) verkauft 8.758 Aktien für 2.7 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-12 zu 308,92 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/97476/000164685026000006/",
+    "tone": -1,
+    "seen": "2026-11-16T16:00:00+00:00"
   },
   {
     "title": "Rocket Lab CEO Takes a Swipe at Elon Musk, Explains Why Neutron Gives Company an Edge Over SpaceX: ‘First Priority Is…’",
@@ -20535,165 +20666,6 @@
     "type": "news",
     "sym": "NTRA",
     "summary": "NGS, AI, at-home testing and universal screening are expanding access, accuracy and test breadth, creating opportunities in personalized reproductive careDublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Carrier Screening - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offeri",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "UnitedHealth adds children’s hospital executive to board",
-    "time": "2026-11-11T14:24:11+00:00",
-    "link": "https://www.healthcaredive.com/news/unitedhealth-board-adds-childrens-hospital-ceo-madeline-bell/874367/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "people"
-    ],
-    "id": "news:UNH:rss:81e834a2-91c1-3fe8-8721-b5a9daa6a43e",
-    "type": "news",
-    "sym": "UNH",
-    "summary": "It’s the healthcare behemoth’s second board appointment since launching a financial and operational turnaround under CEO Stephen Hemsley. Madeline Bell’s experience adds an “important perspective,” Hemsley said.",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Lululemon Rebuild Continues With New Marketing, Strategy Officers",
-    "time": "2026-11-11T14:22:37+00:00",
-    "link": "https://www.mediapost.com/publications/article/419371/lululemon-rebuild-continues-with-new-marketing-st.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:LULU:rss:4453db38-736c-3efc-9cf9-54f4dbb4fba7",
-    "type": "news",
-    "sym": "LULU",
-    "summary": "Execs from Four Seasons Hotels and Boston Consulting Group join the retailer's new team.",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Strong Q2 Results and Raised Revenue Guidance Drive Natera’s (NTRA)Outperformance",
-    "time": "2026-11-11T14:21:41+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/strong-q2-results-raised-revenue-142141148.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:NTRA:rss:62334d33-b29e-3ce0-83d4-fc1e837ffbac",
-    "type": "news",
-    "sym": "NTRA",
-    "summary": "Carillon Tower Advisers, an investment management company, released its third-quarter 2026 investor letter for the “Carillon Eagle Mid Cap Growth Fund”. The letter can be downloaded here. Mid-cap stocks pulled back in the third quarter of 2026 as the Russell Midcap Growth Index fell 5.84%, underperf",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Transfection Technologies - Global Strategic Business Report 2026: Capitalize on a $2.5 Billion Market by 2032 as Thermo Fisher, Lonza, Bio-Rad, Qiagen and MilliporeSigma Accelerate",
-    "time": "2026-11-11T14:21:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/transfection-technologies-global-strategic-business-142100342.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:TMO:rss:ae399ddb-a600-3d72-9925-b98114a6794e",
-    "type": "news",
-    "sym": "TMO",
-    "summary": "Target equipment and gene-editing delivery opportunities, using regional and competitive insights to prioritize R&D, partnerships and revenue growth.Dublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Transfection Technologies - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com'",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "How Much Is Tesla’s Robotaxi Actually Worth?",
-    "time": "2026-11-11T14:20:17+00:00",
-    "link": "https://247wallst.com/investing/2026/11/11/how-much-is-teslas-robotaxi-actually-worth/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:TSLA:rss:c84a6377-0760-3cd0-a5e0-72537e861b18",
-    "type": "news",
-    "sym": "TSLA",
-    "summary": "Tesla's Austin geofence just grew, unsupervised miles are surging, and a $1.5 trillion valuation leans heavily on the story. But Robotaxi has no reported revenue yet, so one future earnings report may decide whether the hype holds.",
-    "seen": "2026-11-11T18:27:44+00:00"
-  },
-  {
-    "title": "Whole Exome Sequencing - Global Strategic Business Report 2026: Capitalize on 19.5% CAGR to $2.3 Billion by 2032 as Illumina, Thermo Fisher Scientific, BGI Genomics, and QIAGEN Accelerate",
-    "time": "2026-11-11T14:20:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/whole-exome-sequencing-global-strategic-142000636.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:TMO:rss:107e0a0d-81a4-330d-bceb-dd0c741d5b84",
-    "type": "news",
-    "sym": "TMO",
-    "summary": "Target WES opportunities in precision medicine, rare diseases and oncology, using scalable sequencing, AI analytics and user-friendly bioinformatics to cut costs and accelerate adoption.Dublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Whole Exome Sequencing - Global Strategic Business Report 2026\" has bee",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "3 Stocks Wall Street Likes More Than the Market Does",
-    "time": "2026-11-11T14:20:00+00:00",
-    "link": "https://www.marketbeat.com/articles/3-stocks-wall-street-likes-more-than-the-market-does/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:GM:rss:e916074a-e3df-35c3-83f6-abff6f159e00",
-    "type": "news",
-    "sym": "GM",
-    "summary": "Cigna, Toll Brothers, and General Motors trade at low earnings multiples despite strong buybacks, improving earnings, and solid cash flow, suggesting the market may be undervaluing these stocks.",
-    "seen": "2026-11-12T14:32:29+00:00"
-  },
-  {
-    "title": "Single-Cell Analysis - Global Strategic Business Report 2026: Capitalize on 20.4% CAGR as Illumina, Thermo Fisher Scientific, Bio-Rad and Agilent Battle for Shares in the $26.1 Billion Market by 2032",
-    "time": "2026-11-11T14:18:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/single-cell-analysis-global-strategic-141800797.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:TMO:rss:89fbc203-7fb6-3903-af2c-1f2a0a90dcc5",
-    "type": "news",
-    "sym": "TMO",
-    "summary": "Dublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Single-Cell Analysis - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global single-cell analysis market was valued at US$7.1 billion in 2025 and is projected to reach US$26.1 billion by 2032, expanding at a ",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Novartis (SWX:NOVN) Halts Pelacarsen After Trial Miss As Ianalumab Data Impresses",
-    "time": "2026-11-11T14:15:22+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/novartis-swx-novn-halts-pelacarsen-141522216.html?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NVS:rss:41f3ade3-b9b6-3e39-8d60-54b15b0b7fa0",
-    "type": "news",
-    "sym": "NVS",
-    "summary": "Novartis (SWX:NOVN) halted development of its cardiovascular drug pelacarsen after a late stage outcome trial failed to meet its goal. The decision affects Novartis' efforts in cardiovascular risk reduction, a major therapeutic area for large patient populations. Novartis reported long term extensio",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "1 Unstoppable Stock-Split Stock to Buy Before It Joins the $1 Trillion Club",
-    "time": "2026-11-11T14:15:00+00:00",
-    "link": "https://www.fool.com/investing/2026/11/11/1-unstoppable-stock-split-stock-to-buy-before-it-j/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMD:rss:c361b524-0dac-3c76-9b6d-fda94703c60b",
-    "type": "news",
-    "sym": "AMD",
-    "summary": "AMD's data center sales nearly doubled last quarter, and its long history of stock splits could add to the investment thesis now.",
-    "seen": "2026-11-11T17:32:52+00:00"
-  },
-  {
-    "title": "Human Identification - Global Strategic Business Report 2026: Capitalize on 10.1% CAGR to $1.9 Billion by 2032 | Thermo Fisher, Illumina, Qiagen and Bio-Rad Vie for Shares",
-    "time": "2026-11-11T14:15:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/human-identification-global-strategic-business-141500541.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:TMO:rss:c66045f9-468c-3a10-a973-83e88eba5f55",
-    "type": "news",
-    "sym": "TMO",
-    "summary": "Target revenue opportunities in rapid DNA, NGS, multimodal biometrics and personalized medicine, guided by regional, segment and competitive intelligenceDublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Human Identification - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's",
     "seen": "2026-11-11T17:32:52+00:00"
   }
 ]

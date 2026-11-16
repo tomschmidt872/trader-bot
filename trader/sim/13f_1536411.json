@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-13",
+  "fetched": "2026-11-16",
   "data": {
     "source": "Duquesne Family Office LLC 13F-HR, quarter ending 2026-06-30, filed 2026-08-14 (accession 0001536411-26-000006)",
     "as_of": "2026-06-30",
@@ -193,6 +193,11 @@
       },
       {
         "issuer": "Wabtec",
+        "ticker": null,
+        "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
+      },
+      {
+        "issuer": "Olema Pharmaceuticals Inc",
         "ticker": null,
         "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
       },
@@ -429,11 +434,6 @@
       {
         "issuer": "Xenon Pharmaceuticals Inc",
         "ticker": "XENE",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Olema Pharmaceuticals Inc",
-        "ticker": "OLMA",
         "why": "outside the top 10"
       },
       {
