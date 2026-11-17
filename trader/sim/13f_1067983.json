@@ -1,18 +1,18 @@
 {
-  "fetched": "2026-11-16",
+  "fetched": "2026-11-17",
   "data": {
-    "source": "BERKSHIRE HATHAWAY INC 13F-HR, quarter ending 2026-06-30, filed 2026-08-14 (accession 0001193125-26-352200)",
-    "as_of": "2026-06-30",
-    "filed": "2026-08-14",
+    "source": "BERKSHIRE HATHAWAY INC 13F-HR, quarter ending 2026-09-30, filed 2026-11-16 (accession 0001193125-26-463399)",
+    "as_of": "2026-09-30",
+    "filed": "2026-11-16",
     "cik": "0001067983",
     "method": "top 10 stock positions by value, share classes combined, pct_of_13f scaled to 100",
     "weights": [
       {
         "ticker": "AAPL",
         "name": "Apple",
-        "weight": 24.21,
-        "pct_of_13f": 22.04,
-        "value": 65950296923.0,
+        "weight": 27.18,
+        "pct_of_13f": 24.95,
+        "value": 75901188420.0,
         "shares": 227917808.0,
         "cusips": [
           "037833100"
@@ -21,9 +21,9 @@
       {
         "ticker": "AXP",
         "name": "American Express",
-        "weight": 18.83,
-        "pct_of_13f": 17.14,
-        "value": 51282319275.0,
+        "weight": 16.51,
+        "pct_of_13f": 15.16,
+        "value": 46104813870.0,
         "shares": 151610700.0,
         "cusips": [
           "025816109"
@@ -32,9 +32,9 @@
       {
         "ticker": "GOOGL",
         "name": "Alphabet",
-        "weight": 13.86,
-        "pct_of_13f": 12.62,
-        "value": 37764088383.0,
+        "weight": 13.03,
+        "pct_of_13f": 11.96,
+        "value": 36374651401.0,
         "shares": 105979600.0,
         "cusips": [
           "02079K305",
@@ -48,9 +48,9 @@
       {
         "ticker": "KO",
         "name": "Coca Cola",
-        "weight": 11.93,
-        "pct_of_13f": 10.86,
-        "value": 32508000000.0,
+        "weight": 12.33,
+        "pct_of_13f": 11.32,
+        "value": 34432000000.0,
         "shares": 400000000.0,
         "cusips": [
           "191216100"
@@ -59,10 +59,10 @@
       {
         "ticker": "BAC",
         "name": "Bank of America",
-        "weight": 10.11,
-        "pct_of_13f": 9.2,
-        "value": 27543790975.0,
-        "shares": 483394015.0,
+        "weight": 8.89,
+        "pct_of_13f": 8.16,
+        "value": 24812509222.0,
+        "shares": 455860908.0,
         "cusips": [
           "060505104"
         ]
@@ -70,9 +70,9 @@
       {
         "ticker": "CVX",
         "name": "Chevron",
-        "weight": 5.13,
-        "pct_of_13f": 4.67,
-        "value": 13986141890.0,
+        "weight": 6.17,
+        "pct_of_13f": 5.66,
+        "value": 17230393553.0,
         "shares": 84375856.0,
         "cusips": [
           "166764100"
@@ -81,42 +81,42 @@
       {
         "ticker": "OXY",
         "name": "Occidental Petroleum",
-        "weight": 4.72,
-        "pct_of_13f": 4.3,
-        "value": 12868205304.0,
+        "weight": 5.25,
+        "pct_of_13f": 4.82,
+        "value": 14656559963.0,
         "shares": 264941431.0,
         "cusips": [
           "674599105"
         ]
       },
       {
-        "ticker": "CB",
-        "name": "Chubb",
-        "weight": 4.28,
-        "pct_of_13f": 3.9,
-        "value": 11670066615.0,
-        "shares": 34249183.0,
-        "cusips": [
-          "H1467J104"
-        ]
-      },
-      {
         "ticker": "MCO",
         "name": "Moodys",
-        "weight": 4.1,
-        "pct_of_13f": 3.73,
-        "value": 11173435852.0,
+        "weight": 4.01,
+        "pct_of_13f": 3.68,
+        "value": 11203286284.0,
         "shares": 24669778.0,
         "cusips": [
           "615369105"
         ]
       },
       {
+        "ticker": "CB",
+        "name": "Chubb",
+        "weight": 3.99,
+        "pct_of_13f": 3.66,
+        "value": 11139546771.0,
+        "shares": 34249183.0,
+        "cusips": [
+          "H1467J104"
+        ]
+      },
+      {
         "ticker": "KHC",
         "name": "Kraft Heinz",
-        "weight": 2.82,
-        "pct_of_13f": 2.57,
-        "value": 7691494401.0,
+        "weight": 2.65,
+        "pct_of_13f": 2.43,
+        "value": 7398423065.0,
         "shares": 325634818.0,
         "cusips": [
           "500754106"
@@ -125,13 +125,13 @@
     ],
     "skipped": [
       {
-        "issuer": "DAVITA INC",
-        "ticker": "DVA",
+        "issuer": "DELTA AIR LINES INC",
+        "ticker": "DAL",
         "why": "outside the top 10"
       },
       {
-        "issuer": "DELTA AIR LINES INC",
-        "ticker": "DAL",
+        "issuer": "DAVITA INC",
+        "ticker": "DVA",
         "why": "outside the top 10"
       },
       {
@@ -140,13 +140,18 @@
         "why": "outside the top 10"
       },
       {
-        "issuer": "VERISIGN INC",
-        "ticker": "VRSN",
+        "issuer": "LENNAR CORP",
+        "ticker": "LEN",
         "why": "outside the top 10"
       },
       {
         "issuer": "KROGER CO",
         "ticker": "KR",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "VERISIGN INC",
+        "ticker": "VRSN",
         "why": "outside the top 10"
       },
       {
@@ -160,18 +165,18 @@
         "why": "outside the top 10"
       },
       {
-        "issuer": "LENNAR CORP",
-        "ticker": "LEN",
-        "why": "outside the top 10"
-      },
-      {
         "issuer": "NEW YORK TIMES CO MTN BE",
         "ticker": "NYT",
         "why": "outside the top 10"
       },
       {
-        "issuer": "CAPITAL ONE FINL CORP",
-        "ticker": "COF",
+        "issuer": "BENDING SPOONS SPA",
+        "ticker": "BSP",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "NUCOR CORP",
+        "ticker": "NUE",
         "why": "outside the top 10"
       },
       {
@@ -180,8 +185,8 @@
         "why": "outside the top 10"
       },
       {
-        "issuer": "NUCOR CORP",
-        "ticker": "NUE",
+        "issuer": "CAPITAL ONE FINL CORP",
+        "ticker": "COF",
         "why": "outside the top 10"
       },
       {

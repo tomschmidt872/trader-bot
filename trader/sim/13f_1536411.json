@@ -1,64 +1,30 @@
 {
-  "fetched": "2026-11-16",
+  "fetched": "2026-11-17",
   "data": {
-    "source": "Duquesne Family Office LLC 13F-HR, quarter ending 2026-06-30, filed 2026-08-14 (accession 0001536411-26-000006)",
-    "as_of": "2026-06-30",
-    "filed": "2026-08-14",
+    "source": "Duquesne Family Office LLC 13F-HR, quarter ending 2026-09-30, filed 2026-11-16 (accession 0001536411-26-000011)",
+    "as_of": "2026-09-30",
+    "filed": "2026-11-16",
     "cik": "0001536411",
     "method": "top 10 stock positions by value, share classes combined, pct_of_13f scaled to 100",
     "weights": [
       {
         "ticker": "NTRA",
         "name": "Natera",
-        "weight": 37.48,
-        "pct_of_13f": 16.6,
-        "value": 864923.0,
-        "shares": 3186306.0,
+        "weight": 49.36,
+        "pct_of_13f": 29.22,
+        "value": 1306335.0,
+        "shares": 3160666.0,
         "cusips": [
           "632307104"
         ]
       },
       {
-        "ticker": "TSM",
-        "name": "Taiwan Semiconductor Manufacturing",
-        "weight": 12.19,
-        "pct_of_13f": 5.4,
-        "value": 281613.0,
-        "shares": 589680.0,
-        "cusips": [
-          "874039100"
-        ],
-        "check_ticker": true
-      },
-      {
-        "ticker": "STM",
-        "name": "STMicroelectronics",
-        "weight": 10.07,
-        "pct_of_13f": 4.46,
-        "value": 232375.0,
-        "shares": 3102880.0,
-        "cusips": [
-          "861012102"
-        ]
-      },
-      {
-        "ticker": "INSM",
-        "name": "Insmed",
-        "weight": 6.59,
-        "pct_of_13f": 2.92,
-        "value": 151900.0,
-        "shares": 1424690.0,
-        "cusips": [
-          "457669307"
-        ]
-      },
-      {
         "ticker": "FOXA",
         "name": "Fox",
-        "weight": 6.28,
-        "pct_of_13f": 2.78,
-        "value": 144623.0,
-        "shares": 2837200.0,
+        "weight": 8.56,
+        "pct_of_13f": 5.07,
+        "value": 226450.0,
+        "shares": 3678650.0,
         "cusips": [
           "35137L105",
           "35137L204"
@@ -69,78 +35,96 @@
         ]
       },
       {
-        "ticker": "YPF",
-        "name": "Ypf Sociedad Anonima",
-        "weight": 6.19,
-        "pct_of_13f": 2.74,
-        "value": 142726.0,
-        "shares": 3138897.0,
-        "cusips": [
-          "984245100"
-        ]
-      },
-      {
         "ticker": "AMZN",
         "name": "Amazon Com",
-        "weight": 5.6,
-        "pct_of_13f": 2.48,
-        "value": 129085.0,
-        "shares": 541600.0,
+        "weight": 7.28,
+        "pct_of_13f": 4.31,
+        "value": 192493.0,
+        "shares": 772600.0,
         "cusips": [
           "023135106"
         ]
       },
       {
-        "ticker": "TBBB",
-        "name": "Bbb Foods",
-        "weight": 5.24,
-        "pct_of_13f": 2.32,
-        "value": 120915.0,
-        "shares": 2901733.0,
+        "ticker": "YPF",
+        "name": "Ypf Sociedad Anonima",
+        "weight": 6.71,
+        "pct_of_13f": 3.97,
+        "value": 177555.0,
+        "shares": 3541897.0,
         "cusips": [
-          "G0896C103"
+          "984245100"
         ]
       },
       {
-        "ticker": "GOOGL",
-        "name": "Alphabet",
-        "weight": 5.22,
-        "pct_of_13f": 2.31,
-        "value": 120184.0,
-        "shares": 336300.0,
+        "ticker": "U",
+        "name": "Unity Software",
+        "weight": 6.11,
+        "pct_of_13f": 3.62,
+        "value": 161935.0,
+        "shares": 3956385.0,
         "cusips": [
-          "02079K305"
+          "91332U101"
+        ]
+      },
+      {
+        "ticker": "SE",
+        "name": "Sea",
+        "weight": 5.86,
+        "pct_of_13f": 3.47,
+        "value": 155072.0,
+        "shares": 1592765.0,
+        "cusips": [
+          "81141R100"
         ]
       },
       {
         "ticker": "GSG",
         "name": "iShares S&P GSCI Commodity-Indexed Trust",
-        "weight": 5.15,
-        "pct_of_13f": 2.28,
-        "value": 118548.0,
-        "shares": 3436170.0,
+        "weight": 4.75,
+        "pct_of_13f": 2.81,
+        "value": 125814.0,
+        "shares": 3377570.0,
         "cusips": [
           "464286400"
         ],
         "check_ticker": true
+      },
+      {
+        "ticker": "INSM",
+        "name": "Insmed",
+        "weight": 4.71,
+        "pct_of_13f": 2.79,
+        "value": 124715.0,
+        "shares": 1092650.0,
+        "cusips": [
+          "457669307"
+        ]
+      },
+      {
+        "ticker": "RVMD",
+        "name": "Revolution Medicines",
+        "weight": 3.38,
+        "pct_of_13f": 2.0,
+        "value": 89552.0,
+        "shares": 436287.0,
+        "cusips": [
+          "76155X100"
+        ]
+      },
+      {
+        "ticker": "TBBB",
+        "name": "Bbb Foods",
+        "weight": 3.28,
+        "pct_of_13f": 1.94,
+        "value": 86720.0,
+        "shares": 1647408.0,
+        "cusips": [
+          "G0896C103"
+        ]
       }
     ],
     "skipped": [
-      {
-        "issuer": "Invesco Exchange Traded Fd T",
-        "ticker": null,
-        "why": "CALL row, not a stock you can copy"
-      },
-      {
-        "issuer": "Ishares Inc",
-        "ticker": "GSG",
-        "why": "CALL row, not a stock you can copy"
-      },
-      {
-        "issuer": "Insmed Inc",
-        "ticker": "INSM",
-        "why": "CALL row, not a stock you can copy"
-      },
       {
         "issuer": "Seagate Technology Hldngs Pl",
         "ticker": null,
@@ -152,13 +136,23 @@
         "why": "CALL row, not a stock you can copy"
       },
       {
-        "issuer": "Ishares Tr",
+        "issuer": "Seagate Technology Hldngs Pl",
         "ticker": null,
         "why": "CALL row, not a stock you can copy"
       },
       {
-        "issuer": "State Str Spdr S&P 500 Etf T",
+        "issuer": "Insmed Inc",
+        "ticker": "INSM",
+        "why": "CALL row, not a stock you can copy"
+      },
+      {
+        "issuer": "Barrick Mng Corp",
         "ticker": null,
+        "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
+      },
+      {
+        "issuer": "Cdw Corp",
+        "ticker": "CDW",
         "why": "CALL row, not a stock you can copy"
       },
       {
@@ -167,32 +161,7 @@
         "why": "CALL row, not a stock you can copy"
       },
       {
-        "issuer": "Cdw Corp",
-        "ticker": "CDW",
-        "why": "CALL row, not a stock you can copy"
-      },
-      {
-        "issuer": "Global X Fds",
-        "ticker": null,
-        "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
-      },
-      {
-        "issuer": "Meta Platforms Inc",
-        "ticker": "META",
-        "why": "CALL row, not a stock you can copy"
-      },
-      {
-        "issuer": "Rambus Inc Del",
-        "ticker": null,
-        "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
-      },
-      {
         "issuer": "Invesco Exchange Traded Fd T",
-        "ticker": null,
-        "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
-      },
-      {
-        "issuer": "Wabtec",
         "ticker": null,
         "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
       },
@@ -207,33 +176,8 @@
         "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
       },
       {
-        "issuer": "Danaher Corp Del",
-        "ticker": null,
-        "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
-      },
-      {
-        "issuer": "Ccc Intelligent Solutions Hl",
-        "ticker": null,
-        "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
-      },
-      {
-        "issuer": "Solstice Advanced Matls Inc",
-        "ticker": null,
-        "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
-      },
-      {
-        "issuer": "United Airls Hldgs Inc",
-        "ticker": "UAL",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Sea Ltd",
-        "ticker": "SE",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Cdw Corp",
-        "ticker": "CDW",
+        "issuer": "Stmicroelectronics N V",
+        "ticker": "STM",
         "why": "outside the top 10"
       },
       {
@@ -242,13 +186,23 @@
         "why": "outside the top 10"
       },
       {
-        "issuer": "Sandisk Corp",
-        "ticker": "SNDK",
+        "issuer": "Cdw Corp",
+        "ticker": "CDW",
         "why": "outside the top 10"
       },
       {
-        "issuer": "Revolution Medicines Inc",
-        "ticker": "RVMD",
+        "issuer": "Somnigroup International Inc",
+        "ticker": "SGI",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Newmont Corp",
+        "ticker": "NEM",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Agnico Eagle Mines Ltd",
+        "ticker": "AEM",
         "why": "outside the top 10"
       },
       {
@@ -257,83 +211,13 @@
         "why": "outside the top 10"
       },
       {
-        "issuer": "Crh Plc",
-        "ticker": "CRH",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Delta Air Lines Inc",
-        "ticker": "DAL",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Fluor Corp",
-        "ticker": "FLR",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "D R Horton Inc",
-        "ticker": "DHI",
-        "why": "outside the top 10"
-      },
-      {
         "issuer": "Coupang Inc",
         "ticker": "CPNG",
         "why": "outside the top 10"
       },
       {
-        "issuer": "Advanced Micro Devices Inc",
-        "ticker": "AMD",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Palo Alto Networks Inc",
-        "ticker": "PANW",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Cleveland-Cliffs Inc New",
-        "ticker": "CLF",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Hut 8 Corp",
-        "ticker": "HUT",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Caris Life Sciences Inc",
-        "ticker": "CAI",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Woodward Inc",
-        "ticker": "WWD",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Nuvation Bio Inc",
-        "ticker": "NUVB",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Protagonist Therapeutics Inc",
-        "ticker": "PTGX",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Roku Inc",
-        "ticker": "ROKU",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Cavco Inds Inc Del",
-        "ticker": "CVCO",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Adma Biologics Inc",
-        "ticker": "ADMA",
+        "issuer": "Western Digital Corp",
+        "ticker": "WDC",
         "why": "outside the top 10"
       },
       {
@@ -342,8 +226,8 @@
         "why": "outside the top 10"
       },
       {
-        "issuer": "Rhythm Pharmaceuticals Inc",
-        "ticker": "RYTM",
+        "issuer": "Fluor Corp",
+        "ticker": "FLR",
         "why": "outside the top 10"
       },
       {
@@ -352,43 +236,48 @@
         "why": "outside the top 10"
       },
       {
+        "issuer": "Applovin Corp",
+        "ticker": "APP",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Cavco Inds Inc Del",
+        "ticker": "CVCO",
+        "why": "outside the top 10"
+      },
+      {
         "issuer": "Daktronics Inc",
         "ticker": "DAKT",
         "why": "outside the top 10"
       },
       {
-        "issuer": "Purecycle Technologies Inc",
-        "ticker": "PCT",
+        "issuer": "Space Exploration Techn Corp",
+        "ticker": "SPCX",
         "why": "outside the top 10"
       },
       {
-        "issuer": "Southern Copper Corp",
-        "ticker": "SCCO",
+        "issuer": "Roku Inc",
+        "ticker": "ROKU",
         "why": "outside the top 10"
       },
       {
-        "issuer": "Linde Plc",
-        "ticker": "LIN",
+        "issuer": "Ttm Technologies Inc",
+        "ticker": "TTMI",
         "why": "outside the top 10"
       },
       {
-        "issuer": "Entegris Inc",
-        "ticker": "ENTG",
+        "issuer": "Rhythm Pharmaceuticals Inc",
+        "ticker": "RYTM",
         "why": "outside the top 10"
       },
       {
-        "issuer": "Teva Pharmaceutical Inds Ltd",
-        "ticker": "TEVA",
+        "issuer": "Humana Inc",
+        "ticker": "HUM",
         "why": "outside the top 10"
       },
       {
-        "issuer": "Unity Software Inc",
-        "ticker": "U",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Aeva Technologies Inc",
-        "ticker": "AEVA",
+        "issuer": "Adma Biologics Inc",
+        "ticker": "ADMA",
         "why": "outside the top 10"
       },
       {
@@ -397,128 +286,8 @@
         "why": "outside the top 10"
       },
       {
-        "issuer": "Qnity Electronics Inc",
-        "ticker": "Q",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Equinix Inc",
-        "ticker": "EQIX",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Lam Research Corp",
-        "ticker": "LRCX",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Definium Therapeutics Inc",
-        "ticker": "DFTX",
-        "why": "outside the top 10"
-      },
-      {
         "issuer": "Belite Bio Inc Sponsored",
         "ticker": "BLTE",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "10X Genomics Inc",
-        "ticker": "TXG",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Eli Lilly & Co",
-        "ticker": "LLY",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Xenon Pharmaceuticals Inc",
-        "ticker": "XENE",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Repligen Corp",
-        "ticker": "RGEN",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Baidu Inc",
-        "ticker": "BIDU",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Arm Holdings Plc",
-        "ticker": "ARM",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Carvana Co",
-        "ticker": "CVNA",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Reddit Inc",
-        "ticker": "RDDT",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Alcoa Corp",
-        "ticker": "AA",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Thermo Fisher Scientific Inc",
-        "ticker": "TMO",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "F5 Inc",
-        "ticker": "FFIV",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Vista Energy S.A.B. De C.V.",
-        "ticker": "VIST",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Skeena Res Ltd New",
-        "ticker": "SKE",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Jbs N.V.",
-        "ticker": "JBS",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Monte Rosa Therapeutics Inc",
-        "ticker": "GLUE",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Relay Therapeutics Inc",
-        "ticker": "RLAY",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Dbv Technologies S A Sponsored",
-        "ticker": "DBVT",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Uwm Holdings Corporation",
-        "ticker": "UWMC",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Navitas Semiconductor Corp",
-        "ticker": "NVTS",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Ftai Aviation Ltd",
-        "ticker": "FTAI",
         "why": "outside the top 10"
       },
       {
@@ -527,22 +296,102 @@
         "why": "outside the top 10"
       },
       {
+        "issuer": "Jbs N.V.",
+        "ticker": "JBS",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Relay Therapeutics Inc",
+        "ticker": "RLAY",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Palantir Technologies Inc",
+        "ticker": "PLTR",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Taiwan Semiconductor Manufac",
+        "ticker": "TSM",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Repligen Corp",
+        "ticker": "RGEN",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Td Synnex Corporation",
+        "ticker": "SNX",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Crh Plc",
+        "ticker": "CRH",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Nuvation Bio Inc",
+        "ticker": "NUVB",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Palo Alto Networks Inc",
+        "ticker": "PANW",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Purecycle Technologies Inc",
+        "ticker": "PCT",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Insight Enterprises Inc",
+        "ticker": "NSIT",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Skeena Res Ltd New",
+        "ticker": "SKE",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Korsana Biosciences Inc",
+        "ticker": "KRSA",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Mks Inc.",
+        "ticker": "MKSI",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Cogent Biosciences Inc",
+        "ticker": "COGT",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Moonlake Immunotherapeutics",
+        "ticker": "MLTX",
+        "why": "outside the top 10"
+      },
+      {
+        "issuer": "Eli Lilly & Co",
+        "ticker": "LLY",
+        "why": "outside the top 10"
+      },
+      {
         "issuer": "Aurora Innovation Inc",
         "ticker": "AUR",
         "why": "outside the top 10"
       },
       {
-        "issuer": "Iren Limited",
-        "ticker": "IREN",
+        "issuer": "Dbv Technologies S A",
+        "ticker": "DBVT",
         "why": "outside the top 10"
       },
       {
-        "issuer": "Grupo Financiero Galicia S.A",
-        "ticker": "GGAL",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Wave Life Sciences Ltd",
+        "issuer": "Wave Life Sciences Inc",
         "ticker": "WVE",
         "why": "outside the top 10"
       }
