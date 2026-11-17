@@ -23,3 +23,4 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund
 2026-11-17T16:36:18+00:00,VERKAUF,ACN,0.311416,240.15,1.1018,67.88,-6.71,Stop-Loss: Kurs 240.15 $ ist unter die Verlustgrenze von 242.27 $ gefallen
 2026-11-17T16:36:18+00:00,VERKAUF,FMAO,2.182919,35.52,1.1018,70.37,-4.21,Stop-Loss: Kurs 35.52 $ ist unter die Verlustgrenze von 35.73 $ gefallen
 2026-11-17T16:36:18+00:00,VERKAUF,GDDY,0.576399,107.25,1.1018,56.11,-5.62,Stop-Loss: Kurs 107.25 $ ist unter die Verlustgrenze von 108.11 $ gefallen
+2026-11-17T19:38:58+00:00,VERKAUF,EMR,0.494175,159.13,1.1014,71.40,-3.19,"Score auf -4 gefallen (Grenze -4), schwach bei: Momentum -1, Volumen -1, Intraday -2"

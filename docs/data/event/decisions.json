@@ -9694,5 +9694,322 @@
     "trigger": [
       "Kurssprung -4,3 % mit 2,2x Volumen ohne bekannte Meldung"
     ]
+  },
+  {
+    "action": "ERÖFFNEN",
+    "sym": "NKE",
+    "side": -1,
+    "shares": 26.274369716102957,
+    "price": 36.435,
+    "value": 173.83451254879452,
+    "why": "Short: Kurssprung -4,8 % mit 2,5x Volumen ohne bekannte Meldung",
+    "id": "2026-11-17T19:48:38+00:00:ERÖFFNEN:NKE",
+    "time": "2026-11-17T19:48:38+00:00",
+    "kind": "open",
+    "bot": "event",
+    "story": "Der Event-Bot setzt auf fallende Nike, Inc. (NKE), weil: Kurssprung -4,8 % mit 2,5x Volumen ohne bekannte Meldung. Heute -4,8 % mit 2,5x Volumen, Kurs unter VWAP und Ausbruch unter das Tief der ersten 30 Minuten. Einsatz 173,83 € mit 5x Hebel = 869,17 € Engagement. Stop bei 37,52 $ (Verlust ca. 25,79 €), Ziel bei 34,27 $ (Gewinn ca. 51,57 €). Spätestens nach 4 Std. oder vor Börsenschluss wird geschlossen.",
+    "name": "Nike, Inc.",
+    "leverage": 5,
+    "levels": {
+      "stop": 37.5159421221322,
+      "target": 34.2731157557356
+    },
+    "total": -4,
+    "scores": {
+      "Signale": 0,
+      "Trend": -2,
+      "Momentum": 0,
+      "Volumen": -2,
+      "Intraday": -2,
+      "News": 2
+    },
+    "reasons": {
+      "Signale": [],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 < SMA200",
+        "ADX 23: kein klarer Trend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 43 neutral",
+        "unter dem unteren Bollinger-Band"
+      ],
+      "Volumen": [
+        "2.5x Volumen an einem Minus-Tag",
+        "Chaikin Money Flow -0.14 (Geld fließt raus)"
+      ],
+      "Intraday": [
+        "Kurs < VWAP 38.15",
+        "unter Opening Range 39.20",
+        "Gap +5.1 % zur Eröffnung"
+      ],
+      "News": [
+        "14 Schlagzeilen: 2 positiv, 0 negativ"
+      ]
+    },
+    "ind": {
+      "price": 36.435,
+      "sma50": 36.84929982299805,
+      "sma200": 44.54042483596802,
+      "adx": 22.603160084006838,
+      "plus_di": 20.306130019039916,
+      "minus_di": 24.589045479374022,
+      "macd_hist": -0.25739057733534515,
+      "rsi": 42.584007991095966,
+      "stoch_k": 12.476543897305206,
+      "stoch_d": 24.26839966702555,
+      "bb_upper": 40.187941367457455,
+      "bb_lower": 36.453558205296446,
+      "bb_width": 9.745068097515638,
+      "roc20": -3.8146806424763646,
+      "dollar_vol": 784953271.725,
+      "rvol": 2.5193614196601812,
+      "obv_trend": -0.0682627895043315,
+      "cmf": -0.13575556786176568,
+      "buy_sell_ratio": 0.8773615852252946,
+      "high52": 69.13999938964844,
+      "low52": 31.969999313354492,
+      "vwap": 38.15160845240787,
+      "or_high": 40.68000030517578,
+      "or_low": 39.20000076293945,
+      "gap": 5.070576389216397,
+      "atr": 1.4412561628429343,
+      "chg": -4.769990594866469,
+      "spark": [
+        46.23,
+        45.93,
+        43.73,
+        43.81,
+        43.62,
+        42.98,
+        43.23,
+        44.65,
+        43.96,
+        45.96,
+        44.93,
+        45.2,
+        45.04,
+        44.19,
+        45.2,
+        43.19,
+        42.38,
+        41.82,
+        40.9,
+        40.75,
+        41.48,
+        41.05,
+        43.06,
+        44.09,
+        43.34,
+        43.21,
+        42.89,
+        42.78,
+        44.37,
+        43.76,
+        42.86,
+        42.77,
+        44.57,
+        43.76,
+        43.47,
+        42.96,
+        42.21,
+        40.99,
+        41.7,
+        42.14,
+        43.05,
+        43.22,
+        42.29,
+        41.71,
+        42.64,
+        41.53,
+        42.45,
+        42.0,
+        41.7,
+        42.11,
+        41.32,
+        40.51,
+        41.23,
+        40.73,
+        39.09,
+        40.06,
+        41.05,
+        40.21,
+        40.76,
+        40.75,
+        39.48,
+        38.59,
+        38.44,
+        39.6,
+        39.06,
+        38.12,
+        38.24,
+        38.77,
+        38.4,
+        38.1,
+        37.35,
+        36.62,
+        36.8,
+        37.05,
+        36.22,
+        35.78,
+        36.36,
+        35.51,
+        36.1,
+        36.1,
+        36.05,
+        35.99,
+        35.75,
+        36.39,
+        35.84,
+        35.4,
+        35.15,
+        33.87,
+        33.96,
+        34.61,
+        34.36,
+        34.74,
+        34.71,
+        35.35,
+        35.33,
+        35.3,
+        37.14,
+        37.13,
+        37.21,
+        37.88,
+        37.53,
+        38.32,
+        37.3,
+        37.91,
+        37.56,
+        37.15,
+        38.42,
+        38.67,
+        39.12,
+        38.48,
+        40.49,
+        39.56,
+        38.59,
+        39.88,
+        38.67,
+        38.32,
+        37.76,
+        37.99,
+        38.26,
+        36.44
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Nike Bets Its Comeback on Performance Sports",
+        "time": "2026-11-17T18:23:15+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nike-bets-comeback-performance-sports-182315312.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Nike’s 2031 targets offer credible recovery path, says Jefferies",
+        "time": "2026-11-17T18:05:00+00:00",
+        "link": "https://www.proactiveinvestors.com/companies/news/1101950/nike-s-2031-targets-offer-credible-recovery-path-says-jefferies-1101950.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Nike Stock Rises on Plan to Restore Earnings by 2031",
+        "time": "2026-11-17T17:52:25+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nike-stock-rises-plan-restore-175225128.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Nike’s Strategy to Add $5 Billion More in Sales by 2031 Meets Skeptics on Wall Street",
+        "time": "2026-11-17T17:38:00+00:00",
+        "link": "https://finance.yahoo.com/m/20246818-5c59-3040-9f0e-8a98eef07906/nike%E2%80%99s-strategy-to-add-%245.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Nike won’t return to growth for 3 more years",
+        "time": "2026-11-17T17:36:00+00:00",
+        "link": "https://www.retaildive.com/news/nike-return-sales-growth-three-years-strategic-turnaround-plan-full-stride-ahead/874901/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "NIKE (NKE) Unveils Tuned Air, Nike Mind And Nike Free Across Sports",
+        "time": "2026-11-17T17:13:48+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nike-nke-unveils-tuned-air-171348793.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Nike's Full Stride Ahead Strategy Targets $5B In Incremental Revenue Growth – A Look At The Company’s 2031 Expectations",
+        "time": "2026-11-17T16:37:58+00:00",
+        "link": "https://stocktwits.com/news-articles/markets/equity/nike-s-full-stride-ahead-strategy-targets-5-b-in-incremental-revenue-growth-a-look-at-the-company-s-2031-expectations/cNbOGkWR9hb?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "First Look at Nike’s New Game Plan Ahead of Investor Day",
+        "time": "2026-11-17T16:31:31+00:00",
+        "link": "https://wwd.com/footwear-news/shoe-industry-news/nike-full-stride-ahead-comeback-program-details-1239420514/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Kurssprung -4,8 % mit 2,5x Volumen ohne bekannte Meldung"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "-4,8 %"
+      },
+      {
+        "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "36,44 $ vs. 38,15 $"
+      },
+      {
+        "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+        "ok": true,
+        "val": "39,20 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,5x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "784 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Kurssprung -4,8 % mit 2,5x Volumen ohne bekannte Meldung"
+    ]
   }
 ]
