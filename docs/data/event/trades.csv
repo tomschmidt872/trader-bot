@@ -33,3 +33,5 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-16T17:47:35+00:00,ERÖFFNEN,MBGL,39.949876,24.57,1.1008,891.50,,"Long: Kurssprung 5,5 % mit 2,4x Volumen ohne bekannte Meldung",Long,5,178.30
 2026-11-16T20:31:16+00:00,SCHLIESSEN,TSM,2.606535,373.57,1.1005,884.80,6.97,maximale Haltedauer von 4 Std. erreicht,Short,5,178.48
 2026-11-16T20:31:16+00:00,SCHLIESSEN,MBGL,39.949876,24.24,1.1005,879.95,-12.68,Börsenschluss naht – keine Position über Nacht,Long,5,178.30
+2026-11-17T16:43:44+00:00,ERÖFFNEN,CRM,5.002686,194.90,1.1018,884.91,,Short: Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI Companies Seek to “Destroy Salesforce Entirely”,Short,5,176.98
+2026-11-17T16:43:44+00:00,ERÖFFNEN,TSM,2.724389,357.52,1.1018,884.03,,"Short: Kurssprung -4,3 % mit 2,2x Volumen ohne bekannte Meldung",Short,5,176.81

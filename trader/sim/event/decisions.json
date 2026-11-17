@@ -9113,5 +9113,586 @@
     "trigger": [
       "Kurssprung 5,5 % mit 2,4x Volumen ohne bekannte Meldung"
     ]
+  },
+  {
+    "action": "ERÖFFNEN",
+    "sym": "CRM",
+    "side": -1,
+    "shares": 5.002685577074974,
+    "price": 194.895,
+    "value": 176.98282910583177,
+    "why": "Short: Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI Companies Seek to “Destroy Salesforce Entirely”",
+    "id": "2026-11-17T16:43:44+00:00:ERÖFFNEN:CRM",
+    "time": "2026-11-17T16:43:44+00:00",
+    "kind": "open",
+    "bot": "event",
+    "story": "Der Event-Bot setzt auf fallende Salesforce, Inc. (CRM), weil: Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI Companies Seek to “Destroy Salesforce Entirely”. Heute -9,3 % mit 2,3x Volumen, Kurs unter VWAP und Ausbruch unter das Tief der ersten 30 Minuten. Einsatz 176,98 € mit 5x Hebel = 884,91 € Engagement. Stop bei 201,50 $ (Verlust ca. 30,00 €), Ziel bei 181,68 $ (Gewinn ca. 59,99 €). Spätestens nach 4 Std. oder vor Börsenschluss wird geschlossen.",
+    "name": "Salesforce, Inc.",
+    "leverage": 5,
+    "levels": {
+      "stop": 201.5014154108494,
+      "target": 181.68216917830122
+    },
+    "total": -6,
+    "scores": {
+      "Signale": 0,
+      "Trend": 0,
+      "Momentum": 0,
+      "Volumen": -3,
+      "Intraday": -2,
+      "News": -1
+    },
+    "reasons": {
+      "Signale": [],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 > SMA200",
+        "ADX 21: kein klarer Trend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 26 überverkauft",
+        "unter dem unteren Bollinger-Band",
+        "-19.6 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "2.3x Volumen an einem Minus-Tag",
+        "OBV fällt (Distribution)",
+        "Verkaufsdruck: 2.2x mehr Volumen an Minus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs < VWAP 198.86",
+        "unter Opening Range 200.71",
+        "Gap -2.7 % zur Eröffnung"
+      ],
+      "News": [
+        "10 Schlagzeilen: 0 positiv, 1 negativ"
+      ]
+    },
+    "ind": {
+      "price": 194.895,
+      "sma50": 233.30449942626953,
+      "sma200": 197.91897504577636,
+      "adx": 21.381194227103826,
+      "plus_di": 16.37586684602583,
+      "minus_di": 41.15190150156376,
+      "macd_hist": -2.5206741303230196,
+      "rsi": 25.87886424042226,
+      "stoch_k": 2.1792796844688627,
+      "stoch_d": 13.891699668515132,
+      "bb_upper": 255.26737518754527,
+      "bb_lower": 198.17612261518917,
+      "bb_width": 25.181198031951062,
+      "roc20": -19.60771938782061,
+      "dollar_vol": 1306306150.425,
+      "rvol": 2.2934802478004648,
+      "obv_trend": -0.3708245662327316,
+      "cmf": -0.027443082739062864,
+      "buy_sell_ratio": 0.4505542694352311,
+      "high52": 269.1099853515625,
+      "low52": 146.32000732421875,
+      "vwap": 198.86139504052238,
+      "or_high": 211.0,
+      "or_low": 200.7100067138672,
+      "gap": -2.709122224369609,
+      "atr": 8.808553881132529,
+      "chg": -9.279431020408335,
+      "spark": [
+        191.1,
+        209.6,
+        200.84,
+        190.61,
+        188.75,
+        185.66,
+        182.55,
+        175.35,
+        170.92,
+        166.45,
+        165.89,
+        164.55,
+        161.71,
+        155.02,
+        151.78,
+        150.12,
+        153.42,
+        152.76,
+        150.19,
+        158.37,
+        157.93,
+        156.66,
+        163.23,
+        166.11,
+        165.65,
+        169.52,
+        166.58,
+        162.5,
+        163.32,
+        171.22,
+        167.56,
+        167.0,
+        172.68,
+        170.77,
+        173.79,
+        170.06,
+        163.0,
+        156.93,
+        163.66,
+        173.6,
+        181.5,
+        188.38,
+        180.71,
+        184.02,
+        185.95,
+        190.99,
+        192.98,
+        186.77,
+        192.74,
+        197.51,
+        197.47,
+        193.32,
+        201.37,
+        196.21,
+        190.97,
+        196.14,
+        206.09,
+        205.43,
+        209.17,
+        209.06,
+        205.69,
+        205.62,
+        252.05,
+        256.0,
+        257.54,
+        258.11,
+        256.93,
+        264.43,
+        259.23,
+        249.12,
+        244.16,
+        243.0,
+        247.72,
+        259.43,
+        255.65,
+        250.54,
+        242.85,
+        237.92,
+        236.42,
+        233.28,
+        237.58,
+        238.22,
+        234.02,
+        227.27,
+        225.31,
+        229.57,
+        236.69,
+        234.69,
+        229.79,
+        224.99,
+        224.56,
+        227.8,
+        229.13,
+        233.92,
+        238.01,
+        235.95,
+        246.74,
+        240.7,
+        242.45,
+        242.43,
+        241.78,
+        250.29,
+        248.57,
+        247.61,
+        240.89,
+        242.11,
+        230.9,
+        229.17,
+        226.18,
+        222.2,
+        227.11,
+        222.41,
+        213.65,
+        214.94,
+        213.48,
+        218.01,
+        217.57,
+        217.84,
+        214.83,
+        194.9
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today’s Market",
+        "time": "2026-11-17T16:29:00+00:00",
+        "link": "https://finance.yahoo.com/m/5d4c8ff4-57bc-3350-b217-681441a4f8b3/nvidia%2C-intel%2C-salesforce%2C.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "CRM support and resistance levels as stock hits oversold territory",
+        "time": "2026-11-17T15:53:48+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/crm-support-resistance-levels-stock-155348085.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI Companies Seek to “Destroy Salesforce Entirely”",
+        "time": "2026-11-17T15:49:28+00:00",
+        "link": "https://www.tikr.com/blog/salesforce-sinks-9-as-software-slides-before-anthropic-ipo-investor-warns-ai-companies-seek-to-destroy-salesforce-entirely?ref=yahoofinance&tlnk=yf-261117-575cc98r&.tsrc=rss",
+        "tone": -2,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Salesforce's Slack Gains Momentum: Can It Lift CRM's Growth Further?",
+        "time": "2026-11-17T14:33:00+00:00",
+        "link": "https://finance.yahoo.com/technology/ai/articles/salesforces-slack-gains-momentum-lift-143300948.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "analyst"
+        ]
+      },
+      {
+        "title": "Global Retail Technology Market Report 2026 | Capitalize on AI, Cloud and Omnichannel Demand as Microsoft, Oracle, Salesforce and SAP Drive the Market to $338.55B by 2030",
+        "time": "2026-11-17T14:24:00+00:00",
+        "link": "https://finance.yahoo.com/technology/articles/global-retail-technology-market-report-142400930.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "capital"
+        ]
+      },
+      {
+        "title": "Model N Appoints Koti Reddy Nandyala as Chief Technology Officer to Accelerate Platform Innovation",
+        "time": "2026-11-16T16:00:00+00:00",
+        "link": "https://finance.yahoo.com/technology/articles/model-n-appoints-koti-reddy-160000581.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      },
+      {
+        "title": "Salesforce Spent $32 Billion on Buybacks in 5 Years. Somehow, Its Share Count Still Rose",
+        "time": "2026-11-16T15:35:48+00:00",
+        "link": "https://www.tikr.com/blog/salesforce-spent-32-billion-on-buybacks-in-5-years-somehow-its-share-count-still-rose?ref=yahoofinance&tlnk=yf-261116-h8w8c93c&.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Trifecta Technologies Expands Product Data Capabilities with Salsify and Salesforce B2B Commerce Integration",
+        "time": "2026-11-16T15:00:00+00:00",
+        "link": "https://finance.yahoo.com/technology/articles/trifecta-technologies-expands-product-data-150000450.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI C"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "-9,3 %"
+      },
+      {
+        "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "194,90 $ vs. 198,86 $"
+      },
+      {
+        "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+        "ok": true,
+        "val": "200,71 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,3x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "1306 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI Companies Seek to “Destroy Salesforce Entirely”"
+    ]
+  },
+  {
+    "action": "ERÖFFNEN",
+    "sym": "TSM",
+    "side": -1,
+    "shares": 2.724388585641316,
+    "price": 357.52,
+    "value": 176.80584627672596,
+    "why": "Short: Kurssprung -4,3 % mit 2,2x Volumen ohne bekannte Meldung",
+    "id": "2026-11-17T16:43:44+00:00:ERÖFFNEN:TSM",
+    "time": "2026-11-17T16:43:44+00:00",
+    "kind": "open",
+    "bot": "event",
+    "story": "Der Event-Bot setzt auf fallende Taiwan Semiconductor Manufactur (TSM), weil: Kurssprung -4,3 % mit 2,2x Volumen ohne bekannte Meldung. Heute -4,3 % mit 2,2x Volumen, Kurs unter VWAP und Ausbruch unter das Tief der ersten 30 Minuten. Einsatz 176,81 € mit 5x Hebel = 884,03 € Engagement. Stop bei 370,96 $ (Verlust ca. 33,22 €), Ziel bei 330,65 $ (Gewinn ca. 66,44 €). Spätestens nach 4 Std. oder vor Börsenschluss wird geschlossen.",
+    "name": "Taiwan Semiconductor Manufactur",
+    "leverage": 5,
+    "levels": {
+      "stop": 370.9558307415757,
+      "target": 330.64833851684847
+    },
+    "total": -8,
+    "scores": {
+      "Signale": 1,
+      "Trend": -1,
+      "Momentum": -2,
+      "Volumen": -4,
+      "Intraday": -2,
+      "News": 0
+    },
+    "reasons": {
+      "Signale": [
+        "Cleo Fields kauft ($1,001 - $15,000)",
+        "Hon. Gilbert Cisneros kauft ($1,001 - $15,000)",
+        "Hon. Richard W. Allen kauft ($1,001 - $15,000)"
+      ],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 > SMA200",
+        "ADX 31: starker Abwärtstrend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 35 neutral",
+        "-15.9 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "2.2x Volumen an einem Minus-Tag",
+        "OBV fällt (Distribution)",
+        "Chaikin Money Flow -0.22 (Geld fließt raus)",
+        "Verkaufsdruck: 1.4x mehr Volumen an Minus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs < VWAP 362.48",
+        "unter Opening Range 365.76"
+      ],
+      "News": [
+        "1 Schlagzeilen: 0 positiv, 0 negativ"
+      ]
+    },
+    "ind": {
+      "price": 357.52,
+      "sma50": 427.3706008056641,
+      "sma200": 403.34730062255863,
+      "adx": 30.99704620928577,
+      "plus_di": 16.280820967364598,
+      "minus_di": 43.92755232269551,
+      "macd_hist": -2.341491078077821,
+      "rsi": 35.21782865786844,
+      "stoch_k": 7.442678973690629,
+      "stoch_d": 28.42210398114207,
+      "bb_upper": 451.27692341471214,
+      "bb_lower": 355.0030825667332,
+      "bb_width": 23.880994228745507,
+      "roc20": -15.893476217747104,
+      "dollar_vol": 5301392364.8,
+      "rvol": 2.1625781017242174,
+      "obv_trend": -0.1538011051884782,
+      "cmf": -0.21743760219105712,
+      "buy_sell_ratio": 0.7322755779428057,
+      "high52": 487.4700012207031,
+      "low52": 266.82000732421875,
+      "vwap": 362.48371073878656,
+      "or_high": 373.1000061035156,
+      "or_low": 365.760009765625,
+      "gap": -0.34007751766946814,
+      "atr": 17.91444098876766,
+      "chg": -4.265634405227992,
+      "spark": [
+        418.45,
+        435.63,
+        446.69,
+        436.69,
+        444.92,
+        415.17,
+        426.8,
+        427.92,
+        408.75,
+        421.07,
+        423.93,
+        441.4,
+        425.83,
+        432.15,
+        462.12,
+        467.67,
+        436.39,
+        440.83,
+        434.99,
+        432.35,
+        455.1,
+        477.57,
+        444.23,
+        434.16,
+        451.79,
+        432.57,
+        436.98,
+        436.96,
+        434.11,
+        421.58,
+        420.39,
+        419.48,
+        409.74,
+        398.37,
+        402.3,
+        424.61,
+        421.21,
+        415.58,
+        403.41,
+        399.09,
+        392.31,
+        374.67,
+        403.31,
+        404.25,
+        406.11,
+        417.17,
+        414.0,
+        418.2,
+        420.04,
+        418.47,
+        422.06,
+        429.15,
+        430.49,
+        426.35,
+        430.97,
+        413.41,
+        412.09,
+        416.0,
+        418.95,
+        410.12,
+        417.41,
+        417.69,
+        427.3,
+        417.52,
+        415.32,
+        414.0,
+        415.5,
+        417.01,
+        428.91,
+        439.0,
+        435.36,
+        428.03,
+        433.24,
+        418.01,
+        413.75,
+        417.72,
+        430.26,
+        434.67,
+        445.14,
+        452.0,
+        446.57,
+        451.15,
+        450.61,
+        452.88,
+        456.94,
+        456.19,
+        459.2,
+        472.78,
+        485.8,
+        482.3,
+        472.2,
+        457.99,
+        453.31,
+        444.35,
+        445.12,
+        430.0,
+        422.25,
+        412.61,
+        420.22,
+        425.08,
+        431.89,
+        412.35,
+        418.51,
+        424.37,
+        436.87,
+        439.51,
+        431.81,
+        406.13,
+        398.63,
+        404.8,
+        395.75,
+        353.1,
+        375.44,
+        388.62,
+        396.48,
+        413.35,
+        405.49,
+        398.73,
+        373.45,
+        357.52
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Pulled Back Amid Broader AI Buildout Correction",
+        "time": "2026-11-17T15:46:49+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-limited-154649598.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Kurssprung -4,3 % mit 2,2x Volumen ohne bekannte Meldung"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "-4,3 %"
+      },
+      {
+        "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "357,52 $ vs. 362,48 $"
+      },
+      {
+        "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+        "ok": true,
+        "val": "365,76 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,2x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "5301 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Kurssprung -4,3 % mit 2,2x Volumen ohne bekannte Meldung"
+    ]
   }
 ]
