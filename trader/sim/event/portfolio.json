@@ -1,10 +1,174 @@
 {
   "currency": "EUR",
   "type": "event",
-  "cash": 895.0227281370686,
+  "cash": 355.8635418759146,
   "start_cash": 1000.0,
   "leverage": 5,
   "started": "2026-11-11T17:37:18+00:00",
-  "positions": {},
+  "positions": {
+    "TJX": {
+      "side": 1,
+      "shares": 6.8594441846956205,
+      "entry": 143.15,
+      "entry_fx": 1.0971,
+      "margin_eur": 179.00454562741373,
+      "atr": 4.224432086021166,
+      "leverage": 5,
+      "stop": 139.98167593548413,
+      "target": 149.48664812903175,
+      "opened": "2026-11-18T15:38:02+00:00",
+      "name": "TJX Companies, Inc. (The)",
+      "trigger": [
+        "TJX Shares Jump 6.08% as Third-Quarter Revenue Beats Estimates and FY2027 Outlook Strengthens",
+        "TJX Companies, Inc. (The): SEC-Meldung 8-K – Quartalszahlen veröffentlicht",
+        "TJX beats third-quarter sales estimates, with earnings in line"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "TJX Shares Jump 6.08% as Third-Quarter Revenue Beats Estimates and FY2027 Outloo"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "10,2 %"
+        },
+        {
+          "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "143,15 $ vs. 140,32 $"
+        },
+        {
+          "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+          "ok": true,
+          "val": "142,18 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "5,5x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "915 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "TGT": {
+      "side": 1,
+      "shares": 5.797767684457717,
+      "entry": 169.194,
+      "entry_fx": 1.0971,
+      "margin_eur": 178.82554108178633,
+      "atr": 5.38064267416939,
+      "leverage": 5,
+      "stop": 165.15851799437294,
+      "target": 177.26496401125408,
+      "opened": "2026-11-18T15:38:02+00:00",
+      "name": "Target Corporation",
+      "trigger": [
+        "Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%.",
+        "Target Beats Third-Quarter Earnings Estimates and Raises FY2026 Guidance Despite Premarket Share Decline",
+        "Target reports 7.1% rise in third-quarter sales as comparable sales jump 5.6%"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%."
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "6,1 %"
+        },
+        {
+          "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "169,19 $ vs. 166,34 $"
+        },
+        {
+          "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+          "ok": true,
+          "val": "168,66 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "5,3x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "665 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "UNH": {
+      "side": -1,
+      "shares": 2.650743337341686,
+      "entry": 369.695,
+      "entry_fx": 1.0971,
+      "margin_eur": 178.64671554070452,
+      "atr": 12.246896700460496,
+      "leverage": 5,
+      "stop": 378.88017252534536,
+      "target": 351.32465494930926,
+      "opened": "2026-11-18T15:38:02+00:00",
+      "name": "UnitedHealth Group Incorporated",
+      "trigger": [
+        "Kurssprung -5,1 % mit 2,8x Volumen ohne bekannte Meldung"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "Kurssprung -5,1 % mit 2,8x Volumen ohne bekannte Meldung"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "-5,1 %"
+        },
+        {
+          "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "369,69 $ vs. 375,30 $"
+        },
+        {
+          "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+          "ok": true,
+          "val": "372,05 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "2,8x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "1833 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    }
+  },
   "dead": false
 }

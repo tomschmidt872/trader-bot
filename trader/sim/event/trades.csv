@@ -39,3 +39,6 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-18T14:38:59+00:00,SCHLIESSEN,CRM,5.002686,191.26,1.0972,872.05,15.70,maximale Haltedauer von 4 Std. erreicht,Short,5,176.98
 2026-11-18T14:38:59+00:00,SCHLIESSEN,TSM,2.724389,366.15,1.0972,909.16,-22.34,maximale Haltedauer von 4 Std. erreicht,Short,5,176.81
 2026-11-18T14:38:59+00:00,SCHLIESSEN,NKE,26.274370,35.59,1.0972,852.26,19.38,maximale Haltedauer von 4 Std. erreicht,Short,5,173.83
+2026-11-18T15:38:02+00:00,ERÖFFNEN,TJX,6.859444,143.15,1.0971,895.02,,"Long: TJX Shares Jump 6.08% as Third-Quarter Revenue Beats Estimates and FY2027 Outlook Strengthens; TJX Companies, Inc. (The): SEC-Meldung 8-K – Quartalszahlen veröffentlicht; TJX beats third-quarter sales estimates, with earnings in line",Long,5,179.00
+2026-11-18T15:38:02+00:00,ERÖFFNEN,TGT,5.797768,169.19,1.0971,894.13,,Long: Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%.; Target Beats Third-Quarter Earnings Estimates and Raises FY2026 Guidance Despite Premarket Share Decline; Target reports 7.1% rise in third-quarter sales as comparable sales jump 5.6%,Long,5,178.83
+2026-11-18T15:38:02+00:00,ERÖFFNEN,UNH,2.650743,369.69,1.0971,893.23,,"Short: Kurssprung -5,1 % mit 2,8x Volumen ohne bekannte Meldung",Short,5,178.65
