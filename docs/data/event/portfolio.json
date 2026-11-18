@@ -124,7 +124,7 @@
       "margin_eur": 178.64671554070452,
       "atr": 12.246896700460496,
       "leverage": 5,
-      "stop": 378.88017252534536,
+      "stop": 369.695,
       "target": 351.32465494930926,
       "opened": "2026-11-18T15:38:02+00:00",
       "name": "UnitedHealth Group Incorporated",
@@ -167,7 +167,8 @@
           "ok": true,
           "val": "keine"
         }
-      ]
+      ],
+      "breakeven": true
     }
   },
   "dead": false
