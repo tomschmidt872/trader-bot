@@ -1,43 +1,96 @@
 {
   "currency": "EUR",
   "type": "event",
-  "cash": 355.8635418759146,
+  "cash": 375.3045844510983,
   "start_cash": 1000.0,
   "leverage": 5,
   "started": "2026-11-11T17:37:18+00:00",
   "positions": {
-    "TJX": {
-      "side": 1,
-      "shares": 6.8594441846956205,
-      "entry": 143.15,
-      "entry_fx": 1.0971,
-      "margin_eur": 179.00454562741373,
-      "atr": 4.224432086021166,
+    "UNH": {
+      "side": -1,
+      "shares": 2.998827555832914,
+      "entry": 345.2,
+      "entry_fx": 1.0967,
+      "margin_eur": 188.78367325130336,
+      "atr": 13.996896700460496,
       "leverage": 5,
-      "stop": 139.98167593548413,
-      "target": 149.48664812903175,
-      "opened": "2026-11-18T15:38:02+00:00",
-      "name": "TJX Companies, Inc. (The)",
+      "stop": 355.69767252534535,
+      "target": 324.20465494930926,
+      "opened": "2026-11-18T19:45:14+00:00",
+      "name": "UnitedHealth Group Incorporated",
       "trigger": [
-        "TJX Shares Jump 6.08% as Third-Quarter Revenue Beats Estimates and FY2027 Outlook Strengthens",
-        "TJX Companies, Inc. (The): SEC-Meldung 8-K – Quartalszahlen veröffentlicht",
-        "TJX beats third-quarter sales estimates, with earnings in line"
+        "Kurssprung -11,4 % mit 2,6x Volumen ohne bekannte Meldung"
       ],
       "checks": [
         {
           "rule": "Auslöser in den letzten 24 Std.",
           "ok": true,
-          "val": "TJX Shares Jump 6.08% as Third-Quarter Revenue Beats Estimates and FY2027 Outloo"
+          "val": "Kurssprung -11,4 % mit 2,6x Volumen ohne bekannte Meldung"
         },
         {
           "rule": "Kursbewegung heute mindestens 4 %",
           "ok": true,
-          "val": "10,2 %"
+          "val": "-11,4 %"
+        },
+        {
+          "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "345,20 $ vs. 358,23 $"
+        },
+        {
+          "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+          "ok": true,
+          "val": "372,05 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "2,6x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "1712 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "TJX": {
+      "side": 1,
+      "shares": 7.244553954474595,
+      "entry": 142.75,
+      "entry_fx": 1.0967,
+      "margin_eur": 188.59488957805206,
+      "atr": 4.2815751611467245,
+      "leverage": 5,
+      "stop": 139.53881862913997,
+      "target": 149.1723627417201,
+      "opened": "2026-11-18T19:45:14+00:00",
+      "name": "TJX Companies, Inc. (The)",
+      "trigger": [
+        "TJX Stocks Rise 4.93% Premarket as 4% Comparable Sales Beat Plan",
+        "Traffic recovery at T.J. Maxx, Marshalls boost TJX in Q3 as pressures mount",
+        "TJ Maxx Parent TJX Raises Annual Sales Outlook as It Bets on Strong Holiday Demand"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "TJX Stocks Rise 4.93% Premarket as 4% Comparable Sales Beat Plan"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "9,9 %"
         },
         {
           "rule": "Kurs über Tagesdurchschnitt (VWAP)",
           "ok": true,
-          "val": "143,15 $ vs. 140,32 $"
+          "val": "142,75 $ vs. 141,71 $"
         },
         {
           "rule": "Ausbruch über das Hoch der ersten 30 Min.",
@@ -47,12 +100,12 @@
         {
           "rule": "Volumen mindestens 1,5x normal",
           "ok": true,
-          "val": "5,5x"
+          "val": "2,2x"
         },
         {
           "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
           "ok": true,
-          "val": "915 Mio. $"
+          "val": "913 Mio. $"
         },
         {
           "rule": "Keine Warnmeldung der SEC",
@@ -63,36 +116,36 @@
     },
     "TGT": {
       "side": 1,
-      "shares": 5.797767684457717,
-      "entry": 169.194,
-      "entry_fx": 1.0971,
-      "margin_eur": 178.82554108178633,
-      "atr": 5.38064267416939,
+      "shares": 6.123316245402129,
+      "entry": 168.72,
+      "entry_fx": 1.0967,
+      "margin_eur": 188.40629468847402,
+      "atr": 5.528200613971287,
       "leverage": 5,
-      "stop": 165.15851799437294,
-      "target": 177.26496401125408,
-      "opened": "2026-11-18T15:38:02+00:00",
+      "stop": 164.57384953952155,
+      "target": 177.01230092095693,
+      "opened": "2026-11-18T19:45:14+00:00",
       "name": "Target Corporation",
       "trigger": [
+        "Why Target Stock Soared Today",
         "Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%.",
-        "Target Beats Third-Quarter Earnings Estimates and Raises FY2026 Guidance Despite Premarket Share Decline",
-        "Target reports 7.1% rise in third-quarter sales as comparable sales jump 5.6%"
+        "Target betting big on the holidays after a surprisingly strong quarter"
       ],
       "checks": [
         {
           "rule": "Auslöser in den letzten 24 Std.",
           "ok": true,
-          "val": "Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%."
+          "val": "Why Target Stock Soared Today"
         },
         {
           "rule": "Kursbewegung heute mindestens 4 %",
           "ok": true,
-          "val": "6,1 %"
+          "val": "5,8 %"
         },
         {
           "rule": "Kurs über Tagesdurchschnitt (VWAP)",
           "ok": true,
-          "val": "169,19 $ vs. 166,34 $"
+          "val": "168,72 $ vs. 168,19 $"
         },
         {
           "rule": "Ausbruch über das Hoch der ersten 30 Min.",
@@ -102,12 +155,12 @@
         {
           "rule": "Volumen mindestens 1,5x normal",
           "ok": true,
-          "val": "5,3x"
+          "val": "2,6x"
         },
         {
           "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
           "ok": true,
-          "val": "665 Mio. $"
+          "val": "663 Mio. $"
         },
         {
           "rule": "Keine Warnmeldung der SEC",
@@ -115,60 +168,6 @@
           "val": "keine"
         }
       ]
-    },
-    "UNH": {
-      "side": -1,
-      "shares": 2.650743337341686,
-      "entry": 369.695,
-      "entry_fx": 1.0971,
-      "margin_eur": 178.64671554070452,
-      "atr": 12.246896700460496,
-      "leverage": 5,
-      "stop": 369.695,
-      "target": 351.32465494930926,
-      "opened": "2026-11-18T15:38:02+00:00",
-      "name": "UnitedHealth Group Incorporated",
-      "trigger": [
-        "Kurssprung -5,1 % mit 2,8x Volumen ohne bekannte Meldung"
-      ],
-      "checks": [
-        {
-          "rule": "Auslöser in den letzten 24 Std.",
-          "ok": true,
-          "val": "Kurssprung -5,1 % mit 2,8x Volumen ohne bekannte Meldung"
-        },
-        {
-          "rule": "Kursbewegung heute mindestens 4 %",
-          "ok": true,
-          "val": "-5,1 %"
-        },
-        {
-          "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
-          "ok": true,
-          "val": "369,69 $ vs. 375,30 $"
-        },
-        {
-          "rule": "Ausbruch unter das Tief der ersten 30 Min.",
-          "ok": true,
-          "val": "372,05 $"
-        },
-        {
-          "rule": "Volumen mindestens 1,5x normal",
-          "ok": true,
-          "val": "2,8x"
-        },
-        {
-          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
-          "ok": true,
-          "val": "1833 Mio. $"
-        },
-        {
-          "rule": "Keine Warnmeldung der SEC",
-          "ok": true,
-          "val": "keine"
-        }
-      ],
-      "breakeven": true
     }
   },
   "dead": false

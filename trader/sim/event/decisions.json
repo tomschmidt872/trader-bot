@@ -11860,5 +11860,1911 @@
     "trigger": [
       "Kurssprung -5,1 % mit 2,8x Volumen ohne bekannte Meldung"
     ]
+  },
+  {
+    "action": "SCHLIESSEN",
+    "sym": "TJX",
+    "side": 1,
+    "shares": 6.8594441846956205,
+    "price": 142.75,
+    "value": 179.00454562741373,
+    "pnl": -3.3946962079361604,
+    "why": "maximale Haltedauer von 4 Std. erreicht",
+    "id": "2026-11-18T19:45:14+00:00:SCHLIESSEN:TJX",
+    "time": "2026-11-18T19:45:14+00:00",
+    "kind": "time",
+    "bot": "event",
+    "story": "Long-Position in TJX nach 4,1 Std. geschlossen: maximale Haltedauer von 4 Std. erreicht. Ergebnis -3,39 € (-1,9 % auf den Einsatz von 179,00 €, mit 5x Hebel). Einstieg 143,15 $, Ausstieg 142,75 $.",
+    "name": "TJX Companies, Inc. (The)",
+    "entry": 143.15,
+    "bought": "2026-11-18T15:38:02+00:00",
+    "leverage": 5,
+    "pnl_pct": -1.8964301694337968,
+    "levels": {
+      "stop": 139.98167593548413,
+      "target": 149.48664812903175
+    },
+    "total": 0,
+    "scores": {
+      "Signale": -1,
+      "Trend": 0,
+      "Momentum": -1,
+      "Volumen": -2,
+      "Intraday": 2,
+      "News": 2
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Pete Sessions verkauft ($15,001 - $50,000)",
+        "Hon. Kevin Hern verkauft ($1,001 - $15,000)"
+      ],
+      "Trend": [
+        "Kurs > SMA50",
+        "SMA50 < SMA200",
+        "ADX 17: kein klarer Trend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 56 neutral"
+      ],
+      "Volumen": [
+        "2.2x Volumen an einem Plus-Tag",
+        "OBV fällt (Distribution)",
+        "Chaikin Money Flow -0.27 (Geld fließt raus)",
+        "Verkaufsdruck: 2.4x mehr Volumen an Minus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs > VWAP 141.71",
+        "Ausbruch über Opening Range 142.18",
+        "Gap +5.5 % zur Eröffnung"
+      ],
+      "News": [
+        "15 Schlagzeilen: 9 positiv, 0 negativ",
+        "8-K: Quartalszahlen veröffentlicht"
+      ]
+    },
+    "ind": {
+      "price": 142.75,
+      "sma50": 136.4465997314453,
+      "sma200": 150.22155002593993,
+      "adx": 17.31528375141367,
+      "plus_di": 33.31270274506662,
+      "minus_di": 23.12689083096857,
+      "macd_hist": -0.47547106991460797,
+      "rsi": 56.23689687787984,
+      "stoch_k": 77.04730929589562,
+      "stoch_d": 27.43845214456972,
+      "bb_upper": 147.83565980007418,
+      "bb_lower": 130.0883392233633,
+      "bb_width": 12.77134802253206,
+      "roc20": -1.903521296820876,
+      "dollar_vol": 913328775.0,
+      "rvol": 2.225957884818484,
+      "obv_trend": -0.4311657054438036,
+      "cmf": -0.2739945081635918,
+      "buy_sell_ratio": 0.42155510566536625,
+      "high52": 170.0,
+      "low52": 122.77999877929688,
+      "vwap": 141.71204471056012,
+      "or_high": 142.18380737304688,
+      "or_low": 134.0500030517578,
+      "gap": 5.5140454884633705,
+      "atr": 4.2815751611467245,
+      "chg": 9.93453468627532,
+      "spark": [
+        152.75,
+        153.69,
+        157.9,
+        158.63,
+        160.71,
+        159.75,
+        164.87,
+        167.66,
+        168.34,
+        168.41,
+        167.33,
+        166.32,
+        164.13,
+        163.81,
+        164.17,
+        164.35,
+        165.17,
+        155.19,
+        155.43,
+        151.23,
+        151.5,
+        151.35,
+        154.26,
+        151.31,
+        154.11,
+        152.79,
+        150.9,
+        151.34,
+        150.53,
+        150.34,
+        150.97,
+        154.79,
+        154.46,
+        155.7,
+        155.05,
+        155.41,
+        153.48,
+        154.22,
+        156.38,
+        160.8,
+        161.63,
+        159.26,
+        157.34,
+        157.5,
+        157.55,
+        159.92,
+        162.06,
+        161.36,
+        158.82,
+        155.74,
+        152.61,
+        153.81,
+        152.11,
+        150.85,
+        150.85,
+        144.5,
+        140.69,
+        140.53,
+        140.71,
+        139.48,
+        136.83,
+        134.22,
+        135.12,
+        133.91,
+        133.27,
+        131.31,
+        132.19,
+        132.08,
+        128.92,
+        126.12,
+        126.42,
+        126.02,
+        125.99,
+        124.6,
+        122.84,
+        126.55,
+        127.24,
+        130.96,
+        130.79,
+        131.59,
+        131.63,
+        130.06,
+        130.25,
+        133.8,
+        132.31,
+        133.59,
+        132.68,
+        134.41,
+        137.03,
+        138.8,
+        138.75,
+        138.76,
+        141.92,
+        141.49,
+        142.83,
+        144.58,
+        147.33,
+        147.36,
+        146.99,
+        145.52,
+        147.38,
+        145.06,
+        143.7,
+        140.2,
+        138.39,
+        141.39,
+        140.31,
+        141.0,
+        137.63,
+        144.76,
+        138.59,
+        135.3,
+        138.13,
+        136.92,
+        136.44,
+        135.98,
+        134.37,
+        131.09,
+        129.85,
+        142.75
+      ]
+    },
+    "headlines": [
+      {
+        "title": "TJX Companies Q3 Earnings Call Highlights",
+        "time": "2026-11-18T19:12:49+00:00",
+        "link": "https://www.marketbeat.com/instant-alerts/transcript-tjx-companies-q3-earnings-call-highlights-2026-11-18/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "TJX Stocks Rise 4.93% Premarket as 4% Comparable Sales Beat Plan",
+        "time": "2026-11-18T19:07:19+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-stocks-rise-4-93-190719765.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Traffic recovery at T.J. Maxx, Marshalls boost TJX in Q3 as pressures mount",
+        "time": "2026-11-18T17:19:00+00:00",
+        "link": "https://www.retaildive.com/news/traffic-recovery-tj-maxx-marshalls-boost-tjx-q3/875025/?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "TJ Maxx Parent TJX Raises Annual Sales Outlook as It Bets on Strong Holiday Demand",
+        "time": "2026-11-18T16:59:09+00:00",
+        "link": "https://www.ibtimes.com/tjx-raises-sales-outlook-off-price-shopping-3809911?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "TJX Soars 11% on Above-Plan Q3 as CEO Expects Holiday “Sales Momentum to Accelerate”",
+        "time": "2026-11-18T16:24:26+00:00",
+        "link": "https://www.tikr.com/blog/tjx-soars-11-on-above-plan-q3-as-ceo-expects-holiday-sales-momentum-to-accelerate?ref=yahoofinance&tlnk=yf-261118-qj6qjx3m&.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings",
+          "people"
+        ]
+      },
+      {
+        "title": "Why TJX Companies Stock Jumped 10% Today",
+        "time": "2026-11-18T16:17:02+00:00",
+        "link": "https://www.fool.com/investing/2026/11/18/why-tjx-companies-stock-jumped-10-today/?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "TJX Lifts Full-Year Outlook as Holiday Spending Seen Supporting Sales Momentum",
+        "time": "2026-11-18T15:56:49+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-lifts-full-outlook-holiday-155649961.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "T.J. Maxx owner TJX gets the holiday lift it needed to shake off its summer slowdown",
+        "time": "2026-11-18T15:39:05+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/article/tj-maxx-owner-tjx-gets-the-holiday-lift-it-needed-to-shake-off-its-summer-slowdown-153905102.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings",
+          "people"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "TJX Shares Jump 6.08% as Third-Quarter Revenue Beats Estimates and FY2027 Outloo"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "10,2 %"
+      },
+      {
+        "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "143,15 $ vs. 140,32 $"
+      },
+      {
+        "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+        "ok": true,
+        "val": "142,18 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "5,5x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "915 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "TJX Shares Jump 6.08% as Third-Quarter Revenue Beats Estimates and FY2027 Outlook Strengthens",
+      "TJX Companies, Inc. (The): SEC-Meldung 8-K – Quartalszahlen veröffentlicht",
+      "TJX beats third-quarter sales estimates, with earnings in line"
+    ]
+  },
+  {
+    "action": "SCHLIESSEN",
+    "sym": "TGT",
+    "side": 1,
+    "shares": 5.797767684457717,
+    "price": 168.72,
+    "value": 178.82554108178633,
+    "pnl": -3.3977762798893067,
+    "why": "maximale Haltedauer von 4 Std. erreicht",
+    "id": "2026-11-18T19:45:14+00:00:SCHLIESSEN:TGT",
+    "time": "2026-11-18T19:45:14+00:00",
+    "kind": "time",
+    "bot": "event",
+    "story": "Long-Position in TGT nach 4,1 Std. geschlossen: maximale Haltedauer von 4 Std. erreicht. Ergebnis -3,40 € (-1,9 % auf den Einsatz von 178,83 €, mit 5x Hebel). Einstieg 169,19 $, Ausstieg 168,72 $.",
+    "name": "Target Corporation",
+    "entry": 169.194,
+    "bought": "2026-11-18T15:38:02+00:00",
+    "leverage": 5,
+    "pnl_pct": -1.9000508872137705,
+    "levels": {
+      "stop": 165.15851799437294,
+      "target": 177.26496401125408
+    },
+    "total": 12,
+    "scores": {
+      "Signale": 0,
+      "Trend": 2,
+      "Momentum": 2,
+      "Volumen": 4,
+      "Intraday": 2,
+      "News": 2
+    },
+    "reasons": {
+      "Signale": [],
+      "Trend": [
+        "Kurs > SMA50",
+        "SMA50 > SMA200",
+        "ADX 23: kein klarer Trend"
+      ],
+      "Momentum": [
+        "MACD positiv",
+        "RSI 63 neutral",
+        "+10.7 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "2.6x Volumen an einem Plus-Tag",
+        "OBV steigt (Akkumulation)",
+        "Chaikin Money Flow +0.24 (Geld fließt rein)",
+        "Ausbruch am 52-Wochen-Hoch mit Volumen"
+      ],
+      "Intraday": [
+        "Kurs > VWAP 168.19",
+        "Ausbruch über Opening Range 168.66"
+      ],
+      "News": [
+        "8 Schlagzeilen: 4 positiv, 0 negativ",
+        "8-K: Quartalszahlen veröffentlicht"
+      ]
+    },
+    "ind": {
+      "price": 168.72,
+      "sma50": 156.44859921875002,
+      "sma200": 137.5296496902466,
+      "adx": 22.881019463904,
+      "plus_di": 37.90703609977712,
+      "minus_di": 15.758297097416643,
+      "macd_hist": 0.7559475785025553,
+      "rsi": 62.8160638662379,
+      "stoch_k": 83.93754499460258,
+      "stoch_d": 69.43803585187904,
+      "bb_upper": 169.03260993362463,
+      "bb_lower": 146.5783900053402,
+      "bb_width": 14.229047740811835,
+      "roc20": 10.723188471974222,
+      "dollar_vol": 663288092.4,
+      "rvol": 2.6259396288839514,
+      "obv_trend": 0.10931238942892864,
+      "cmf": 0.23818675282828433,
+      "buy_sell_ratio": 1.2289890924398406,
+      "high52": 171.91000366210938,
+      "low52": 83.44000244140625,
+      "vwap": 168.19099004274983,
+      "or_high": 168.65989685058594,
+      "or_low": 159.9499969482422,
+      "gap": 0.9151925813571049,
+      "atr": 5.528200613971287,
+      "chg": 5.760672783190524,
+      "spark": [
+        123.71,
+        123.18,
+        124.8,
+        123.85,
+        122.57,
+        123.97,
+        126.61,
+        127.98,
+        132.64,
+        135.23,
+        133.17,
+        133.4,
+        127.81,
+        130.74,
+        129.73,
+        134.11,
+        141.2,
+        139.57,
+        140.39,
+        133.92,
+        130.61,
+        130.29,
+        130.21,
+        126.1,
+        127.55,
+        132.42,
+        132.27,
+        135.14,
+        134.77,
+        134.0,
+        138.29,
+        140.21,
+        139.6,
+        139.59,
+        138.48,
+        137.92,
+        134.48,
+        136.78,
+        140.34,
+        144.2,
+        145.9,
+        144.51,
+        144.49,
+        149.35,
+        148.11,
+        147.7,
+        147.08,
+        149.7,
+        152.02,
+        152.29,
+        154.0,
+        155.51,
+        154.48,
+        151.01,
+        152.48,
+        159.0,
+        158.25,
+        165.44,
+        169.89,
+        163.47,
+        164.04,
+        165.93,
+        163.18,
+        160.88,
+        163.75,
+        163.36,
+        164.01,
+        164.44,
+        162.71,
+        157.52,
+        155.73,
+        155.83,
+        158.7,
+        154.4,
+        154.68,
+        159.83,
+        158.19,
+        157.71,
+        159.02,
+        156.26,
+        156.15,
+        157.45,
+        158.43,
+        156.43,
+        156.69,
+        156.7,
+        156.0,
+        152.99,
+        154.33,
+        150.92,
+        154.76,
+        153.64,
+        153.62,
+        151.99,
+        155.31,
+        156.63,
+        154.26,
+        153.29,
+        154.0,
+        152.38,
+        158.11,
+        152.76,
+        148.53,
+        148.01,
+        148.96,
+        151.82,
+        154.38,
+        158.38,
+        154.4,
+        163.1,
+        157.95,
+        158.41,
+        165.9,
+        161.78,
+        162.7,
+        160.9,
+        161.45,
+        160.32,
+        159.53,
+        168.72
+      ]
+    },
+    "headlines": [
+      {
+        "title": "What Target (TGT) Said on Its Q3 Earnings Call",
+        "time": "2026-11-18T18:14:36+00:00",
+        "link": "https://www.marketbeat.com/instant-alerts/transcript-what-target-tgt-said-on-its-q3-earnings-call-2026-11-18/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Why Target Stock Soared Today",
+        "time": "2026-11-18T17:42:17+00:00",
+        "link": "https://www.fool.com/investing/2026/11/18/why-target-stock-soared-today/?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Target Stocks Rise 3.62% as Traffic Lifts Comparable Sales 5.6%",
+        "time": "2026-11-18T17:31:29+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-stocks-rise-3-62-173129125.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "IBD Stock Of The Day Target Breaks Out As Sales Soar In Beat-And-Raise Quarter",
+        "time": "2026-11-18T17:16:36+00:00",
+        "link": "https://finance.yahoo.com/m/d074d895-d625-3a18-9323-7165e1e1fd79/ibd-stock-of-the-day-target.html?.tsrc=rss",
+        "tone": 2,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Target Earnings Get Boost From Rising Store Traffic and a Tariff Windfall",
+        "time": "2026-11-18T16:53:00+00:00",
+        "link": "https://finance.yahoo.com/m/314af5eb-0eff-32a6-880a-8df17da7616a/target-earnings-get-boost.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Target Posts Best Sales Gains In 5 Years",
+        "time": "2026-11-18T15:26:58+00:00",
+        "link": "https://www.mediapost.com/publications/article/419520/target-posts-best-sales-gains-in-5-years.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%.",
+        "time": "2026-11-18T15:19:34+00:00",
+        "link": "https://www.ibtimes.com/target-third-quarter-earnings-sales-tariff-refunds-3809907?.tsrc=rss",
+        "tone": 2,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Target Lifts Full-Year Sales Outlook as Third-Quarter Comparable Sales Top Views",
+        "time": "2026-11-18T15:18:06+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-lifts-full-sales-outlook-151806312.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%."
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "6,1 %"
+      },
+      {
+        "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "169,19 $ vs. 166,34 $"
+      },
+      {
+        "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+        "ok": true,
+        "val": "168,66 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "5,3x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "665 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%.",
+      "Target Beats Third-Quarter Earnings Estimates and Raises FY2026 Guidance Despite Premarket Share Decline",
+      "Target reports 7.1% rise in third-quarter sales as comparable sales jump 5.6%"
+    ]
+  },
+  {
+    "action": "SCHLIESSEN",
+    "sym": "UNH",
+    "side": -1,
+    "shares": 2.650743337341686,
+    "price": 345.2,
+    "value": 178.64671554070452,
+    "pnl": 58.37049461852308,
+    "why": "Kursziel 351,32 $ erreicht",
+    "id": "2026-11-18T19:45:14+00:00:SCHLIESSEN:UNH",
+    "time": "2026-11-18T19:45:14+00:00",
+    "kind": "target",
+    "bot": "event",
+    "story": "Short-Position in UNH nach 4,1 Std. geschlossen: Kursziel 351,32 $ erreicht. Ergebnis 58,37 € (32,7 % auf den Einsatz von 178,65 €, mit 5x Hebel). Einstieg 369,69 $, Ausstieg 345,20 $.",
+    "name": "UnitedHealth Group Incorporated",
+    "entry": 369.695,
+    "bought": "2026-11-18T15:38:02+00:00",
+    "leverage": 5,
+    "pnl_pct": 32.67370152418134,
+    "levels": {
+      "stop": 369.695,
+      "target": 351.32465494930926
+    },
+    "total": -8,
+    "scores": {
+      "Signale": -1,
+      "Trend": -1,
+      "Momentum": 0,
+      "Volumen": -4,
+      "Intraday": -2,
+      "News": 0
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Kevin Hern verkauft ($15,001 - $50,000)",
+        "Hon. Kevin Hern verkauft ($15,001 - $50,000)"
+      ],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 > SMA200",
+        "ADX 25: starker Abwärtstrend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 27 überverkauft",
+        "unter dem unteren Bollinger-Band",
+        "-17.2 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "2.6x Volumen an einem Minus-Tag",
+        "OBV fällt (Distribution)",
+        "Chaikin Money Flow -0.07 (Geld fließt raus)",
+        "Verkaufsdruck: 1.4x mehr Volumen an Minus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs < VWAP 358.23",
+        "unter Opening Range 372.05"
+      ],
+      "News": [
+        "5 Schlagzeilen: 0 positiv, 0 negativ"
+      ]
+    },
+    "ind": {
+      "price": 345.2,
+      "sma50": 390.5456003417969,
+      "sma200": 367.8882494506836,
+      "adx": 25.331740643566313,
+      "plus_di": 17.17104900601121,
+      "minus_di": 40.290936933061694,
+      "macd_hist": -4.926698083999005,
+      "rsi": 27.384077227364358,
+      "stoch_k": 0.5748620140324263,
+      "stoch_d": 31.516653264773293,
+      "bb_upper": 433.7696756273761,
+      "bb_lower": 372.07432644781915,
+      "bb_width": 15.311983217764283,
+      "roc20": -17.218225419664268,
+      "dollar_vol": 1712336984.0,
+      "rvol": 2.6391135082455577,
+      "obv_trend": -0.18055416678426423,
+      "cmf": -0.06868166369125987,
+      "buy_sell_ratio": 0.710405942788631,
+      "high52": 461.6199951171875,
+      "low52": 255.97000122070312,
+      "vwap": 358.2264150992702,
+      "or_high": 387.5299987792969,
+      "or_low": 372.04998779296875,
+      "gap": -0.6877419231556603,
+      "atr": 13.996896700460496,
+      "chg": -11.414492278742472,
+      "spark": [
+        379.86,
+        377.92,
+        377.0,
+        396.47,
+        399.47,
+        406.57,
+        413.0,
+        407.46,
+        405.55,
+        408.52,
+        411.04,
+        407.65,
+        399.53,
+        400.96,
+        406.68,
+        409.25,
+        405.8,
+        415.53,
+        427.89,
+        419.82,
+        415.63,
+        426.54,
+        425.36,
+        417.99,
+        428.19,
+        425.6,
+        431.68,
+        424.62,
+        429.09,
+        425.19,
+        418.52,
+        423.38,
+        426.09,
+        421.55,
+        436.35,
+        431.31,
+        423.56,
+        420.74,
+        417.64,
+        428.79,
+        420.57,
+        421.47,
+        414.4,
+        415.36,
+        407.55,
+        412.75,
+        403.97,
+        407.08,
+        408.74,
+        402.19,
+        405.59,
+        399.06,
+        401.73,
+        395.62,
+        393.93,
+        388.61,
+        384.85,
+        390.11,
+        398.76,
+        396.59,
+        401.01,
+        395.05,
+        392.95,
+        389.41,
+        396.3,
+        399.66,
+        400.94,
+        397.14,
+        400.84,
+        393.06,
+        388.28,
+        379.09,
+        383.55,
+        375.93,
+        375.26,
+        375.21,
+        376.9,
+        377.56,
+        372.95,
+        371.29,
+        375.01,
+        376.59,
+        377.83,
+        374.94,
+        367.08,
+        365.2,
+        371.9,
+        378.58,
+        376.32,
+        375.98,
+        370.95,
+        379.3,
+        378.52,
+        377.76,
+        395.62,
+        406.67,
+        401.43,
+        406.88,
+        419.26,
+        417.0,
+        424.98,
+        418.09,
+        410.7,
+        410.39,
+        407.1,
+        410.91,
+        406.97,
+        400.44,
+        404.44,
+        409.38,
+        395.72,
+        394.15,
+        397.62,
+        405.12,
+        402.94,
+        405.13,
+        407.46,
+        412.02,
+        389.68,
+        345.2
+      ]
+    },
+    "headlines": [
+      {
+        "title": "UnitedHealth Is Targeting 13% to 16% Long-Term Earnings Growth. Where Will the Stock Be in 5 Years?",
+        "time": "2026-11-18T07:20:00+00:00",
+        "link": "https://www.fool.com/investing/2026/11/18/unitedhealth-is-targeting-13-to-16-long-term-earni/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "UnitedHealth Keeps Raising Guidance. Here's What a $10,000 Investment Could Be Worth if the Turnaround Sticks.",
+        "time": "2026-11-18T03:04:00+00:00",
+        "link": "https://www.fool.com/investing/2026/11/17/unitedhealth-keeps-raising-guidance-heres-what-a-1/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "UnitedHealth (UNH) vs. Humana (HUM): Buy the Dip?",
+        "time": "2026-11-17T23:21:00+00:00",
+        "link": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-vs-humana-hum-232100909.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Is UnitedHealth Group (UNH) Cheap As Board Changes Put Valuation Back In Focus?",
+        "time": "2026-11-17T19:09:08+00:00",
+        "link": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-cheap-board-190908790.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      },
+      {
+        "title": "A $2.4 Billion Fund Dumps These 3 Stocks",
+        "time": "2026-11-17T19:05:52+00:00",
+        "link": "https://www.tikr.com/blog/a-2-4-billion-fund-dumps-these-3-stocks-2?ref=yahoofinance&tlnk=yf-261117-fmjpv9fq&.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Kurssprung -5,1 % mit 2,8x Volumen ohne bekannte Meldung"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "-5,1 %"
+      },
+      {
+        "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "369,69 $ vs. 375,30 $"
+      },
+      {
+        "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+        "ok": true,
+        "val": "372,05 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,8x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "1833 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Kurssprung -5,1 % mit 2,8x Volumen ohne bekannte Meldung"
+    ]
+  },
+  {
+    "action": "ERÖFFNEN",
+    "sym": "UNH",
+    "side": -1,
+    "shares": 2.998827555832914,
+    "price": 345.2,
+    "value": 188.78367325130336,
+    "why": "Short: Kurssprung -11,4 % mit 2,6x Volumen ohne bekannte Meldung",
+    "id": "2026-11-18T19:45:14+00:00:ERÖFFNEN:UNH",
+    "time": "2026-11-18T19:45:14+00:00",
+    "kind": "open",
+    "bot": "event",
+    "story": "Der Event-Bot setzt auf fallende UnitedHealth Group Incorporated (UNH), weil: Kurssprung -11,4 % mit 2,6x Volumen ohne bekannte Meldung. Heute -11,4 % mit 2,6x Volumen, Kurs unter VWAP und Ausbruch unter das Tief der ersten 30 Minuten. Einsatz 188,78 € mit 5x Hebel = 943,92 € Engagement. Stop bei 355,70 $ (Verlust ca. 28,70 €), Ziel bei 324,20 $ (Gewinn ca. 57,41 €). Spätestens nach 4 Std. oder vor Börsenschluss wird geschlossen.",
+    "name": "UnitedHealth Group Incorporated",
+    "leverage": 5,
+    "levels": {
+      "stop": 355.69767252534535,
+      "target": 324.20465494930926
+    },
+    "total": -8,
+    "scores": {
+      "Signale": -1,
+      "Trend": -1,
+      "Momentum": 0,
+      "Volumen": -4,
+      "Intraday": -2,
+      "News": 0
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Kevin Hern verkauft ($15,001 - $50,000)",
+        "Hon. Kevin Hern verkauft ($15,001 - $50,000)"
+      ],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 > SMA200",
+        "ADX 25: starker Abwärtstrend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 27 überverkauft",
+        "unter dem unteren Bollinger-Band",
+        "-17.2 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "2.6x Volumen an einem Minus-Tag",
+        "OBV fällt (Distribution)",
+        "Chaikin Money Flow -0.07 (Geld fließt raus)",
+        "Verkaufsdruck: 1.4x mehr Volumen an Minus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs < VWAP 358.23",
+        "unter Opening Range 372.05"
+      ],
+      "News": [
+        "5 Schlagzeilen: 0 positiv, 0 negativ"
+      ]
+    },
+    "ind": {
+      "price": 345.2,
+      "sma50": 390.5456003417969,
+      "sma200": 367.8882494506836,
+      "adx": 25.331740643566313,
+      "plus_di": 17.17104900601121,
+      "minus_di": 40.290936933061694,
+      "macd_hist": -4.926698083999005,
+      "rsi": 27.384077227364358,
+      "stoch_k": 0.5748620140324263,
+      "stoch_d": 31.516653264773293,
+      "bb_upper": 433.7696756273761,
+      "bb_lower": 372.07432644781915,
+      "bb_width": 15.311983217764283,
+      "roc20": -17.218225419664268,
+      "dollar_vol": 1712336984.0,
+      "rvol": 2.6391135082455577,
+      "obv_trend": -0.18055416678426423,
+      "cmf": -0.06868166369125987,
+      "buy_sell_ratio": 0.710405942788631,
+      "high52": 461.6199951171875,
+      "low52": 255.97000122070312,
+      "vwap": 358.2264150992702,
+      "or_high": 387.5299987792969,
+      "or_low": 372.04998779296875,
+      "gap": -0.6877419231556603,
+      "atr": 13.996896700460496,
+      "chg": -11.414492278742472,
+      "spark": [
+        379.86,
+        377.92,
+        377.0,
+        396.47,
+        399.47,
+        406.57,
+        413.0,
+        407.46,
+        405.55,
+        408.52,
+        411.04,
+        407.65,
+        399.53,
+        400.96,
+        406.68,
+        409.25,
+        405.8,
+        415.53,
+        427.89,
+        419.82,
+        415.63,
+        426.54,
+        425.36,
+        417.99,
+        428.19,
+        425.6,
+        431.68,
+        424.62,
+        429.09,
+        425.19,
+        418.52,
+        423.38,
+        426.09,
+        421.55,
+        436.35,
+        431.31,
+        423.56,
+        420.74,
+        417.64,
+        428.79,
+        420.57,
+        421.47,
+        414.4,
+        415.36,
+        407.55,
+        412.75,
+        403.97,
+        407.08,
+        408.74,
+        402.19,
+        405.59,
+        399.06,
+        401.73,
+        395.62,
+        393.93,
+        388.61,
+        384.85,
+        390.11,
+        398.76,
+        396.59,
+        401.01,
+        395.05,
+        392.95,
+        389.41,
+        396.3,
+        399.66,
+        400.94,
+        397.14,
+        400.84,
+        393.06,
+        388.28,
+        379.09,
+        383.55,
+        375.93,
+        375.26,
+        375.21,
+        376.9,
+        377.56,
+        372.95,
+        371.29,
+        375.01,
+        376.59,
+        377.83,
+        374.94,
+        367.08,
+        365.2,
+        371.9,
+        378.58,
+        376.32,
+        375.98,
+        370.95,
+        379.3,
+        378.52,
+        377.76,
+        395.62,
+        406.67,
+        401.43,
+        406.88,
+        419.26,
+        417.0,
+        424.98,
+        418.09,
+        410.7,
+        410.39,
+        407.1,
+        410.91,
+        406.97,
+        400.44,
+        404.44,
+        409.38,
+        395.72,
+        394.15,
+        397.62,
+        405.12,
+        402.94,
+        405.13,
+        407.46,
+        412.02,
+        389.68,
+        345.2
+      ]
+    },
+    "headlines": [
+      {
+        "title": "UnitedHealth Is Targeting 13% to 16% Long-Term Earnings Growth. Where Will the Stock Be in 5 Years?",
+        "time": "2026-11-18T07:20:00+00:00",
+        "link": "https://www.fool.com/investing/2026/11/18/unitedhealth-is-targeting-13-to-16-long-term-earni/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "UnitedHealth Keeps Raising Guidance. Here's What a $10,000 Investment Could Be Worth if the Turnaround Sticks.",
+        "time": "2026-11-18T03:04:00+00:00",
+        "link": "https://www.fool.com/investing/2026/11/17/unitedhealth-keeps-raising-guidance-heres-what-a-1/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "UnitedHealth (UNH) vs. Humana (HUM): Buy the Dip?",
+        "time": "2026-11-17T23:21:00+00:00",
+        "link": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-vs-humana-hum-232100909.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Is UnitedHealth Group (UNH) Cheap As Board Changes Put Valuation Back In Focus?",
+        "time": "2026-11-17T19:09:08+00:00",
+        "link": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-unh-cheap-board-190908790.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "people"
+        ]
+      },
+      {
+        "title": "A $2.4 Billion Fund Dumps These 3 Stocks",
+        "time": "2026-11-17T19:05:52+00:00",
+        "link": "https://www.tikr.com/blog/a-2-4-billion-fund-dumps-these-3-stocks-2?ref=yahoofinance&tlnk=yf-261117-fmjpv9fq&.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Kurssprung -11,4 % mit 2,6x Volumen ohne bekannte Meldung"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "-11,4 %"
+      },
+      {
+        "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "345,20 $ vs. 358,23 $"
+      },
+      {
+        "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+        "ok": true,
+        "val": "372,05 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,6x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "1712 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Kurssprung -11,4 % mit 2,6x Volumen ohne bekannte Meldung"
+    ]
+  },
+  {
+    "action": "ERÖFFNEN",
+    "sym": "TJX",
+    "side": 1,
+    "shares": 7.244553954474595,
+    "price": 142.75,
+    "value": 188.59488957805206,
+    "why": "Long: TJX Stocks Rise 4.93% Premarket as 4% Comparable Sales Beat Plan; Traffic recovery at T.J. Maxx, Marshalls boost TJX in Q3 as pressures mount; TJ Maxx Parent TJX Raises Annual Sales Outlook as It Bets on Strong Holiday Demand",
+    "id": "2026-11-18T19:45:14+00:00:ERÖFFNEN:TJX",
+    "time": "2026-11-18T19:45:14+00:00",
+    "kind": "open",
+    "bot": "event",
+    "story": "Der Event-Bot setzt auf steigende TJX Companies, Inc. (The) (TJX), weil: TJX Stocks Rise 4.93% Premarket as 4% Comparable Sales Beat Plan; Traffic recovery at T.J. Maxx, Marshalls boost TJX in Q3 as pressures mount; TJ Maxx Parent TJX Raises Annual Sales Outlook as It Bets on Strong Holiday Demand. Heute 9,9 % mit 2,2x Volumen, Kurs über VWAP und Ausbruch über das Hoch der ersten 30 Minuten. Einsatz 188,59 € mit 5x Hebel = 942,97 € Engagement. Stop bei 139,54 $ (Verlust ca. 21,21 €), Ziel bei 149,17 $ (Gewinn ca. 42,42 €). Spätestens nach 4 Std. oder vor Börsenschluss wird geschlossen.",
+    "name": "TJX Companies, Inc. (The)",
+    "leverage": 5,
+    "levels": {
+      "stop": 139.53881862913997,
+      "target": 149.1723627417201
+    },
+    "total": 0,
+    "scores": {
+      "Signale": -1,
+      "Trend": 0,
+      "Momentum": -1,
+      "Volumen": -2,
+      "Intraday": 2,
+      "News": 2
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Pete Sessions verkauft ($15,001 - $50,000)",
+        "Hon. Kevin Hern verkauft ($1,001 - $15,000)"
+      ],
+      "Trend": [
+        "Kurs > SMA50",
+        "SMA50 < SMA200",
+        "ADX 17: kein klarer Trend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 56 neutral"
+      ],
+      "Volumen": [
+        "2.2x Volumen an einem Plus-Tag",
+        "OBV fällt (Distribution)",
+        "Chaikin Money Flow -0.27 (Geld fließt raus)",
+        "Verkaufsdruck: 2.4x mehr Volumen an Minus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs > VWAP 141.71",
+        "Ausbruch über Opening Range 142.18",
+        "Gap +5.5 % zur Eröffnung"
+      ],
+      "News": [
+        "15 Schlagzeilen: 9 positiv, 0 negativ",
+        "8-K: Quartalszahlen veröffentlicht"
+      ]
+    },
+    "ind": {
+      "price": 142.75,
+      "sma50": 136.4465997314453,
+      "sma200": 150.22155002593993,
+      "adx": 17.31528375141367,
+      "plus_di": 33.31270274506662,
+      "minus_di": 23.12689083096857,
+      "macd_hist": -0.47547106991460797,
+      "rsi": 56.23689687787984,
+      "stoch_k": 77.04730929589562,
+      "stoch_d": 27.43845214456972,
+      "bb_upper": 147.83565980007418,
+      "bb_lower": 130.0883392233633,
+      "bb_width": 12.77134802253206,
+      "roc20": -1.903521296820876,
+      "dollar_vol": 913328775.0,
+      "rvol": 2.225957884818484,
+      "obv_trend": -0.4311657054438036,
+      "cmf": -0.2739945081635918,
+      "buy_sell_ratio": 0.42155510566536625,
+      "high52": 170.0,
+      "low52": 122.77999877929688,
+      "vwap": 141.71204471056012,
+      "or_high": 142.18380737304688,
+      "or_low": 134.0500030517578,
+      "gap": 5.5140454884633705,
+      "atr": 4.2815751611467245,
+      "chg": 9.93453468627532,
+      "spark": [
+        152.75,
+        153.69,
+        157.9,
+        158.63,
+        160.71,
+        159.75,
+        164.87,
+        167.66,
+        168.34,
+        168.41,
+        167.33,
+        166.32,
+        164.13,
+        163.81,
+        164.17,
+        164.35,
+        165.17,
+        155.19,
+        155.43,
+        151.23,
+        151.5,
+        151.35,
+        154.26,
+        151.31,
+        154.11,
+        152.79,
+        150.9,
+        151.34,
+        150.53,
+        150.34,
+        150.97,
+        154.79,
+        154.46,
+        155.7,
+        155.05,
+        155.41,
+        153.48,
+        154.22,
+        156.38,
+        160.8,
+        161.63,
+        159.26,
+        157.34,
+        157.5,
+        157.55,
+        159.92,
+        162.06,
+        161.36,
+        158.82,
+        155.74,
+        152.61,
+        153.81,
+        152.11,
+        150.85,
+        150.85,
+        144.5,
+        140.69,
+        140.53,
+        140.71,
+        139.48,
+        136.83,
+        134.22,
+        135.12,
+        133.91,
+        133.27,
+        131.31,
+        132.19,
+        132.08,
+        128.92,
+        126.12,
+        126.42,
+        126.02,
+        125.99,
+        124.6,
+        122.84,
+        126.55,
+        127.24,
+        130.96,
+        130.79,
+        131.59,
+        131.63,
+        130.06,
+        130.25,
+        133.8,
+        132.31,
+        133.59,
+        132.68,
+        134.41,
+        137.03,
+        138.8,
+        138.75,
+        138.76,
+        141.92,
+        141.49,
+        142.83,
+        144.58,
+        147.33,
+        147.36,
+        146.99,
+        145.52,
+        147.38,
+        145.06,
+        143.7,
+        140.2,
+        138.39,
+        141.39,
+        140.31,
+        141.0,
+        137.63,
+        144.76,
+        138.59,
+        135.3,
+        138.13,
+        136.92,
+        136.44,
+        135.98,
+        134.37,
+        131.09,
+        129.85,
+        142.75
+      ]
+    },
+    "headlines": [
+      {
+        "title": "TJX Companies Q3 Earnings Call Highlights",
+        "time": "2026-11-18T19:12:49+00:00",
+        "link": "https://www.marketbeat.com/instant-alerts/transcript-tjx-companies-q3-earnings-call-highlights-2026-11-18/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "TJX Stocks Rise 4.93% Premarket as 4% Comparable Sales Beat Plan",
+        "time": "2026-11-18T19:07:19+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-stocks-rise-4-93-190719765.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Traffic recovery at T.J. Maxx, Marshalls boost TJX in Q3 as pressures mount",
+        "time": "2026-11-18T17:19:00+00:00",
+        "link": "https://www.retaildive.com/news/traffic-recovery-tj-maxx-marshalls-boost-tjx-q3/875025/?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "TJ Maxx Parent TJX Raises Annual Sales Outlook as It Bets on Strong Holiday Demand",
+        "time": "2026-11-18T16:59:09+00:00",
+        "link": "https://www.ibtimes.com/tjx-raises-sales-outlook-off-price-shopping-3809911?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "TJX Soars 11% on Above-Plan Q3 as CEO Expects Holiday “Sales Momentum to Accelerate”",
+        "time": "2026-11-18T16:24:26+00:00",
+        "link": "https://www.tikr.com/blog/tjx-soars-11-on-above-plan-q3-as-ceo-expects-holiday-sales-momentum-to-accelerate?ref=yahoofinance&tlnk=yf-261118-qj6qjx3m&.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings",
+          "people"
+        ]
+      },
+      {
+        "title": "Why TJX Companies Stock Jumped 10% Today",
+        "time": "2026-11-18T16:17:02+00:00",
+        "link": "https://www.fool.com/investing/2026/11/18/why-tjx-companies-stock-jumped-10-today/?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "TJX Lifts Full-Year Outlook as Holiday Spending Seen Supporting Sales Momentum",
+        "time": "2026-11-18T15:56:49+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-lifts-full-outlook-holiday-155649961.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "T.J. Maxx owner TJX gets the holiday lift it needed to shake off its summer slowdown",
+        "time": "2026-11-18T15:39:05+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/article/tj-maxx-owner-tjx-gets-the-holiday-lift-it-needed-to-shake-off-its-summer-slowdown-153905102.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings",
+          "people"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "TJX Stocks Rise 4.93% Premarket as 4% Comparable Sales Beat Plan"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "9,9 %"
+      },
+      {
+        "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "142,75 $ vs. 141,71 $"
+      },
+      {
+        "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+        "ok": true,
+        "val": "142,18 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,2x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "913 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "TJX Stocks Rise 4.93% Premarket as 4% Comparable Sales Beat Plan",
+      "Traffic recovery at T.J. Maxx, Marshalls boost TJX in Q3 as pressures mount",
+      "TJ Maxx Parent TJX Raises Annual Sales Outlook as It Bets on Strong Holiday Demand"
+    ]
+  },
+  {
+    "action": "ERÖFFNEN",
+    "sym": "TGT",
+    "side": 1,
+    "shares": 6.123316245402129,
+    "price": 168.72,
+    "value": 188.40629468847402,
+    "why": "Long: Why Target Stock Soared Today; Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%.; Target betting big on the holidays after a surprisingly strong quarter",
+    "id": "2026-11-18T19:45:14+00:00:ERÖFFNEN:TGT",
+    "time": "2026-11-18T19:45:14+00:00",
+    "kind": "open",
+    "bot": "event",
+    "story": "Der Event-Bot setzt auf steigende Target Corporation (TGT), weil: Why Target Stock Soared Today; Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%.; Target betting big on the holidays after a surprisingly strong quarter. Heute 5,8 % mit 2,6x Volumen, Kurs über VWAP und Ausbruch über das Hoch der ersten 30 Minuten. Einsatz 188,41 € mit 5x Hebel = 942,03 € Engagement. Stop bei 164,57 $ (Verlust ca. 23,15 €), Ziel bei 177,01 $ (Gewinn ca. 46,30 €). Spätestens nach 4 Std. oder vor Börsenschluss wird geschlossen.",
+    "name": "Target Corporation",
+    "leverage": 5,
+    "levels": {
+      "stop": 164.57384953952155,
+      "target": 177.01230092095693
+    },
+    "total": 12,
+    "scores": {
+      "Signale": 0,
+      "Trend": 2,
+      "Momentum": 2,
+      "Volumen": 4,
+      "Intraday": 2,
+      "News": 2
+    },
+    "reasons": {
+      "Signale": [],
+      "Trend": [
+        "Kurs > SMA50",
+        "SMA50 > SMA200",
+        "ADX 23: kein klarer Trend"
+      ],
+      "Momentum": [
+        "MACD positiv",
+        "RSI 63 neutral",
+        "+10.7 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "2.6x Volumen an einem Plus-Tag",
+        "OBV steigt (Akkumulation)",
+        "Chaikin Money Flow +0.24 (Geld fließt rein)",
+        "Ausbruch am 52-Wochen-Hoch mit Volumen"
+      ],
+      "Intraday": [
+        "Kurs > VWAP 168.19",
+        "Ausbruch über Opening Range 168.66"
+      ],
+      "News": [
+        "8 Schlagzeilen: 4 positiv, 0 negativ",
+        "8-K: Quartalszahlen veröffentlicht"
+      ]
+    },
+    "ind": {
+      "price": 168.72,
+      "sma50": 156.44859921875002,
+      "sma200": 137.5296496902466,
+      "adx": 22.881019463904,
+      "plus_di": 37.90703609977712,
+      "minus_di": 15.758297097416643,
+      "macd_hist": 0.7559475785025553,
+      "rsi": 62.8160638662379,
+      "stoch_k": 83.93754499460258,
+      "stoch_d": 69.43803585187904,
+      "bb_upper": 169.03260993362463,
+      "bb_lower": 146.5783900053402,
+      "bb_width": 14.229047740811835,
+      "roc20": 10.723188471974222,
+      "dollar_vol": 663288092.4,
+      "rvol": 2.6259396288839514,
+      "obv_trend": 0.10931238942892864,
+      "cmf": 0.23818675282828433,
+      "buy_sell_ratio": 1.2289890924398406,
+      "high52": 171.91000366210938,
+      "low52": 83.44000244140625,
+      "vwap": 168.19099004274983,
+      "or_high": 168.65989685058594,
+      "or_low": 159.9499969482422,
+      "gap": 0.9151925813571049,
+      "atr": 5.528200613971287,
+      "chg": 5.760672783190524,
+      "spark": [
+        123.71,
+        123.18,
+        124.8,
+        123.85,
+        122.57,
+        123.97,
+        126.61,
+        127.98,
+        132.64,
+        135.23,
+        133.17,
+        133.4,
+        127.81,
+        130.74,
+        129.73,
+        134.11,
+        141.2,
+        139.57,
+        140.39,
+        133.92,
+        130.61,
+        130.29,
+        130.21,
+        126.1,
+        127.55,
+        132.42,
+        132.27,
+        135.14,
+        134.77,
+        134.0,
+        138.29,
+        140.21,
+        139.6,
+        139.59,
+        138.48,
+        137.92,
+        134.48,
+        136.78,
+        140.34,
+        144.2,
+        145.9,
+        144.51,
+        144.49,
+        149.35,
+        148.11,
+        147.7,
+        147.08,
+        149.7,
+        152.02,
+        152.29,
+        154.0,
+        155.51,
+        154.48,
+        151.01,
+        152.48,
+        159.0,
+        158.25,
+        165.44,
+        169.89,
+        163.47,
+        164.04,
+        165.93,
+        163.18,
+        160.88,
+        163.75,
+        163.36,
+        164.01,
+        164.44,
+        162.71,
+        157.52,
+        155.73,
+        155.83,
+        158.7,
+        154.4,
+        154.68,
+        159.83,
+        158.19,
+        157.71,
+        159.02,
+        156.26,
+        156.15,
+        157.45,
+        158.43,
+        156.43,
+        156.69,
+        156.7,
+        156.0,
+        152.99,
+        154.33,
+        150.92,
+        154.76,
+        153.64,
+        153.62,
+        151.99,
+        155.31,
+        156.63,
+        154.26,
+        153.29,
+        154.0,
+        152.38,
+        158.11,
+        152.76,
+        148.53,
+        148.01,
+        148.96,
+        151.82,
+        154.38,
+        158.38,
+        154.4,
+        163.1,
+        157.95,
+        158.41,
+        165.9,
+        161.78,
+        162.7,
+        160.9,
+        161.45,
+        160.32,
+        159.53,
+        168.72
+      ]
+    },
+    "headlines": [
+      {
+        "title": "What Target (TGT) Said on Its Q3 Earnings Call",
+        "time": "2026-11-18T18:14:36+00:00",
+        "link": "https://www.marketbeat.com/instant-alerts/transcript-what-target-tgt-said-on-its-q3-earnings-call-2026-11-18/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Why Target Stock Soared Today",
+        "time": "2026-11-18T17:42:17+00:00",
+        "link": "https://www.fool.com/investing/2026/11/18/why-target-stock-soared-today/?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Target Stocks Rise 3.62% as Traffic Lifts Comparable Sales 5.6%",
+        "time": "2026-11-18T17:31:29+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-stocks-rise-3-62-173129125.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "IBD Stock Of The Day Target Breaks Out As Sales Soar In Beat-And-Raise Quarter",
+        "time": "2026-11-18T17:16:36+00:00",
+        "link": "https://finance.yahoo.com/m/d074d895-d625-3a18-9323-7165e1e1fd79/ibd-stock-of-the-day-target.html?.tsrc=rss",
+        "tone": 2,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Target Earnings Get Boost From Rising Store Traffic and a Tariff Windfall",
+        "time": "2026-11-18T16:53:00+00:00",
+        "link": "https://finance.yahoo.com/m/314af5eb-0eff-32a6-880a-8df17da7616a/target-earnings-get-boost.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Target Posts Best Sales Gains In 5 Years",
+        "time": "2026-11-18T15:26:58+00:00",
+        "link": "https://www.mediapost.com/publications/article/419520/target-posts-best-sales-gains-in-5-years.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%.",
+        "time": "2026-11-18T15:19:34+00:00",
+        "link": "https://www.ibtimes.com/target-third-quarter-earnings-sales-tariff-refunds-3809907?.tsrc=rss",
+        "tone": 2,
+        "source": "Yahoo Finance",
+        "tags": [
+          "earnings"
+        ]
+      },
+      {
+        "title": "Target Lifts Full-Year Sales Outlook as Third-Quarter Comparable Sales Top Views",
+        "time": "2026-11-18T15:18:06+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-lifts-full-sales-outlook-151806312.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Why Target Stock Soared Today"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "5,8 %"
+      },
+      {
+        "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "168,72 $ vs. 168,19 $"
+      },
+      {
+        "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+        "ok": true,
+        "val": "168,66 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,6x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "663 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Why Target Stock Soared Today",
+      "Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%.",
+      "Target betting big on the holidays after a surprisingly strong quarter"
+    ]
   }
 ]
