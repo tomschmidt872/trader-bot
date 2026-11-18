@@ -36,3 +36,6 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-17T16:43:44+00:00,ERÖFFNEN,CRM,5.002686,194.90,1.1018,884.91,,Short: Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI Companies Seek to “Destroy Salesforce Entirely”,Short,5,176.98
 2026-11-17T16:43:44+00:00,ERÖFFNEN,TSM,2.724389,357.52,1.1018,884.03,,"Short: Kurssprung -4,3 % mit 2,2x Volumen ohne bekannte Meldung",Short,5,176.81
 2026-11-17T19:48:38+00:00,ERÖFFNEN,NKE,26.274370,36.44,1.1014,869.17,,"Short: Kurssprung -4,8 % mit 2,5x Volumen ohne bekannte Meldung",Short,5,173.83
+2026-11-18T14:38:59+00:00,SCHLIESSEN,CRM,5.002686,191.26,1.0972,872.05,15.70,maximale Haltedauer von 4 Std. erreicht,Short,5,176.98
+2026-11-18T14:38:59+00:00,SCHLIESSEN,TSM,2.724389,366.15,1.0972,909.16,-22.34,maximale Haltedauer von 4 Std. erreicht,Short,5,176.81
+2026-11-18T14:38:59+00:00,SCHLIESSEN,NKE,26.274370,35.59,1.0972,852.26,19.38,maximale Haltedauer von 4 Std. erreicht,Short,5,173.83

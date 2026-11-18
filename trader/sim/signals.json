@@ -1970,28 +1970,6 @@
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf"
     },
     {
-      "doc_id": "20035480",
-      "member": "Hon. Pete Sessions",
-      "ticker": "ABBV",
-      "type": "S",
-      "date": "2026-09-14",
-      "amount": "$15,001 - $50,000",
-      "amount_low": 15001,
-      "filed": "2026-09-18",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf"
-    },
-    {
-      "doc_id": "20035480",
-      "member": "Hon. Pete Sessions",
-      "ticker": "GOOGL",
-      "type": "S",
-      "date": "2026-09-14",
-      "amount": "$15,001 - $50,000",
-      "amount_low": 15001,
-      "filed": "2026-09-18",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035480.pdf"
-    },
-    {
       "doc_id": "20035778",
       "member": "Hon. Maria Elvira Salazar",
       "ticker": "CSCO",
@@ -2804,6 +2782,50 @@
       "amount_low": 1001,
       "filed": "2026-11-13",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
+    },
+    {
+      "doc_id": "20035811",
+      "member": "Hon. Byron Donalds",
+      "ticker": "ADSK",
+      "type": "S",
+      "date": "2026-10-02",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-16",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
+    },
+    {
+      "doc_id": "20035811",
+      "member": "Hon. Byron Donalds",
+      "ticker": "IBKR",
+      "type": "P",
+      "date": "2026-10-02",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-16",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
+    },
+    {
+      "doc_id": "20035811",
+      "member": "Hon. Byron Donalds",
+      "ticker": "NFLX",
+      "type": "S",
+      "date": "2026-10-02",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-16",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
+    },
+    {
+      "doc_id": "20035811",
+      "member": "Hon. Byron Donalds",
+      "ticker": "ZTS",
+      "type": "S",
+      "date": "2026-10-02",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-16",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
     }
   ]
 }
