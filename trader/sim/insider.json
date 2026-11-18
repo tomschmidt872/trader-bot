@@ -557,7 +557,9 @@
   "0002103469-26-000016": "2026-11-17",
   "0001823952-26-000026": "2026-11-17",
   "0001193125-26-465958": "2026-11-17",
-  "0001225208-26-009034": "2026-11-17"
+  "0001225208-26-009034": "2026-11-17",
+  "0000021344-26-000177": "2026-11-18",
+  "0000021344-26-000175": "2026-11-18"
  },
  "tx": [
   {
@@ -5941,6 +5943,45 @@
    "role": "Aufsichtsrat/Direktor",
    "filed": "2026-11-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1321655/000182395226000026/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-17",
+   "shares": 57581.0,
+   "price": 99.4049,
+   "value": 5723833.5468999995,
+   "acc": "0000021344-26-000177",
+   "sym": "KO",
+   "owner": "ARROYO MANUEL",
+   "role": "Executive Vice President",
+   "filed": "2026-11-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000177/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-16",
+   "shares": 3782.0,
+   "price": 100.14,
+   "value": 378729.48,
+   "acc": "0000021344-26-000175",
+   "sym": "KO",
+   "owner": "Douglas Monica Howard",
+   "role": "Executive Vice President",
+   "filed": "2026-11-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000175/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-16",
+   "shares": 5282.0,
+   "price": 100.14,
+   "value": 528939.48,
+   "acc": "0000021344-26-000175",
+   "sym": "KO",
+   "owner": "Douglas Monica Howard",
+   "role": "Executive Vice President",
+   "filed": "2026-11-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000175/"
   }
  ],
  "people": [

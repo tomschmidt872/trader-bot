@@ -4609,6 +4609,17 @@
     "seen": "2026-11-18T14:31:09+00:00"
   },
   {
+    "id": "insider:0000021344-26-000177:S:2026-11-17:57581.0",
+    "type": "insider",
+    "sym": "KO",
+    "time": "2026-11-18T12:00:00+00:00",
+    "title": "ARROYO MANUEL (Executive Vice President) verkauft 57.581 Aktien für 5.7 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-17 zu 99,40 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/21344/000002134426000177/",
+    "tone": -1,
+    "seen": "2026-11-18T18:24:11+00:00"
+  },
+  {
     "title": "Can Datadog Stock Jump 50%?",
     "time": "2026-11-18T11:58:31+00:00",
     "link": "https://www.trefis.com/stock/ddog/articles/626225/can-datadog-stock-jump-50/2026-11-18?.tsrc=rss",
@@ -20439,19 +20450,6 @@
     "type": "news",
     "sym": "CMCSA",
     "summary": "PHILADELPHIA, November 16, 2026--Comcast Business Delivers the Most Reliable Connectivity for Small Businesses, New Signal65 Report Finds",
-    "seen": "2026-11-17T14:35:56+00:00"
-  },
-  {
-    "title": "Trifecta Technologies Expands Product Data Capabilities with Salsify and Salesforce B2B Commerce Integration",
-    "time": "2026-11-16T15:00:00+00:00",
-    "link": "https://finance.yahoo.com/technology/articles/trifecta-technologies-expands-product-data-150000450.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CRM:rss:d576c6f8-df0a-35ad-8613-fd139d914d32",
-    "type": "news",
-    "sym": "CRM",
-    "summary": "Trifecta Technologies, a technology consulting and systems integration firm, today announced expanded capabilities leveraging Salsify's Product Experience Management (PXM) platform and Salesforce B2B Commerce to help organizations better manage, govern and activate product data across their digital ",
     "seen": "2026-11-17T14:35:56+00:00"
   }
 ]
