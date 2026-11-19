@@ -51,3 +51,5 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-19T14:40:11+00:00,SCHLIESSEN,UNH,2.998828,347.85,1.1004,947.97,-8.17,maximale Haltedauer von 4 Std. erreicht,Short,5,188.78
 2026-11-19T14:40:11+00:00,SCHLIESSEN,TJX,7.244554,138.68,1.1004,913.01,-27.71,"Stop bei 139,54 $ erreicht",Long,5,188.59
 2026-11-19T14:40:11+00:00,SCHLIESSEN,TGT,6.123316,166.00,1.1004,923.70,-16.09,maximale Haltedauer von 4 Std. erreicht,Long,5,188.41
+2026-11-19T15:41:29+00:00,ERÖFFNEN,WSM,4.110357,237.62,1.0985,889.12,,"Short: Williams-Sonoma, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht",Short,5,177.82
+2026-11-19T15:41:29+00:00,ERÖFFNEN,UNH,2.927296,333.32,1.0985,888.24,,"Short: Kurssprung -4,7 % mit 3,7x Volumen ohne bekannte Meldung",Short,5,177.65

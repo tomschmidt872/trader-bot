@@ -1,5 +1,35 @@
 [
   {
+    "id": "etrade:2026-11-19T15:41:29+00:00:ERÖFFNEN:UNH",
+    "type": "trade",
+    "sym": "UNH",
+    "time": "2026-11-19T15:41:29+00:00",
+    "seen": "2026-11-19T15:41:29+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short UNH (5x)",
+    "detail": "Short: Kurssprung -4,7 % mit 3,7x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-19T15:41:29+00:00:ERÖFFNEN:WSM",
+    "type": "trade",
+    "sym": "WSM",
+    "time": "2026-11-19T15:41:29+00:00",
+    "seen": "2026-11-19T15:41:29+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short WSM (5x)",
+    "detail": "Short: Williams-Sonoma, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+  },
+  {
+    "id": "regime:2026-11-19T15:36:10+00:00",
+    "type": "market",
+    "sym": "MARKT",
+    "time": "2026-11-19T15:36:10+00:00",
+    "title": "Marktlage wechselt von vorsichtig zu risk-off",
+    "detail": "S&P 500 unter 200-Tage-Linie; VIX 24.1: nervös",
+    "tone": -1,
+    "seen": "2026-11-19T15:36:10+00:00"
+  },
+  {
     "id": "etrade:2026-11-19T14:40:11+00:00:SCHLIESSEN:TGT",
     "type": "trade",
     "sym": "TGT",
@@ -20482,58 +20512,6 @@
     "id": "news:CHTR:rss:cbcde7dc-6fc7-38eb-94b7-47f466475e8f",
     "type": "news",
     "sym": "CHTR",
-    "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "What Sent Molina Stock Higher?",
-    "time": "2026-11-17T14:40:50+00:00",
-    "link": "https://www.trefis.com/stock/moh/articles/625772/what-sent-molina-stock-higher/2026-11-17?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MOH:rss:23278f22-f9ff-34cd-8cfb-31c3aa5d4e52",
-    "type": "news",
-    "sym": "MOH",
-    "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-    "seen": "2026-11-18T15:30:36+00:00"
-  },
-  {
-    "title": "What Really Drove Deere Stock's 81% Rise?",
-    "time": "2026-11-17T14:40:50+00:00",
-    "link": "https://www.trefis.com/stock/de/articles/625766/what-really-drove-deere-stocks-81-rise/2026-11-17?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:DE:rss:659c1283-1c7c-32f3-a7c8-4417f2cd9f6d",
-    "type": "news",
-    "sym": "DE",
-    "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-    "seen": "2026-11-19T14:33:59+00:00"
-  },
-  {
-    "title": "Why Is Applied Materials Stock Down Over 5%?",
-    "time": "2026-11-17T14:40:49+00:00",
-    "link": "https://www.trefis.com/stock/amat/articles/625811/why-did-applied-materials-stock-fall-over-5/2026-11-17?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMAT:rss:4846bb18-b866-30c4-89ff-03534e36677f",
-    "type": "news",
-    "sym": "AMAT",
-    "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "What Is Behind AMD Stock's Nearly 6% Slide?",
-    "time": "2026-11-17T14:40:49+00:00",
-    "link": "https://www.trefis.com/stock/amd/articles/625816/why-did-amd-stock-fall-nearly-6/2026-11-17?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMD:rss:e606809c-ff02-34a4-bcff-f7cce6f9e216",
-    "type": "news",
-    "sym": "AMD",
     "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
     "seen": "2026-11-17T16:36:18+00:00"
   }
