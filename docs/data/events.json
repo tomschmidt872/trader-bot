@@ -1,5 +1,45 @@
 [
   {
+    "id": "etrade:2026-11-19T19:47:26+00:00:ERÖFFNEN:UNH",
+    "type": "trade",
+    "sym": "UNH",
+    "time": "2026-11-19T19:47:26+00:00",
+    "seen": "2026-11-19T19:47:26+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short UNH (5x)",
+    "detail": "Short: Kurssprung -4,8 % mit 3,0x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-19T19:47:26+00:00:ERÖFFNEN:WSM",
+    "type": "trade",
+    "sym": "WSM",
+    "time": "2026-11-19T19:47:26+00:00",
+    "seen": "2026-11-19T19:47:26+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short WSM (5x)",
+    "detail": "Short: Williams-Sonoma, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+  },
+  {
+    "id": "etrade:2026-11-19T19:47:26+00:00:SCHLIESSEN:UNH",
+    "type": "trade",
+    "sym": "UNH",
+    "time": "2026-11-19T19:47:26+00:00",
+    "seen": "2026-11-19T19:47:26+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short UNH (5x) – -0,73 €",
+    "detail": "maximale Haltedauer von 4 Std. erreicht"
+  },
+  {
+    "id": "etrade:2026-11-19T19:47:26+00:00:SCHLIESSEN:WSM",
+    "type": "trade",
+    "sym": "WSM",
+    "time": "2026-11-19T19:47:26+00:00",
+    "seen": "2026-11-19T19:47:26+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short WSM (5x) – 73,49 €",
+    "detail": "Kursziel 222,57 $ erreicht"
+  },
+  {
     "id": "etrade:2026-11-19T17:35:16+00:00:ERÖFFNEN:AMD",
     "type": "trade",
     "sym": "AMD",

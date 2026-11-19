@@ -1,6 +1,6 @@
 {
-  "time": "2026-11-19T18:33:56+00:00",
-  "equity": 949.3017412168721,
+  "time": "2026-11-19T19:47:26+00:00",
+  "equity": 972.0499752810226,
   "rules": {
     "start_cash": 1000,
     "leverage": 5,
@@ -16,6 +16,6 @@
     "maintenance": 0.25,
     "min_dollar_volume": 50000000
   },
-  "candidates": 0,
+  "candidates": 2,
   "dead": false
 }
