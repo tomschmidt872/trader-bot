@@ -1,5 +1,25 @@
 [
   {
+    "id": "etrade:2026-11-19T17:35:16+00:00:ERÖFFNEN:AMD",
+    "type": "trade",
+    "sym": "AMD",
+    "time": "2026-11-19T17:35:16+00:00",
+    "seen": "2026-11-19T17:35:16+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short AMD (5x)",
+    "detail": "Short: Kurssprung -7,1 % mit 2,5x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-19T17:35:16+00:00:ERÖFFNEN:INSM",
+    "type": "trade",
+    "sym": "INSM",
+    "time": "2026-11-19T17:35:16+00:00",
+    "seen": "2026-11-19T17:35:16+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long INSM (5x)",
+    "detail": "Long: Kurssprung 19,5 % mit 5,5x Volumen ohne bekannte Meldung"
+  },
+  {
     "id": "etrade:2026-11-19T15:41:29+00:00:ERÖFFNEN:UNH",
     "type": "trade",
     "sym": "UNH",
@@ -1918,6 +1938,16 @@
     "sym": "ORCL",
     "summary": "Mythics announced it has been named a Major Player in the IDC MarketScape: Worldwide Oracle Implementation Services 2026 Vendor Assessment. This recognition comes amid continued investment and growth across the company's Oracle consulting, implementation, modernization, and managed services capabili",
     "seen": "2026-11-19T14:33:59+00:00"
+  },
+  {
+    "id": "congress:20036844:WBD:S:2026-10-07",
+    "type": "congress",
+    "sym": "WBD",
+    "time": "2026-11-19T12:00:00+00:00",
+    "title": "Hon. Thomas H. Kean Jr verkauft WBD ($1,001 - $15,000), gehandelt am 2026-10-07",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
+    "tone": -1,
+    "seen": "2026-11-19T17:30:36+00:00"
   },
   {
     "id": "filing:sec:0000104169-26-000168",
@@ -12000,6 +12030,36 @@
     "seen": "2026-11-19T14:33:59+00:00"
   },
   {
+    "id": "congress:20036864:TPR:S:2026-11-05",
+    "type": "congress",
+    "sym": "TPR",
+    "time": "2026-11-18T12:00:00+00:00",
+    "title": "Hon. Terri A. Sewell verkauft TPR ($1,001 - $15,000), gehandelt am 2026-11-05",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036864.pdf",
+    "tone": -1,
+    "seen": "2026-11-19T17:30:36+00:00"
+  },
+  {
+    "id": "congress:20036855:MSFT:P:2026-11-04",
+    "type": "congress",
+    "sym": "MSFT",
+    "time": "2026-11-18T12:00:00+00:00",
+    "title": "Hon. Michael Rulli kauft MSFT ($1,001 - $15,000), gehandelt am 2026-11-04",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf",
+    "tone": 1,
+    "seen": "2026-11-19T17:30:36+00:00"
+  },
+  {
+    "id": "congress:20036849:WBD:S:2026-10-07",
+    "type": "congress",
+    "sym": "WBD",
+    "time": "2026-11-18T12:00:00+00:00",
+    "title": "Hon. Steve Cohen verkauft WBD ($1,001 - $15,000), gehandelt am 2026-10-07",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036849.pdf",
+    "tone": -1,
+    "seen": "2026-11-19T17:30:36+00:00"
+  },
+  {
     "title": "Can Datadog Stock Jump 50%?",
     "time": "2026-11-18T11:58:31+00:00",
     "link": "https://www.trefis.com/stock/ddog/articles/626225/can-datadog-stock-jump-50/2026-11-18?.tsrc=rss",
@@ -20428,91 +20488,6 @@
     "type": "news",
     "sym": "TGT",
     "summary": "Investing.com -- Target Corporation (TGT) reports tomorrow, Nov 18, before the open, with consensus EPS of $2.07 and revenue of $26.47B. The stock closed at $160.32 on Nov 16 and was indicated at $158.55 (-1.10%) pre-market as of Nov 17, 9:08 AM EST. It is up about 81% over one year but has been ran",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Berkshire Executives Buy $2 Million in Stock With Shares Near Record",
-    "time": "2026-11-17T14:46:00+00:00",
-    "link": "https://finance.yahoo.com/m/a0d0fafd-3aa7-3c98-8774-a285ed3396bc/berkshire-executives-buy-%242.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "people"
-    ],
-    "id": "news:BRK-B:rss:a0d0fafd-3aa7-3c98-8774-a285ed3396bc",
-    "type": "news",
-    "sym": "BRK-B",
-    "summary": "CFO Charles Chang and general counsel Michael O’Sullivan added to their holdings after Berkshire’s latest earnings report.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Cathie Wood and 16 Other Big Funds Bought Netflix Last Quarter, While 20 Sold. Who’s Right?",
-    "time": "2026-11-17T14:42:31+00:00",
-    "link": "https://www.tikr.com/blog/cathie-wood-and-16-other-big-funds-bought-netflix-last-quarter-while-20-sold-whos-right?ref=yahoofinance&tlnk=yf-261117-526cxgv5&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NFLX:rss:1017e982-d1db-3b74-b172-fa4da38db0e2",
-    "type": "news",
-    "sym": "NFLX",
-    "summary": "Key TakeawaysOf the 456 big funds that have filed 13Fs for the third quarter, 17 bought Netflix, Cathie Wood’s ARK Invest among them, and 20 sold, including George Soros’ fund. The biggest moves came from less famous firms: Harris Associates added about $556 million of Netflix stock at quarter-end p",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Cathie Wood and 14 Other Big Funds Bought Broadcom. It’s 33% Below Its High. Bargain or Trap?",
-    "time": "2026-11-17T14:41:59+00:00",
-    "link": "https://www.tikr.com/blog/cathie-wood-and-14-other-big-funds-bought-broadcom-its-33-below-its-high-bargain-or-trap?ref=yahoofinance&tlnk=yf-261117-8p27hg4c&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:AVGO:rss:9d8a2290-8a88-3292-859d-b89034d7bfbd",
-    "type": "news",
-    "sym": "AVGO",
-    "summary": "Key TakeawaysCathie Wood’s ARK Invest and 14 other big funds bought Broadcom stock in the third quarter, according to their 13F filings. Broadcom trades at 19x forward earnings, well below its five-year average of 24x, while analysts expect its earnings per share to more than quadruple from fiscal 2",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "3 Domestic Auto Stocks to Watch Amid Weak Demand, High Borrowing Costs",
-    "time": "2026-11-17T14:41:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-domestic-auto-stocks-watch-144100912.html?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:F:rss:74bb8f02-56df-3996-8717-02aa698dbd58",
-    "type": "news",
-    "sym": "F",
-    "summary": "While high vehicle prices, rising interest rates and tariffs remain concerns, domestic auto industry players like F, RIVN and HOG are worth watching.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "AT&T or Eastman Chemical: The One Dividend Stock I’d Hold for the Next 20 Years",
-    "time": "2026-11-17T14:40:58+00:00",
-    "link": "https://www.tikr.com/blog/att-or-eastman-chemical-the-one-dividend-stock-id-hold-for-the-next-20-years?ref=yahoofinancedividend&tlnk=yf-261117-f8jc6h2m&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:T:rss:807e2908-c206-3687-9980-01ed290fc837",
-    "type": "news",
-    "sym": "T",
-    "summary": "Key TakeawaysAt today’s prices, AT&T yields 5. 0% and Eastman Chemical yields 5.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Is Charter Stock Worth The Wait?",
-    "time": "2026-11-17T14:40:50+00:00",
-    "link": "https://www.trefis.com/stock/chtr/articles/625765/is-charter-stock-worth-the-wait/2026-11-17?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CHTR:rss:cbcde7dc-6fc7-38eb-94b7-47f466475e8f",
-    "type": "news",
-    "sym": "CHTR",
-    "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
     "seen": "2026-11-17T16:36:18+00:00"
   }
 ]

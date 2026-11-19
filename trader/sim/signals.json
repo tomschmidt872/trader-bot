@@ -2826,6 +2826,50 @@
       "amount_low": 1001,
       "filed": "2026-11-16",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035811.pdf"
+    },
+    {
+      "doc_id": "20036844",
+      "member": "Hon. Thomas H. Kean Jr",
+      "ticker": "WBD",
+      "type": "S",
+      "date": "2026-10-07",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-19",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf"
+    },
+    {
+      "doc_id": "20036864",
+      "member": "Hon. Terri A. Sewell",
+      "ticker": "TPR",
+      "type": "S",
+      "date": "2026-11-05",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-18",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036864.pdf"
+    },
+    {
+      "doc_id": "20036855",
+      "member": "Hon. Michael Rulli",
+      "ticker": "MSFT",
+      "type": "P",
+      "date": "2026-11-04",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-18",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
+    },
+    {
+      "doc_id": "20036849",
+      "member": "Hon. Steve Cohen",
+      "ticker": "WBD",
+      "type": "S",
+      "date": "2026-10-07",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-18",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036849.pdf"
     }
   ]
 }
