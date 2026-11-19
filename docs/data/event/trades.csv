@@ -48,3 +48,6 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-18T19:45:14+00:00,ERÖFFNEN,UNH,2.998828,345.20,1.0967,943.92,,"Short: Kurssprung -11,4 % mit 2,6x Volumen ohne bekannte Meldung",Short,5,188.78
 2026-11-18T19:45:14+00:00,ERÖFFNEN,TJX,7.244554,142.75,1.0967,942.97,,"Long: TJX Stocks Rise 4.93% Premarket as 4% Comparable Sales Beat Plan; Traffic recovery at T.J. Maxx, Marshalls boost TJX in Q3 as pressures mount; TJ Maxx Parent TJX Raises Annual Sales Outlook as It Bets on Strong Holiday Demand",Long,5,188.59
 2026-11-18T19:45:14+00:00,ERÖFFNEN,TGT,6.123316,168.72,1.0967,942.03,,Long: Why Target Stock Soared Today; Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%.; Target betting big on the holidays after a surprisingly strong quarter,Long,5,188.41
+2026-11-19T14:40:11+00:00,SCHLIESSEN,UNH,2.998828,347.85,1.1004,947.97,-8.17,maximale Haltedauer von 4 Std. erreicht,Short,5,188.78
+2026-11-19T14:40:11+00:00,SCHLIESSEN,TJX,7.244554,138.68,1.1004,913.01,-27.71,"Stop bei 139,54 $ erreicht",Long,5,188.59
+2026-11-19T14:40:11+00:00,SCHLIESSEN,TGT,6.123316,166.00,1.1004,923.70,-16.09,maximale Haltedauer von 4 Std. erreicht,Long,5,188.41
