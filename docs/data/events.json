@@ -260,6 +260,61 @@
     "detail": "maximale Haltedauer von 4 Std. erreicht"
   },
   {
+    "id": "insider:0000070858-26-000604:P:2026-11-18:194.0",
+    "type": "insider",
+    "sym": "BAC",
+    "time": "2026-11-20T12:00:00+00:00",
+    "title": "BANK OF AMERICA CORP /DE/ (Großaktionär (10 %)) kauft 194 Aktien für 2 Tsd. $",
+    "detail": "Form 4 · gehandelt am 2026-11-18 zu 10,07 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000604/",
+    "tone": 1,
+    "seen": "2026-11-20T19:37:33+00:00"
+  },
+  {
+    "id": "insider:0000070858-26-000603:P:2026-11-18:47.0",
+    "type": "insider",
+    "sym": "BAC",
+    "time": "2026-11-20T12:00:00+00:00",
+    "title": "BANK OF AMERICA CORP /DE/ (Großaktionär (10 %)) kauft 47 Aktien für 400 $",
+    "detail": "Form 4 · gehandelt am 2026-11-18 zu 8,52 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000603/",
+    "tone": 1,
+    "seen": "2026-11-20T19:37:33+00:00"
+  },
+  {
+    "id": "insider:0000070858-26-000602:P:2026-11-18:288.0",
+    "type": "insider",
+    "sym": "BAC",
+    "time": "2026-11-20T12:00:00+00:00",
+    "title": "BANK OF AMERICA CORP /DE/ (Großaktionär (10 %)) kauft 288 Aktien für 3 Tsd. $",
+    "detail": "Form 4 · gehandelt am 2026-11-18 zu 9,13 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000602/",
+    "tone": 1,
+    "seen": "2026-11-20T19:37:33+00:00"
+  },
+  {
+    "id": "insider:0000070858-26-000601:P:2026-11-18:797.0",
+    "type": "insider",
+    "sym": "BAC",
+    "time": "2026-11-20T12:00:00+00:00",
+    "title": "BANK OF AMERICA CORP /DE/ (Großaktionär (10 %)) kauft 797 Aktien für 5 Tsd. $",
+    "detail": "Form 4 · gehandelt am 2026-11-18 zu 5,79 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000601/",
+    "tone": 1,
+    "seen": "2026-11-20T19:37:33+00:00"
+  },
+  {
+    "id": "insider:0000070858-26-000600:P:2026-11-18:703.0",
+    "type": "insider",
+    "sym": "BAC",
+    "time": "2026-11-20T12:00:00+00:00",
+    "title": "BANK OF AMERICA CORP /DE/ (Großaktionär (10 %)) kauft 703 Aktien für 4 Tsd. $",
+    "detail": "Form 4 · gehandelt am 2026-11-18 zu 5,45 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000600/",
+    "tone": 1,
+    "seen": "2026-11-20T19:37:33+00:00"
+  },
+  {
     "id": "etrade:2026-11-19T19:47:26+00:00:ERÖFFNEN:UNH",
     "type": "trade",
     "sym": "UNH",
@@ -20262,166 +20317,5 @@
     "sym": "GOOG",
     "summary": "Reddit emerges as the stronger digital advertising stock over Alphabet, backed by surging ad revenues, AI-driven growth, cheaper valuation, and upbeat earnings estimates.",
     "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Action1 Extends Microsoft Intune Capabilities Without Expanding the Attack Surface",
-    "time": "2026-11-17T15:15:00+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/action1-extends-microsoft-intune-capabilities-151500278.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "deal"
-    ],
-    "id": "news:MSFT:rss:f89762de-9a81-3d2a-a182-4a699c46828e",
-    "type": "news",
-    "sym": "MSFT",
-    "summary": "Action1, a leading provider of autonomous endpoint management (AEM) solutions, today announced it will demonstrate its platform at Microsoft Ignite 2026, including Endpoint Takeover Prevention (ETP), an industry-first security architecture designed to prevent threat actors from using a compromised m",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Home Depot Names New CEO After Ted Decker Steps Down. Quarterly Sales Hit $43.4 Billion.",
-    "time": "2026-11-17T15:13:58+00:00",
-    "link": "https://www.ibtimes.com/home-depot-names-richard-mcphail-ceo-sales-rise-3809855?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "people"
-    ],
-    "id": "news:HD:rss:501ad86c-e1ad-3294-9f06-c886a4a905d1",
-    "type": "news",
-    "sym": "HD",
-    "summary": "The company reported a 4.9% increase in quarterly sales, while comparable sales rose 2.2% and adjusted earnings exceeded Wall Street expectations.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "SpaceX Is Now Nvidia’s Top Holding After It Cut Its Intel and Nokia Stakes",
-    "time": "2026-11-17T15:12:33+00:00",
-    "link": "https://www.tikr.com/blog/spacex-is-now-nvidias-top-holding-after-it-cut-its-intel-and-nokia-stakes?ref=yahoofinance&tlnk=yf-261117-fvw3w9m4&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:INTC:rss:6979925d-d360-3514-9f88-254ec04e2199",
-    "type": "news",
-    "sym": "INTC",
-    "summary": "Key TakeawaysNvidia’s 13F for the third quarter shows it cut its Intel stake by 25% and its Nokia stake by 56%, which leaves SpaceX as its largest stock holding at about $19. 7 billion.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "SpaceX Is Now Nvidia’s Top Holding After It Cut Its Intel and Nokia Stakes",
-    "time": "2026-11-17T15:12:33+00:00",
-    "link": "https://www.tikr.com/blog/spacex-is-now-nvidias-top-holding-after-it-cut-its-intel-and-nokia-stakes?ref=yahoofinance&tlnk=yf-261117-fvw3w9m4&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NOKBF:rss:6979925d-d360-3514-9f88-254ec04e2199",
-    "type": "news",
-    "sym": "NOKBF",
-    "summary": "Key TakeawaysNvidia’s 13F for the third quarter shows it cut its Intel stake by 25% and its Nokia stake by 56%, which leaves SpaceX as its largest stock holding at about $19. 7 billion.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "North Carolina regulators approve more cost-effective path to strengthen reliability and power the state's future",
-    "time": "2026-11-17T15:10:00+00:00",
-    "link": "https://finance.yahoo.com/energy/articles/north-carolina-regulators-approve-more-151000809.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:DUK:rss:a5d8ffec-a949-3cba-982f-b4c9d5386c39",
-    "type": "news",
-    "sym": "DUK",
-    "summary": "Duke Energy worked with customers and stakeholders to find a more cost-effective path forward that keeps affordability at the forefront while supporting the investments needed to strengthen reliability and power North Carolina's continued growth.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Investors cut tech exposure by the most since 2006: BofA survey",
-    "time": "2026-11-17T15:09:54+00:00",
-    "link": "https://finance.yahoo.com/video/investors-cut-tech-exposure-by-the-most-since-2006-bofa-survey-150954736.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:BAC:rss:8eacf74b-004d-4a5f-b084-401fb69f4268",
-    "type": "news",
-    "sym": "BAC",
-    "summary": "Bank of America's (BAC) Fund Managers Survey shows that net tech overweight fell from 37% to 12% — the largest monthly reduction in 20 years. \"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss the details.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
-    "time": "2026-11-17T15:07:06+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/uber-zipline-drone-delivery-takes-150706837.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:UBER:rss:fe17a7b8-5295-348d-9ea9-509de4d0f1e5",
-    "type": "news",
-    "sym": "UBER",
-    "summary": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Warren Buffett Dumped Every Airline Stock in 2020. Berkshire Now Owns $5.6 Billion of One",
-    "time": "2026-11-17T15:07:00+00:00",
-    "link": "https://247wallst.com/investing/2026/11/17/warren-buffett-dumped-every-airline-stock-in-2020-berkshire-now-owns-5-6-billion-of-one/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:BRK-B:rss:8b401169-4a1e-3fc2-8afd-271bc01cfc30",
-    "type": "news",
-    "sym": "BRK-B",
-    "summary": "Berkshire Hathaway's new 13F shows 64,450,000 Delta Air Lines shares on September 30, up from 39,809,456 on March 31.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Apple Is Now the World’s Largest Company. Time to Buy the Stock?",
-    "time": "2026-11-17T15:05:02+00:00",
-    "link": "https://www.fool.com/investing/2026/11/17/apple-is-now-the-worlds-largest-company-time-to-buy-the-stock/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AAPL:rss:92a77325-399d-3f8e-b209-4163d4aac9ae",
-    "type": "news",
-    "sym": "AAPL",
-    "summary": "Nvidia's fall has opened up Apple's lead.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Lumentum, Corning, and other optical-related stocks jump on Chinese import restrictions",
-    "time": "2026-11-17T15:04:44+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/article/optical-related-stocks-surge-on-import-restrictions-of-chinese-data-center-equipment-150444937.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:GLW:rss:2c645636-faa0-4880-be50-3168339c2579",
-    "type": "news",
-    "sym": "GLW",
-    "summary": "US optical equipment stocks surged on Tuesday after reports that the Trump administration plans to move forward with restrictions on imports of Chinese data center equipment.",
-    "seen": "2026-11-17T18:26:10+00:00"
-  },
-  {
-    "title": "Tesla's $3.3B Cybercab Push in Germany: Will It Pay Off?",
-    "time": "2026-11-17T15:03:00+00:00",
-    "link": "https://finance.yahoo.com/technology/articles/teslas-3-3b-cybercab-push-150300873.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TSLA:rss:e46adf77-0b6e-3f09-ab10-8a359a5a15f1",
-    "type": "news",
-    "sym": "TSLA",
-    "summary": "Tesla's $3.3B Cybercab expansion in Germany targets 1 million vehicles annually by 2029, but can it turn manufacturing scale into a profitable robotaxi business?",
-    "seen": "2026-11-17T18:26:10+00:00"
-  },
-  {
-    "title": "Can PepsiCo's Asia Pacific Foods Business Maintain Volume Growth?",
-    "time": "2026-11-17T15:03:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/pepsicos-asia-pacific-foods-business-150300569.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:PEP:rss:077801ea-d6d7-30e3-a6da-5eedbe0bab79",
-    "type": "news",
-    "sym": "PEP",
-    "summary": "PEP's Asia Pacific Foods business delivers solid volume growth, fueled by resilient demand, market share gains and innovation. Can the momentum last?",
-    "seen": "2026-11-18T16:38:16+00:00"
   }
 ]
