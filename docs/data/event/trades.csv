@@ -68,3 +68,13 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-20T15:38:54+00:00,ERÖFFNEN,AVGO,3.351319,318.56,1.0989,971.51,,"Short: Kurssprung -8,1 % mit 2,4x Volumen ohne bekannte Meldung",Short,5,194.30
 2026-11-20T15:38:54+00:00,ERÖFFNEN,TSM,3.225405,330.67,1.0989,970.54,,"Short: Kurssprung -6,1 % mit 3,1x Volumen ohne bekannte Meldung",Short,5,194.11
 2026-11-20T15:38:54+00:00,ERÖFFNEN,AMAT,3.373286,312.69,1.0989,959.86,,"Short: Kurssprung -7,7 % mit 2,1x Volumen ohne bekannte Meldung",Short,5,191.97
+2026-11-20T16:43:16+00:00,SCHLIESSEN,MU,1.723274,606.28,1.0984,951.19,21.76,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,194.69
+2026-11-20T16:43:16+00:00,SCHLIESSEN,AMD,2.380100,436.58,1.0984,946.02,25.96,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,194.50
+2026-11-20T16:43:16+00:00,SCHLIESSEN,AVGO,3.351319,313.14,1.0984,955.42,15.58,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,194.30
+2026-11-20T16:43:16+00:00,SCHLIESSEN,TSM,3.225405,325.06,1.0984,954.54,15.49,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,194.11
+2026-11-20T16:43:16+00:00,SCHLIESSEN,AMAT,3.373286,309.31,1.0984,949.92,9.42,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,191.97
+2026-11-20T16:43:16+00:00,ERÖFFNEN,INTU,4.124722,281.43,1.0984,1056.83,,"Short: Kurssprung -9,2 % mit 4,4x Volumen ohne bekannte Meldung",Short,5,211.37
+2026-11-20T16:43:16+00:00,ERÖFFNEN,MU,1.912746,606.28,1.0984,1055.77,,"Short: Kurssprung -12,2 % mit 2,2x Volumen ohne bekannte Meldung",Short,5,211.15
+2026-11-20T16:43:16+00:00,ERÖFFNEN,AMD,2.653562,436.58,1.0984,1054.72,,"Short: Kurssprung -10,8 % mit 2,2x Volumen ohne bekannte Meldung",Short,5,210.94
+2026-11-20T16:43:16+00:00,ERÖFFNEN,TSM,3.560339,325.06,1.0984,1053.66,,"Short: Kurssprung -7,7 % mit 2,8x Volumen ohne bekannte Meldung",Short,5,210.73
+2026-11-20T16:43:16+00:00,ERÖFFNEN,AVGO,3.655232,313.14,1.0984,1042.06,,"Short: Kurssprung -9,7 % mit 2,0x Volumen ohne bekannte Meldung",Short,5,208.41

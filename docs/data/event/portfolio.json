@@ -1,41 +1,94 @@
 {
   "currency": "EUR",
   "type": "event",
-  "cash": -0.959856190279254,
+  "cash": -1.0420604833402365,
   "start_cash": 1000.0,
   "leverage": 5,
   "started": "2026-11-11T17:37:18+00:00",
   "positions": {
-    "MU": {
+    "INTU": {
       "side": -1,
-      "shares": 1.723274094567258,
-      "entry": 620.757,
-      "entry_fx": 1.0989,
-      "margin_eur": 194.6918658879402,
-      "atr": 59.45658051428474,
+      "shares": 4.124722181377642,
+      "entry": 281.43,
+      "entry_fx": 1.0984,
+      "margin_eur": 211.36572532867984,
+      "atr": 14.690968885839217,
       "leverage": 5,
-      "stop": 665.3494353857135,
-      "target": 531.5721292285729,
-      "opened": "2026-11-20T15:38:54+00:00",
-      "name": "Micron Technology, Inc.",
+      "stop": 292.44822666437943,
+      "target": 259.3935466712412,
+      "opened": "2026-11-20T16:43:16+00:00",
+      "name": "Intuit Inc.",
       "trigger": [
-        "Kurssprung -10,1 % mit 2,7x Volumen ohne bekannte Meldung"
+        "Kurssprung -9,2 % mit 4,4x Volumen ohne bekannte Meldung"
       ],
       "checks": [
         {
           "rule": "Auslöser in den letzten 24 Std.",
           "ok": true,
-          "val": "Kurssprung -10,1 % mit 2,7x Volumen ohne bekannte Meldung"
+          "val": "Kurssprung -9,2 % mit 4,4x Volumen ohne bekannte Meldung"
         },
         {
           "rule": "Kursbewegung heute mindestens 4 %",
           "ok": true,
-          "val": "-10,1 %"
+          "val": "-9,2 %"
         },
         {
           "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
           "ok": true,
-          "val": "620,76 $ vs. 647,94 $"
+          "val": "281,43 $ vs. 291,81 $"
+        },
+        {
+          "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+          "ok": true,
+          "val": "284,06 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "4,4x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "792 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "MU": {
+      "side": -1,
+      "shares": 1.9127461617430968,
+      "entry": 606.28,
+      "entry_fx": 1.0984,
+      "margin_eur": 211.15435960335117,
+      "atr": 60.35157824726465,
+      "leverage": 5,
+      "stop": 651.5436836854485,
+      "target": 515.752632629103,
+      "opened": "2026-11-20T16:43:16+00:00",
+      "name": "Micron Technology, Inc.",
+      "trigger": [
+        "Kurssprung -12,2 % mit 2,2x Volumen ohne bekannte Meldung"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "Kurssprung -12,2 % mit 2,2x Volumen ohne bekannte Meldung"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "-12,2 %"
+        },
+        {
+          "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "606,28 $ vs. 625,09 $"
         },
         {
           "rule": "Ausbruch unter das Tief der ersten 30 Min.",
@@ -45,12 +98,12 @@
         {
           "rule": "Volumen mindestens 1,5x normal",
           "ok": true,
-          "val": "2,7x"
+          "val": "2,2x"
         },
         {
           "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
           "ok": true,
-          "val": "19775 Mio. $"
+          "val": "19314 Mio. $"
         },
         {
           "rule": "Keine Warnmeldung der SEC",
@@ -61,34 +114,34 @@
     },
     "AMD": {
       "side": -1,
-      "shares": 2.380099605042686,
-      "entry": 449.0,
-      "entry_fx": 1.0989,
-      "margin_eur": 194.49717402205223,
-      "atr": 43.24742391989701,
+      "shares": 2.653562056238248,
+      "entry": 436.583,
+      "entry_fx": 1.0984,
+      "margin_eur": 210.94320524374785,
+      "atr": 44.31813750806665,
       "leverage": 5,
-      "stop": 481.43556793992275,
-      "target": 384.1288641201545,
-      "opened": "2026-11-20T15:38:54+00:00",
+      "stop": 469.82160313105,
+      "target": 370.10579373790006,
+      "opened": "2026-11-20T16:43:16+00:00",
       "name": "Advanced Micro Devices, Inc.",
       "trigger": [
-        "Kurssprung -8,2 % mit 2,6x Volumen ohne bekannte Meldung"
+        "Kurssprung -10,8 % mit 2,2x Volumen ohne bekannte Meldung"
       ],
       "checks": [
         {
           "rule": "Auslöser in den letzten 24 Std.",
           "ok": true,
-          "val": "Kurssprung -8,2 % mit 2,6x Volumen ohne bekannte Meldung"
+          "val": "Kurssprung -10,8 % mit 2,2x Volumen ohne bekannte Meldung"
         },
         {
           "rule": "Kursbewegung heute mindestens 4 %",
           "ok": true,
-          "val": "-8,2 %"
+          "val": "-10,8 %"
         },
         {
           "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
           "ok": true,
-          "val": "449,00 $ vs. 462,06 $"
+          "val": "436,58 $ vs. 454,97 $"
         },
         {
           "rule": "Ausbruch unter das Tief der ersten 30 Min.",
@@ -98,65 +151,12 @@
         {
           "rule": "Volumen mindestens 1,5x normal",
           "ok": true,
-          "val": "2,6x"
+          "val": "2,2x"
         },
         {
           "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
           "ok": true,
-          "val": "17757 Mio. $"
-        },
-        {
-          "rule": "Keine Warnmeldung der SEC",
-          "ok": true,
-          "val": "keine"
-        }
-      ]
-    },
-    "AVGO": {
-      "side": -1,
-      "shares": 3.351318614833946,
-      "entry": 318.56,
-      "entry_fx": 1.0989,
-      "margin_eur": 194.3026768480302,
-      "atr": 18.789259016384985,
-      "leverage": 5,
-      "stop": 332.65194426228874,
-      "target": 290.37611147542253,
-      "opened": "2026-11-20T15:38:54+00:00",
-      "name": "Broadcom Inc.",
-      "trigger": [
-        "Kurssprung -8,1 % mit 2,4x Volumen ohne bekannte Meldung"
-      ],
-      "checks": [
-        {
-          "rule": "Auslöser in den letzten 24 Std.",
-          "ok": true,
-          "val": "Kurssprung -8,1 % mit 2,4x Volumen ohne bekannte Meldung"
-        },
-        {
-          "rule": "Kursbewegung heute mindestens 4 %",
-          "ok": true,
-          "val": "-8,1 %"
-        },
-        {
-          "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
-          "ok": true,
-          "val": "318,56 $ vs. 332,30 $"
-        },
-        {
-          "rule": "Ausbruch unter das Tief der ersten 30 Min.",
-          "ok": true,
-          "val": "331,52 $"
-        },
-        {
-          "rule": "Volumen mindestens 1,5x normal",
-          "ok": true,
-          "val": "2,4x"
-        },
-        {
-          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
-          "ok": true,
-          "val": "8977 Mio. $"
+          "val": "17266 Mio. $"
         },
         {
           "rule": "Keine Warnmeldung der SEC",
@@ -167,77 +167,24 @@
     },
     "TSM": {
       "side": -1,
-      "shares": 3.225404750679873,
-      "entry": 330.665,
-      "entry_fx": 1.0989,
-      "margin_eur": 194.10837417118216,
-      "atr": 18.25959899806342,
+      "shares": 3.5603389571792246,
+      "entry": 325.065,
+      "entry_fx": 1.0984,
+      "margin_eur": 210.73226203850408,
+      "atr": 18.62174237836476,
       "leverage": 5,
-      "stop": 344.3596992485476,
-      "target": 303.2756015029049,
-      "opened": "2026-11-20T15:38:54+00:00",
+      "stop": 339.0313067837736,
+      "target": 297.13238643245285,
+      "opened": "2026-11-20T16:43:16+00:00",
       "name": "Taiwan Semiconductor Manufactur",
       "trigger": [
-        "Kurssprung -6,1 % mit 3,1x Volumen ohne bekannte Meldung"
+        "Kurssprung -7,7 % mit 2,8x Volumen ohne bekannte Meldung"
       ],
       "checks": [
         {
           "rule": "Auslöser in den letzten 24 Std.",
           "ok": true,
-          "val": "Kurssprung -6,1 % mit 3,1x Volumen ohne bekannte Meldung"
-        },
-        {
-          "rule": "Kursbewegung heute mindestens 4 %",
-          "ok": true,
-          "val": "-6,1 %"
-        },
-        {
-          "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
-          "ok": true,
-          "val": "330,67 $ vs. 338,78 $"
-        },
-        {
-          "rule": "Ausbruch unter das Tief der ersten 30 Min.",
-          "ok": true,
-          "val": "335,23 $"
-        },
-        {
-          "rule": "Volumen mindestens 1,5x normal",
-          "ok": true,
-          "val": "3,1x"
-        },
-        {
-          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
-          "ok": true,
-          "val": "5162 Mio. $"
-        },
-        {
-          "rule": "Keine Warnmeldung der SEC",
-          "ok": true,
-          "val": "keine"
-        }
-      ]
-    },
-    "AMAT": {
-      "side": -1,
-      "shares": 3.373285727299635,
-      "entry": 312.688,
-      "entry_fx": 1.0989,
-      "margin_eur": 191.97123805585005,
-      "atr": 24.301149710024635,
-      "leverage": 5,
-      "stop": 330.9138622825185,
-      "target": 276.23627543496303,
-      "opened": "2026-11-20T15:38:54+00:00",
-      "name": "Applied Materials, Inc.",
-      "trigger": [
-        "Kurssprung -7,7 % mit 2,1x Volumen ohne bekannte Meldung"
-      ],
-      "checks": [
-        {
-          "rule": "Auslöser in den letzten 24 Std.",
-          "ok": true,
-          "val": "Kurssprung -7,7 % mit 2,1x Volumen ohne bekannte Meldung"
+          "val": "Kurssprung -7,7 % mit 2,8x Volumen ohne bekannte Meldung"
         },
         {
           "rule": "Kursbewegung heute mindestens 4 %",
@@ -247,22 +194,75 @@
         {
           "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
           "ok": true,
-          "val": "312,69 $ vs. 322,03 $"
+          "val": "325,06 $ vs. 335,80 $"
         },
         {
           "rule": "Ausbruch unter das Tief der ersten 30 Min.",
           "ok": true,
-          "val": "318,07 $"
+          "val": "335,23 $"
         },
         {
           "rule": "Volumen mindestens 1,5x normal",
           "ok": true,
-          "val": "2,1x"
+          "val": "2,8x"
         },
         {
           "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
           "ok": true,
-          "val": "2550 Mio. $"
+          "val": "5075 Mio. $"
+        },
+        {
+          "rule": "Keine Warnmeldung der SEC",
+          "ok": true,
+          "val": "keine"
+        }
+      ]
+    },
+    "AVGO": {
+      "side": -1,
+      "shares": 3.6552316372897202,
+      "entry": 313.14,
+      "entry_fx": 1.0984,
+      "margin_eur": 208.41209666804497,
+      "atr": 19.273544643477617,
+      "leverage": 5,
+      "stop": 327.5951584826082,
+      "target": 284.22968303478353,
+      "opened": "2026-11-20T16:43:16+00:00",
+      "name": "Broadcom Inc.",
+      "trigger": [
+        "Kurssprung -9,7 % mit 2,0x Volumen ohne bekannte Meldung"
+      ],
+      "checks": [
+        {
+          "rule": "Auslöser in den letzten 24 Std.",
+          "ok": true,
+          "val": "Kurssprung -9,7 % mit 2,0x Volumen ohne bekannte Meldung"
+        },
+        {
+          "rule": "Kursbewegung heute mindestens 4 %",
+          "ok": true,
+          "val": "-9,7 %"
+        },
+        {
+          "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+          "ok": true,
+          "val": "313,14 $ vs. 326,51 $"
+        },
+        {
+          "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+          "ok": true,
+          "val": "331,52 $"
+        },
+        {
+          "rule": "Volumen mindestens 1,5x normal",
+          "ok": true,
+          "val": "2,0x"
+        },
+        {
+          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+          "ok": true,
+          "val": "8825 Mio. $"
         },
         {
           "rule": "Keine Warnmeldung der SEC",

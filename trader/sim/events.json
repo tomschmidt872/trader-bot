@@ -1,5 +1,105 @@
 [
   {
+    "id": "etrade:2026-11-20T16:43:16+00:00:ERÖFFNEN:AVGO",
+    "type": "trade",
+    "sym": "AVGO",
+    "time": "2026-11-20T16:43:16+00:00",
+    "seen": "2026-11-20T16:43:16+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short AVGO (5x)",
+    "detail": "Short: Kurssprung -9,7 % mit 2,0x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-20T16:43:16+00:00:ERÖFFNEN:TSM",
+    "type": "trade",
+    "sym": "TSM",
+    "time": "2026-11-20T16:43:16+00:00",
+    "seen": "2026-11-20T16:43:16+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short TSM (5x)",
+    "detail": "Short: Kurssprung -7,7 % mit 2,8x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-20T16:43:16+00:00:ERÖFFNEN:AMD",
+    "type": "trade",
+    "sym": "AMD",
+    "time": "2026-11-20T16:43:16+00:00",
+    "seen": "2026-11-20T16:43:16+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short AMD (5x)",
+    "detail": "Short: Kurssprung -10,8 % mit 2,2x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-20T16:43:16+00:00:ERÖFFNEN:MU",
+    "type": "trade",
+    "sym": "MU",
+    "time": "2026-11-20T16:43:16+00:00",
+    "seen": "2026-11-20T16:43:16+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short MU (5x)",
+    "detail": "Short: Kurssprung -12,2 % mit 2,2x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-20T16:43:16+00:00:ERÖFFNEN:INTU",
+    "type": "trade",
+    "sym": "INTU",
+    "time": "2026-11-20T16:43:16+00:00",
+    "seen": "2026-11-20T16:43:16+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short INTU (5x)",
+    "detail": "Short: Kurssprung -9,2 % mit 4,4x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-20T16:43:16+00:00:SCHLIESSEN:AMAT",
+    "type": "trade",
+    "sym": "AMAT",
+    "time": "2026-11-20T16:43:16+00:00",
+    "seen": "2026-11-20T16:43:16+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short AMAT (5x) – 9,42 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-20T16:43:16+00:00:SCHLIESSEN:TSM",
+    "type": "trade",
+    "sym": "TSM",
+    "time": "2026-11-20T16:43:16+00:00",
+    "seen": "2026-11-20T16:43:16+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short TSM (5x) – 15,49 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-20T16:43:16+00:00:SCHLIESSEN:AVGO",
+    "type": "trade",
+    "sym": "AVGO",
+    "time": "2026-11-20T16:43:16+00:00",
+    "seen": "2026-11-20T16:43:16+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short AVGO (5x) – 15,58 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-20T16:43:16+00:00:SCHLIESSEN:AMD",
+    "type": "trade",
+    "sym": "AMD",
+    "time": "2026-11-20T16:43:16+00:00",
+    "seen": "2026-11-20T16:43:16+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short AMD (5x) – 25,96 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-20T16:43:16+00:00:SCHLIESSEN:MU",
+    "type": "trade",
+    "sym": "MU",
+    "time": "2026-11-20T16:43:16+00:00",
+    "seen": "2026-11-20T16:43:16+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short MU (5x) – 21,76 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
     "id": "etrade:2026-11-20T15:38:54+00:00:ERÖFFNEN:AMAT",
     "type": "trade",
     "sym": "AMAT",
@@ -20394,73 +20494,6 @@
     "type": "news",
     "sym": "HD",
     "summary": "Stocks slipped on Tuesday ahead of Nvidia's quarterly results.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "George Soros Is Betting Big on Intel",
-    "time": "2026-11-17T14:57:54+00:00",
-    "link": "https://www.tikr.com/blog/george-soros-is-betting-big-on-intel?ref=yahoofinance&tlnk=yf-261117-q52hfjq3&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:INTC:rss:052bd085-7d80-3c6f-b73c-95b86729be44",
-    "type": "news",
-    "sym": "INTC",
-    "summary": "Key TakeawaysIntel is the largest holding in Soros Fund Management’s 13F for the quarter ended Sept. 30: 2.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Disney Tops Quarterly Revenue Views, Targets $3 Billion in Cost Savings by Fiscal 2029",
-    "time": "2026-11-17T14:57:30+00:00",
-    "link": "https://finance.yahoo.com/media-advertising/articles/disney-tops-quarterly-revenue-views-145730019.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:DIS:rss:3f6bfcb3-3517-3ecc-9d73-2d36b18884eb",
-    "type": "news",
-    "sym": "DIS",
-    "summary": "Walt Disney (DIS) reported fiscal fourth-quarter revenue above market expectations Tuesday amid grow",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Viant's AI Dive With Waymark, 'Attention' With TVision",
-    "time": "2026-11-17T14:57:27+00:00",
-    "link": "https://www.mediapost.com/publications/article/419467/viants-ai-dive-with-waymark-attention-with-tvi.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:META:rss:539788c2-c559-3c23-bedc-7918a7f5dfec",
-    "type": "news",
-    "sym": "META",
-    "summary": "National, local TV and CTV platforms, which need to find ways to expand their client base, could look to social media giants like Meta, which is estimated to have around 3.5 million to 5 million active marketers for all its platforms.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Costco Hot Dog or Nvidia GPUs? Midera Earnings Top Wall Street Estimates.",
-    "time": "2026-11-17T14:55:00+00:00",
-    "link": "https://finance.yahoo.com/m/a396bd11-6b53-378b-9d92-7f5ec57e2735/costco-hot-dog-or-nvidia.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:COST:rss:a396bd11-6b53-378b-9d92-7f5ec57e2735",
-    "type": "news",
-    "sym": "COST",
-    "summary": "Midera reported third-quarter Ebitda of $43 million from sales of $229 million. Wall Street was looking for $38 million and $220 million, respectively.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Home Depot's Best Comp of the Year Arrives With a Thinner Margin",
-    "time": "2026-11-17T14:55:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/home-depots-best-comp-arrives-145500197.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:HD:rss:27bd9144-5c22-3ca2-9ba5-37fa4dd1e6c5",
-    "type": "news",
-    "sym": "HD",
-    "summary": "The home improvement retailer is converting less of each sales dollar into profit.",
     "seen": "2026-11-17T16:36:18+00:00"
   }
 ]
