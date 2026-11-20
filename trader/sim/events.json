@@ -1,5 +1,75 @@
 [
   {
+    "id": "etrade:2026-11-20T17:41:26+00:00:ERÖFFNEN:TSM",
+    "type": "trade",
+    "sym": "TSM",
+    "time": "2026-11-20T17:41:26+00:00",
+    "seen": "2026-11-20T17:41:26+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short TSM (5x)",
+    "detail": "Short: Kurssprung -8,1 % mit 2,5x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-20T17:41:26+00:00:ERÖFFNEN:INTU",
+    "type": "trade",
+    "sym": "INTU",
+    "time": "2026-11-20T17:41:26+00:00",
+    "seen": "2026-11-20T17:41:26+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short INTU (5x)",
+    "detail": "Short: Kurssprung -8,5 % mit 3,4x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-20T17:41:26+00:00:SCHLIESSEN:AVGO",
+    "type": "trade",
+    "sym": "AVGO",
+    "time": "2026-11-20T17:41:26+00:00",
+    "seen": "2026-11-20T17:41:26+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short AVGO (5x) – 18,50 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-20T17:41:26+00:00:SCHLIESSEN:TSM",
+    "type": "trade",
+    "sym": "TSM",
+    "time": "2026-11-20T17:41:26+00:00",
+    "seen": "2026-11-20T17:41:26+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short TSM (5x) – 3,73 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-20T17:41:26+00:00:SCHLIESSEN:AMD",
+    "type": "trade",
+    "sym": "AMD",
+    "time": "2026-11-20T17:41:26+00:00",
+    "seen": "2026-11-20T17:41:26+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short AMD (5x) – 5,41 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-20T17:41:26+00:00:SCHLIESSEN:MU",
+    "type": "trade",
+    "sym": "MU",
+    "time": "2026-11-20T17:41:26+00:00",
+    "seen": "2026-11-20T17:41:26+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short MU (5x) – 5,71 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-20T17:41:26+00:00:SCHLIESSEN:INTU",
+    "type": "trade",
+    "sym": "INTU",
+    "time": "2026-11-20T17:41:26+00:00",
+    "seen": "2026-11-20T17:41:26+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short INTU (5x) – -9,10 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
     "id": "etrade:2026-11-20T16:43:16+00:00:ERÖFFNEN:AVGO",
     "type": "trade",
     "sym": "AVGO",
@@ -20353,147 +20423,5 @@
     "sym": "PEP",
     "summary": "PEP's Asia Pacific Foods business delivers solid volume growth, fueled by resilient demand, market share gains and innovation. Can the momentum last?",
     "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Trump Media Climbs 3% After Buying Back $100 Million in Convertible Notes; Rumble Slides 3%, Meta Dips",
-    "time": "2026-11-17T15:02:40+00:00",
-    "link": "https://247wallst.com/investing/2026/11/17/trump-media-climbs-3-after-buying-back-100-million-in-convertible-notes-rumble-slides-3-meta-dips/?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "deal"
-    ],
-    "id": "news:META:rss:79642128-a429-3207-b410-e87270f96270",
-    "type": "news",
-    "sym": "META",
-    "summary": "Trump Media just retired a slice of its debt for less than it owed, yet the stock remains deeply underwater and a billion-dollar bill still looms. Can one cash-funded move calm the pressure before a merger vote reshuffles everything?",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Meta AI Momentum Offsetting Spending Concerns, Says UBS — Analyst Sees 30% Potential Upside",
-    "time": "2026-11-17T15:02:05+00:00",
-    "link": "https://stocktwits.com/news-articles/markets/equity/meta-ai-momentum-offsetting-spending-concerns-says-ubs-analyst-sees-30-potential-upside/cNbazGtR9WH?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:META:rss:336af46b-56ef-3472-b1ca-f8e3d27e47a9",
-    "type": "news",
-    "sym": "META",
-    "summary": "UBS said positive sentiment around Meta’s AI initiatives could counter concerns about mounting capital expenditures, negative free cash flow and the need for additional financing.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Drug and Gene Delivery Devices - Global Strategic Business Report 2026: Capitalize on 8.1% CAGR to Secure the $1.2 Billion Market by 2032 as AbbVie, Moderna, Pfizer and Novartis Accelerate",
-    "time": "2026-11-17T15:02:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/drug-gene-delivery-devices-global-150200572.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:ABBV:rss:8c477387-44ed-3e66-91a6-affdb355363c",
-    "type": "news",
-    "sym": "ABBV",
-    "summary": "Boost ROI through next-gen delivery platforms that differentiate biologics, extend patent life, enable precision therapies and meet demand for non-invasive, connected care.Dublin, Nov. 17, 2026 (GLOBE NEWSWIRE) -- \"Drug and Gene Delivery Devices - Global Strategic Business Report 2026\" has been adde",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Merck Announces First-Quarter 2027 Dividend",
-    "time": "2026-11-17T15:01:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/merck-announces-first-quarter-2027-150100485.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:MRK:rss:0a435a8e-d1e4-3350-bd35-417aed68d465",
-    "type": "news",
-    "sym": "MRK",
-    "summary": "RAHWAY, N.J., November 17, 2026--Merck Announces First-Quarter 2027 Dividend",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "SemiAnalysis “Downgrading” Accelerator Capex Forecast by 28%, Hours Before Nvidia Reports",
-    "time": "2026-11-17T15:00:48+00:00",
-    "link": "https://www.tikr.com/blog/semianalysis-downgrading-accelerator-capex-forecast-by-28-hours-before-nvidia-reports?ref=yahoofinance&tlnk=yf-261117-m9pwp9g6&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:AVGO:rss:c4a62b74-6441-3b03-be0f-ec2280a79d11",
-    "type": "news",
-    "sym": "AVGO",
-    "summary": "Key TakeawaysSemiAnalysis cut its forecast for AI accelerator spending in 2028 by 28%, to $758 billion, the day before NVIDIA’s third-quarter report. The cuts fall hardest on NVIDIA: the firm lowered its NVIDIA shipment forecast 22% for 2027 and 39% for 2028, while Broadcom’s custom-chip forecast fe",
-    "seen": "2026-11-17T19:38:58+00:00"
-  },
-  {
-    "title": "Cathie Wood Is Betting $1.2 Billion on Tesla",
-    "time": "2026-11-17T15:00:17+00:00",
-    "link": "https://www.tikr.com/blog/cathie-wood-is-betting-1-2-billion-on-tesla?ref=yahoofinance&tlnk=yf-261117-9rx4jpqp&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TSLA:rss:3925fd58-a20f-3613-9971-586f47eafd02",
-    "type": "news",
-    "sym": "TSLA",
-    "summary": "Key TakeawaysARK Invest’s latest 13F shows Tesla as its biggest holding at 6. 9% of its 13F stocks, with 22% more shares than it held at the end of June.",
-    "seen": "2026-11-17T18:26:10+00:00"
-  },
-  {
-    "title": "Biotechnology Market Companies 2027 Analysis: Amgen, Gilead, Regeneron, Vertex and Moderna Post Strong 2026 Results as Billion-Dollar Deals Reshape a Market Headed for USD 6.34 Trillion by 2035",
-    "time": "2026-11-17T15:00:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/biotechnology-market-companies-2027-analysis-150000375.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:AMGN:rss:957892a1-91c3-395d-adc6-c86bf02c5647",
-    "type": "news",
-    "sym": "AMGN",
-    "summary": "Regeneron Grows 36%, Gilead Spends About USD 12.7 Billion on Four Deals and Pharma Buyers Race to Refill Pipelines: Precedence Research Company Intelligence on Leaders, Investments and DevelopmentsOttawa, Nov. 17, 2026 (GLOBE NEWSWIRE) -- The global biotechnology market is valued at USD 2.02 trillio",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "David Tepper Is Betting Big on Micron",
-    "time": "2026-11-17T14:59:49+00:00",
-    "link": "https://www.tikr.com/blog/david-tepper-is-betting-big-on-micron?ref=yahoofinance&tlnk=yf-261117-377r9c4r&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MU:rss:14d78938-d281-3b19-957e-c6b4851079b3",
-    "type": "news",
-    "sym": "MU",
-    "summary": "Key TakeawaysDavid Tepper’s Appaloosa added 28% to its Micron stake in the third quarter, making Micron its biggest holding at 17. 6% of its 13F stocks.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Nike Stock Jumps as Fresh Game Plan Targets $5 Billion in New Sales Growth",
-    "time": "2026-11-17T14:59:00+00:00",
-    "link": "https://finance.yahoo.com/m/20246818-5c59-3040-9f0e-8a98eef07906/nike-stock-jumps-as-fresh.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NKE:rss:20246818-5c59-3040-9f0e-8a98eef07906",
-    "type": "news",
-    "sym": "NKE",
-    "summary": "Under its ‘Full Stride Ahead’ strategy, the retailer aims to add $4 billion in annual sports revenue and $1 billion in casualwear by fiscal 2031.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Stocks slip ahead of Nvidia earnings, Home Depot shares slide: AlphaCheck",
-    "time": "2026-11-17T14:57:55+00:00",
-    "link": "https://finance.yahoo.com/markets/article/copy-copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-145755423.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:HD:rss:7171b12f-d690-4739-b8d4-cb45906aca7f",
-    "type": "news",
-    "sym": "HD",
-    "summary": "Stocks slipped on Tuesday ahead of Nvidia's quarterly results.",
-    "seen": "2026-11-17T16:36:18+00:00"
   }
 ]

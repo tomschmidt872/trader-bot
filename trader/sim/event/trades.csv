@@ -78,3 +78,10 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-20T16:43:16+00:00,ERÖFFNEN,AMD,2.653562,436.58,1.0984,1054.72,,"Short: Kurssprung -10,8 % mit 2,2x Volumen ohne bekannte Meldung",Short,5,210.94
 2026-11-20T16:43:16+00:00,ERÖFFNEN,TSM,3.560339,325.06,1.0984,1053.66,,"Short: Kurssprung -7,7 % mit 2,8x Volumen ohne bekannte Meldung",Short,5,210.73
 2026-11-20T16:43:16+00:00,ERÖFFNEN,AVGO,3.655232,313.14,1.0984,1042.06,,"Short: Kurssprung -9,7 % mit 2,0x Volumen ohne bekannte Meldung",Short,5,208.41
+2026-11-20T17:41:26+00:00,SCHLIESSEN,INTU,4.124722,283.57,1.0981,1065.16,-9.10,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,211.37
+2026-11-20T17:41:26+00:00,SCHLIESSEN,MU,1.912746,602.40,1.0981,1049.30,5.71,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,211.15
+2026-11-20T17:41:26+00:00,SCHLIESSEN,AMD,2.653562,433.91,1.0981,1048.55,5.41,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,210.94
+2026-11-20T17:41:26+00:00,SCHLIESSEN,TSM,3.560339,323.59,1.0981,1049.17,3.73,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,210.73
+2026-11-20T17:41:26+00:00,SCHLIESSEN,AVGO,3.655232,307.27,1.0981,1022.82,18.50,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,208.41
+2026-11-20T17:41:26+00:00,ERÖFFNEN,INTU,4.165981,283.57,1.0981,1075.81,,"Short: Kurssprung -8,5 % mit 3,4x Volumen ohne bekannte Meldung",Short,5,215.16
+2026-11-20T17:41:26+00:00,ERÖFFNEN,TSM,3.647103,323.59,1.0981,1074.73,,"Short: Kurssprung -8,1 % mit 2,5x Volumen ohne bekannte Meldung",Short,5,214.95
