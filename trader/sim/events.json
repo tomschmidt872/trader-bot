@@ -1,5 +1,45 @@
 [
   {
+    "id": "etrade:2026-11-20T14:40:08+00:00:SCHLIESSEN:UNH",
+    "type": "trade",
+    "sym": "UNH",
+    "time": "2026-11-20T14:40:08+00:00",
+    "seen": "2026-11-20T14:40:08+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short UNH (5x) – -31,09 €",
+    "detail": "maximale Haltedauer von 4 Std. erreicht"
+  },
+  {
+    "id": "etrade:2026-11-20T14:40:08+00:00:SCHLIESSEN:WSM",
+    "type": "trade",
+    "sym": "WSM",
+    "time": "2026-11-20T14:40:08+00:00",
+    "seen": "2026-11-20T14:40:08+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short WSM (5x) – -15,76 €",
+    "detail": "maximale Haltedauer von 4 Std. erreicht"
+  },
+  {
+    "id": "etrade:2026-11-20T14:40:08+00:00:SCHLIESSEN:AMD",
+    "type": "trade",
+    "sym": "AMD",
+    "time": "2026-11-20T14:40:08+00:00",
+    "seen": "2026-11-20T14:40:08+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short AMD (5x) – 55,22 €",
+    "detail": "maximale Haltedauer von 4 Std. erreicht"
+  },
+  {
+    "id": "etrade:2026-11-20T14:40:08+00:00:SCHLIESSEN:INSM",
+    "type": "trade",
+    "sym": "INSM",
+    "time": "2026-11-20T14:40:08+00:00",
+    "seen": "2026-11-20T14:40:08+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Long INSM (5x) – 8,80 €",
+    "detail": "maximale Haltedauer von 4 Std. erreicht"
+  },
+  {
     "id": "etrade:2026-11-19T19:47:26+00:00:ERÖFFNEN:UNH",
     "type": "trade",
     "sym": "UNH",
@@ -1988,6 +2028,50 @@
     "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf",
     "tone": -1,
     "seen": "2026-11-19T17:30:36+00:00"
+  },
+  {
+    "id": "insider:0000950103-26-017904:S:2026-11-17:2933.0",
+    "type": "insider",
+    "sym": "META",
+    "time": "2026-11-19T12:00:00+00:00",
+    "title": "LI SUSAN J (Chief Financial Officer) verkauft 2.933 Aktien für 1.8 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-17 zu 621,17 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017904/",
+    "tone": -1,
+    "seen": "2026-11-20T14:31:53+00:00"
+  },
+  {
+    "id": "insider:0000950103-26-017904:S:2026-11-17:3269.0",
+    "type": "insider",
+    "sym": "META",
+    "time": "2026-11-19T12:00:00+00:00",
+    "title": "LI SUSAN J (Chief Financial Officer) verkauft 3.269 Aktien für 2.0 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-17 zu 622,12 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017904/",
+    "tone": -1,
+    "seen": "2026-11-20T14:31:53+00:00"
+  },
+  {
+    "id": "insider:0000950103-26-017900:S:2026-11-17:7847.0",
+    "type": "insider",
+    "sym": "META",
+    "time": "2026-11-19T12:00:00+00:00",
+    "title": "Bosworth Andrew (Chief Technology Officer) verkauft 7.847 Aktien für 4.9 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-17 zu 625,00 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326017900/",
+    "tone": -1,
+    "seen": "2026-11-20T14:31:53+00:00"
+  },
+  {
+    "id": "insider:0000923738-26-000054:S:2026-11-18:71400.0",
+    "type": "insider",
+    "sym": "SCHW",
+    "time": "2026-11-19T12:00:00+00:00",
+    "title": "Schwab Charles R. (Aufsichtsrat/Direktor, Co-Chairman) verkauft 71.400 Aktien für 6.6 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-18 zu 92,26 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/316709/000092373826000054/",
+    "tone": -1,
+    "seen": "2026-11-20T14:31:53+00:00"
   },
   {
     "id": "filing:sec:0000104169-26-000168",
@@ -20384,119 +20468,5 @@
     "sym": "HOOD",
     "summary": "Key TakeawaysOn Nov. 17, Evercore ISI cut its Robinhood price target to $100 from $130 and kept its Outperform rating, and the new target is still 39% above the stock’s price.",
     "seen": "2026-11-17T18:26:10+00:00"
-  },
-  {
-    "title": "Bernstein cuts PepsiCo to Underperform on North America pressure",
-    "time": "2026-11-17T14:50:08+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-cuts-pepsico-underperform-north-145008999.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst"
-    ],
-    "id": "news:PEP:rss:a54ae909-2866-39d3-b5ca-42c398e8b86f",
-    "type": "news",
-    "sym": "PEP",
-    "summary": "Investing.com -- Bernstein downgraded its rating for PepsiCo (NASDAQ: PEP) to Underperform from Market-Perform and trimmed its price target to $128 from $131 in a note on Tuesday, citing persistent weakness in its North American business.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Which retail stocks are best positioned ahead of earnings this week?",
-    "time": "2026-11-17T14:49:42+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/retail-stocks-best-positioned-ahead-144942706.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:HD:rss:2468d77b-9225-3a39-9fef-e28a153a40d2",
-    "type": "news",
-    "sym": "HD",
-    "summary": "Investing.com -- Six retailers still report this week, per the earnings calendar: Lowe’s (LOW), TJX (TJX) and Target (TGT) on Nov 18 pre-market, then Walmart (WMT) pre-market and PDD Holdings (PDD) on Nov 19. Ross Stores (ROST) reports after the close on Nov 19. Home Depot (HD) already reported this",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Which retail stocks are best positioned ahead of earnings this week?",
-    "time": "2026-11-17T14:49:42+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/retail-stocks-best-positioned-ahead-144942706.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:LOW:rss:2468d77b-9225-3a39-9fef-e28a153a40d2",
-    "type": "news",
-    "sym": "LOW",
-    "summary": "Investing.com -- Six retailers still report this week, per the earnings calendar: Lowe’s (LOW), TJX (TJX) and Target (TGT) on Nov 18 pre-market, then Walmart (WMT) pre-market and PDD Holdings (PDD) on Nov 19. Ross Stores (ROST) reports after the close on Nov 19. Home Depot (HD) already reported this",
-    "seen": "2026-11-17T18:26:10+00:00"
-  },
-  {
-    "title": "Which retail stocks are best positioned ahead of earnings this week?",
-    "time": "2026-11-17T14:49:42+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/retail-stocks-best-positioned-ahead-144942706.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:TJX:rss:2468d77b-9225-3a39-9fef-e28a153a40d2",
-    "type": "news",
-    "sym": "TJX",
-    "summary": "Investing.com -- Six retailers still report this week, per the earnings calendar: Lowe’s (LOW), TJX (TJX) and Target (TGT) on Nov 18 pre-market, then Walmart (WMT) pre-market and PDD Holdings (PDD) on Nov 19. Ross Stores (ROST) reports after the close on Nov 19. Home Depot (HD) already reported this",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Musk: FAA Said Free Starlinks Were “Not Needed.” Verizon Holds the Contract for the New System",
-    "time": "2026-11-17T14:48:41+00:00",
-    "link": "https://www.tikr.com/blog/musk-faa-said-free-starlinks-were-not-needed-verizon-holds-the-contract-for-the-new-system?ref=yahoofinance&tlnk=yf-261117-8phmxf5g&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:VZ:rss:cdacaaf7-a5c9-3f85-8e71-d2cf767e274d",
-    "type": "news",
-    "sym": "VZ",
-    "summary": "Key TakeawaysElon Musk says the FAA turned down free Starlink service before Friday’s nationwide ground stop, which canceled more than 17,000 flights, and he names Verizon as the company behind the agency’s new network. Musk has a point about the FAA’s network, but the dispute is too small to change",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "David Tepper and 33 Other Funds Bought Software Stocks. CoreWeave Is Down 43% Since. Time to Buy?",
-    "time": "2026-11-17T14:48:19+00:00",
-    "link": "https://www.tikr.com/blog/david-tepper-and-33-other-funds-bought-software-stocks-coreweave-is-down-43-since-time-to-buy?ref=yahoofinance&tlnk=yf-261117-r3fmq2wq&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NOW:rss:67956b1b-5990-3384-9e98-527251224db3",
-    "type": "news",
-    "sym": "NOW",
-    "summary": "Key TakeawaysThe 13Fs of David Tepper’s Appaloosa, Cathie Wood’s ARK and 32 other funds show third-quarter buys in software stocks such as CoreWeave, Oracle, Core Scientific, Akamai and ServiceNow. All five stocks have fallen since Sept.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "George Soros, Cathie Wood and 18 Other Big Funds Sold Snowflake, While 23 Bought. Who’s Right?",
-    "time": "2026-11-17T14:47:47+00:00",
-    "link": "https://www.tikr.com/blog/george-soros-cathie-wood-and-18-other-big-funds-sold-snowflake-while-23-bought-whos-right?ref=yahoofinance&tlnk=yf-261117-w3cm883x&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:SNOW:rss:baaea080-65ba-34a2-b357-7766299493ae",
-    "type": "news",
-    "sym": "SNOW",
-    "summary": "Key TakeawaysOf the 456 big funds that have filed 13Fs for the quarter ended Sept. 30, 23 bought Snowflake and 20 sold, including George Soros’ fund and Cathie Wood’s ARK Invest.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "U.S. Bancorp or Fifth Third Bancorp: The One Dividend Stock I’d Hold for the Next 10 Years",
-    "time": "2026-11-17T14:46:47+00:00",
-    "link": "https://www.tikr.com/blog/u-s-bancorp-or-fifth-third-bancorp-the-one-dividend-stock-id-hold-for-the-next-10-years?ref=yahoofinancedividend&tlnk=yf-261117-qq4fvffx&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:FITB:rss:323277eb-2cad-391b-ab5e-d31ee678a0c4",
-    "type": "news",
-    "sym": "FITB",
-    "summary": "Key TakeawaysU. S. Bancorp raised its quarterly dividend 3.",
-    "seen": "2026-11-17T16:36:18+00:00"
   }
 ]

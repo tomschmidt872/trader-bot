@@ -59,3 +59,7 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-19T19:47:26+00:00,SCHLIESSEN,UNH,2.927296,333.26,1.0981,888.40,-0.73,maximale Haltedauer von 4 Std. erreicht,Short,5,177.65
 2026-11-19T19:47:26+00:00,ERÖFFNEN,WSM,4.911356,217.77,1.0981,974.00,,"Short: Williams-Sonoma, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht",Short,5,194.80
 2026-11-19T19:47:26+00:00,ERÖFFNEN,UNH,3.206135,333.26,1.0981,973.02,,"Short: Kurssprung -4,8 % mit 3,0x Volumen ohne bekannte Meldung",Short,5,194.60
+2026-11-20T14:40:08+00:00,SCHLIESSEN,INSM,7.190141,144.60,1.0991,945.95,8.80,maximale Haltedauer von 4 Std. erreicht,Long,5,187.39
+2026-11-20T14:40:08+00:00,SCHLIESSEN,AMD,2.088039,462.77,1.0991,879.17,55.22,maximale Haltedauer von 4 Std. erreicht,Short,5,187.21
+2026-11-20T14:40:08+00:00,SCHLIESSEN,WSM,4.911356,221.07,1.0991,987.88,-15.76,maximale Haltedauer von 4 Std. erreicht,Short,5,194.80
+2026-11-20T14:40:08+00:00,SCHLIESSEN,UNH,3.206135,343.57,1.0991,1002.23,-31.09,maximale Haltedauer von 4 Std. erreicht,Short,5,194.60
