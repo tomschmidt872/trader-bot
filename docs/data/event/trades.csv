@@ -63,3 +63,8 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-20T14:40:08+00:00,SCHLIESSEN,AMD,2.088039,462.77,1.0991,879.17,55.22,maximale Haltedauer von 4 Std. erreicht,Short,5,187.21
 2026-11-20T14:40:08+00:00,SCHLIESSEN,WSM,4.911356,221.07,1.0991,987.88,-15.76,maximale Haltedauer von 4 Std. erreicht,Short,5,194.80
 2026-11-20T14:40:08+00:00,SCHLIESSEN,UNH,3.206135,343.57,1.0991,1002.23,-31.09,maximale Haltedauer von 4 Std. erreicht,Short,5,194.60
+2026-11-20T15:38:54+00:00,ERÖFFNEN,MU,1.723274,620.76,1.0989,973.46,,"Short: Kurssprung -10,1 % mit 2,7x Volumen ohne bekannte Meldung",Short,5,194.69
+2026-11-20T15:38:54+00:00,ERÖFFNEN,AMD,2.380100,449.00,1.0989,972.49,,"Short: Kurssprung -8,2 % mit 2,6x Volumen ohne bekannte Meldung",Short,5,194.50
+2026-11-20T15:38:54+00:00,ERÖFFNEN,AVGO,3.351319,318.56,1.0989,971.51,,"Short: Kurssprung -8,1 % mit 2,4x Volumen ohne bekannte Meldung",Short,5,194.30
+2026-11-20T15:38:54+00:00,ERÖFFNEN,TSM,3.225405,330.67,1.0989,970.54,,"Short: Kurssprung -6,1 % mit 3,1x Volumen ohne bekannte Meldung",Short,5,194.11
+2026-11-20T15:38:54+00:00,ERÖFFNEN,AMAT,3.373286,312.69,1.0989,959.86,,"Short: Kurssprung -7,7 % mit 2,1x Volumen ohne bekannte Meldung",Short,5,191.97

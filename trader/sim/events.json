@@ -1,5 +1,55 @@
 [
   {
+    "id": "etrade:2026-11-20T15:38:54+00:00:ERÖFFNEN:AMAT",
+    "type": "trade",
+    "sym": "AMAT",
+    "time": "2026-11-20T15:38:54+00:00",
+    "seen": "2026-11-20T15:38:54+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short AMAT (5x)",
+    "detail": "Short: Kurssprung -7,7 % mit 2,1x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-20T15:38:54+00:00:ERÖFFNEN:TSM",
+    "type": "trade",
+    "sym": "TSM",
+    "time": "2026-11-20T15:38:54+00:00",
+    "seen": "2026-11-20T15:38:54+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short TSM (5x)",
+    "detail": "Short: Kurssprung -6,1 % mit 3,1x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-20T15:38:54+00:00:ERÖFFNEN:AVGO",
+    "type": "trade",
+    "sym": "AVGO",
+    "time": "2026-11-20T15:38:54+00:00",
+    "seen": "2026-11-20T15:38:54+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short AVGO (5x)",
+    "detail": "Short: Kurssprung -8,1 % mit 2,4x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-20T15:38:54+00:00:ERÖFFNEN:AMD",
+    "type": "trade",
+    "sym": "AMD",
+    "time": "2026-11-20T15:38:54+00:00",
+    "seen": "2026-11-20T15:38:54+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short AMD (5x)",
+    "detail": "Short: Kurssprung -8,2 % mit 2,6x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-20T15:38:54+00:00:ERÖFFNEN:MU",
+    "type": "trade",
+    "sym": "MU",
+    "time": "2026-11-20T15:38:54+00:00",
+    "seen": "2026-11-20T15:38:54+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short MU (5x)",
+    "detail": "Short: Kurssprung -10,1 % mit 2,7x Volumen ohne bekannte Meldung"
+  },
+  {
     "id": "etrade:2026-11-20T14:40:08+00:00:SCHLIESSEN:UNH",
     "type": "trade",
     "sym": "UNH",
@@ -20412,61 +20462,5 @@
     "sym": "HD",
     "summary": "The home improvement retailer is converting less of each sales dollar into profit.",
     "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Allogeneic Cell Therapy - Global Strategic Business Report 2026: Capitalize on 27.7% CAGR to Capture $2.4B by 2032 with Allogene, Gilead Sciences, Atara and Nkarta",
-    "time": "2026-11-17T14:53:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/allogeneic-cell-therapy-global-strategic-145300885.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:GILD:rss:2897a9d1-b3d2-33a5-958a-4d3e1ed3c9ad",
-    "type": "news",
-    "sym": "GILD",
-    "summary": "Target scalable off-the-shelf therapies, automation, gene editing and cross-specialty applications to lower costs, accelerate access and unlock new revenueDublin, Nov. 17, 2026 (GLOBE NEWSWIRE) -- \"Allogeneic Cell Therapy - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "David Einhorn Dumps These 3 Stocks",
-    "time": "2026-11-17T14:52:37+00:00",
-    "link": "https://www.tikr.com/blog/david-einhorn-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261117-93hm922p&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:PYPL:rss:9a611def-db58-37b0-937b-b91c57718111",
-    "type": "news",
-    "sym": "PYPL",
-    "summary": "Key TakeawaysDavid Einhorn’s Greenlight Capital sold all of its PayPal, StubHub and Spectrum Brands shares in the quarter ended Sept. 30, its latest 13F shows.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Coherent Rises 3% as Trump Presses Ahead With Chinese Optics Ban Despite Big Tech Lobbying",
-    "time": "2026-11-17T14:52:28+00:00",
-    "link": "https://www.tikr.com/blog/coherent-rises-3-as-trump-presses-ahead-with-chinese-optics-ban-despite-big-tech-lobbying?ref=yahoofinance&tlnk=yf-261117-jmvfcr2f&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:LITE:rss:3c52e400-e461-3abe-82b7-de35e15b3334",
-    "type": "news",
-    "sym": "LITE",
-    "summary": "Key TakeawaysCoherent shares jumped 3% after Reuters reported that the Trump administration will press ahead with blocking imports of new Chinese optical transceivers. Replacing Chinese suppliers could reportedly take up to a decade, and Coherent, Lumentum and Applied Optoelectronics can compete for",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Evercore ISI’s $100 Target Says Robinhood’s Selloff Went Too Far",
-    "time": "2026-11-17T14:51:59+00:00",
-    "link": "https://www.tikr.com/blog/evercore-isis-100-target-says-robinhoods-selloff-went-too-far?ref=yahoofinance&tlnk=yf-261117-mmp3h578&.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst"
-    ],
-    "id": "news:HOOD:rss:d057e4e0-695b-34c3-a8ec-ab722d838366",
-    "type": "news",
-    "sym": "HOOD",
-    "summary": "Key TakeawaysOn Nov. 17, Evercore ISI cut its Robinhood price target to $100 from $130 and kept its Outperform rating, and the new target is still 39% above the stock’s price.",
-    "seen": "2026-11-17T18:26:10+00:00"
   }
 ]
