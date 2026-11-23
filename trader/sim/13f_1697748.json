@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-20",
+  "fetched": "2026-11-23",
   "data": {
     "source": "ARK Investment Management LLC 13F-HR, quarter ending 2026-09-30, filed 2026-11-13 (accession 0001104659-26-126785)",
     "as_of": "2026-09-30",
@@ -148,6 +148,11 @@
         "issuer": "ARK Innovation ETF",
         "ticker": null,
         "why": "CALL row, not a stock you can copy"
+      },
+      {
+        "issuer": "Roku Inc",
+        "ticker": null,
+        "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
       },
       {
         "issuer": "iShares Russell 1000 Growth ET",
@@ -907,11 +912,6 @@
       {
         "issuer": "Align Technology Inc",
         "ticker": "ALGN",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Roku Inc",
-        "ticker": "ROKU",
         "why": "outside the top 10"
       },
       {

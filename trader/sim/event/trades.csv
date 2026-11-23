@@ -85,3 +85,5 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-20T17:41:26+00:00,SCHLIESSEN,AVGO,3.655232,307.27,1.0981,1022.82,18.50,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,208.41
 2026-11-20T17:41:26+00:00,ERÖFFNEN,INTU,4.165981,283.57,1.0981,1075.81,,"Short: Kurssprung -8,5 % mit 3,4x Volumen ohne bekannte Meldung",Short,5,215.16
 2026-11-20T17:41:26+00:00,ERÖFFNEN,TSM,3.647103,323.59,1.0981,1074.73,,"Short: Kurssprung -8,1 % mit 2,5x Volumen ohne bekannte Meldung",Short,5,214.95
+2026-11-23T14:53:26+00:00,SCHLIESSEN,INTU,4.165981,273.81,1.0940,1042.68,36.12,maximale Haltedauer von 4 Std. erreicht,Short,5,215.16
+2026-11-23T14:53:26+00:00,SCHLIESSEN,TSM,3.647103,365.30,1.0940,1217.81,-140.27,"Stop bei 337,81 $ erreicht",Short,5,214.95

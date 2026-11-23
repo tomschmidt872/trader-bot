@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-20",
+  "fetched": "2026-11-23",
   "data": {
     "source": "Duquesne Family Office LLC 13F-HR, quarter ending 2026-09-30, filed 2026-11-16 (accession 0001536411-26-000011)",
     "as_of": "2026-09-30",
@@ -156,6 +156,11 @@
         "why": "CALL row, not a stock you can copy"
       },
       {
+        "issuer": "Roku Inc",
+        "ticker": null,
+        "why": "no ticker found (add it to trader/tickers.json or run with --figi)"
+      },
+      {
         "issuer": "Tesla Inc",
         "ticker": "TSLA",
         "why": "CALL row, not a stock you can copy"
@@ -253,11 +258,6 @@
       {
         "issuer": "Space Exploration Techn Corp",
         "ticker": "SPCX",
-        "why": "outside the top 10"
-      },
-      {
-        "issuer": "Roku Inc",
-        "ticker": "ROKU",
         "why": "outside the top 10"
       },
       {

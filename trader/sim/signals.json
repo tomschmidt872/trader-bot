@@ -1926,50 +1926,6 @@
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035491.pdf"
     },
     {
-      "doc_id": "20035499",
-      "member": "Hon. Pete Sessions",
-      "ticker": "AAPL",
-      "type": "S",
-      "date": "2026-09-22",
-      "amount": "$100,001 - $250,000",
-      "amount_low": 100001,
-      "filed": "2026-09-22",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035499.pdf"
-    },
-    {
-      "doc_id": "20035492",
-      "member": "Hon. Richard W. Allen",
-      "ticker": "AVGO",
-      "type": "P",
-      "date": "2026-08-12",
-      "amount": "$1,001 - $15,000",
-      "amount_low": 1001,
-      "filed": "2026-09-22",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf"
-    },
-    {
-      "doc_id": "20035492",
-      "member": "Hon. Richard W. Allen",
-      "ticker": "ROL",
-      "type": "S",
-      "date": "2026-08-12",
-      "amount": "$15,001 - $50,000",
-      "amount_low": 15001,
-      "filed": "2026-09-22",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf"
-    },
-    {
-      "doc_id": "20035492",
-      "member": "Hon. Richard W. Allen",
-      "ticker": "TSM",
-      "type": "P",
-      "date": "2026-08-12",
-      "amount": "$1,001 - $15,000",
-      "amount_low": 1001,
-      "filed": "2026-09-22",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035492.pdf"
-    },
-    {
       "doc_id": "20035778",
       "member": "Hon. Maria Elvira Salazar",
       "ticker": "CSCO",

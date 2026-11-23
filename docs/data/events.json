@@ -1,5 +1,25 @@
 [
   {
+    "id": "etrade:2026-11-23T14:53:26+00:00:SCHLIESSEN:TSM",
+    "type": "trade",
+    "sym": "TSM",
+    "time": "2026-11-23T14:53:26+00:00",
+    "seen": "2026-11-23T14:53:26+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short TSM (5x) – -140,27 €",
+    "detail": "Stop bei 337,81 $ erreicht"
+  },
+  {
+    "id": "etrade:2026-11-23T14:53:26+00:00:SCHLIESSEN:INTU",
+    "type": "trade",
+    "sym": "INTU",
+    "time": "2026-11-23T14:53:26+00:00",
+    "seen": "2026-11-23T14:53:26+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short INTU (5x) – 36,12 €",
+    "detail": "maximale Haltedauer von 4 Std. erreicht"
+  },
+  {
     "id": "etrade:2026-11-20T17:41:26+00:00:ERÖFFNEN:TSM",
     "type": "trade",
     "sym": "TSM",
@@ -313,6 +333,61 @@
     "link": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000600/",
     "tone": 1,
     "seen": "2026-11-20T19:37:33+00:00"
+  },
+  {
+    "id": "insider:0001225208-26-009090:P:2022-10-04:7.0",
+    "type": "insider",
+    "sym": "CL",
+    "time": "2026-11-20T12:00:00+00:00",
+    "title": "Malcolm Gregory (EVP and Controller) kauft 7 Aktien für 503 $",
+    "detail": "Form 4 · gehandelt am 2022-10-04 zu 71,79 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/21665/000122520826009090/",
+    "tone": 1,
+    "seen": "2026-11-23T14:42:35+00:00"
+  },
+  {
+    "id": "insider:0001628280-26-075328:S:2026-11-18:321694.0",
+    "type": "insider",
+    "sym": "DIS",
+    "time": "2026-11-20T12:00:00+00:00",
+    "title": "IGER ROBERT A (Aufsichtsrat/Direktor) verkauft 321.694 Aktien für 39.5 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-18 zu 122,82 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1744489/000162828026075328/",
+    "tone": -1,
+    "seen": "2026-11-23T14:42:35+00:00"
+  },
+  {
+    "id": "insider:0001543655-26-000009:S:2026-11-18:13894.0",
+    "type": "insider",
+    "sym": "GM",
+    "time": "2026-11-20T12:00:00+00:00",
+    "title": "Jacobson Paul A (Executive Vice President & CFO) verkauft 13.894 Aktien für 1.2 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-18 zu 85,00 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1467858/000154365526000009/",
+    "tone": -1,
+    "seen": "2026-11-23T14:42:35+00:00"
+  },
+  {
+    "id": "insider:0000354950-26-000188:S:2026-11-18:19350.0",
+    "type": "insider",
+    "sym": "HD",
+    "time": "2026-11-20T12:00:00+00:00",
+    "title": "Decker Edward P. (Aufsichtsrat/Direktor, Chair) verkauft 19.350 Aktien für 6.6 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-18 zu 338,53 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000188/",
+    "tone": -1,
+    "seen": "2026-11-23T14:42:35+00:00"
+  },
+  {
+    "id": "insider:0001941816-26-000007:S:2026-11-19:17401.0",
+    "type": "insider",
+    "sym": "TGT",
+    "time": "2026-11-20T12:00:00+00:00",
+    "title": "Lee James (Executive Officer) verkauft 17.401 Aktien für 2.9 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-19 zu 166,12 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/27419/000194181626000007/",
+    "tone": -1,
+    "seen": "2026-11-23T14:42:35+00:00"
   },
   {
     "id": "etrade:2026-11-19T19:47:26+00:00:ERÖFFNEN:UNH",
@@ -20247,75 +20322,6 @@
     "type": "news",
     "sym": "MSFT",
     "summary": "SAN FRANCISCO, November 17, 2026--Ent joins Microsoft for Startups Pegasus and integrates with Microsoft security tools to strengthen AI endpoint security and protect AI agents.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "A $22 Billion Hedge Fund Dumps These 3 Stocks",
-    "time": "2026-11-17T15:26:07+00:00",
-    "link": "https://www.tikr.com/blog/a-22-billion-hedge-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261117-vc8587ff&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:GLW:rss:bda19b09-b250-35fc-825a-407558921f4a",
-    "type": "news",
-    "sym": "GLW",
-    "summary": "Key TakeawaysA $22 billion hedge fund sold all of its Home Depot, Corning and MasTec shares in the third quarter, its latest 13F shows. Its largest position at Sept.",
-    "seen": "2026-11-17T18:26:10+00:00"
-  },
-  {
-    "title": "A $300,000 Portfolio in Omega Healthcare, Edison International and Altria Pays $17,064 a Year in Dividends. Here’s What Happens if One Cuts",
-    "time": "2026-11-17T15:21:21+00:00",
-    "link": "https://www.tikr.com/blog/a-300000-portfolio-in-omega-healthcare-edison-international-and-altria-pays-17064-a-year-in-dividends-heres-what-happens-if-one-cuts?ref=yahoofinancedividend&tlnk=yf-261117-cm5pcpq3&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:EIX:rss:b8f02d5a-cbc0-3d64-8697-07fd6f128e34",
-    "type": "news",
-    "sym": "EIX",
-    "summary": "Key TakeawaysA hypothetical $300,000 portfolio split evenly across Omega Healthcare, Edison International and Altria pays about $17,100 a year in dividends at today’s prices, or about $1,420 a month. Omega is the least covered of the three, paying out 91% of its AFFO in fiscal 2025, though consensus",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Vistra Keeps Sliding: Why BMO Sees 51% Upside",
-    "time": "2026-11-17T15:20:41+00:00",
-    "link": "https://www.tikr.com/blog/vistra-keeps-sliding-why-bmo-sees-51-upside?ref=yahoofinance&tlnk=yf-261117-83795p3j&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst"
-    ],
-    "id": "news:VST:rss:7b93ab3c-dc53-37f6-8017-5f8c50a3f35b",
-    "type": "news",
-    "sym": "VST",
-    "summary": "Key TakeawaysBMO Capital reiterated its Buy rating on Vistra on Nov. 17 and raised its price target to $196, 51% above the latest close.",
-    "seen": "2026-11-17T19:38:58+00:00"
-  },
-  {
-    "title": "ServiceNow Sees AI Usage Surge as It Raises Annual Contract Value Target to $1.7 Billion",
-    "time": "2026-11-17T15:15:32+00:00",
-    "link": "https://www.marketbeat.com/instant-alerts/event-servicenow-sees-ai-usage-surge-as-it-raises-annual-contract-value-target-to-17-billion-2026-11-17/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NOW:rss:e89aeeea-c8a4-337b-920d-233df3443fac",
-    "type": "news",
-    "sym": "NOW",
-    "summary": "ServiceNow (NYSE:NOW) is seeing growing customer use of its artificial intelligence tools, including products that automate finance, procurement and human resources work, according to Josh Kahn, the company’s senior vice president and general manager of Core Business Workflows. Speaking at the 2026",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "RDDT vs. GOOGL: Which Digital Advertising Stock Has an Edge Right Now?",
-    "time": "2026-11-17T15:15:00+00:00",
-    "link": "https://finance.yahoo.com/media-advertising/articles/rddt-vs-googl-digital-advertising-151500470.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:GOOG:rss:9e18ad30-2c2b-3c5e-8125-af59041ef016",
-    "type": "news",
-    "sym": "GOOG",
-    "summary": "Reddit emerges as the stronger digital advertising stock over Alphabet, backed by surging ad revenues, AI-driven growth, cheaper valuation, and upbeat earnings estimates.",
     "seen": "2026-11-17T16:36:18+00:00"
   }
 ]
