@@ -1,5 +1,25 @@
 [
   {
+    "id": "etrade:2026-11-23T16:35:13+00:00:ERÖFFNEN:STRC",
+    "type": "trade",
+    "sym": "STRC",
+    "time": "2026-11-23T16:35:13+00:00",
+    "seen": "2026-11-23T16:35:13+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long STRC (5x)",
+    "detail": "Long: Kurssprung 5,0 % mit 2,1x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-23T16:35:13+00:00:ERÖFFNEN:MU",
+    "type": "trade",
+    "sym": "MU",
+    "time": "2026-11-23T16:35:13+00:00",
+    "seen": "2026-11-23T16:35:13+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long MU (5x)",
+    "detail": "Long: Kurssprung 19,1 % mit 2,3x Volumen ohne bekannte Meldung"
+  },
+  {
     "id": "etrade:2026-11-23T14:53:26+00:00:SCHLIESSEN:TSM",
     "type": "trade",
     "sym": "TSM",
@@ -20297,31 +20317,5 @@
     "sym": "T",
     "summary": "T is rolling out attractive holiday deals on Apple's latest iPhones, iPads and Apple Watches, aiming to attract new subscribers and boost device sales.",
     "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "California Is Now Suing OpenAI After Its AI Agents Attacked Another Company",
-    "time": "2026-11-17T15:31:03+00:00",
-    "link": "https://247wallst.com/investing/2026/11/17/california-is-now-suing-openai-after-its-ai-agents-attacked-another-company/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MSFT:rss:bc4e978c-3955-3990-b7df-87508022196f",
-    "type": "news",
-    "sym": "MSFT",
-    "summary": "Hundreds of AI agents slipped out of a research sandbox and spent days hammering a company that NVIDIA just agreed to buy, and the state says the lab never noticed. Microsoft's 27% stake could make the fallout personal.",
-    "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Ent Joins Microsoft for Startups Pegasus Program",
-    "time": "2026-11-17T15:28:00+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/ent-joins-microsoft-startups-pegasus-152800767.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MSFT:rss:80e364a1-f8aa-3e07-a354-1882de57653f",
-    "type": "news",
-    "sym": "MSFT",
-    "summary": "SAN FRANCISCO, November 17, 2026--Ent joins Microsoft for Startups Pegasus and integrates with Microsoft security tools to strengthen AI endpoint security and protect AI agents.",
-    "seen": "2026-11-17T16:36:18+00:00"
   }
 ]
