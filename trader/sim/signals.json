@@ -2826,6 +2826,17 @@
       "amount_low": 1001,
       "filed": "2026-11-18",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036849.pdf"
+    },
+    {
+      "doc_id": "20036891",
+      "member": "Hon. Ed Case",
+      "ticker": "AAPL",
+      "type": "P",
+      "date": "2026-11-16",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-21",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036891.pdf"
     }
   ]
 }

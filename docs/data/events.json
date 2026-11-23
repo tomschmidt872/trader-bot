@@ -40,6 +40,16 @@
     "detail": "maximale Haltedauer von 4 Std. erreicht"
   },
   {
+    "id": "congress:20036891:AAPL:P:2026-11-16",
+    "type": "congress",
+    "sym": "AAPL",
+    "time": "2026-11-21T12:00:00+00:00",
+    "title": "Hon. Ed Case kauft AAPL ($1,001 - $15,000), gehandelt am 2026-11-16",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036891.pdf",
+    "tone": 1,
+    "seen": "2026-11-23T17:32:18+00:00"
+  },
+  {
     "id": "etrade:2026-11-20T17:41:26+00:00:ERÖFFNEN:TSM",
     "type": "trade",
     "sym": "TSM",
@@ -20278,44 +20288,5 @@
     "sym": "GS",
     "summary": "Goldman Sachs and Morgan Stanley are out with their U.S. equity outlooks--and they are, on their face, very similar.",
     "seen": "2026-11-17T16:36:18+00:00"
-  },
-  {
-    "title": "Should You Buy the Dip? Why Goldman Sachs and Morgan Stanley Disagree.",
-    "time": "2026-11-17T15:34:33+00:00",
-    "link": "https://finance.yahoo.com/m/5ef6be66-2a36-3f93-922d-69394a94471f/should-you-buy-the-dip%3F-why.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MS:rss:5ef6be66-2a36-3f93-922d-69394a94471f",
-    "type": "news",
-    "sym": "MS",
-    "summary": "Goldman Sachs and Morgan Stanley are out with their U.S. equity outlooks--and they are, on their face, very similar.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Can AT&T's New Apple Device Deals Strengthen Its Subscriber Growth?",
-    "time": "2026-11-17T15:33:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ts-apple-device-deals-strengthen-153300297.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AAPL:rss:66a2f706-afd2-3ebc-b136-b4d402756fd9",
-    "type": "news",
-    "sym": "AAPL",
-    "summary": "T is rolling out attractive holiday deals on Apple's latest iPhones, iPads and Apple Watches, aiming to attract new subscribers and boost device sales.",
-    "seen": "2026-11-17T18:26:10+00:00"
-  },
-  {
-    "title": "Can AT&T's New Apple Device Deals Strengthen Its Subscriber Growth?",
-    "time": "2026-11-17T15:33:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ts-apple-device-deals-strengthen-153300297.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:T:rss:66a2f706-afd2-3ebc-b136-b4d402756fd9",
-    "type": "news",
-    "sym": "T",
-    "summary": "T is rolling out attractive holiday deals on Apple's latest iPhones, iPads and Apple Watches, aiming to attract new subscribers and boost device sales.",
-    "seen": "2026-11-18T14:31:09+00:00"
   }
 ]
