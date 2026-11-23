@@ -1,5 +1,367 @@
 [
   {
+    "title": "Jensen Huang greeted by Nvidia employees after reinstatement",
+    "time": "2026-11-23T19:39:50+00:00",
+    "link": "https://finance.yahoo.com/video/jensen-huang-greeted-by-nvidia-employees-after-reinstatement-194010984.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:NVDA:rss:69079237-e66c-4a30-a967-980e298addfc",
+    "type": "news",
+    "sym": "NVDA",
+    "summary": "Video captured Nvidia (NVDA) employees cheering Jensen Huang at the company's California headquarters following his reinstatement as CEO.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang",
+    "time": "2026-11-23T19:30:02+00:00",
+    "link": "https://finance.yahoo.com/technology/ai/articles/timeline-affair-scandal-sank-nvidia-040008697.html?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:NVDA:rss:7d02cca7-d4b8-3aea-8aff-54e67e215109",
+    "type": "news",
+    "sym": "NVDA",
+    "summary": "CEO behind the meteoric rise of Nvidia stepped down after it was revealed he had an affair with an alleged Chinese spy",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "With Jensen Huang Back, Should You Buy Nvidia Before the New Year?",
+    "time": "2026-11-23T19:30:02+00:00",
+    "link": "https://www.fool.com/investing/2026/11/23/with-jensen-huang-back-should-you-buy-nvidia-before-the-new-year/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings",
+      "people"
+    ],
+    "id": "news:NVDA:rss:870fe59a-4196-3695-b7b4-a46037af812c",
+    "type": "news",
+    "sym": "NVDA",
+    "summary": "Jensen Huang is CEO again, Nvidia's earnings have never looked stronger, and the stock is still surprisingly cheap.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Nvidia reinstates Jensen Huang as CEO",
+    "time": "2026-11-23T19:25:38+00:00",
+    "link": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:NVDA:rss:7752160f-03c5-3379-b779-ae4170bb9484",
+    "type": "news",
+    "sym": "NVDA",
+    "summary": "Nvidia said Monday that it has restored Jensen Huang as the chipmaker's chief executive, calling him the \"right person\" to lead the company.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Here's the 1 Stock I'd Most Want to Buy If the Market Crashes",
+    "time": "2026-11-23T19:20:02+00:00",
+    "link": "https://www.fool.com/investing/2026/11/23/heres-the-1-stock-id-most-want-to-buy-if-the-market-crashes/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:JNJ:rss:44765a5b-41fd-3ae8-8375-6d69ffe6a797",
+    "type": "news",
+    "sym": "JNJ",
+    "summary": "Johnson & Johnson is probably the most recession-proof healthcare stock out there.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Huang's Nvidia Return Tests a Rule Breaker Trait",
+    "time": "2026-11-23T19:20:02+00:00",
+    "link": "https://www.fool.com/investing/2026/11/23/huang-s-nvidia-return-tests-a-rule-breaker-trait/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:NVDA:rss:4acb5aa4-f6fa-3ec6-968f-92b2f083cd9f",
+    "type": "news",
+    "sym": "NVDA",
+    "summary": "Team Rule Breakers has recommended Nvidia for about two decades, and Huang has long been a big part of the reason.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "President Donald Trump Just Took Credit for Jensen Huang’s Return as Nvidia CEO. Is the Trump Put Now Back in Play?",
+    "time": "2026-11-23T19:16:57+00:00",
+    "link": "https://www.fool.com/investing/2026/11/23/president-donald-trump-just-took-credit-for-jensen-huang-s-return-as-nvidia-ceo-is-the-trump-put-now-back-in-play/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "deal",
+      "people"
+    ],
+    "id": "news:NVDA:rss:bf45527e-6505-3857-9c00-3d820f28bd6a",
+    "type": "news",
+    "sym": "NVDA",
+    "summary": "Trump essentially told CNBC he helped broker a deal to bring Jensen Huang back as CEO.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Jensen Huang Just Returned to Nvidia and the Stock Soared 31%. A Retiree Who Moved Shares to a Roth IRA on Friday Got the Best Deal in 18 Months. Here’s What the Same Move Costs Now",
+    "time": "2026-11-23T19:16:00+00:00",
+    "link": "https://247wallst.com/investing/2026/11/23/jensen-huang-just-returned-to-nvidia-and-the-stock-soared-31-a-retiree-who-moved-shares-to-a-roth-ira-on-friday-got-the-best-deal-in-18-months-heres-what-the-same-move-costs-now/?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "deal"
+    ],
+    "id": "news:NVDA:rss:725291a9-77b1-366b-a486-680fe8752c80",
+    "type": "news",
+    "sym": "NVDA",
+    "summary": "Nvidia was up about 31% Monday afternoon after Jensen Huang's return. Moving 1,000 shares from an IRA to a Roth now adds about $8,800 more federal tax for a 64-year-old than it did at Friday's close.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "GTA VI Hype More Than Doubled Sony’s US PS5 And Microsoft’s Xbox Weekly Sales, Circana Says",
+    "time": "2026-11-23T19:13:27+00:00",
+    "link": "https://stocktwits.com/news-articles/markets/equity/gta-vi-hype-more-than-doubled-sony-s-us-ps-5-and-microsoft-s-xbox-weekly-sales-circana-says/cNbpaZJR9jN?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:MSFT:rss:2410e20e-b579-3231-b6a2-8567834281b9",
+    "type": "news",
+    "sym": "MSFT",
+    "summary": "The firm said PlayStation 5 sales were more than 2.4 times higher than a year earlier during the week ended Nov. 7, while Xbox Series sales rose to 2.3 times their year-ago level.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Is Micron Technology Stock a Buy at $700?",
+    "time": "2026-11-23T19:12:01+00:00",
+    "link": "https://www.fool.com/investing/2026/11/23/is-micron-technology-stock-a-buy-at-700/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:MU:rss:2b6036eb-7b23-3542-86ab-7c78d7313b07",
+    "type": "news",
+    "sym": "MU",
+    "summary": "The memory stock got a boost on Monday after news that Jensen Huang would return as Nvidia's CEO.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Caterpillar (CAT) Falls In Broad Pullback As Undervalued Narrative Stays In Focus",
+    "time": "2026-11-23T19:11:43+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-falls-broad-pullback-191143887.html?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CAT:rss:b0721c27-fee3-3b7e-befd-c50b7191005f",
+    "type": "news",
+    "sym": "CAT",
+    "summary": "Caterpillar (CAT) is back in focus after the stock fell 5.0% on November 20, 2026, during a broader pullback in AI linked companies, despite no fresh corporate news. The recent pullback fits into a much sharper reset for Caterpillar. The share price has retreated 37.1% over the past 90 days and 25.7",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "IREN (IREN) Could Be 83% Undervalued Following Its AI Infrastructure Rebound",
+    "time": "2026-11-23T19:11:39+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-could-83-undervalued-191139206.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:NVDA:rss:909c3334-acb5-3e13-9b36-358a11fa8e96",
+    "type": "news",
+    "sym": "NVDA",
+    "summary": "IREN (NasdaqGS:IREN) jumped 27.9% after Nvidia reinstated Jensen Huang as CEO. Renewed confidence in AI infrastructure spending drew buyers back to GPU focused cloud providers and sparked heavy trading in the stock. That surge comes against a rough backdrop for IREN, with the share price down 53.67%",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "PepsiCo (PEP) Stock May Be 49% Undervalued Following Margin Concerns",
+    "time": "2026-11-23T19:11:21+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-stock-may-49-191121756.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:PEP:rss:0fe66db5-4b33-3b93-8990-ca54b253effc",
+    "type": "news",
+    "sym": "PEP",
+    "summary": "PepsiCo has seen a muted share price journey in recent years, and investors are increasingly asking whether the current valuation is still supported by the cash the business can generate. With the stock around US$140.54 at the last close, the key issue is how that price lines up against the strength",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "How a tech crash spooked Trump into saving Jensen Huang",
+    "time": "2026-11-23T19:11:05+00:00",
+    "link": "https://uk.finance.yahoo.com/news/tech-crash-spooked-trump-saving-191105393.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:NVDA:rss:5731b4d1-378e-39de-98c4-7e058e9203b1",
+    "type": "news",
+    "sym": "NVDA",
+    "summary": "Late on Sunday, Donald Trump appeared to have made up his mind about the future of Jensen Huang, the Nvidia founder.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "3 ETFs For Owning AbbVie As Its Research Push Widens The Choice",
+    "time": "2026-11-23T19:10:42+00:00",
+    "link": "https://finance.yahoo.com/healthcare/articles/3-etfs-owning-abbvie-research-191042661.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:ABBV:rss:ab605dd4-7367-3c56-8e71-2ac2b49133d5",
+    "type": "news",
+    "sym": "ABBV",
+    "summary": "If you like AbbVie and its drug portfolio, buying the stock outright means your money rises and falls with its specific issues. Simply Wall St flags the risk that loss of exclusivity for drugs like HUMIRA and future pressure on follow up treatments could hit revenue, and also highlights concerns abo",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "GEV vs CAT rebound comparison: two speeds, different risk profiles",
+    "time": "2026-11-23T19:00:16+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/gev-vs-cat-rebound-comparison-190016772.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:CAT:rss:ec2d523e-9c67-3f25-92dc-f4e938b5bd54",
+    "type": "news",
+    "sym": "CAT",
+    "summary": "Investing.com -- Both GE Vernova and Caterpillar rallied on Nov 23, but their underlying signals differ, making one a cleaner setup and the other a deeper, riskier snapback.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Wonder is reportedly exploring a sale of Grubhub",
+    "time": "2026-11-23T18:59:09+00:00",
+    "link": "https://www.nrn.com/restaurant-technology/wonder-is-reportedly-exploring-a-sale-of-grubhub?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:KR:rss:c8693101-5dd0-3fed-a836-3001b06abceb",
+    "type": "news",
+    "sym": "KR",
+    "summary": "The food hall-delivery concept is targeting Walmart, Target, and Kroger as potential buyers of the food delivery service, according to the Wall Street Journal.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Credo Technology’s AI rebound potential versus Broadcom",
+    "time": "2026-11-23T18:58:17+00:00",
+    "link": "https://finance.yahoo.com/technology/ai/articles/credo-technology-ai-rebound-potential-185817118.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AVGO:rss:5b24d718-d02a-3bda-854f-81140d1048c6",
+    "type": "news",
+    "sym": "AVGO",
+    "summary": "Investing.com -- The top rebound candidate is Credo Technology (CRDO). It offers a combination of AI exposure, oversold momentum, operating acceleration, and rebound sensitivity.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Salesforce Ex-CEO's AI Startup Sierra Hits $30 Billion Valuation. It Doubled In Just Six Months.",
+    "time": "2026-11-23T18:55:02+00:00",
+    "link": "https://www.ibtimes.com/sierra-30-billion-valuation-ai-funding-round-3810100?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "people"
+    ],
+    "id": "news:CRM:rss:409e773f-5ef7-3de6-ae21-160b71ee3a6c",
+    "type": "news",
+    "sym": "CRM",
+    "summary": "Sierra says it raised $1.75 billion at a $30 billion valuation, roughly doubling its value in six months as demand for enterprise AI agents grows.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Micron Stock Jumps 18%. Why the Rally Has Legs.",
+    "time": "2026-11-23T18:52:00+00:00",
+    "link": "https://finance.yahoo.com/m/3f1f89c7-5433-3bc0-990f-eab9250e8983/micron-stock-jumps-18%25.-why.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:MU:rss:3f1f89c7-5433-3bc0-990f-eab9250e8983",
+    "type": "news",
+    "sym": "MU",
+    "summary": "Don’t call it a comeback just yet, but the memory-chip maker is finally showing signs of life following a brutal selloff.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Chevron vs. Occidental Petroleum: Which Energy Stock Is a Better Buy for 2027?",
+    "time": "2026-11-23T18:50:02+00:00",
+    "link": "https://www.fool.com/coverage/better-buy/2026/11/23/chevron-vs-occidental-petroleum-which-energy-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:CVX:rss:c69b99aa-04b2-3dac-97c7-2bcedc4b0b28",
+    "type": "news",
+    "sym": "CVX",
+    "summary": "Chevron's broad global reach and low debt stand against Occidental's sharper growth profile and cheaper forward earnings multiple, leaving investors to weigh diversification against focus.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Costco vs. Walmart: One Retail Giant Looks Better for Retirement Investors",
+    "time": "2026-11-23T18:47:09+00:00",
+    "link": "https://247wallst.com/investing/2026/11/23/costco-vs-walmart-one-retail-giant-looks-better-for-retirement-investors/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:COST:rss:eb2c6614-ed9b-3e6b-bec0-277f0a65e7db",
+    "type": "news",
+    "sym": "COST",
+    "summary": "Both warehouse-club king and discount titan just beat earnings, and both sit near 52-week highs. But one stock already costs more than Wall Street thinks it's worth, and that changes what a retiree should buy before the next paycheck cycle.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Goldman Sachs sees US dollar rally continuing before a pullback in 2027",
+    "time": "2026-11-23T18:33:36+00:00",
+    "link": "https://finance.yahoo.com/markets/currencies/articles/goldman-sachs-sees-us-dollar-183336171.html?.tsrc=rss",
+    "tone": 1,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GS:rss:e4efb265-f86f-311f-80dd-1cec3487c94b",
+    "type": "news",
+    "sym": "GS",
+    "summary": "Investing.com -- The US dollar rally will continue in the coming months before weakening in 2027, according to Goldman Sachs Group Inc. (NYSE:GS).",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "If You Invest $7,500 Into These 3 Stocks, You Could Have $15,000 by 2030",
+    "time": "2026-11-23T18:33:08+00:00",
+    "link": "https://247wallst.com/investing/2026/11/23/if-you-invest-7500-into-these-3-stocks-you-could-have-15000-by-2030/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:PLTR:rss:c9f68d4c-7450-3ef4-9439-49fbea52665d",
+    "type": "news",
+    "sym": "PLTR",
+    "summary": "CrowdStrike, Palantir and Cloudflare all posted record quarters, yet one of them does most of the heavy lifting in this basket. A five-year model tests whether a $7,500 stake can truly double, and which scenario it demands.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Jim Cramer sees a Google bargain after $120 million exit",
+    "time": "2026-11-23T18:33:00+00:00",
+    "link": "https://www.thestreet.com/investing/jim-cramer-sees-a-google-bargain-after-120-million-exit?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:GOOG:rss:47e3fe1a-ab11-32be-8c70-5c41e9f5d17f",
+    "type": "news",
+    "sym": "GOOG",
+    "summary": "Alphabet’s beaten-down shares have attracted a bullish call.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "What Could Lift AutoZone Stock After A Losing Year?",
+    "time": "2026-11-23T18:30:48+00:00",
+    "link": "https://www.trefis.com/stock/azo/articles/627628/what-could-lift-autozone-stock-after-a-losing-year/2026-11-23?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AZO:rss:a13c9ca5-2d2e-3e1c-a451-293e971612e6",
+    "type": "news",
+    "sym": "AZO",
+    "summary": "For questions about this article or underlying research, email help@trefis.com.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
     "title": "Why Trump thinks Jensen Huang leading Nvidia is worth the risk",
     "time": "2026-11-23T18:30:34+00:00",
     "link": "https://finance.yahoo.com/video/why-trump-thinks-jensen-huang-leading-nvidia-is-worth-the-risk-183034810.html?.tsrc=rss",
@@ -15,6 +377,73 @@
     "seen": "2026-11-23T18:28:57+00:00"
   },
   {
+    "title": "Advanced Energy (AEIS) Stock Is Up 11.8% Today Without Company News",
+    "time": "2026-11-23T18:30:32+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-energy-aeis-stock-11-183032783.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:AEIS:rss:abb90d82-6978-310f-b48d-0bd36132c1a7",
+    "type": "news",
+    "sym": "AEIS",
+    "summary": "On Monday, Nov. 23, the stock rose 11.8% without company-specific news as the broader market rallied.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Ford Eyes $600B Space Market With Satellite Startup Bet – Picks Up Minority Stake In Revolution Space",
+    "time": "2026-11-23T18:30:19+00:00",
+    "link": "https://stocktwits.com/news-articles/markets/equity/ford-eyes-600b-space-market-with-satellite-startup-bet-picks-up-minority-stake-in-revolution-space/cNbpBLJR9jm?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:F:rss:6afec615-efab-3012-8d07-db3b9845829e",
+    "type": "news",
+    "sym": "F",
+    "summary": "Ford said it is set to help Revolution Space manufacture advanced spacecraft at a larger scale.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Why Oracle Stock Is Rising Today",
+    "time": "2026-11-23T18:30:02+00:00",
+    "link": "https://www.fool.com/investing/2026/11/23/why-oracle-stock-is-rising/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "deal"
+    ],
+    "id": "news:ORCL:rss:ebf7099d-bae0-3892-9cc1-0e2a095e2d62",
+    "type": "news",
+    "sym": "ORCL",
+    "summary": "Oracle stock jumped after Jensen Huang returned to Nvidia, and Oracle says it has the money it needs to deliver on its OpenAI deal.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Why Boeing Stock Popped Today",
+    "time": "2026-11-23T18:29:09+00:00",
+    "link": "https://www.fool.com/investing/2026/11/23/why-boeing-stock-popped-today/?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:BA:rss:ee6f597f-44ff-3133-8d49-e6586995a3b8",
+    "type": "news",
+    "sym": "BA",
+    "summary": "Bank of America sees blue skies ahead for Boeing.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
+    "title": "Ondaro Unites Federal and SLED Under One Public Sector Leader",
+    "time": "2026-11-23T18:28:00+00:00",
+    "link": "https://finance.yahoo.com/technology/ai/articles/ondaro-unites-federal-sled-under-182800073.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [],
+    "id": "news:NOW:rss:9369f351-93e1-3a20-a0da-6c708f0993e9",
+    "type": "news",
+    "sym": "NOW",
+    "summary": "SAN DIEGO, November 23, 2026--Ondaro, a ServiceNow Elite Partner, announced the promotion of Liz Mikos to Vice President, Public Sector. In the new role, Mikos will lead Ondaro's federal and state, local and education (SLED) businesses as a single public sector team, aligning more closely with Servi",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
     "title": "Update: US Equity Indexes Surge as Nvidia's Move to Reinstate Jensen Huang as CEO Fires Up AI Trade",
     "time": "2026-11-23T18:27:20+00:00",
     "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-surge-nvidia-182720949.html?.tsrc=rss",
@@ -28,6 +457,21 @@
     "sym": "NVDA",
     "summary": "(Updates with index/price moves, macroeconomic data, and company news from the first paragraph.)",
     "seen": "2026-11-23T18:28:57+00:00"
+  },
+  {
+    "title": "Why Nike and American Eagle Can Hold Up Better as Holiday Shoppers Avoid Clothing Aisles",
+    "time": "2026-11-23T18:19:00+00:00",
+    "link": "https://finance.yahoo.com/m/124188ed-2e75-3447-b48b-3a1176084010/why-nike-and-american-eagle.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "earnings"
+    ],
+    "id": "news:NKE:rss:124188ed-2e75-3447-b48b-3a1176084010",
+    "type": "news",
+    "sym": "NKE",
+    "summary": "Retailers’ earnings last week showed sustained consumer spending—except in apparel. Urban Outfitter and other clothing brands could get the cold shoulder this holiday season.",
+    "seen": "2026-11-23T19:38:00+00:00"
   },
   {
     "title": "Jensen Huang Got His Nvidia Job Back and Made About $33 Billion Before Lunch",
@@ -1065,6 +1509,21 @@
     "seen": "2026-11-23T18:28:57+00:00"
   },
   {
+    "title": "DOJ closes NextEra-Dominion antitrust probe as state hearings continue",
+    "time": "2026-11-23T16:27:12+00:00",
+    "link": "https://www.utilitydive.com/news/doj-closes-nextera-dominion-antitrust-probe-as-state-hearings-continue/875489/?.tsrc=rss",
+    "tone": -1,
+    "source": "Yahoo Finance",
+    "tags": [
+      "legal"
+    ],
+    "id": "news:NEE:rss:62852613-5a05-308d-97fd-edd412c73aad",
+    "type": "news",
+    "sym": "NEE",
+    "summary": "The decision followed a promise by the utilities to allow ISO-NE’s internal market monitor to investigate proposed plant retirements. Separately, executives were pressed during hearings in Virginia on how to quantify and ensure customer benefits.",
+    "seen": "2026-11-23T19:38:00+00:00"
+  },
+  {
     "title": "Oracle Soars 13% as It Says OpenAI Deal Is Fully Funded, Calls Contrary Reports “Incorrect and Wrong”",
     "time": "2026-11-23T16:23:25+00:00",
     "link": "https://www.tikr.com/blog/oracle-soars-13-as-it-says-openai-deal-is-fully-funded-calls-contrary-reports-incorrect-and-wrong?ref=yahoofinance&tlnk=yf-261123-cw85wc65&.tsrc=rss",
@@ -1078,6 +1537,22 @@
     "sym": "ORCL",
     "summary": "Key TakeawaysOracle shares jumped 13% after the company said its OpenAI contract is fully funded. That settles the funding worry.",
     "seen": "2026-11-23T18:28:57+00:00"
+  },
+  {
+    "title": "HSBC Values Tesla at Just $212 Without SpaceX Merger",
+    "time": "2026-11-23T16:22:21+00:00",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-values-tesla-just-212-162221658.html?.tsrc=rss",
+    "tone": 0,
+    "source": "Yahoo Finance",
+    "tags": [
+      "analyst",
+      "deal"
+    ],
+    "id": "news:TSLA:rss:9e3ff954-4256-329f-90e9-5c391d87a53a",
+    "type": "news",
+    "sym": "TSLA",
+    "summary": "Cathie Wood expects Tesla shareholders to demand a premium, while HSBC raises its price target to $359.",
+    "seen": "2026-11-23T19:38:00+00:00"
   },
   {
     "title": "Ford Beats Out Tesla, Barely",
@@ -19875,473 +20350,5 @@
     "sym": "GM",
     "summary": "The company’s plans include autonomous mobile robots for transporting parts around manufacturing locations.",
     "seen": "2026-11-19T14:33:59+00:00"
-  },
-  {
-    "title": "Zacks Industry Outlook Highlights UnitedHealth, The Cigna, Humana, Centene and Molina",
-    "time": "2026-11-18T10:24:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/zacks-industry-outlook-highlights-unitedhealth-102400530.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MOH:rss:ccb5fdfc-66b3-3323-b58c-1ccc4c2ec42a",
-    "type": "news",
-    "sym": "MOH",
-    "summary": "UnitedHealth, The Cigna, Humana, Centene and Molina have been highlighted in this Industry Outlook article.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Down Over 60% From Its High, Is Intel's Stock a Good Buy Right Now?",
-    "time": "2026-11-18T10:20:02+00:00",
-    "link": "https://www.fool.com/investing/2026/11/18/down-over-60-from-its-high-is-intel-s-stock-a-good-buy-right-now/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:INTC:rss:db4b21c8-b6c2-3612-9857-9a3e397cd7fc",
-    "type": "news",
-    "sym": "INTC",
-    "summary": "Intel's stock has been in a tailspin since reporting earnings last month.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Futures Climb As Nvidia Earnings Boost AI Trade — BABA, INTC, ASTS, CAPR In Focus",
-    "time": "2026-11-18T10:19:49+00:00",
-    "link": "https://stocktwits.com/news-articles/markets/equity/futures-climb-as-nvidia-earnings-boost-ai-trade-baba-intc-asts-capr-in-focus/cNbXyNSR9L4?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:INTC:rss:99175eef-d001-3fdd-a3a8-2c26f0421132",
-    "type": "news",
-    "sym": "INTC",
-    "summary": "Oil prices, meanwhile, declined after U.S. crude and fuel inventories increased, amid ongoing U.S.-Iran tensions and disruptions in the Strait of Hormuz.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-    "time": "2026-11-18T10:16:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-101600594.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "deal"
-    ],
-    "id": "news:PLD:rss:ac665c46-02fd-307c-8c3c-493cf6316dc0",
-    "type": "news",
-    "sym": "PLD",
-    "summary": "FORM 8.3 PUBLIC OPENING POSITION DISCLOSURE/DEALING DISCLOSURE BYA PERSON WITH INTERESTS IN RELEVANT SECURITIES REPRESENTING 1% OR MORERule 8.3 of the Takeover Code (the “Code”) 1.KEY INFORMATION (a)Full name of discloser:Dimensional Fund Advisors Ltd. whose parent is Dimensional Fund Advisors LP, a",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "CRISPR Therapeutics (CRSP) Stock Could Be Above Fair Value On Its 50% Five Year Fall",
-    "time": "2026-11-18T10:13:03+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/crispr-therapeutics-crsp-stock-could-101303973.html?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CRSP:rss:9094c5bb-c04c-3b0a-bafc-5beb4220212d",
-    "type": "news",
-    "sym": "CRSP",
-    "summary": "CRISPR Therapeutics has seen its share price fall sharply in recent years, even as fresh clinical data around its gene edited therapies keeps hitting the headlines. With the stock under pressure, the key question is whether the current market price lines up with what the company’s book value suggest",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "What Could Fidelity National Information Services (FIS) Gain From This Checkout Partnership?",
-    "time": "2026-11-18T10:12:59+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/could-fidelity-national-information-services-101259598.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:FIS:rss:20b5fb07-e6e0-3845-ab9f-d38afa087e96",
-    "type": "news",
-    "sym": "FIS",
-    "summary": "Fidelity National Information Services (NYSE:FIS) has formed a partnership with Splitit to offer bank-issued credit and installment options at checkout. The arrangement is designed to plug into FIS's issuer-processing platform so banks can present installment and pay-with-points choices at point of ",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Uber Technologies Targets 10,000 Driverless Vehicles by 2028 Amid $10 Billion AV Push",
-    "time": "2026-11-18T10:12:34+00:00",
-    "link": "https://www.marketbeat.com/instant-alerts/event-uber-technologies-targets-10000-driverless-vehicles-by-2028-amid-10-billion-av-push-2026-11-18/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:UBER:rss:4d79433c-7d2d-3e9f-b05c-28ce984b9f63",
-    "type": "news",
-    "sym": "UBER",
-    "summary": "Uber Technologies (NYSE:UBER) is pursuing growth in its core ride-hailing and delivery businesses while investing in autonomous vehicles, Chief Financial Officer Balaji Krishnamurthy said at a media and telecom conference. Krishnamurthy said Uber is on track to handle nearly 16 billion trips this y",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Lockheed Martin And 2 Other Undervalued Cash Flow Stocks",
-    "time": "2026-11-18T10:10:24+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-2-other-undervalued-101024425.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:LMT:rss:e5a920ad-b0ed-3bc6-9242-3123de6e5531",
-    "type": "news",
-    "sym": "LMT",
-    "summary": "Energy bills in the UK are projected to jump sharply, and inflation is already higher, which puts dependable cash generation back in the spotlight. When costs climb and interest rates stay in focus, investors often pay closer attention to businesses that throw off steady cash yet still trade at a di",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off",
-    "time": "2026-11-18T10:10:02+00:00",
-    "link": "https://www.fool.com/investing/2026/11/18/not-micron-not-broadcom-this-artificial-intelligence-ai-stock-will-skyrocket-in-december-after-the-latest-sell-off/?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AVGO:rss:a224b314-18c0-3cdf-beb4-6fd9311b5757",
-    "type": "news",
-    "sym": "AVGO",
-    "summary": "Optical networking is emerging as the next bottleneck in AI infrastructure, and Ciena is one of the best ways for investors to capitalize on this market's growth.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off",
-    "time": "2026-11-18T10:10:02+00:00",
-    "link": "https://www.fool.com/investing/2026/11/18/not-micron-not-broadcom-this-artificial-intelligence-ai-stock-will-skyrocket-in-december-after-the-latest-sell-off/?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MU:rss:a224b314-18c0-3cdf-beb4-6fd9311b5757",
-    "type": "news",
-    "sym": "MU",
-    "summary": "Optical networking is emerging as the next bottleneck in AI infrastructure, and Ciena is one of the best ways for investors to capitalize on this market's growth.",
-    "seen": "2026-11-18T15:30:36+00:00"
-  },
-  {
-    "title": "MetLife (MET) Dividend Declaration Keeps Its Undervalued Narrative In Focus",
-    "time": "2026-11-18T10:09:46+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/metlife-met-dividend-declaration-keeps-100946150.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "capital"
-    ],
-    "id": "news:MET:rss:9fe6d2cb-69a6-371c-8c3d-2401d384aa9e",
-    "type": "news",
-    "sym": "MET",
-    "summary": "MetLife (MET) has just put fresh attention on its preferred securities by declaring fourth quarter 2026 dividends across its Series A, E and F preferred stock. Payments are scheduled for December 15 to eligible shareholders. MetLife’s common stock has been grinding higher through 2026, with the late",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Why Everyone Is Watching General Electric (GE) Today",
-    "time": "2026-11-18T10:07:58+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-everyone-watching-general-electric-100758543.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:GE:rss:db4bcd0c-65e1-3825-b6cc-4fdde62c0a8f",
-    "type": "news",
-    "sym": "GE",
-    "summary": "ETF buying puts fresh attention on General Electric The Industrial Select Sector SPDR ETF recently lifted its exposure to General Electric (GE), adding 40,850 shares for about US$13.5 million, which took the stock to 6.38% of the fund’s assets. General Electric now trades around US$326.40, with the ",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "BlackRock® Canada Announces November Cash Distributions for the iShares® ETFs",
-    "time": "2026-11-18T10:00:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-canada-announces-november-cash-100000870.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:BLK:rss:402ff590-c8b0-338d-b1cb-ae286a2097fe",
-    "type": "news",
-    "sym": "BLK",
-    "summary": "TORONTO, Nov. 18, 2026 (GLOBE NEWSWIRE) -- BlackRock Asset Management Canada Limited (“BlackRock Canada”), an indirect, wholly-owned subsidiary of BlackRock, Inc. (NYSE: BLK), today announced the November 2026 cash distributions for the iShares ETFs listed on the TSX or Cboe Canada which pay on a mo",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Zacks Industry Outlook Highlights Ford, Rivian and Harley-Davidson",
-    "time": "2026-11-18T09:59:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-ford-095900861.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:F:rss:9ff5de74-c5ce-397b-8b30-48121bf7250d",
-    "type": "news",
-    "sym": "F",
-    "summary": "Ford, Rivian and Harley-Davidson have been highlighted in this Industry Outlook article.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Crypto Stocks Rebound As Nvidia’s Earnings Beat Lifts Risk Appetite — Why COIN, CRCL, NXXT Are Moving Today",
-    "time": "2026-11-18T09:53:22+00:00",
-    "link": "https://stocktwits.com/news-articles/markets/equity/crypto-stocks-rebound-as-nvidia-s-earnings-beat-lifts-risk-appetite-why-coin-crcl-nxxt-are-moving-today/cNbXxwVR9LE?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:COIN:rss:7edec910-d29c-3a00-96c5-bfb6eea46d87",
-    "type": "news",
-    "sym": "COIN",
-    "summary": "Bitcoin held near $64,600 despite Nvidia’s beat, and some analysts expect it to rebound after Anthropic’s Nasdaq debut on Thursday.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Crypto Stocks Rebound As Nvidia’s Earnings Beat Lifts Risk Appetite — Why COIN, CRCL, NXXT Are Moving Today",
-    "time": "2026-11-18T09:53:22+00:00",
-    "link": "https://stocktwits.com/news-articles/markets/equity/crypto-stocks-rebound-as-nvidia-s-earnings-beat-lifts-risk-appetite-why-coin-crcl-nxxt-are-moving-today/cNbXxwVR9LE?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:CRCL:rss:7edec910-d29c-3a00-96c5-bfb6eea46d87",
-    "type": "news",
-    "sym": "CRCL",
-    "summary": "Bitcoin held near $64,600 despite Nvidia’s beat, and some analysts expect it to rebound after Anthropic’s Nasdaq debut on Thursday.",
-    "seen": "2026-11-19T14:33:59+00:00"
-  },
-  {
-    "title": "Zacks.com featured highlights include Super Micro Computer, General Dynamics and Consolidated Edison",
-    "time": "2026-11-18T09:47:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-super-094700918.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:GD:rss:1b1f22a0-d7ff-3d74-9186-6d91fbe5ac86",
-    "type": "news",
-    "sym": "GD",
-    "summary": "Super Micro Computer, General Dynamics and Consolidated Edison have been highlighted in this Screen of The Week article.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Oracle Just Dropped 10% in a Month. Executed Perfectly, It’s “a Multiple of Where It Is Today,” per Gil Luria",
-    "time": "2026-11-18T09:38:47+00:00",
-    "link": "https://www.tikr.com/blog/oracle-just-dropped-10-in-a-month-executed-perfectly-its-a-multiple-of-where-it-is-today-per-gil-luria?ref=yahoofinance&tlnk=yf-261118-35j9ph6m&.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "deal"
-    ],
-    "id": "news:ORCL:rss:fdf63e83-8f30-3a33-8935-6c6a99ce1abd",
-    "type": "news",
-    "sym": "ORCL",
-    "summary": "Key TakeawaysOracle stock is down 10% in the past month, mostly in an AI infrastructure selloff that hit CoreWeave and Nvidia harder. Days after capping new capital raises at $20 billion through fiscal 2030, Oracle raised all of it, then reportedly dropped a Tencent deal and lost a Microsoft rental ",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Oracle Is 54% Below Its June High. Wall Street Still Sees $236",
-    "time": "2026-11-18T09:38:46+00:00",
-    "link": "https://www.tikr.com/blog/oracle-is-54-below-its-june-high-wall-street-still-sees-236?ref=yahoofinance&tlnk=yf-261118-3pm2r85x&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:ORCL:rss:6019fb79-e4ea-3511-93c8-a35af618ea0f",
-    "type": "news",
-    "sym": "ORCL",
-    "summary": "Key TakeawaysOracle stock is 54% below its June high, and the average analyst target has fallen to $236 from $348 a year ago, which is still 105% above the Nov. 17 close.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Disney Weighs a Free Disney+ Tier. Netflix’s $8.99 Ad Plan Has a Big Problem",
-    "time": "2026-11-18T09:38:45+00:00",
-    "link": "https://www.tikr.com/blog/disney-weighs-a-free-disney-tier-netflixs-8-99-ad-plan-has-a-big-problem?ref=yahoofinance&tlnk=yf-261118-22f8657m&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NFLX:rss:bb301c2a-ec4a-34b2-89d4-ccfe9dac29ca",
-    "type": "news",
-    "sym": "NFLX",
-    "summary": "Key TakeawaysDisney beat estimates with $25. 95 billion of fiscal fourth-quarter revenue and said again that it is exploring a free, ad-supported version of Disney+.",
-    "seen": "2026-11-19T14:33:59+00:00"
-  },
-  {
-    "title": "Zacks Investment Ideas feature highlights: Home Depot and Lowe's",
-    "time": "2026-11-18T09:37:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-093700469.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:HD:rss:a0eee366-5a63-3163-a1c0-230ddc9a6a95",
-    "type": "news",
-    "sym": "HD",
-    "summary": "Home Depot and Lowe's have been highlighted in this Investment Ideas article.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Prediction: This Will Be Micron’s Stock Price in 3 Years",
-    "time": "2026-11-18T09:35:02+00:00",
-    "link": "https://www.fool.com/investing/2026/11/18/prediction-this-will-be-micron-s-stock-price-in-3-years/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MU:rss:be5da391-623d-3047-91e4-d7849775da3a",
-    "type": "news",
-    "sym": "MU",
-    "summary": "Micron's stock isn't being respected by the market.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Lianlian DigiTech and Visa Advance Trusted B2B Agentic Commerce for Small and Medium-Sized Businesses",
-    "time": "2026-11-18T09:35:00+00:00",
-    "link": "https://finance.yahoo.com/small-business/articles/lianlian-digitech-visa-advance-trusted-093500388.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:V:rss:a4e0b2a3-ec7b-3cf7-be30-91c9487962bc",
-    "type": "news",
-    "sym": "V",
-    "summary": "Lianlian DigiTech (HKEX: 2598) and Visa (NYSE: V), a global leader in digital payments, today announced the next phase of their collaboration to advance trusted B2B agentic commerce. The companies have completed their first live transaction in Asia Pacific through Visa Intelligent Commerce Connect,[",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Market Chatter: Nike Targets 50% Local Product Creation in China by Fiscal 2030",
-    "time": "2026-11-18T09:32:58+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nike-targets-50-093258096.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NKE:rss:a2fbc3ce-e768-3bb9-ab6e-167465da35e8",
-    "type": "news",
-    "sym": "NKE",
-    "summary": "Nike (NKE) aims to design and create half of the sportswear products it sells in China within the co",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Nike outlines ‘Full Stride Ahead’ strategy and fiscal 2031 financial targets",
-    "time": "2026-11-18T09:18:55+00:00",
-    "link": "https://www.retail-insight-network.com/news/nike-full-stride-ahead-fiscal-2031-financial-targets/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:NKE:rss:041127f2-3579-3241-a609-b9ecc0d8044a",
-    "type": "news",
-    "sym": "NKE",
-    "summary": "The company’s long-term financial framework sets a target operating margin of 12% to 14% and adjusted EPS of $3.00 to $3.50 by fiscal 2031, using fiscal 2027 as the baseline.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "How Investors Are Reacting To Starbucks (SBUX) Red Cup Day Launch",
-    "time": "2026-11-18T09:17:24+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-starbucks-sbux-red-091724474.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:SBUX:rss:d6083e30-b887-3cd0-896c-3dcffec9f66a",
-    "type": "news",
-    "sym": "SBUX",
-    "summary": "Starbucks held its annual Red Cup Day promotion on November 17, 2026, giving customers a free reusable cup with qualifying holiday or fall drinks and aiming to lift store visits across mobile, drive-thru, and in-store channels. The giveaway coincides with momentum from Starbucks' Back to Starbucks t",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "3 US Infrastructure Stocks Linked To Air Traffic Network Upgrades",
-    "time": "2026-11-18T09:13:16+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/3-us-infrastructure-stocks-linked-091316837.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst",
-      "legal"
-    ],
-    "id": "news:CSCO:rss:43582cfb-d098-338b-85cb-0c7578ae154d",
-    "type": "news",
-    "sym": "CSCO",
-    "summary": "A single router failure that halts U.S. air traffic turns abstract “critical infrastructure” into something very real for investors. When the FAA, HPE’s Juniper unit, L3Harris and Cisco are suddenly in the same investigation, risk and potential future contract decisions collide. This piece looks at ",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "CRISPR Therapeutics (CRSP) Flags Early CTX310 And Zugo Cel Wins In Two Big Markets",
-    "time": "2026-11-18T09:10:58+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/crispr-therapeutics-crsp-flags-early-091058087.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:CRSP:rss:a633f619-65cb-386f-9146-acee9e72f8df",
-    "type": "news",
-    "sym": "CRSP",
-    "summary": "CRISPR Therapeutics (NasdaqGM:CRSP) reported early Phase 1b data for CTX310 in severe hypertriglyceridemia on 18 November 2026. The firm said CTX310 showed encouraging safety signals along with meaningful triglyceride biomarker reductions in treated patients. Management also shared positive prelimin",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "FIS (FIS) Stock Could Be Undervalued As Shares Fell 71%",
-    "time": "2026-11-18T09:10:53+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/fis-fis-stock-could-undervalued-091053820.html?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:FIS:rss:420c8ba8-b1c2-3be6-bb9f-ddac50ae26a4",
-    "type": "news",
-    "sym": "FIS",
-    "summary": "Fidelity National Information Services stock has been heavily sold off in recent years, and the scale of that slide now raises a very specific question for investors about whether the current price still lines up with the company’s earnings power. Over the past 5 years the share price has fallen 71.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "‘They’re Going to Try to Package Collectibles Like Pokemon Cards’: ETF Analyst as BlackRock Files New Structure for Private Companies",
-    "time": "2026-11-18T09:03:44+00:00",
-    "link": "https://247wallst.com/investing/etf/2026/11/18/theyre-going-to-try-to-package-collectibles-like-pokemon-cards-etf-analyst-as-blackrock-files-new-structure-for-private-companies/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:BLK:rss:9282d27c-4e73-3ab4-9a4f-5d39bf8cad23",
-    "type": "news",
-    "sym": "BLK",
-    "summary": "BlackRock just asked the SEC to approve a fund that holds private companies yet trades like a stock, with one catch at the exit door. Why one ETF analyst thinks the wrapper could soon hold almost anything, and what that risks for your brokerage account.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "Tesla Is Now Taking Cybercab Orders. Here's Where I Think the Stock Will Be in 2030.",
-    "time": "2026-11-18T09:03:02+00:00",
-    "link": "https://www.fool.com/investing/2026/11/18/tesla-is-now-taking-cybercab-orders-here-s-where-i-think-the-stock-will-be-in-2030/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TSLA:rss:122a4893-2457-3c4f-9b2f-cad34edf5420",
-    "type": "news",
-    "sym": "TSLA",
-    "summary": "The robotaxi finally has a price. But how much profit is the stock already counting on?",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "iFAST Global Bank Expands Multi-Currency Visa Debit Card Access to Overseas Customers",
-    "time": "2026-11-18T09:00:00+00:00",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/ifast-global-bank-expands-multi-090000920.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:V:rss:922cd377-206a-31db-9cd0-d3ec5384aff8",
-    "type": "news",
-    "sym": "V",
-    "summary": "The expansion brings multi-currency spending and virtual debit card access to iFAST Global Bank customers across seven overseas markets.Key facts: Launch: iFAST Global Bank is expanding virtual access to its Multi-Currency Visa Debit Card to customers across seven overseas markets: Thailand, Hong Ko",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "SBM Offshore wins FPSO contracts from ExxonMobil for Longtail project",
-    "time": "2026-11-18T08:57:15+00:00",
-    "link": "https://www.offshore-technology.com/news/sbm-offshore-fpso-exxonmobil-longtail/?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:XOM:rss:68dc1788-4f56-3e4c-80d9-a9a77465f01d",
-    "type": "news",
-    "sym": "XOM",
-    "summary": "The vessel is designed to process 1.2 billion standard cubic feet of gas and 250,000 barrels of condensate daily.",
-    "seen": "2026-11-18T14:31:09+00:00"
-  },
-  {
-    "title": "INTC Stock Gains Overnight Amid Fresh Layoffs Buzz",
-    "time": "2026-11-18T08:43:22+00:00",
-    "link": "https://stocktwits.com/news-articles/markets/equity/intc-stock-gains-overnight-amid-fresh-layoffs-buzz/cNbXwbIR9L5?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "people"
-    ],
-    "id": "news:INTC:rss:e804fdc2-9728-36b4-acbc-54d797a68c09",
-    "type": "news",
-    "sym": "INTC",
-    "summary": "The move is the latest in a series of cuts over the last two years as CEO Lip-Bu Tan looks to make the chipmaker leaner.",
-    "seen": "2026-11-18T14:31:09+00:00"
   }
 ]
