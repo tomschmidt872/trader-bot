@@ -24171,5 +24171,620 @@
     "trigger": [
       "Kurssprung 5,0 % mit 2,1x Volumen ohne bekannte Meldung"
     ]
+  },
+  {
+    "action": "SCHLIESSEN",
+    "sym": "MU",
+    "side": 1,
+    "shares": 1.4925634525267684,
+    "price": 641.995,
+    "value": 193.90312720969487,
+    "pnl": -90.34887376689561,
+    "why": "Stop bei 658,01 $ erreicht",
+    "id": "2026-11-24T14:44:15+00:00:SCHLIESSEN:MU",
+    "time": "2026-11-24T14:44:15+00:00",
+    "kind": "stop",
+    "bot": "event",
+    "story": "Long-Position in MU nach 22,2 Std. geschlossen: Stop bei 658,01 $ erreicht. Ergebnis -90,35 € (-46,6 % auf den Einsatz von 193,90 €, mit 5x Hebel). Einstieg 707,83 $, Ausstieg 642,00 $.",
+    "name": "Micron Technology, Inc.",
+    "entry": 707.83,
+    "bought": "2026-11-23T16:35:13+00:00",
+    "leverage": 5,
+    "pnl_pct": -46.59485128839031,
+    "levels": {
+      "stop": 658.0060936935649,
+      "target": 807.4778126128703
+    },
+    "total": -6,
+    "scores": {
+      "Signale": 1,
+      "Trend": -1,
+      "Momentum": -2,
+      "Volumen": -4,
+      "Intraday": -1,
+      "News": 1
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. John J Mr McGuire III kauft ($1,001 - $15,000)",
+        "Hon. John J Mr McGuire III kauft ($1,001 - $15,000)",
+        "Hon. John J Mr McGuire III kauft ($1,001 - $15,000)"
+      ],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 > SMA200",
+        "ADX 35: starker Abwärtstrend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 38 neutral",
+        "-30.9 % in 20 Tagen"
+      ],
+      "Volumen": [
+        "2.9x Volumen an einem Minus-Tag",
+        "OBV fällt (Distribution)",
+        "Chaikin Money Flow -0.19 (Geld fließt raus)",
+        "Verkaufsdruck: 2.2x mehr Volumen an Minus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs < VWAP 655.25",
+        "Gap -5.4 % zur Eröffnung"
+      ],
+      "News": [
+        "5 Schlagzeilen: 2 positiv, 1 negativ"
+      ]
+    },
+    "ind": {
+      "price": 641.995,
+      "sma50": 902.2253003906251,
+      "sma200": 775.4002263122559,
+      "adx": 35.088053360381345,
+      "plus_di": 18.000992745567913,
+      "minus_di": 35.901550616570674,
+      "macd_hist": -5.3146490625739915,
+      "rsi": 38.0835398647521,
+      "stoch_k": 23.416413980180515,
+      "stoch_d": 24.108808298088174,
+      "bb_upper": 957.0248790423844,
+      "bb_lower": 567.9966241314438,
+      "bb_width": 51.0193796089179,
+      "roc20": -30.876115115894244,
+      "dollar_vol": 22549217311.675,
+      "rvol": 2.948904107814489,
+      "obv_trend": -0.36113659551188637,
+      "cmf": -0.1899003746970052,
+      "buy_sell_ratio": 0.4591698790023769,
+      "high52": 1255.0,
+      "low52": 212.36000061035156,
+      "vwap": 655.2507753350269,
+      "gap": -5.413310286532324,
+      "atr": 66.48674201323142,
+      "chg": -9.284302822339052,
+      "spark": [
+        864.01,
+        949.28,
+        935.89,
+        891.88,
+        995.87,
+        981.61,
+        1087.99,
+        1020.76,
+        1043.19,
+        1133.99,
+        1211.38,
+        1051.77,
+        1048.51,
+        1213.56,
+        1132.33,
+        1145.28,
+        1154.29,
+        1032.28,
+        975.56,
+        984.75,
+        938.38,
+        948.8,
+        991.64,
+        979.3,
+        937.0,
+        983.12,
+        904.28,
+        853.2,
+        848.95,
+        865.46,
+        970.82,
+        959.48,
+        990.21,
+        920.95,
+        900.2,
+        820.53,
+        739.0,
+        874.66,
+        823.03,
+        829.5,
+        892.67,
+        893.19,
+        881.47,
+        877.57,
+        861.0,
+        868.52,
+        911.29,
+        949.83,
+        971.66,
+        1011.75,
+        940.76,
+        937.11,
+        974.33,
+        966.78,
+        910.43,
+        932.97,
+        938.4,
+        935.39,
+        932.86,
+        958.73,
+        933.44,
+        956.08,
+        958.16,
+        1016.59,
+        1000.26,
+        1027.77,
+        977.41,
+        975.26,
+        924.03,
+        927.6,
+        926.55,
+        977.5,
+        1015.8,
+        1043.96,
+        1096.16,
+        1071.88,
+        1080.53,
+        1082.28,
+        1053.98,
+        1065.08,
+        1065.11,
+        1097.39,
+        1074.89,
+        1063.96,
+        1045.56,
+        1088.0,
+        1035.84,
+        1029.0,
+        989.04,
+        953.19,
+        914.13,
+        931.24,
+        878.84,
+        904.9,
+        896.07,
+        913.67,
+        856.49,
+        877.55,
+        903.7,
+        928.76,
+        983.23,
+        934.27,
+        884.74,
+        833.59,
+        855.1,
+        795.23,
+        656.39,
+        690.0,
+        733.15,
+        725.11,
+        811.3,
+        798.44,
+        778.31,
+        719.02,
+        712.42,
+        705.27,
+        690.44,
+        594.51,
+        707.7,
+        642.0
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Micron Falls 7% as NVIDIA Pullback Partially Reverses Monday’s AI Chip Rally; SanDisk and SK Hynix Drop 6%",
+        "time": "2026-11-24T14:07:33+00:00",
+        "link": "https://247wallst.com/investing/2026/11/24/micron-falls-7-as-nvidia-pullback-partially-reverses-mondays-ai-chip-rally-sandisk-and-sk-hynix-drop-6/?.tsrc=rss",
+        "tone": -1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Micron Stock Soared on Monday. I'd Still Buy It, a Little at a Time.",
+        "time": "2026-11-24T13:43:01+00:00",
+        "link": "https://www.fool.com/investing/2026/11/24/micron-stock-soared-on-monday-i-d-still-buy-it-a-little-at-a-time/?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Why Is Micron Technology Stock Falling 6.4% Today?",
+        "time": "2026-11-24T13:37:41+00:00",
+        "link": "https://investorshub.advfn.com/market-news/article/40609/why-is-micron-technology-stock-falling-6-4-today?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Small Models Are “Very Bearish for RAM,” Says Emad Mostaque. Micron’s 2029 Estimates Are What’s at Stake",
+        "time": "2026-11-24T12:59:44+00:00",
+        "link": "https://www.tikr.com/blog/small-models-are-very-bearish-for-ram-says-emad-mostaque-microns-2029-estimates-are-whats-at-stake?ref=yahoofinance&tlnk=yf-261124-2wwpqprg&.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk.",
+        "time": "2026-11-24T12:43:00+00:00",
+        "link": "https://finance.yahoo.com/m/789905db-8cde-3db6-af4c-d5345b1680cd/micron-stock-is-counting-on-a.html?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "capital"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Kurssprung 19,1 % mit 2,3x Volumen ohne bekannte Meldung"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "19,1 %"
+      },
+      {
+        "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "707,83 $ vs. 693,48 $"
+      },
+      {
+        "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+        "ok": true,
+        "val": "695,80 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,3x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "23902 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Kurssprung 19,1 % mit 2,3x Volumen ohne bekannte Meldung"
+    ]
+  },
+  {
+    "action": "SCHLIESSEN",
+    "sym": "STRC",
+    "side": 1,
+    "shares": 10.740049938062688,
+    "price": 97.365,
+    "value": 193.70922408248515,
+    "pnl": -9.80281383733948,
+    "why": "maximale Haltedauer von 4 Std. erreicht",
+    "id": "2026-11-24T14:44:15+00:00:SCHLIESSEN:STRC",
+    "time": "2026-11-24T14:44:15+00:00",
+    "kind": "time",
+    "bot": "event",
+    "story": "Long-Position in STRC nach 22,2 Std. geschlossen: maximale Haltedauer von 4 Std. erreicht. Ergebnis -9,80 € (-5,1 % auf den Einsatz von 193,71 €, mit 5x Hebel). Einstieg 98,27 $, Ausstieg 97,36 $.",
+    "name": "Strategy Inc - Variable Rate Se",
+    "entry": 98.27,
+    "bought": "2026-11-23T16:35:13+00:00",
+    "leverage": 5,
+    "pnl_pct": -5.060581850849422,
+    "levels": {
+      "stop": 97.24477943461689,
+      "target": 100.32044113076621
+    },
+    "total": -1,
+    "scores": {
+      "Signale": 1,
+      "Trend": -1,
+      "Momentum": -1,
+      "Volumen": -1,
+      "Intraday": -1,
+      "News": 2
+    },
+    "reasons": {
+      "Signale": [
+        "Hon. Gilbert Cisneros kauft ($15,001 - $50,000)",
+        "Hon. Gilbert Cisneros verkauft ($50,001 - $100,000)"
+      ],
+      "Trend": [
+        "Kurs < SMA50",
+        "SMA50 > SMA200",
+        "ADX 34: starker Abwärtstrend"
+      ],
+      "Momentum": [
+        "MACD negativ",
+        "RSI 46 neutral"
+      ],
+      "Volumen": [
+        "Volumen 1.2x normal",
+        "OBV fällt (Distribution)",
+        "Chaikin Money Flow +0.13 (Geld fließt rein)",
+        "Verkaufsdruck: 1.8x mehr Volumen an Minus-Tagen"
+      ],
+      "Intraday": [
+        "Kurs < VWAP 97.44"
+      ],
+      "News": [
+        "10 Schlagzeilen: 3 positiv, 1 negativ"
+      ]
+    },
+    "ind": {
+      "price": 97.365,
+      "sma50": 98.9379997680664,
+      "sma200": 96.63014989013672,
+      "adx": 33.53462463938937,
+      "plus_di": 17.69211287443909,
+      "minus_di": 34.12064000524673,
+      "macd_hist": -0.35480719185526133,
+      "rsi": 45.73916527375237,
+      "stoch_k": 62.2845084904429,
+      "stoch_d": 48.690737380535204,
+      "bb_upper": 102.44094252292915,
+      "bb_lower": 95.08055732448297,
+      "bb_width": 7.452743325797099,
+      "roc20": -2.1358909532587123,
+      "dollar_vol": 233519729.17499998,
+      "rvol": 1.1904961442964983,
+      "obv_trend": -0.29068531246938056,
+      "cmf": 0.12875108656082399,
+      "buy_sell_ratio": 0.5435607382396108,
+      "high52": 100.41799926757812,
+      "low52": 71.25,
+      "vwap": 97.44204752882135,
+      "gap": -0.7121104332704298,
+      "atr": 1.3721272973379972,
+      "chg": -0.9511729631030752,
+      "spark": [
+        93.4,
+        96.85,
+        96.18,
+        95.81,
+        96.49,
+        94.8,
+        95.2,
+        91.79,
+        89.0,
+        88.59,
+        88.79,
+        87.31,
+        80.84,
+        75.69,
+        74.57,
+        83.67,
+        84.86,
+        87.46,
+        87.87,
+        88.58,
+        86.56,
+        86.17,
+        85.71,
+        87.48,
+        87.02,
+        88.21,
+        87.78,
+        85.42,
+        85.29,
+        87.1,
+        88.16,
+        87.45,
+        84.94,
+        86.89,
+        88.32,
+        88.22,
+        87.51,
+        89.5,
+        89.46,
+        92.32,
+        92.53,
+        94.1,
+        94.06,
+        95.01,
+        94.35,
+        95.32,
+        95.32,
+        95.77,
+        94.78,
+        94.36,
+        94.01,
+        95.31,
+        95.25,
+        96.18,
+        97.21,
+        97.15,
+        97.16,
+        98.0,
+        97.33,
+        97.1,
+        96.8,
+        97.07,
+        97.82,
+        97.75,
+        98.04,
+        97.85,
+        97.97,
+        98.64,
+        98.91,
+        97.14,
+        97.07,
+        98.13,
+        98.51,
+        98.78,
+        99.06,
+        98.91,
+        98.31,
+        98.54,
+        99.1,
+        99.56,
+        99.35,
+        99.5,
+        99.41,
+        99.48,
+        99.47,
+        99.43,
+        99.45,
+        99.65,
+        99.88,
+        99.9,
+        99.74,
+        99.53,
+        97.72,
+        98.62,
+        98.71,
+        99.2,
+        98.65,
+        99.36,
+        99.17,
+        99.49,
+        99.92,
+        99.99,
+        99.13,
+        99.28,
+        99.93,
+        99.98,
+        99.56,
+        99.84,
+        99.98,
+        99.89,
+        99.99,
+        99.96,
+        99.91,
+        99.12,
+        98.7,
+        96.11,
+        94.66,
+        93.6,
+        98.3,
+        97.36
+      ]
+    },
+    "headlines": [
+      {
+        "title": "Strategy Inc (MSTR) Is a Trending Stock: Facts to Know Before Betting on It",
+        "time": "2026-11-24T13:00:04+00:00",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-inc-mstr-trending-stock-130004989.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Strategy Sinks 18% in a Week as Bitcoin Breaks $60,000: Peter Schiff Warns It’s “About to Blow Up”",
+        "time": "2026-11-24T09:42:39+00:00",
+        "link": "https://www.tikr.com/blog/strategy-sinks-18-in-a-week-as-bitcoin-breaks-60000-peter-schiff-warns-its-about-to-blow-up?ref=yahoofinance&tlnk=yf-261124-mv9fmvx4&.tsrc=rss",
+        "tone": -2,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "LIVE – Bitcoin Overnight Rally Roundtripped: Saylor and Strategy Didn’t Flinch",
+        "time": "2026-11-24T06:54:19+00:00",
+        "link": "https://cryptonews.com/news/bitcoin-rally-roundtrip-saylor-strategy-buying-crypto-news/?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Strategy Boosts Preferred Buyback Budget to $4 Billion",
+        "time": "2026-11-23T16:30:48+00:00",
+        "link": "https://unchainedcrypto.com/strategy-boosts-preferred-buyback-budget-to-4-billion/?.tsrc=rss",
+        "tone": 2,
+        "source": "Yahoo Finance",
+        "tags": [
+          "capital"
+        ]
+      },
+      {
+        "title": "Strategy adds 457 bitcoin to balance sheet, buys back $212M of STRC",
+        "time": "2026-11-23T16:28:01+00:00",
+        "link": "https://finance.yahoo.com/video/strategy-adds-457-bitcoin-to-balance-sheet-buys-back-212m-of-strc-162801112.html?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Bitcoin Crash Leaves Strategy $12B and Bitmine $10B Underwater: How Much Worse Can It Get?",
+        "time": "2026-11-23T14:26:24+00:00",
+        "link": "https://www.coinspeaker.com/strategy-mstr-bitmine-stock-bitcoin-55k/?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Strategy Buys $30 Million Of Bitcoin As Price Hits Two-Year Low",
+        "time": "2026-11-23T14:04:00+00:00",
+        "link": "https://www.cryptoprowl.com/releases/strategy-buys-30-million-of-bitcoin-as-price-hits-two-year-low-8024?.tsrc=rss",
+        "tone": 0,
+        "source": "Yahoo Finance",
+        "tags": []
+      },
+      {
+        "title": "Michael Saylor’s Strategy Raises Preferred Stock Buyback Program To $4B, Spends 7 Times More On STRC Than Bitcoin",
+        "time": "2026-11-23T14:00:23+00:00",
+        "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/michael-saylor-strategy-raises-preferred-stock-buyback-program-to-4-b-spends-7-times-more-on-strc-than-bitcoin/cNbp27rR9jI?.tsrc=rss",
+        "tone": 1,
+        "source": "Yahoo Finance",
+        "tags": [
+          "capital"
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "rule": "Auslöser in den letzten 24 Std.",
+        "ok": true,
+        "val": "Kurssprung 5,0 % mit 2,1x Volumen ohne bekannte Meldung"
+      },
+      {
+        "rule": "Kursbewegung heute mindestens 4 %",
+        "ok": true,
+        "val": "5,0 %"
+      },
+      {
+        "rule": "Kurs über Tagesdurchschnitt (VWAP)",
+        "ok": true,
+        "val": "98,27 $ vs. 97,26 $"
+      },
+      {
+        "rule": "Ausbruch über das Hoch der ersten 30 Min.",
+        "ok": true,
+        "val": "97,66 $"
+      },
+      {
+        "rule": "Volumen mindestens 1,5x normal",
+        "ok": true,
+        "val": "2,1x"
+      },
+      {
+        "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
+        "ok": true,
+        "val": "228 Mio. $"
+      },
+      {
+        "rule": "Keine Warnmeldung der SEC",
+        "ok": true,
+        "val": "keine"
+      }
+    ],
+    "trigger": [
+      "Kurssprung 5,0 % mit 2,1x Volumen ohne bekannte Meldung"
+    ]
   }
 ]

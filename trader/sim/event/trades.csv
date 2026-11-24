@@ -89,3 +89,5 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-23T14:53:26+00:00,SCHLIESSEN,TSM,3.647103,365.30,1.0940,1217.81,-140.27,"Stop bei 337,81 $ erreicht",Short,5,214.95
 2026-11-23T16:35:13+00:00,ERÖFFNEN,MU,1.492563,707.83,1.0897,969.52,,"Long: Kurssprung 19,1 % mit 2,3x Volumen ohne bekannte Meldung",Long,5,193.90
 2026-11-23T16:35:13+00:00,ERÖFFNEN,STRC,10.740050,98.27,1.0897,968.55,,"Long: Kurssprung 5,0 % mit 2,1x Volumen ohne bekannte Meldung",Long,5,193.71
+2026-11-24T14:44:15+00:00,SCHLIESSEN,MU,1.492563,642.00,1.0982,872.54,-90.35,"Stop bei 658,01 $ erreicht",Long,5,193.90
+2026-11-24T14:44:15+00:00,SCHLIESSEN,STRC,10.740050,97.36,1.0982,952.20,-9.80,maximale Haltedauer von 4 Std. erreicht,Long,5,193.71
