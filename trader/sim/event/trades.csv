@@ -91,3 +91,7 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-23T16:35:13+00:00,ERÖFFNEN,STRC,10.740050,98.27,1.0897,968.55,,"Long: Kurssprung 5,0 % mit 2,1x Volumen ohne bekannte Meldung",Long,5,193.71
 2026-11-24T14:44:15+00:00,SCHLIESSEN,MU,1.492563,642.00,1.0982,872.54,-90.35,"Stop bei 658,01 $ erreicht",Long,5,193.90
 2026-11-24T14:44:15+00:00,SCHLIESSEN,STRC,10.740050,97.36,1.0982,952.20,-9.80,maximale Haltedauer von 4 Std. erreicht,Long,5,193.71
+2026-11-24T16:46:12+00:00,ERÖFFNEN,ADI,3.108940,306.13,1.0972,867.43,,"Short: Analog Devices, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht",Short,5,173.49
+2026-11-24T16:46:12+00:00,ERÖFFNEN,MU,1.523015,624.28,1.0972,866.56,,Short: Micron Falls 7% as NVIDIA Pullback Partially Reverses Monday’s AI Chip Rally; SanDisk and SK Hynix Drop 6%,Short,5,173.31
+2026-11-24T16:46:12+00:00,ERÖFFNEN,NVDA,6.303671,150.68,1.0972,865.69,,Short: A timeline of the affair scandal that sank Nvidia’s Jensen Huang,Short,5,173.14
+2026-11-24T16:46:12+00:00,ERÖFFNEN,ALKS,19.239402,49.32,1.0972,864.83,,"Long: Kurssprung 6,6 % mit 2,0x Volumen ohne bekannte Meldung",Long,5,172.97

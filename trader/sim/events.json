@@ -1,5 +1,45 @@
 [
   {
+    "id": "etrade:2026-11-24T16:46:12+00:00:ERÖFFNEN:ALKS",
+    "type": "trade",
+    "sym": "ALKS",
+    "time": "2026-11-24T16:46:12+00:00",
+    "seen": "2026-11-24T16:46:12+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long ALKS (5x)",
+    "detail": "Long: Kurssprung 6,6 % mit 2,0x Volumen ohne bekannte Meldung"
+  },
+  {
+    "id": "etrade:2026-11-24T16:46:12+00:00:ERÖFFNEN:NVDA",
+    "type": "trade",
+    "sym": "NVDA",
+    "time": "2026-11-24T16:46:12+00:00",
+    "seen": "2026-11-24T16:46:12+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short NVDA (5x)",
+    "detail": "Short: A timeline of the affair scandal that sank Nvidia’s Jensen Huang"
+  },
+  {
+    "id": "etrade:2026-11-24T16:46:12+00:00:ERÖFFNEN:MU",
+    "type": "trade",
+    "sym": "MU",
+    "time": "2026-11-24T16:46:12+00:00",
+    "seen": "2026-11-24T16:46:12+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short MU (5x)",
+    "detail": "Short: Micron Falls 7% as NVIDIA Pullback Partially Reverses Monday’s AI Chip Rally; SanDisk and SK Hynix Drop 6%"
+  },
+  {
+    "id": "etrade:2026-11-24T16:46:12+00:00:ERÖFFNEN:ADI",
+    "type": "trade",
+    "sym": "ADI",
+    "time": "2026-11-24T16:46:12+00:00",
+    "seen": "2026-11-24T16:46:12+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short ADI (5x)",
+    "detail": "Short: Analog Devices, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+  },
+  {
     "id": "etrade:2026-11-24T14:44:15+00:00:SCHLIESSEN:STRC",
     "type": "trade",
     "sym": "STRC",
@@ -20335,38 +20375,6 @@
     "type": "news",
     "sym": "V",
     "summary": "Cryptocurrency exchange MEXC has shutdown its Visa-linked (NYSE: $V) Global Card payment service three months after...",
-    "seen": "2026-11-18T15:30:36+00:00"
-  },
-  {
-    "title": "CVS Health Raised Its 2026 Outlook 3 Times, but Not Its Dividend",
-    "time": "2026-11-18T15:17:13+00:00",
-    "link": "https://247wallst.com/investing/2026/11/18/cvs-health-raised-its-2026-outlook-3-times-but-not-its-dividend/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "capital"
-    ],
-    "id": "news:CVS:rss:96925c3c-c27c-34a4-a795-388e852fd67b",
-    "type": "news",
-    "sym": "CVS",
-    "summary": "CVS has the cash, the earnings momentum, and a recovering Aetna, yet shareholders have collected the same payout for 12 straight quarters. Management has other priorities first, and a planned breakup could complicate the answer.",
-    "seen": "2026-11-18T15:30:36+00:00"
-  },
-  {
-    "title": "Under CEO Satya Nadella, Microsoft Stock Has Soared at a 23% Annualized Rate for 12 Years. Can the Tech Titan Keep Up the Pace?",
-    "time": "2026-11-18T15:17:01+00:00",
-    "link": "https://www.fool.com/investing/2026/11/18/under-ceo-satya-nadella-microsoft-stock-has-soared-at-a-23-annualized-rate-for-12-years-can-the-tech-titan-keep-up-the-pace/?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "people"
-    ],
-    "id": "news:MSFT:rss:a2363105-4b9a-3d03-b262-6559d5260daa",
-    "type": "news",
-    "sym": "MSFT",
-    "summary": "Microsoft's AI spending is generating solid results, but sustaining rapid growth gets progressively harder for multitrillion-dollar companies.",
     "seen": "2026-11-18T15:30:36+00:00"
   }
 ]
