@@ -1,22 +1,22 @@
 {
   "currency": "EUR",
   "type": "event",
-  "cash": 171.06089217408973,
+  "cash": 483.0221561078727,
   "start_cash": 1000.0,
   "leverage": 5,
   "started": "2026-11-11T17:37:18+00:00",
   "positions": {
     "ADI": {
       "side": -1,
-      "shares": 3.1089396102107942,
-      "entry": 306.13,
+      "shares": 2.8071700512325406,
+      "entry": 315.6,
       "entry_fx": 1.0972,
-      "margin_eur": 173.48517733755565,
-      "atr": 24.939136591244104,
+      "margin_eur": 161.49159098960808,
+      "atr": 24.93967064886129,
       "leverage": 5,
-      "stop": 324.8343524434331,
-      "target": 268.72129511313386,
-      "opened": "2026-11-24T16:46:12+00:00",
+      "stop": 334.304752986646,
+      "target": 278.1904940267081,
+      "opened": "2026-11-24T18:39:25+00:00",
       "name": "Analog Devices, Inc.",
       "trigger": [
         "Analog Devices, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
@@ -30,12 +30,12 @@
         {
           "rule": "Kursbewegung heute mindestens 4 %",
           "ok": true,
-          "val": "-19,2 %"
+          "val": "-16,7 %"
         },
         {
           "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
           "ok": true,
-          "val": "306,13 $ vs. 317,54 $"
+          "val": "315,60 $ vs. 316,08 $"
         },
         {
           "rule": "Ausbruch unter das Tief der ersten 30 Min.",
@@ -45,12 +45,12 @@
         {
           "rule": "Volumen mindestens 1,5x normal",
           "ok": true,
-          "val": "2,3x"
+          "val": "2,0x"
         },
         {
           "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
           "ok": true,
-          "val": "1682 Mio. $"
+          "val": "1734 Mio. $"
         },
         {
           "rule": "Keine Warnmeldung der SEC",
@@ -59,94 +59,41 @@
         }
       ]
     },
-    "MU": {
-      "side": -1,
-      "shares": 1.5230152226420144,
-      "entry": 624.28,
+    "BBIO": {
+      "side": 1,
+      "shares": 10.28060082821258,
+      "entry": 86.09,
       "entry_fx": 1.0972,
-      "margin_eur": 173.31169216021812,
-      "atr": 67.79245839157964,
+      "margin_eur": 161.33009939861847,
+      "atr": 2.9696632356121966,
       "leverage": 5,
-      "stop": 675.1243437936847,
-      "target": 522.5913124126305,
-      "opened": "2026-11-24T16:46:12+00:00",
-      "name": "Micron Technology, Inc.",
+      "stop": 83.86275257329086,
+      "target": 90.5444948534183,
+      "opened": "2026-11-24T18:39:25+00:00",
+      "name": "BridgeBio Pharma, Inc.",
       "trigger": [
-        "Micron Falls 7% as NVIDIA Pullback Partially Reverses Monday’s AI Chip Rally; SanDisk and SK Hynix Drop 6%"
+        "BBIO Stock Jumps 4% As FDA Approves Welgemda For Rare Muscle Disease Ahead Of Schedule"
       ],
       "checks": [
         {
           "rule": "Auslöser in den letzten 24 Std.",
           "ok": true,
-          "val": "Micron Falls 7% as NVIDIA Pullback Partially Reverses Monday’s AI Chip Rally; Sa"
+          "val": "BBIO Stock Jumps 4% As FDA Approves Welgemda For Rare Muscle Disease Ahead Of Sc"
         },
         {
           "rule": "Kursbewegung heute mindestens 4 %",
           "ok": true,
-          "val": "-11,8 %"
+          "val": "8,8 %"
         },
         {
-          "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
+          "rule": "Kurs über Tagesdurchschnitt (VWAP)",
           "ok": true,
-          "val": "624,28 $ vs. 641,98 $"
+          "val": "86,09 $ vs. 84,20 $"
         },
         {
-          "rule": "Ausbruch unter das Tief der ersten 30 Min.",
+          "rule": "Ausbruch über das Hoch der ersten 30 Min.",
           "ok": true,
-          "val": "640,50 $"
-        },
-        {
-          "rule": "Volumen mindestens 1,5x normal",
-          "ok": true,
-          "val": "1,6x"
-        },
-        {
-          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
-          "ok": true,
-          "val": "21927 Mio. $"
-        },
-        {
-          "rule": "Keine Warnmeldung der SEC",
-          "ok": true,
-          "val": "keine"
-        }
-      ]
-    },
-    "NVDA": {
-      "side": -1,
-      "shares": 6.303671059515301,
-      "entry": 150.68,
-      "entry_fx": 1.0972,
-      "margin_eur": 173.13838046805787,
-      "atr": 13.319421496037714,
-      "leverage": 5,
-      "stop": 160.6695661220283,
-      "target": 130.70086775594342,
-      "opened": "2026-11-24T16:46:12+00:00",
-      "name": "NVIDIA Corporation",
-      "trigger": [
-        "A timeline of the affair scandal that sank Nvidia’s Jensen Huang"
-      ],
-      "checks": [
-        {
-          "rule": "Auslöser in den letzten 24 Std.",
-          "ok": true,
-          "val": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang"
-        },
-        {
-          "rule": "Kursbewegung heute mindestens 4 %",
-          "ok": true,
-          "val": "-8,7 %"
-        },
-        {
-          "rule": "Kurs unter Tagesdurchschnitt (VWAP)",
-          "ok": true,
-          "val": "150,68 $ vs. 152,76 $"
-        },
-        {
-          "rule": "Ausbruch unter das Tief der ersten 30 Min.",
-          "ok": true,
-          "val": "153,70 $"
+          "val": "86,00 $"
         },
         {
           "rule": "Volumen mindestens 1,5x normal",
@@ -156,60 +103,7 @@
         {
           "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
           "ok": true,
-          "val": "48528 Mio. $"
-        },
-        {
-          "rule": "Keine Warnmeldung der SEC",
-          "ok": true,
-          "val": "keine"
-        }
-      ]
-    },
-    "ALKS": {
-      "side": 1,
-      "shares": 19.23940223220839,
-      "entry": 49.32,
-      "entry_fx": 1.0972,
-      "margin_eur": 172.96524208758984,
-      "atr": 1.8418663868669582,
-      "leverage": 5,
-      "stop": 47.93860020984978,
-      "target": 52.08279958030044,
-      "opened": "2026-11-24T16:46:12+00:00",
-      "name": "Alkermes plc",
-      "trigger": [
-        "Kurssprung 6,6 % mit 2,0x Volumen ohne bekannte Meldung"
-      ],
-      "checks": [
-        {
-          "rule": "Auslöser in den letzten 24 Std.",
-          "ok": true,
-          "val": "Kurssprung 6,6 % mit 2,0x Volumen ohne bekannte Meldung"
-        },
-        {
-          "rule": "Kursbewegung heute mindestens 4 %",
-          "ok": true,
-          "val": "6,6 %"
-        },
-        {
-          "rule": "Kurs über Tagesdurchschnitt (VWAP)",
-          "ok": true,
-          "val": "49,32 $ vs. 49,06 $"
-        },
-        {
-          "rule": "Ausbruch über das Hoch der ersten 30 Min.",
-          "ok": true,
-          "val": "49,18 $"
-        },
-        {
-          "rule": "Volumen mindestens 1,5x normal",
-          "ok": true,
-          "val": "2,0x"
-        },
-        {
-          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
-          "ok": true,
-          "val": "76 Mio. $"
+          "val": "245 Mio. $"
         },
         {
           "rule": "Keine Warnmeldung der SEC",

@@ -95,3 +95,9 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-24T16:46:12+00:00,ERÖFFNEN,MU,1.523015,624.28,1.0972,866.56,,Short: Micron Falls 7% as NVIDIA Pullback Partially Reverses Monday’s AI Chip Rally; SanDisk and SK Hynix Drop 6%,Short,5,173.31
 2026-11-24T16:46:12+00:00,ERÖFFNEN,NVDA,6.303671,150.68,1.0972,865.69,,Short: A timeline of the affair scandal that sank Nvidia’s Jensen Huang,Short,5,173.14
 2026-11-24T16:46:12+00:00,ERÖFFNEN,ALKS,19.239402,49.32,1.0972,864.83,,"Long: Kurssprung 6,6 % mit 2,0x Volumen ohne bekannte Meldung",Long,5,172.97
+2026-11-24T18:39:25+00:00,SCHLIESSEN,ADI,3.108940,315.60,1.0972,894.26,-27.73,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,173.49
+2026-11-24T18:39:25+00:00,SCHLIESSEN,MU,1.523015,636.23,1.0972,883.15,-17.47,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,173.31
+2026-11-24T18:39:25+00:00,SCHLIESSEN,NVDA,6.303671,153.35,1.0972,881.03,-16.22,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Short,5,173.14
+2026-11-24T18:39:25+00:00,SCHLIESSEN,ALKS,19.239402,49.65,1.0972,870.61,4.92,MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf,Long,5,172.97
+2026-11-24T18:39:25+00:00,ERÖFFNEN,ADI,2.807170,315.60,1.0972,807.46,,"Short: Analog Devices, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht",Short,5,161.49
+2026-11-24T18:39:25+00:00,ERÖFFNEN,BBIO,10.280601,86.09,1.0972,806.65,,Long: BBIO Stock Jumps 4% As FDA Approves Welgemda For Rare Muscle Disease Ahead Of Schedule,Long,5,161.33

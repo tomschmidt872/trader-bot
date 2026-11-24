@@ -1,5 +1,65 @@
 [
   {
+    "id": "etrade:2026-11-24T18:39:25+00:00:ERÖFFNEN:BBIO",
+    "type": "trade",
+    "sym": "BBIO",
+    "time": "2026-11-24T18:39:25+00:00",
+    "seen": "2026-11-24T18:39:25+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long BBIO (5x)",
+    "detail": "Long: BBIO Stock Jumps 4% As FDA Approves Welgemda For Rare Muscle Disease Ahead Of Schedule"
+  },
+  {
+    "id": "etrade:2026-11-24T18:39:25+00:00:ERÖFFNEN:ADI",
+    "type": "trade",
+    "sym": "ADI",
+    "time": "2026-11-24T18:39:25+00:00",
+    "seen": "2026-11-24T18:39:25+00:00",
+    "tone": -1,
+    "title": "Event-Bot: Eröffnen Short ADI (5x)",
+    "detail": "Short: Analog Devices, Inc.: SEC-Meldung 8-K – Quartalszahlen veröffentlicht"
+  },
+  {
+    "id": "etrade:2026-11-24T18:39:25+00:00:SCHLIESSEN:ALKS",
+    "type": "trade",
+    "sym": "ALKS",
+    "time": "2026-11-24T18:39:25+00:00",
+    "seen": "2026-11-24T18:39:25+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Long ALKS (5x) – 4,92 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-24T18:39:25+00:00:SCHLIESSEN:NVDA",
+    "type": "trade",
+    "sym": "NVDA",
+    "time": "2026-11-24T18:39:25+00:00",
+    "seen": "2026-11-24T18:39:25+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short NVDA (5x) – -16,22 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-24T18:39:25+00:00:SCHLIESSEN:MU",
+    "type": "trade",
+    "sym": "MU",
+    "time": "2026-11-24T18:39:25+00:00",
+    "seen": "2026-11-24T18:39:25+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short MU (5x) – -17,47 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
+    "id": "etrade:2026-11-24T18:39:25+00:00:SCHLIESSEN:ADI",
+    "type": "trade",
+    "sym": "ADI",
+    "time": "2026-11-24T18:39:25+00:00",
+    "seen": "2026-11-24T18:39:25+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short ADI (5x) – -27,73 €",
+    "detail": "MARGIN CALL: Eigenkapital unter 25 % des Engagements – Zwangsverkauf"
+  },
+  {
     "id": "etrade:2026-11-24T16:46:12+00:00:ERÖFFNEN:ALKS",
     "type": "trade",
     "sym": "ALKS",
@@ -20319,62 +20379,6 @@
     "type": "news",
     "sym": "DE",
     "summary": "Robotic, battery-powered and connected mowers are reshaping lawn care, fueled by urbanization, DIY landscaping, sustainability and residential adoptionDublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"Lawn Mowers - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. ",
-    "seen": "2026-11-18T15:30:36+00:00"
-  },
-  {
-    "title": "Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%.",
-    "time": "2026-11-18T15:19:34+00:00",
-    "link": "https://www.ibtimes.com/target-third-quarter-earnings-sales-tariff-refunds-3809907?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:TGT:rss:564bafd7-a97e-3b7b-99e0-308dc0221082",
-    "type": "news",
-    "sym": "TGT",
-    "summary": "Target reported $27.1 billion in quarterly sales and raised its annual outlook, with $301 million in tariff refunds adding 50 cents per share to its earnings.",
-    "seen": "2026-11-18T15:30:36+00:00"
-  },
-  {
-    "title": "American Honda, STIHL, Deere, Husqvarna, and Bosch Battle for Share in the $100+ Billion Garden Tools Market, 2026-2032: In-Depth Industry Assessment",
-    "time": "2026-11-18T15:19:00+00:00",
-    "link": "https://finance.yahoo.com/markets/articles/american-honda-stihl-deere-husqvarna-151900094.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:DE:rss:0f2203b9-b294-3645-a13b-1b084c9a5a9e",
-    "type": "news",
-    "sym": "DE",
-    "summary": "Dublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"Garden Tools - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global garden tools market was valued at US$95.1 billion in 2025 and is projected to reach US$133 billion by 2032, expanding at a compound annual ",
-    "seen": "2026-11-18T15:30:36+00:00"
-  },
-  {
-    "title": "Target Lifts Full-Year Sales Outlook as Third-Quarter Comparable Sales Top Views",
-    "time": "2026-11-18T15:18:06+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/target-lifts-full-sales-outlook-151806312.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TGT:rss:4e1d2f8d-4709-31a2-b952-685ce3c995d8",
-    "type": "news",
-    "sym": "TGT",
-    "summary": "Target (TGT) raised its full-year sales outlook Wednesday after fiscal third-quarter comparable sale",
-    "seen": "2026-11-18T15:30:36+00:00"
-  },
-  {
-    "title": "MEXC Shuts Down Crypto Card Three Months After Launch",
-    "time": "2026-11-18T15:18:00+00:00",
-    "link": "https://www.cryptoprowl.com/releases/mexc-shuts-down-crypto-card-three-months-after-launch-7961?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:V:rss:9553a260-f210-3456-bbda-542ddd9d7443",
-    "type": "news",
-    "sym": "V",
-    "summary": "Cryptocurrency exchange MEXC has shutdown its Visa-linked (NYSE: $V) Global Card payment service three months after...",
     "seen": "2026-11-18T15:30:36+00:00"
   }
 ]
