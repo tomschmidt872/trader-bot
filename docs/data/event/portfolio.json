@@ -1,64 +1,10 @@
 {
   "currency": "EUR",
   "type": "event",
-  "cash": 642.4302081449413,
+  "cash": 804.0321296056941,
   "start_cash": 1000.0,
   "leverage": 5,
   "started": "2026-11-11T17:37:18+00:00",
-  "positions": {
-    "RIG": {
-      "side": 1,
-      "shares": 175.6585781258571,
-      "entry": 5.03,
-      "entry_fx": 1.0989,
-      "margin_eur": 160.8085627396599,
-      "atr": 0.28161952038822663,
-      "leverage": 5,
-      "stop": 4.81878535970883,
-      "target": 5.45242928058234,
-      "opened": "2026-11-25T19:37:00+00:00",
-      "name": "Transocean Ltd (Switzerland)",
-      "trigger": [
-        "Kurssprung 4,1 % mit 2,2x Volumen ohne bekannte Meldung"
-      ],
-      "checks": [
-        {
-          "rule": "Auslöser in den letzten 24 Std.",
-          "ok": true,
-          "val": "Kurssprung 4,1 % mit 2,2x Volumen ohne bekannte Meldung"
-        },
-        {
-          "rule": "Kursbewegung heute mindestens 4 %",
-          "ok": true,
-          "val": "4,1 %"
-        },
-        {
-          "rule": "Kurs über Tagesdurchschnitt (VWAP)",
-          "ok": true,
-          "val": "5,03 $ vs. 4,93 $"
-        },
-        {
-          "rule": "Ausbruch über das Hoch der ersten 30 Min.",
-          "ok": true,
-          "val": "4,94 $"
-        },
-        {
-          "rule": "Volumen mindestens 1,5x normal",
-          "ok": true,
-          "val": "2,2x"
-        },
-        {
-          "rule": "Genug Handel (mind. 50 Mio. $ pro Tag)",
-          "ok": true,
-          "val": "207 Mio. $"
-        },
-        {
-          "rule": "Keine Warnmeldung der SEC",
-          "ok": true,
-          "val": "keine"
-        }
-      ]
-    }
-  },
+  "positions": {},
   "dead": false
 }

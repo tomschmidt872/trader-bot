@@ -1,5 +1,15 @@
 [
   {
+    "id": "etrade:2026-11-25T20:34:23+00:00:SCHLIESSEN:RIG",
+    "type": "trade",
+    "sym": "RIG",
+    "time": "2026-11-25T20:34:23+00:00",
+    "seen": "2026-11-25T20:34:23+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Long RIG (5x) – 0,79 €",
+    "detail": "Börsenschluss naht – keine Position über Nacht"
+  },
+  {
     "id": "etrade:2026-11-25T19:37:00+00:00:ERÖFFNEN:RIG",
     "type": "trade",
     "sym": "RIG",
@@ -19887,21 +19897,6 @@
     "type": "news",
     "sym": "SNOW",
     "summary": "Snowflake (SNOW) is expected to accelerate product revenue growth in fiscal Q3, with momentum set to",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Micron Keeps Sliding: Why RBC Still Sees 114% Upside",
-    "time": "2026-11-18T16:38:23+00:00",
-    "link": "https://www.tikr.com/blog/micron-keeps-sliding-why-rbc-still-sees-114-upside?ref=yahoofinance&tlnk=yf-261118-33vf3985&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst"
-    ],
-    "id": "news:MU:rss:3361f997-6934-3cd9-af8d-376f3ec89a3d",
-    "type": "news",
-    "sym": "MU",
-    "summary": "Key TakeawaysMicron shares have fallen 30% in three months. RBC Capital Markets reiterated its Outperform rating and $1,500 price target, 114% above today’s price.",
     "seen": "2026-11-18T19:35:48+00:00"
   }
 ]
