@@ -1,5 +1,15 @@
 [
   {
+    "id": "etrade:2026-11-25T19:37:00+00:00:ERÖFFNEN:RIG",
+    "type": "trade",
+    "sym": "RIG",
+    "time": "2026-11-25T19:37:00+00:00",
+    "seen": "2026-11-25T19:37:00+00:00",
+    "tone": 1,
+    "title": "Event-Bot: Eröffnen Long RIG (5x)",
+    "detail": "Long: Kurssprung 4,1 % mit 2,2x Volumen ohne bekannte Meldung"
+  },
+  {
     "id": "etrade:2026-11-25T14:48:46+00:00:SCHLIESSEN:BBIO",
     "type": "trade",
     "sym": "BBIO",
@@ -18,6 +28,17 @@
     "tone": 0,
     "title": "Event-Bot: Schliessen Short ADI (5x) – 6,98 €",
     "detail": "maximale Haltedauer von 4 Std. erreicht"
+  },
+  {
+    "id": "insider:0000070858-26-000609:P:2026-11-23:12.0",
+    "type": "insider",
+    "sym": "BAC",
+    "time": "2026-11-25T12:00:00+00:00",
+    "title": "BANK OF AMERICA CORP /DE/ (Großaktionär (10 %)) kauft 12 Aktien für 122 $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 10,16 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000609/",
+    "tone": 1,
+    "seen": "2026-11-25T19:32:17+00:00"
   },
   {
     "id": "etrade:2026-11-24T18:39:25+00:00:ERÖFFNEN:BBIO",
@@ -19881,19 +19902,6 @@
     "type": "news",
     "sym": "MU",
     "summary": "Key TakeawaysMicron shares have fallen 30% in three months. RBC Capital Markets reiterated its Outperform rating and $1,500 price target, 114% above today’s price.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Roamly Announces Insurance for Tesla Cybercab",
-    "time": "2026-11-18T16:36:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/roamly-announces-insurance-tesla-cybercab-163600608.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TSLA:rss:05297425-75c8-3fd1-818e-4c43781f9fd8",
-    "type": "news",
-    "sym": "TSLA",
-    "summary": "The insurance provider protecting the future of mobility launches Autonomous Vehicle (AV) Insurance built for the Tesla Cybercab. Roamly AV Insurance for Cybercab Roamly AV Insurance for Cybercab AUSTIN, Nov. 18, 2026 (GLOBE NEWSWIRE) -- Roamly, the specialty insurance provider of the Ride Platform,",
     "seen": "2026-11-18T19:35:48+00:00"
   }
 ]

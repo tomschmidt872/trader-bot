@@ -103,3 +103,4 @@ zeit,aktion,ticker,stück,kurs_usd,eurusd,wert_eur,gewinn_eur,grund,richtung,heb
 2026-11-24T18:39:25+00:00,ERÖFFNEN,BBIO,10.280601,86.09,1.0972,806.65,,Long: BBIO Stock Jumps 4% As FDA Approves Welgemda For Rare Muscle Disease Ahead Of Schedule,Long,5,161.33
 2026-11-25T14:48:46+00:00,SCHLIESSEN,ADI,2.807170,312.56,1.0952,801.15,6.98,maximale Haltedauer von 4 Std. erreicht,Short,5,161.49
 2026-11-25T14:48:46+00:00,SCHLIESSEN,BBIO,10.280601,85.24,1.0952,800.14,-8.78,maximale Haltedauer von 4 Std. erreicht,Long,5,161.33
+2026-11-25T19:37:00+00:00,ERÖFFNEN,RIG,175.658578,5.03,1.0989,804.04,,"Long: Kurssprung 4,1 % mit 2,2x Volumen ohne bekannte Meldung",Long,5,160.81

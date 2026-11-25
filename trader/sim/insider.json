@@ -708,7 +708,8 @@
   "0002115436-26-000044": "2026-11-25",
   "0002115436-26-000042": "2026-11-25",
   "0002115436-26-000040": "2026-11-25",
-  "0002115436-26-000038": "2026-11-25"
+  "0002115436-26-000038": "2026-11-25",
+  "0000070858-26-000609": "2026-11-25"
  },
  "tx": [
   {
@@ -9771,6 +9772,32 @@
    "role": "EVP and Group CEO-VZ Business",
    "filed": "2026-11-25",
    "url": "https://www.sec.gov/Archives/edgar/data/732712/000176058126000087/"
+  },
+  {
+   "code": "P",
+   "date": "2026-11-23",
+   "shares": 12.0,
+   "price": 10.1611,
+   "value": 121.9332,
+   "acc": "0000070858-26-000609",
+   "sym": "BAC",
+   "owner": "BANK OF AMERICA CORP /DE/",
+   "role": "Großaktionär (10 %)",
+   "filed": "2026-11-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000609/"
+  },
+  {
+   "code": "S",
+   "date": "2026-11-23",
+   "shares": 12.0,
+   "price": 10.06,
+   "value": 120.72,
+   "acc": "0000070858-26-000609",
+   "sym": "BAC",
+   "owner": "BANK OF AMERICA CORP /DE/",
+   "role": "Großaktionär (10 %)",
+   "filed": "2026-11-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000609/"
   }
  ],
  "people": [
