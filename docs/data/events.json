@@ -19895,33 +19895,5 @@
     "sym": "TSLA",
     "summary": "The insurance provider protecting the future of mobility launches Autonomous Vehicle (AV) Insurance built for the Tesla Cybercab. Roamly AV Insurance for Cybercab Roamly AV Insurance for Cybercab AUSTIN, Nov. 18, 2026 (GLOBE NEWSWIRE) -- Roamly, the specialty insurance provider of the Ride Platform,",
     "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "General Motors' 2027 Consensus EBIT Outlook Seen Largely De-Risked, RBC Says",
-    "time": "2026-11-18T16:35:39+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/general-motors-apos-2027-consensus-163539100.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:GM:rss:214b0359-cc4d-3ede-aae9-45863822d90c",
-    "type": "news",
-    "sym": "GM",
-    "summary": "General Motors' (GM) 2027 consensus EBIT outlook appears largely de-risked, with warranty benefits,",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "'Coming Soon': Elon Musk Hints Tesla Owners Could Put Their Model Ys to Work as Robotaxis Without Driving",
-    "time": "2026-11-18T16:30:07+00:00",
-    "link": "https://finance.yahoo.com/technology/articles/coming-soon-elon-musk-hints-163007575.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "people"
-    ],
-    "id": "news:TSLA:rss:a2a472d5-1d5e-3851-86b0-a2ba0d419b6f",
-    "type": "news",
-    "sym": "TSLA",
-    "summary": "Tesla Inc. CEO Elon Musk hinted on Monday that the EV giant could soon allow Model Y owners to deploy their vehicles in the company’s Robotaxi network amid the service’s expansion across multiple cities. Private Model Y Robotaxi ‘Coming Soon’?...",
-    "seen": "2026-11-18T19:35:48+00:00"
   }
 ]

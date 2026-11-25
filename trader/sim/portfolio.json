@@ -9,7 +9,7 @@
       "entry": 24.595,
       "entry_fx": 1.1148,
       "cost_eur": 75.0,
-      "peak": 26.16,
+      "peak": 26.295,
       "atr": 0.6185162498484841,
       "bought": "2026-10-30T14:29:59+00:00",
       "name": "The Kraft Heinz Company"
@@ -29,7 +29,7 @@
       "entry": 366.56,
       "entry_fx": 1.1148,
       "cost_eur": 75.0,
-      "peak": 381.425,
+      "peak": 381.91,
       "atr": 6.155742166834771,
       "bought": "2026-10-30T14:29:59+00:00",
       "name": "Chubb Limited"
@@ -65,7 +65,7 @@
       "name": "Berkshire Hathaway Inc. New"
     }
   },
-  "fx": 1.0952,
+  "fx": 1.0958,
   "sold": {
     "MRNA": "2026-11-12T19:32:42+00:00",
     "ACN": "2026-11-17T16:36:18+00:00",
