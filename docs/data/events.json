@@ -1,5 +1,25 @@
 [
   {
+    "id": "etrade:2026-11-25T14:48:46+00:00:SCHLIESSEN:BBIO",
+    "type": "trade",
+    "sym": "BBIO",
+    "time": "2026-11-25T14:48:46+00:00",
+    "seen": "2026-11-25T14:48:46+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Long BBIO (5x) – -8,78 €",
+    "detail": "maximale Haltedauer von 4 Std. erreicht"
+  },
+  {
+    "id": "etrade:2026-11-25T14:48:46+00:00:SCHLIESSEN:ADI",
+    "type": "trade",
+    "sym": "ADI",
+    "time": "2026-11-25T14:48:46+00:00",
+    "seen": "2026-11-25T14:48:46+00:00",
+    "tone": 0,
+    "title": "Event-Bot: Schliessen Short ADI (5x) – 6,98 €",
+    "detail": "maximale Haltedauer von 4 Std. erreicht"
+  },
+  {
     "id": "etrade:2026-11-24T18:39:25+00:00:ERÖFFNEN:BBIO",
     "type": "trade",
     "sym": "BBIO",
@@ -1942,6 +1962,369 @@
     "sym": "COST",
     "summary": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire.",
     "seen": "2026-11-24T14:38:12+00:00"
+  },
+  {
+    "id": "insider:0001374545-26-000012:S:2026-11-23:9074.0",
+    "type": "insider",
+    "sym": "AMZN",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Jassy Andrew R (Aufsichtsrat/Direktor, President and CEO) verkauft 9.074 Aktien für 2.3 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 257,18 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1018724/000137454526000012/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0002024813-26-000012:S:2026-11-23:5476.0",
+    "type": "insider",
+    "sym": "AMZN",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Garman Matthew S (CEO Amazon Web Services) verkauft 5.476 Aktien für 1.4 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 257,49 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1018724/000202481326000012/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001557979-26-000010:S:2026-11-24:9258.0",
+    "type": "insider",
+    "sym": "AMZN",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Zapolsky David (Senior Vice President) verkauft 9.258 Aktien für 2.3 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-24 zu 252,23 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1018724/000155797926000010/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001639902-26-000010:S:2026-11-23:6172.0",
+    "type": "insider",
+    "sym": "AMZN",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Olsavsky Brian T (Senior Vice President and CFO) verkauft 6.172 Aktien für 1.6 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 260,00 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1018724/000163990226000010/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001211060-26-000012:P:2026-11-20:213437.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "THIEL PETER (Aufsichtsrat/Direktor) kauft 213.437 Aktien für 30.5 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 142,91 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000121106026000012/",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001211060-26-000012:P:2026-11-20:341423.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "THIEL PETER (Aufsichtsrat/Direktor) kauft 341.423 Aktien für 49.1 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 143,68 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000121106026000012/",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001211060-26-000012:P:2026-11-20:295240.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "THIEL PETER (Aufsichtsrat/Direktor) kauft 295.240 Aktien für 42.7 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 144,61 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000121106026000012/",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823923-26-000017:S:2026-11-23:8243.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Taylor Ryan D. (See Remarks) verkauft 8.243 Aktien für 1.3 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 157,39 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182392326000017/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823923-26-000017:S:2026-11-23:11804.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Taylor Ryan D. (See Remarks) verkauft 11.804 Aktien für 1.9 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 158,19 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182392326000017/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001824159-26-000021:S:2026-11-23:10863.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Sankar Shyam (See Remarks) verkauft 10.863 Aktien für 1.7 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 157,39 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000021/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001824159-26-000021:S:2026-11-23:15555.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Sankar Shyam (See Remarks) verkauft 15.555 Aktien für 2.5 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 158,19 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182415926000021/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000013:S:2026-11-23:10448.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 10.448 Aktien für 1.6 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 156,32 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000013/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000013:S:2026-11-23:70251.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 70.251 Aktien für 11.1 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 157,39 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000013/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000013:S:2026-11-23:100597.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 100.597 Aktien für 15.9 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 158,19 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000013/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000013:S:2026-11-23:40020.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 40.020 Aktien für 6.4 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 159,20 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000013/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000013:S:2026-11-23:11164.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 11.164 Aktien für 1.8 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 160,15 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000013/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:11218.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 11.218 Aktien für 1.6 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 142,92 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:28159.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 28.159 Aktien für 4.0 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 143,71 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:13882.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 13.882 Aktien für 2.0 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 144,85 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:25096.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 25.096 Aktien für 3.7 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 145,98 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:20557.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 20.557 Aktien für 3.0 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 146,91 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:11453.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 11.453 Aktien für 1.7 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 147,87 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:16849.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 16.849 Aktien für 2.5 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 149,09 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:22876.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 22.876 Aktien für 3.4 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 149,96 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:7594.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 7.594 Aktien für 1.1 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 150,79 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:9200.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 9.200 Aktien für 1.3 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 143,75 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:13300.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 13.300 Aktien für 1.9 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 144,78 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:15272.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 15.272 Aktien für 2.2 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 145,96 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:16328.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 16.328 Aktien für 2.4 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 146,81 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823951-26-000011:S:2026-11-20:8980.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Karp Alexander C. (Aufsichtsrat/Direktor, See Remarks) verkauft 8.980 Aktien für 1.3 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-20 zu 147,83 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182395126000011/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823940-26-000014:S:2026-11-23:7088.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Glazer David A. (See Remarks) verkauft 7.088 Aktien für 1.1 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 157,39 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182394026000014/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "insider:0001823940-26-000014:S:2026-11-23:10150.0",
+    "type": "insider",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Glazer David A. (See Remarks) verkauft 10.150 Aktien für 1.6 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 158,19 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/1321655/000182394026000014/",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "person:0001211060-26-000012:P:2026-11-20",
+    "type": "person",
+    "sym": "PLTR",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Peter Thiel kauft 213.437 Aktien PLTR für 30.5 Mio. $",
+    "detail": "4 · eingereicht 2026-11-24",
+    "link": "https://www.sec.gov/Archives/edgar/data/1211060/000121106026000012/",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
   },
   {
     "title": "Insider Alert: Palantir CTO Dumps Nearly $48 Million in Stock",
@@ -8995,6 +9378,786 @@
     "link": "https://www.sec.gov/Archives/edgar/data/104169/000157929926000030/",
     "tone": -1,
     "seen": "2026-11-24T14:38:12+00:00"
+  },
+  {
+    "id": "congress:20035776:ABT:P:2026-09-08",
+    "type": "congress",
+    "sym": "ABT",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft ABT ($1,001 - $15,000), gehandelt am 2026-09-08",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:ACN:P:2026-02-13",
+    "type": "congress",
+    "sym": "ACN",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft ACN ($1,001 - $15,000), gehandelt am 2026-02-13",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:ACN:P:2026-01-21",
+    "type": "congress",
+    "sym": "ACN",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft ACN ($1,001 - $15,000), gehandelt am 2026-01-21",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:AMD:S:2026-10-14",
+    "type": "congress",
+    "sym": "AMD",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman verkauft AMD ($1,001 - $15,000), gehandelt am 2026-10-14",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:APD:S:2026-10-14",
+    "type": "congress",
+    "sym": "APD",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman verkauft APD ($1,001 - $15,000), gehandelt am 2026-10-14",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:APD:P:2026-04-29",
+    "type": "congress",
+    "sym": "APD",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft APD ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:ABNB:P:2026-04-29",
+    "type": "congress",
+    "sym": "ABNB",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft ABNB ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:ABNB:S:2026-07-02",
+    "type": "congress",
+    "sym": "ABNB",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman verkauft ABNB ($1,001 - $15,000), gehandelt am 2026-07-02",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:ABNB:P:2026-02-24",
+    "type": "congress",
+    "sym": "ABNB",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft ABNB ($1,001 - $15,000), gehandelt am 2026-02-24",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:GOOG:P:2026-07-02",
+    "type": "congress",
+    "sym": "GOOG",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft GOOG ($1,001 - $15,000), gehandelt am 2026-07-02",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:AME:P:2026-06-01",
+    "type": "congress",
+    "sym": "AME",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft AME ($1,001 - $15,000), gehandelt am 2026-06-01",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:ASML:P:2026-03-31",
+    "type": "congress",
+    "sym": "ASML",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft ASML ($1,001 - $15,000), gehandelt am 2026-03-31",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:AZN:P:2026-03-31",
+    "type": "congress",
+    "sym": "AZN",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft AZN ($1,001 - $15,000), gehandelt am 2026-03-31",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:T:P:2026-04-29",
+    "type": "congress",
+    "sym": "T",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft T ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:AVGO:P:2026-07-02",
+    "type": "congress",
+    "sym": "AVGO",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft AVGO ($1,001 - $15,000), gehandelt am 2026-07-02",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:SCHW:P:2026-04-29",
+    "type": "congress",
+    "sym": "SCHW",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft SCHW ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:CVX:P:2026-04-29",
+    "type": "congress",
+    "sym": "CVX",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft CVX ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:C:P:2026-04-29",
+    "type": "congress",
+    "sym": "C",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft C ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:C:P:2026-04-21",
+    "type": "congress",
+    "sym": "C",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft C ($1,001 - $15,000), gehandelt am 2026-04-21",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:COST:P:2026-01-14",
+    "type": "congress",
+    "sym": "COST",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft COST ($1,001 - $15,000), gehandelt am 2026-01-14",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:CRWD:S:2026-10-14",
+    "type": "congress",
+    "sym": "CRWD",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman verkauft CRWD ($1,001 - $15,000), gehandelt am 2026-10-14",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:CCI:P:2026-04-29",
+    "type": "congress",
+    "sym": "CCI",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft CCI ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:FANG:S:2026-07-02",
+    "type": "congress",
+    "sym": "FANG",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman verkauft FANG ($1,001 - $15,000), gehandelt am 2026-07-02",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:EME:P:2026-06-01",
+    "type": "congress",
+    "sym": "EME",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft EME ($1,001 - $15,000), gehandelt am 2026-06-01",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:FLEX:S:2026-10-20",
+    "type": "congress",
+    "sym": "FLEX",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman verkauft FLEX ($1,001 - $15,000), gehandelt am 2026-10-20",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:FLEX:P:2026-04-29",
+    "type": "congress",
+    "sym": "FLEX",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft FLEX ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:FLEX:P:2026-04-21",
+    "type": "congress",
+    "sym": "FLEX",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft FLEX ($1,001 - $15,000), gehandelt am 2026-04-21",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:GNRC:S:2026-06-01",
+    "type": "congress",
+    "sym": "GNRC",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman verkauft GNRC ($1,001 - $15,000), gehandelt am 2026-06-01",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:GIS:P:2026-08-27",
+    "type": "congress",
+    "sym": "GIS",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft GIS ($1,001 - $15,000), gehandelt am 2026-08-27",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:GIS:P:2026-05-06",
+    "type": "congress",
+    "sym": "GIS",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft GIS ($15,001 - $50,000), gehandelt am 2026-05-06",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:GIS:P:2026-08-26",
+    "type": "congress",
+    "sym": "GIS",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft GIS ($1,001 - $15,000), gehandelt am 2026-08-26",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:HD:P:2026-04-29",
+    "type": "congress",
+    "sym": "HD",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft HD ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:ISRG:P:2026-09-16",
+    "type": "congress",
+    "sym": "ISRG",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft ISRG ($1,001 - $15,000), gehandelt am 2026-09-16",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:KLAC:P:2026-04-21",
+    "type": "congress",
+    "sym": "KLAC",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft KLAC ($1,001 - $15,000), gehandelt am 2026-04-21",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:LOW:P:2026-04-29",
+    "type": "congress",
+    "sym": "LOW",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft LOW ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:LYB:P:2026-04-29",
+    "type": "congress",
+    "sym": "LYB",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft LYB ($15,001 - $50,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:LYB:S:2026-10-14",
+    "type": "congress",
+    "sym": "LYB",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman verkauft LYB ($1,001 - $15,000), gehandelt am 2026-10-14",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:MRSH:P:2026-08-27",
+    "type": "congress",
+    "sym": "MRSH",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft MRSH ($1,001 - $15,000), gehandelt am 2026-08-27",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:MRSH:P:2026-08-26",
+    "type": "congress",
+    "sym": "MRSH",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft MRSH ($1,001 - $15,000), gehandelt am 2026-08-26",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:MRVL:P:2026-09-16",
+    "type": "congress",
+    "sym": "MRVL",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft MRVL ($1,001 - $15,000), gehandelt am 2026-09-16",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:MCD:P:2026-08-27",
+    "type": "congress",
+    "sym": "MCD",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft MCD ($1,001 - $15,000), gehandelt am 2026-08-27",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:MCD:P:2026-08-26",
+    "type": "congress",
+    "sym": "MCD",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft MCD ($1,001 - $15,000), gehandelt am 2026-08-26",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:MU:P:2026-07-02",
+    "type": "congress",
+    "sym": "MU",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft MU ($1,001 - $15,000), gehandelt am 2026-07-02",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:MSFT:P:2026-04-29",
+    "type": "congress",
+    "sym": "MSFT",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft MSFT ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:NKE:P:2026-04-29",
+    "type": "congress",
+    "sym": "NKE",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft NKE ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:NVDA:P:2026-04-29",
+    "type": "congress",
+    "sym": "NVDA",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft NVDA ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:ORCL:P:2026-04-29",
+    "type": "congress",
+    "sym": "ORCL",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft ORCL ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:PLTR:P:2026-03-31",
+    "type": "congress",
+    "sym": "PLTR",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft PLTR ($1,001 - $15,000), gehandelt am 2026-03-31",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:PANW:S:2026-10-14",
+    "type": "congress",
+    "sym": "PANW",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman verkauft PANW ($1,001 - $15,000), gehandelt am 2026-10-14",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:PEP:P:2026-04-29",
+    "type": "congress",
+    "sym": "PEP",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft PEP ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:PFE:P:2026-04-29",
+    "type": "congress",
+    "sym": "PFE",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft PFE ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:PG:P:2026-04-29",
+    "type": "congress",
+    "sym": "PG",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft PG ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:PG:P:2026-02-17",
+    "type": "congress",
+    "sym": "PG",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft PG ($1,001 - $15,000), gehandelt am 2026-02-17",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:PG:P:2026-02-13",
+    "type": "congress",
+    "sym": "PG",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft PG ($1,001 - $15,000), gehandelt am 2026-02-13",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:PLD:P:2026-08-26",
+    "type": "congress",
+    "sym": "PLD",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft PLD ($1,001 - $15,000), gehandelt am 2026-08-26",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:PLD:P:2026-05-18",
+    "type": "congress",
+    "sym": "PLD",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft PLD ($1,001 - $15,000), gehandelt am 2026-05-18",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:PLD:P:2026-08-27",
+    "type": "congress",
+    "sym": "PLD",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft PLD ($1,001 - $15,000), gehandelt am 2026-08-27",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:PSA:P:2026-04-29",
+    "type": "congress",
+    "sym": "PSA",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft PSA ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:R:P:2026-06-01",
+    "type": "congress",
+    "sym": "R",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft R ($1,001 - $15,000), gehandelt am 2026-06-01",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:NOW:P:2026-10-20",
+    "type": "congress",
+    "sym": "NOW",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft NOW ($1,001 - $15,000), gehandelt am 2026-10-20",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:SHOP:P:2026-09-16",
+    "type": "congress",
+    "sym": "SHOP",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft SHOP ($1,001 - $15,000), gehandelt am 2026-09-16",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:SNOW:S:2026-10-14",
+    "type": "congress",
+    "sym": "SNOW",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman verkauft SNOW ($1,001 - $15,000), gehandelt am 2026-10-14",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:SNOW:P:2026-04-26",
+    "type": "congress",
+    "sym": "SNOW",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft SNOW ($1,001 - $15,000), gehandelt am 2026-04-26",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:SO:P:2026-04-29",
+    "type": "congress",
+    "sym": "SO",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft SO ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:TSM:P:2026-03-31",
+    "type": "congress",
+    "sym": "TSM",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft TSM ($1,001 - $15,000), gehandelt am 2026-03-31",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:TSM:P:2026-07-02",
+    "type": "congress",
+    "sym": "TSM",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft TSM ($1,001 - $15,000), gehandelt am 2026-07-02",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:TGT:P:2026-04-29",
+    "type": "congress",
+    "sym": "TGT",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft TGT ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:TSLA:P:2026-03-31",
+    "type": "congress",
+    "sym": "TSLA",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft TSLA ($1,001 - $15,000), gehandelt am 2026-03-31",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:TXN:P:2026-10-14",
+    "type": "congress",
+    "sym": "TXN",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft TXN ($1,001 - $15,000), gehandelt am 2026-10-14",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:UBER:S:2026-07-02",
+    "type": "congress",
+    "sym": "UBER",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman verkauft UBER ($1,001 - $15,000), gehandelt am 2026-07-02",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:UNP:P:2026-04-29",
+    "type": "congress",
+    "sym": "UNP",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft UNP ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:UPS:P:2026-02-13",
+    "type": "congress",
+    "sym": "UPS",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft UPS ($15,001 - $50,000), gehandelt am 2026-02-13",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:VZ:P:2026-04-29",
+    "type": "congress",
+    "sym": "VZ",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft VZ ($1,001 - $15,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:WM:P:2026-02-17",
+    "type": "congress",
+    "sym": "WM",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft WM ($1,001 - $15,000), gehandelt am 2026-02-17",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:WM:P:2026-01-21",
+    "type": "congress",
+    "sym": "WM",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft WM ($1,001 - $15,000), gehandelt am 2026-01-21",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:WM:P:2026-02-13",
+    "type": "congress",
+    "sym": "WM",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman kauft WM ($1,001 - $15,000), gehandelt am 2026-02-13",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": 1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:WMB:S:2026-04-29",
+    "type": "congress",
+    "sym": "WMB",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman verkauft WMB ($15,001 - $50,000), gehandelt am 2026-04-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20035776:XYL:S:2026-06-01",
+    "type": "congress",
+    "sym": "XYL",
+    "time": "2026-11-23T12:00:00+00:00",
+    "title": "Hon. Harriet Hageman verkauft XYL ($1,001 - $15,000), gehandelt am 2026-06-01",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf",
+    "tone": -1,
+    "seen": "2026-11-25T14:44:12+00:00"
   },
   {
     "title": "Intuit Stock: Is Wall Street Bullish or Bearish?",
@@ -18760,1539 +19923,5 @@
     "sym": "TSLA",
     "summary": "Tesla Inc. CEO Elon Musk hinted on Monday that the EV giant could soon allow Model Y owners to deploy their vehicles in the company’s Robotaxi network amid the service’s expansion across multiple cities. Private Model Y Robotaxi ‘Coming Soon’?...",
     "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Alaska Air Group Refreshes Atmos™ Rewards Visa® Business Card with Bank of America, Offering Higher Earn Rates and New Travel Benefits",
-    "time": "2026-11-18T16:30:00+00:00",
-    "link": "https://finance.yahoo.com/small-business/articles/alaska-air-group-refreshes-atmos-163000914.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:BAC:rss:55e44428-25f8-3135-9ce6-ba8da27bc402",
-    "type": "news",
-    "sym": "BAC",
-    "summary": "Alaska Air Group Inc. (NYSE: ALK) and Bank of America (NYSE: BAC) announced the refreshed Atmos™ Rewards Visa® Business Card. Available to new applicants today, the updated card earns a minimum of 10x redeemable points when companies book flights through Atmos for Business, providing business owners",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Ivanti Unlocks Governed AI Access to Organizations by Providing Trusted Context and Control for Customers' AI Clients of Choice through GitHub Copilot Adoption",
-    "time": "2026-11-18T16:30:00+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/ivanti-unlocks-governed-ai-access-163000030.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MSFT:rss:05ad64ce-8eac-3e96-80ed-ee2c8fdedef6",
-    "type": "news",
-    "sym": "MSFT",
-    "summary": "Ivanti, a pioneer in Autonomous Endpoint Management is helping IT and security teams move from reactive endpoint management to proactive, AI-powered operations by bringing together trusted endpoint data, intelligence, automation and governed autonomous action through Microsoft Copilot and GitHub Cop",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Lowe's Gross Margin Falls Despite Tariff Refund Benefit as Quarterly Earnings Top Estimates",
-    "time": "2026-11-18T16:26:41+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/lowe-apos-gross-margin-falls-162641979.html?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:LOW:rss:0caea5ee-69a5-3feb-b671-821595ba2243",
-    "type": "news",
-    "sym": "LOW",
-    "summary": "Lowe's (LOW) fiscal third-quarter gross margin declined year over year despite a benefit from tariff",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Kroger names new retail media chief",
-    "time": "2026-11-18T16:25:00+00:00",
-    "link": "https://www.grocerydive.com/news/kroger-precision-marketing-melanie-zimmermann-retail-media-grocery/875037/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:KR:rss:b714e704-fefa-3632-9f24-8dc5e577f4f6",
-    "type": "news",
-    "sym": "KR",
-    "summary": "Melanie Zimmermann joins Kroger Precision Marketing as the grocery chain reshapes its executive team amid a sweeping overhaul of its operations.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "TJX Soars 11% on Above-Plan Q3 as CEO Expects Holiday “Sales Momentum to Accelerate”",
-    "time": "2026-11-18T16:24:26+00:00",
-    "link": "https://www.tikr.com/blog/tjx-soars-11-on-above-plan-q3-as-ceo-expects-holiday-sales-momentum-to-accelerate?ref=yahoofinance&tlnk=yf-261118-qj6qjx3m&.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "people"
-    ],
-    "id": "news:TJX:rss:e3c00ab9-4a1c-3d55-9c10-60c3199978e4",
-    "type": "news",
-    "sym": "TJX",
-    "summary": "Key TakeawaysTJX shares jumped 11% after its third-quarter comparable sales rose 4% and its earnings beat the company’s own plan. Marmaxx, its biggest unit, grew comparable sales 2%, and CEO Ernie Herrman expects further improvement there this holiday season.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Nike Moves on Investor Day; Lowe's Reports Earnings | Stock Movers",
-    "time": "2026-11-18T16:23:53+00:00",
-    "link": "https://finance.yahoo.com/video/nike-moves-investor-day-lowes-162353192.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:HD:rss:69f2a1e6-d82d-34ac-b103-49ef59b0c2d0",
-    "type": "news",
-    "sym": "HD",
-    "summary": "On this episode of Stock Movers: - Lowe's (LOW) is also reporting its earnings this morning, a day after competitor Home Depot reported. Bloomberg Intelligence cites steady demand and data from Placer.ai which points to foot-traffic trends similar to the second quarter. - Nike (NKE) shares are movin",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Nike Moves on Investor Day; Lowe's Reports Earnings | Stock Movers",
-    "time": "2026-11-18T16:23:53+00:00",
-    "link": "https://finance.yahoo.com/video/nike-moves-investor-day-lowes-162353192.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:LOW:rss:69f2a1e6-d82d-34ac-b103-49ef59b0c2d0",
-    "type": "news",
-    "sym": "LOW",
-    "summary": "On this episode of Stock Movers: - Lowe's (LOW) is also reporting its earnings this morning, a day after competitor Home Depot reported. Bloomberg Intelligence cites steady demand and data from Placer.ai which points to foot-traffic trends similar to the second quarter. - Nike (NKE) shares are movin",
-    "seen": "2026-11-19T14:33:59+00:00"
-  },
-  {
-    "title": "Visa’s CMO on How AI Agents Are Transforming Shopping",
-    "time": "2026-11-18T16:22:00+00:00",
-    "link": "https://finance.yahoo.com/video/visa-cmo-ai-agents-transforming-162200732.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:V:rss:644cc61f-6ccd-3a17-b03c-9697b4c8dfe4",
-    "type": "news",
-    "sym": "V",
-    "summary": "Frank Cooper III, CMO of Visa, discusses how AI shopping agents are changing the way consumers discover and buy products, and what these technologies could mean for the shopping experience, in a conversation with Nat Ives at the WSJ Leadership Institute CMO Council Summit in New York.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Will Morgan Stanley's European ETF Launch Unlock New Growth Prospects?",
-    "time": "2026-11-18T16:22:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanleys-european-etf-launch-162200705.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MS:rss:8e0f36ef-d412-38f0-8855-6c80764297b1",
-    "type": "news",
-    "sym": "MS",
-    "summary": "MS' European active ETF platform launch expands its global reach, leveraging its U.S. platform and active strategy demand to drive AUM and fee growth.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Why Unity Software (U) Might be Well Poised for a Surge",
-    "time": "2026-11-18T16:20:01+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-unity-software-u-might-162001141.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:U:rss:8a6141d8-89bc-37da-8146-06a116ede8f5",
-    "type": "news",
-    "sym": "U",
-    "summary": "Unity Software Inc. (U) shares have started gaining and might continue moving higher in the near term, as indicated by solid earnings estimate revisions.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "DBS, Circle Partner to Expand Institutional Access to USDC Across Asia",
-    "time": "2026-11-18T16:18:00+00:00",
-    "link": "https://www.cryptoprowl.com/releases/dbs-circle-partner-to-expand-institutional-access-to-usdc-across-asia-7966?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CRCL:rss:b6fc02f8-e651-3761-965b-c67dea0f2907",
-    "type": "news",
-    "sym": "CRCL",
-    "summary": "DBS (SGX: D05), Southeast Asia’s largest bank by assets, has partnered with Circle (NYSE: $CRCL) to give inst...",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Why TJX Companies Stock Jumped 10% Today",
-    "time": "2026-11-18T16:17:02+00:00",
-    "link": "https://www.fool.com/investing/2026/11/18/why-tjx-companies-stock-jumped-10-today/?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TJX:rss:5b35d137-2f00-389d-b319-0c49e9824350",
-    "type": "news",
-    "sym": "TJX",
-    "summary": "Is TJX ready for the crucial holiday shopping season? Management expects sales momentum to accelerate despite unseasonably warm weather.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Cantor Sets the Record Straight on Nvidia: Positions Are Hedges in Connection with Client Transactions, Not Material Proprietary Investments",
-    "time": "2026-11-18T16:17:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cantor-sets-record-straight-nvidia-161700385.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NVDA:rss:89ed8115-f178-3e17-95c7-8f2349ad3dd9",
-    "type": "news",
-    "sym": "NVDA",
-    "summary": "NEW YORK, November 18, 2026--Cantor today issued the following statement regarding recent media reports about the firm’s Nvidia Corporation (NASDAQ: NVDA) holdings. While Cantor does not ordinarily respond to market speculation, due to the inaccuracy of these reports the firm is providing the follow",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Nvidia's Demand Continues to Outpace Supply, RBC Says",
-    "time": "2026-11-18T16:16:39+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-apos-demand-continues-outpace-161639782.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NVDA:rss:72cc8395-8bf7-33f4-8cab-d0d6a4d1b34e",
-    "type": "news",
-    "sym": "NVDA",
-    "summary": "Nvidia's (NVDA) data center demand continues to significantly outpace supply, supporting strong reve",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Ford Motor Sees Flat 2027 Earnings as Cost Cuts Offset $2 Billion Headwind",
-    "time": "2026-11-18T16:15:40+00:00",
-    "link": "https://www.marketbeat.com/instant-alerts/event-ford-motor-sees-flat-2027-earnings-as-cost-cuts-offset-2-billion-headwind-2026-11-18/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:F:rss:cb9b71d1-b8c9-3af1-9a72-590d3ab7f420",
-    "type": "news",
-    "sym": "F",
-    "summary": "Ford Motor (NYSE:F) expects adjusted earnings before interest and taxes to be roughly flat in 2027, with cost reductions, improved vehicle placement and growth in services helping offset inflation and other headwinds, Chief Financial Officer Sherry House said. Speaking at Barclays’ 17th Annual Glob",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "World Bank Group Explores USDC Payments With Citi And Circle",
-    "time": "2026-11-18T16:15:00+00:00",
-    "link": "https://www.cryptoprowl.com/releases/world-bank-group-explores-usdc-payments-with-citi-and-circle-7965?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CRCL:rss:e845a3ac-2bec-31dc-ac23-ecc71f605131",
-    "type": "news",
-    "sym": "CRCL",
-    "summary": "The World Bank Group is exploring the use of dollar-backed stablecoins to move development funds across borders, working with...",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "SpaceX Will Need Substantial Cell Tower Infrastructure To Build Mobile Network, Citi Says — Firm Sees Nearly 94% Upside In SPCX Stock",
-    "time": "2026-11-18T16:14:28+00:00",
-    "link": "https://stocktwits.com/news-articles/markets/equity/spacex-will-need-substantial-cell-tower-infrastructure-to-build-mobile-network-citi-says/cNbgIcHR9Lv?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:SPCX:rss:645ee8db-9023-352f-8735-c3410ef209cb",
-    "type": "news",
-    "sym": "SPCX",
-    "summary": "Citi said SpaceX would need a large number of macro cell sites, particularly in urban and suburban areas.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Accenture (ACN) Joins 40 Plus Organizations In AI Transparency Initiative",
-    "time": "2026-11-18T16:14:16+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/accenture-acn-joins-40-plus-161416063.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:ACN:rss:27bb967b-f6e8-3ebc-976b-b752963d6b37",
-    "type": "news",
-    "sym": "ACN",
-    "summary": "Accenture (NYSE:ACN) has joined Microsoft and more than 40 partners in a new AI Transparency Initiative focused on enterprise use. The multi company effort aims to create shared standards for AI security, transparency, and governance in corporate deployments. Accenture is contributing its enterprise",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Snowflake Poised to Beat Fiscal Q3 Product Revenue Guidance, Morgan Stanley Says",
-    "time": "2026-11-18T16:14:14+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-poised-beat-fiscal-q3-161414165.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:SNOW:rss:c2a6b468-fff6-3e95-b94c-2c13cf0afb25",
-    "type": "news",
-    "sym": "SNOW",
-    "summary": "Snowflake (SNOW) is expected to deliver another quarter of accelerating product revenue growth, with",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "The Deal Behind Deutsche Bank’s Upgrade of Installed Building Products (IBP)",
-    "time": "2026-11-18T16:13:15+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/deal-behind-deutsche-bank-upgrade-161315234.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "analyst",
-      "deal"
-    ],
-    "id": "news:IBP:rss:6717a7ff-26f1-38cc-89d0-bf6b1f66b0aa",
-    "type": "news",
-    "sym": "IBP",
-    "summary": "We just published a list of the Buy Alert: 10 Stocks Analysts Upgraded on Friday and Installed Building Products (NYSE:IBP) ranked 9th on this list. October’s Consumer Price Index rose 0.4% from September, above the 0.3% economists expected, while core prices rose 0.3% against a forecast of 0.2%, th",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Why Baird Upgraded Domino’s (DPZ) Without Needing Faster Order Growth",
-    "time": "2026-11-18T16:13:13+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-baird-upgraded-domino-dpz-161313880.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "analyst"
-    ],
-    "id": "news:DPZ:rss:5fe9b2d0-3d6e-37fc-8337-3afdd6618890",
-    "type": "news",
-    "sym": "DPZ",
-    "summary": "We just published a list of the Buy Alert: 10 Stocks Analysts Upgraded on Friday and Domino’s Pizza (NASDAQ:DPZ) ranked 8th on this list. October’s Consumer Price Index rose 0.4% from September, above the 0.3% economists expected, while core prices rose 0.3% against a forecast of 0.2%, the third str",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Valuation Fell 10% at Steris (STE). Why Jefferies Upgraded Anyway",
-    "time": "2026-11-18T16:12:38+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/valuation-fell-10-steris-ste-161238862.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "analyst"
-    ],
-    "id": "news:STE:rss:23843119-4ff3-355d-a680-336479a7727e",
-    "type": "news",
-    "sym": "STE",
-    "summary": "We just published a list of the Buy Alert: 10 Stocks Analysts Upgraded on Friday and Steris (NYSE:STE) ranked 6th on this list. October’s Consumer Price Index rose 0.4% from September, above the 0.3% economists expected, while core prices rose 0.3% against a forecast of 0.2%, the third straight mont",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Intel's Turnaround Takes Another Turn With Reported Job Cuts",
-    "time": "2026-11-18T16:12:13+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intels-turnaround-takes-another-turn-161213485.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:INTC:rss:a8e72089-ddb7-3021-ba1f-aaa630b1461d",
-    "type": "news",
-    "sym": "INTC",
-    "summary": "The next earnings report could clarify what the restructuring saves.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Dell Technologies (DELL) Could Be 46% Undervalued Following AI Factory Updates",
-    "time": "2026-11-18T16:12:12+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-could-46-161212529.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst"
-    ],
-    "id": "news:NVDA:rss:dc4676af-f0f2-3ffc-87ea-fbd8499f3d69",
-    "type": "news",
-    "sym": "NVDA",
-    "summary": "Dell Technologies (DELL) put its AI story back in focus with fresh upgrades to the Dell AI Factory with NVIDIA, adding new data tools, liquid cooled storage and large scale infrastructure management. Despite the AI Factory updates, Dell Technologies’ recent share price action has cooled. The 30-day ",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "What Could nVent Electric (NVT) New AI Infrastructure Push Change For Investors?",
-    "time": "2026-11-18T16:12:07+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/could-nvent-electric-nvt-ai-161207740.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "deal"
-    ],
-    "id": "news:AMD:rss:f7162be7-3bdc-385b-8e17-ae293f5c8094",
-    "type": "news",
-    "sym": "AMD",
-    "summary": "nVent Electric (NYSE:NVT) used SC26 to debut new liquid cooling and power distribution solutions for high-density data centers. Management highlighted OCP-compliant liquid-to-air cooling technology aimed at AI workloads, including rack-level solutions for dense server environments. nVent Electric sh",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Lowe’s (LOW) Is Up Since October 7. Here’s Why Stifel Downgraded",
-    "time": "2026-11-18T16:11:49+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/lowe-low-since-october-7-161149091.html?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst"
-    ],
-    "id": "news:LOW:rss:8a76d7b6-46d8-31ca-85b3-9a5201dac903",
-    "type": "news",
-    "sym": "LOW",
-    "summary": "We just published a list of the Sell Alert: 10 Stocks Analysts Downgraded on Friday and Lowe’s (NYSE:LOW) ranked 7th on this list. Wall Street closed a choppy week with the S&P 500 down 0.4% at 7,561.67 and the Nasdaq Composite off 0.91% at 25,136.27 on November 13. The Dow Jones Industrial Average ",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Why BofA Is Wary of Alexandria (ARE) Through 2027",
-    "time": "2026-11-18T16:11:38+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-bofa-wary-alexandria-2027-161138805.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst"
-    ],
-    "id": "news:ARE:rss:c0529326-850e-3e75-857d-dc5aec055065",
-    "type": "news",
-    "sym": "ARE",
-    "summary": "We just published a list of the Sell Alert: 10 Stocks Analysts Downgraded on Friday and Alexandria Real Estate Equities (NYSE:ARE) ranked 6th on this list. Wall Street closed a choppy week with the S&P 500 down 0.4% at 7,561.67 and the Nasdaq Composite off 0.91% at 25,136.27 on November 13. The Dow ",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Forget Nvidia: 5 Stocks Wall Street is Betting on Right Now",
-    "time": "2026-11-18T16:11:32+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/forget-nvidia-5-stocks-wall-161132558.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NVDA:rss:1fa42aef-3d46-32a5-ad54-346a06d4239e",
-    "type": "news",
-    "sym": "NVDA",
-    "summary": "Stocks ended a jumpy week with gains on paper and a sour finish. Reuters reported on November 13 that the S&P 500 fell 0.40% and the Nasdaq fell 0.91% on the day, yet the S&P 500 still rose 2.51% for the week, ending four straight weekly declines. The rebound did not survive the final session, […]",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Intel Makes Another Major Workforce Move as CEO Reshapes Chip Giant",
-    "time": "2026-11-18T16:11:30+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-makes-another-major-workforce-161130301.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "people"
-    ],
-    "id": "news:INTC:rss:0eb9245c-b209-37db-9eb5-73d5b3ed9add",
-    "type": "news",
-    "sym": "INTC",
-    "summary": "New layoffs reportedly target IT employees as Intel continues restructuring and reducing workforce costs.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "CF Industries Holdings (CF) Yazoo City Outage Now Stretches Into First Half Of 2027",
-    "time": "2026-11-18T16:11:29+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cf-industries-holdings-cf-yazoo-161129103.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "risk"
-    ],
-    "id": "news:CF:rss:1c858e1a-57e1-3445-b3ea-c2817418b8e7",
-    "type": "news",
-    "sym": "CF",
-    "summary": "CF Industries Holdings (NYSE:CF) reported a prolonged outage at its Yazoo City, Mississippi facility, with operations not expected to resume until the first half of 2027. The incident at the Yazoo City Complex is materially affecting production volumes and margins for the company’s UAN and AN produc",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "The Deal Behind Needham’s Call on Lumentum (LITE)",
-    "time": "2026-11-18T16:11:29+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/deal-behind-needham-call-lumentum-161129119.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "deal"
-    ],
-    "id": "news:LITE:rss:0ad71216-bad3-31e6-8642-aa85e85cd7e7",
-    "type": "news",
-    "sym": "LITE",
-    "summary": "We just published a list of the Forget Nvidia: 10 Stocks Wall Street is Betting on Right Now and Lumentum Holdings (NASDAQ:LITE) ranked 6th on this list. Stocks ended a jumpy week with gains on paper and a sour finish. Reuters reported on November 13 that the S&P 500 fell 0.40% and the Nasdaq fell [",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "How NHS Contract Extension Will Impact Palantir Stock Investors",
-    "time": "2026-11-18T16:10:07+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nhs-contract-extension-impact-palantir-161007139.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:PLTR:rss:c6311489-3588-3840-828e-22e010d86193",
-    "type": "news",
-    "sym": "PLTR",
-    "summary": "Palantir Technologies reported very strong Q3 2026 AI-driven revenue performance across U.S. commercial and government customers and secured an extension of its NHS Federated Data Platform contract in England through 2029, keeping it at the center of a large operational healthcare data program. Toge",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Five Below vs. Uber Technologies: Which Consumer Stock Is a Better Buy for 2027?",
-    "time": "2026-11-18T16:10:02+00:00",
-    "link": "https://www.fool.com/coverage/better-buy/2026/11/18/five-below-vs-uber-technologies-which-consumer-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:UBER:rss:1e58ae5b-9f69-32ad-8612-0cc1ef708404",
-    "type": "news",
-    "sym": "UBER",
-    "summary": "Five Below's aggressive store push and Uber's global platform scale pull in very different directions, and the valuation gap may tip the balance for 2027.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Verizon (VZ) Lands Global Race Day IoT Connectivity Deal With Major Motorsport Customer",
-    "time": "2026-11-18T16:09:10+00:00",
-    "link": "https://finance.yahoo.com/technology/articles/verizon-vz-lands-global-race-160910223.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "deal"
-    ],
-    "id": "news:VZ:rss:4851cbd8-7934-3a63-938c-2ee9e0ace357",
-    "type": "news",
-    "sym": "VZ",
-    "summary": "Verizon Communications (NYSE:VZ) has been selected by Bosch Motorsport to provide global IoT connectivity for race-day operations. Bosch Motorsport will use Verizon's Global IoT Orchestration and ThingSpace platform to manage data links across international race events. The agreement focuses on real",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Ed Yardeni Says AI Trade Is 'Alive And Well' After Nvidia Earnings — Sees AI ‘Panic’ Creating Buying Opportunities",
-    "time": "2026-11-18T16:08:28+00:00",
-    "link": "https://stocktwits.com/news-articles/markets/equity/ed-yardeni-says-ai-trade-is-alive-and-well-after-nvidia-earnings-sees-ai-panic-creating-buying-opportunities/cNbg4UER9LH?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:NVDA:rss:36ff9d25-6fed-308a-8150-90c9f1561d1e",
-    "type": "news",
-    "sym": "NVDA",
-    "summary": "Yardeni expects the AI investment boom to continue and expressed optimism about Anthropic's IPO, while welcoming greater discipline in AI financing.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "AMD Stock Climbs After Nvidia's Blowout Results",
-    "time": "2026-11-18T16:08:11+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-climbs-nvidias-blowout-160811584.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "deal"
-    ],
-    "id": "news:AMD:rss:6ef58e7d-2bb0-30bb-a57f-5f3b7a803cc0",
-    "type": "news",
-    "sym": "AMD",
-    "summary": "AMD Stock Jumps as Nvidia Eases AI Fears. A New Chip Deal Could Be Another Catalyst",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "NVIDIA: 3 Key Takeaways for Long-Term Investors",
-    "time": "2026-11-18T16:07:59+00:00",
-    "link": "https://www.fool.com/earnings/takeaways/2026/11/18/nvidia-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NVDA:rss:635534d8-d87c-3af3-8c0d-615a20fba109",
-    "type": "news",
-    "sym": "NVDA",
-    "summary": "Data center revenue doubled to $108 billion, but the leadership transition leaves it open who will steer that momentum forward.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Costco's Generator Sellouts Prompt a New Wall Street Stock Call",
-    "time": "2026-11-18T16:07:32+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/costcos-generator-sellouts-prompt-wall-160732178.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:COST:rss:e76a5906-7ceb-3afe-af83-2ef75d69193a",
-    "type": "news",
-    "sym": "COST",
-    "summary": "Shoppers stock up on essentials following major technology outages, driving demand for generators, food and emergency supplies.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call",
-    "time": "2026-11-18T16:07:13+00:00",
-    "link": "https://finance.yahoo.com/m/681ca0c6-76b1-321b-bdd4-bb83acc818fb/apple-stock-polishes-breakout.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AAPL:rss:681ca0c6-76b1-321b-bdd4-bb83acc818fb",
-    "type": "news",
-    "sym": "AAPL",
-    "summary": "Making the latest list of new buys by top funds, Apple stock shows strength while fellow AI names Nvidia and Meta flounder.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Deutsche Bank Names Top North America Telecom Services Stock",
-    "time": "2026-11-18T16:06:20+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-names-top-north-160620334.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMT:rss:5d8addc7-8fa6-3afd-9f0b-6cf27a4209a6",
-    "type": "news",
-    "sym": "AMT",
-    "summary": "Investing.com -- Deutsche Bank has initiated coverage on the U.S. tower sector with a neutral outlook for the next 12 months, naming American Tower as its top pick despite near-term headwinds facing the industry. The firm notes that while long-term fundamentals remain constructive, U.S. wireless net",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Bad News for Short Sellers: Nvidia Will “Return All Excess Free Cash Flow” at About 10x Earnings",
-    "time": "2026-11-18T16:05:01+00:00",
-    "link": "https://www.tikr.com/blog/bad-news-for-short-sellers-nvidia-will-return-all-excess-free-cash-flow-at-about-10x-earnings?ref=yahoofinance&tlnk=yf-261118-9mw26v79&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:NVDA:rss:66f6bf58-97f6-3171-9352-9ba6524b19c4",
-    "type": "news",
-    "sym": "NVDA",
-    "summary": "Key TakeawaysNVIDIA returned a record $28 billion to shareholders last quarter and now plans to return all its excess free cash flow, net of strategic uses. That’s bad news for short sellers, since NVIDIA is buying back stock at the lowest multiple on its five-year chart.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Anthropic prices blockbuster IPO as Nvidia scandal rattles AI stocks",
-    "time": "2026-11-18T16:04:54+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-set-price-ipo-key-030309911.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:NVDA:rss:d1ab69fc-fb57-31ea-80b2-3c241df725df",
-    "type": "news",
-    "sym": "NVDA",
-    "summary": "Anthropic prices its blockbuster IPO on Wednesday, giving ordinary investors their first direct bet on a stand-alone AI giant in a market rattled by the Nvidia spy scandal that toppled its chief executive.Wall Street is also digesting the US midterm election results, which gave control of both chamb",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Microsoft Corporation (MSFT) Surged on Strong Azure Growth and AI-related Demand",
-    "time": "2026-11-18T16:04:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-surged-strong-160400758.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MSFT:rss:6d91f5d2-7644-3e0d-aac1-e825757ce02e",
-    "type": "news",
-    "sym": "MSFT",
-    "summary": "Carillon Tower Advisers, an investment management company, released its third-quarter 2026 investor letter for the “Carillon Eagle Growth & Income Fund”. The letter can be downloaded here. In the third quarter, the S&P 500 Index rose 2.3%, its best quarter since the pandemic, driven by strong underl",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Microsoft Nears $500 Million Cloud Deal With ByteDance",
-    "time": "2026-11-18T16:03:19+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-nears-500-million-cloud-160319661.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "deal"
-    ],
-    "id": "news:MSFT:rss:56f1e1fe-f546-36aa-8bd5-6af4d968ba9d",
-    "type": "news",
-    "sym": "MSFT",
-    "summary": "The outcome could shape how other customers access models.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "McDonald’s vs Yum Brands: value and income versus growth and momentum",
-    "time": "2026-11-18T16:02:30+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-vs-yum-brands-value-160230770.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MCD:rss:98b084ae-d5b0-3ab2-b64d-c1eea0d94da2",
-    "type": "news",
-    "sym": "MCD",
-    "summary": "Investing.com -- McDonald’s Corporation (MCD) offers the stronger quality-and-income profile; Yum! Brands Inc (YUM) offers faster growth and stronger momentum. The valuation gap is now surprisingly narrow.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Nvidia rating cut by Summit Insights on post-Huang uncertainty",
-    "time": "2026-11-18T16:02:20+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-rating-cut-summit-insights-160220619.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "analyst"
-    ],
-    "id": "news:NVDA:rss:7c8932a8-1c9e-3682-b132-699d72936153",
-    "type": "news",
-    "sym": "NVDA",
-    "summary": "Investing.com -- Summit Insights Group downgraded Nvidia (NASDAQ: NVDA) from Buy to Hold in a note on Wednesday, telling investors that the chipmaker’s leadership change creates too much uncertainty, despite strong fiscal third-quarter results and an upbeat outlook.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Intel Stock Has a Bunch of New Problems -- Nvidia Just Added Another",
-    "time": "2026-11-18T16:01:04+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-bunch-problems-nvidia-160104911.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "legal"
-    ],
-    "id": "news:INTC:rss:c2191492-b322-3ec9-8612-cea7681458b7",
-    "type": "news",
-    "sym": "INTC",
-    "summary": "Intel Stock Is Facing a Tough Stretch. Nvidia's Move and a Lawsuit Add to the Pressure",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Here's Why Berkshire Hathaway B (BRK.B) is a Great Momentum Stock to Buy",
-    "time": "2026-11-18T16:00:02+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-berkshire-hathaway-b-160002253.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:BRK-B:rss:8ca37929-d12d-3f57-a7bb-b4601f5fc53d",
-    "type": "news",
-    "sym": "BRK-B",
-    "summary": "Does Berkshire Hathaway B (BRK.B) have what it takes to be a top stock pick for momentum investors? Let's find out.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Commvault Expands Microsoft Security Integration to Turn Threat Intelligence into Recovery Action",
-    "time": "2026-11-18T16:00:00+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/commvault-expands-microsoft-security-integration-160000543.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MSFT:rss:98f64041-69b2-3577-9984-bfdcb4c5e487",
-    "type": "news",
-    "sym": "MSFT",
-    "summary": "Commvault (NASDAQ: CVLT), delivering continuous recovery for the AI era, today announced a new integration between Commvault Threat Scan and Microsoft Defender for Endpoint. When Microsoft Defender detects a potential cyberattack, Commvault uses that information to identify which systems and backups",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Humanoids Summit Returns to Silicon Valley, Bringing Together Tesla Optimus and Global Leaders in Physical AI",
-    "time": "2026-11-18T16:00:00+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/humanoids-summit-returns-silicon-valley-160000468.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TSLA:rss:38039a58-a948-3075-bd6e-a0cd58a230f4",
-    "type": "news",
-    "sym": "TSLA",
-    "summary": "SAN MATEO, Calif., November 18, 2026--Humanoids Summit returns to Silicon Valley on December 1–2, 2026, moving to the larger San Mateo County Event Center for its most ambitious gathering yet. The sixth global edition and third Silicon Valley event will bring together leading humanoid robotics compa",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Dan Loeb Is Betting Big on Meta",
-    "time": "2026-11-18T15:59:31+00:00",
-    "link": "https://www.tikr.com/blog/dan-loeb-is-betting-big-on-meta?ref=yahoofinance&tlnk=yf-261118-fj4pw8g8&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:META:rss:46f37f50-4f90-38ed-afac-1b5d88b009f9",
-    "type": "news",
-    "sym": "META",
-    "summary": "Key TakeawaysDan Loeb’s Third Point made Meta Platforms its largest US stock holding in the third quarter, with a new stake worth $475 million at Sept. 30.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Lam Research Corporation (LRCX) Retreated Amid Cyclical Peak Concerns",
-    "time": "2026-11-18T15:59:11+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-lrcx-retreated-155911915.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:LRCX:rss:a7472b2c-e32f-37af-8d3e-0f0dddbb62b3",
-    "type": "news",
-    "sym": "LRCX",
-    "summary": "Carillon Tower Advisers, an investment management company, released its third-quarter 2026 investor letter for the “Carillon Eagle Growth & Income Fund”. The letter can be downloaded here. In the third quarter, the S&P 500 Index rose 2.3%, its best quarter since the pandemic, driven by strong underl",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "AST SpaceMobile Falls 5% After Jim Cramer Calls It ‘a Very Hard Stock to Own’; SpaceX Rises 3%, Rocket Lab Holds Steady",
-    "time": "2026-11-18T15:57:51+00:00",
-    "link": "https://247wallst.com/investing/2026/11/18/ast-spacemobile-falls-5-after-jim-cramer-calls-it-a-very-hard-stock-to-own-spacex-rises-3-rocket-lab-holds-steady/?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:SPCX:rss:2e17f3f1-b176-351b-850b-6c34547d1fee",
-    "type": "news",
-    "sym": "SPCX",
-    "summary": "A TV host's blunt verdict on one space stock lands just as rivals pull away in the opposite direction. What separates the battered name from the peers still climbing, and why does one critique cut so deep?",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "TJX Lifts Full-Year Outlook as Holiday Spending Seen Supporting Sales Momentum",
-    "time": "2026-11-18T15:56:49+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/tjx-lifts-full-outlook-holiday-155649961.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TJX:rss:fdd6c3c1-d508-3159-b03f-0a08328c72f1",
-    "type": "news",
-    "sym": "TJX",
-    "summary": "TJX (TJX) raised its full-year financial outlook on Wednesday as the off-price retailer reported a s",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Pfizer leaps into ‘in vivo’ CAR-T with latest China deal",
-    "time": "2026-11-18T15:55:00+00:00",
-    "link": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "deal"
-    ],
-    "id": "news:PFE:rss:c962dfbb-82dc-3c46-b4c3-dbb9dd373c03",
-    "type": "news",
-    "sym": "PFE",
-    "summary": "The potentially $2.6 billion collaboration puts Pfizer into a competitive race to treat autoimmune conditions by reprogramming cells inside the body.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Salesforce Stock Drops 9% as Fresh Layoff Reports Surface",
-    "time": "2026-11-18T15:53:04+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-drops-9-fresh-155304404.html?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:CRM:rss:d5af8f74-7138-3a2d-966e-cc36e45a5234",
-    "type": "news",
-    "sym": "CRM",
-    "summary": "The next earnings call could clarify what customers pay for.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Update: Market Chatter: Microsoft in Advanced Talks to Sell Cloud Services to ByteDance for $500 Million",
-    "time": "2026-11-18T15:53:02+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-advanced-talks-155302912.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:MSFT:rss:0f9e0571-c0c7-32bb-afca-84c7a4b2a738",
-    "type": "news",
-    "sym": "MSFT",
-    "summary": "(Updates with Microsoft's response in the fourth paragraph.) Microsoft (MSFT) is in advanced talk",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Coinbase Says AI Defenses Blocked $4.7M in Elon Musk Deepfake Crypto Scam",
-    "time": "2026-11-18T15:53:00+00:00",
-    "link": "https://www.cryptoprowl.com/releases/coinbase-says-ai-defenses-blocked-47m-in-elon-musk-deepfake-crypto-scam-7964?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:COIN:rss:d68b7300-45b6-30aa-a192-54812f9f883b",
-    "type": "news",
-    "sym": "COIN",
-    "summary": "Coinbase (NASDAQ: $COIN) said its artificial intelligence-powered fraud detection system prevented $4.7 million fro...",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Home Depot Q3 Earnings Call Flags Margin Pressure as Sales Grow",
-    "time": "2026-11-18T15:53:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-q3-earnings-call-155300529.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:HD:rss:c9e41f8c-ba09-3f50-af89-f73721ad3981",
-    "type": "news",
-    "sym": "HD",
-    "summary": "HD expects 4.5% sales growth in fiscal 2026 but faces margin pressure from shifting sales mix, acquisitions and softer home improvement demand.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "A $3.8 Billion Fund Dumps These 3 Stocks",
-    "time": "2026-11-18T15:52:38+00:00",
-    "link": "https://www.tikr.com/blog/a-3-8-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261118-848c25mv&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:LITE:rss:3a4e8e8a-5d10-3b72-87cf-6e793ed6ef13",
-    "type": "news",
-    "sym": "LITE",
-    "summary": "Key TakeawaysA firm that manages $3. 82 billion sold its whole stakes in Lumentum, Western Digital and Core Scientific in the third quarter, its latest 13F shows.",
-    "seen": "2026-11-19T14:33:59+00:00"
-  },
-  {
-    "title": "A $1.8 Billion Fund Dumps These 3 Stocks",
-    "time": "2026-11-18T15:52:08+00:00",
-    "link": "https://www.tikr.com/blog/a-1-8-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261118-r84g38vm&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:GOOG:rss:c71e7214-48ca-34a9-a058-281c75af090f",
-    "type": "news",
-    "sym": "GOOG",
-    "summary": "Key TakeawaysStyrax Capital, a firm that manages $1. 77 billion, sold all of its Alphabet, Keysight and TTM Technologies shares in the third quarter, its 13F filed Nov.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Goldman Sachs Sees One IPO Pick More Than Doubling",
-    "time": "2026-11-18T15:50:50+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sees-one-ipo-155050742.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:GS:rss:ed0142e2-2e2d-34ae-861f-dedc297abafe",
-    "type": "news",
-    "sym": "GS",
-    "summary": "The two picks depend on very different spending trends.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Bank of America Has a Message for Chip Stock Investors",
-    "time": "2026-11-18T15:50:39+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-message-chip-stock-155039102.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:BAC:rss:7d729585-e4b9-3f29-9373-f663b813cd0e",
-    "type": "news",
-    "sym": "BAC",
-    "summary": "The next test may come from big cloud budgets.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "NextEra-Dominion merger hearings kick off with focus on scope",
-    "time": "2026-11-18T15:50:14+00:00",
-    "link": "https://www.utilitydive.com/news/nextera-dominion-merger-virginia-scc-hearing/875046/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "deal"
-    ],
-    "id": "news:NEE:rss:fa2fe84b-db6c-3541-8bd2-ca531745c71f",
-    "type": "news",
-    "sym": "NEE",
-    "summary": "The case is “simply not the one to litigate the cost of service [or] who's paying their fair share ... including the data centers,” said Joe Reid, an attorney representing NextEra and Dominion, in his opening remarks to the Virginia State Corporation Commission.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Chevron (CVX) Positioned to Benefit From Sustained Higher Oil Prices",
-    "time": "2026-11-18T15:49:56+00:00",
-    "link": "https://finance.yahoo.com/energy/articles/chevron-cvx-positioned-benefit-sustained-154956699.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CVX:rss:41e82ca3-6c05-34b0-89b3-59ff28fa2f6b",
-    "type": "news",
-    "sym": "CVX",
-    "summary": "Carillon Tower Advisers, an investment management company, released its third-quarter 2026 investor letter for the “Carillon Eagle Growth & Income Fund”. The letter can be downloaded here. In the third quarter, the S&P 500 Index rose 2.3%, its best quarter since the pandemic, driven by strong underl",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Nvidia Vs. Broadcom: Which AI Stock Could Be The Better Investment Through 2028?",
-    "time": "2026-11-18T15:47:49+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-broadcom-ai-stock-154749701.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AVGO:rss:cf959ece-ceda-395f-8250-17d691f1e855",
-    "type": "news",
-    "sym": "AVGO",
-    "summary": "QUICK READ Nvidia and Broadcom are both benefiting from surging AI infrastructure spending, but they approach the market from different angles. Nvidia dominates AI accelerators, while Broadcom has built a major business around custom AI chips and networking technology. Sponsored:...",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Philip Morris vs. British American Tobacco: Which Tobacco Dividend Is Better for Retirees?",
-    "time": "2026-11-18T15:47:42+00:00",
-    "link": "https://247wallst.com/investing/2026/11/18/philip-morris-vs-british-american-tobacco-which-tobacco-dividend-is-better-for-retirees/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:PM:rss:b61d4d4b-c665-3b4b-babd-19695521c76e",
-    "type": "news",
-    "sym": "PM",
-    "summary": "One tobacco giant pays a fatter check today, while the other keeps raising its payout year after year. For retirees counting on income through decades of living expenses, the bigger yield may hide a trap worth examining before you buy.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "A $7.9 Billion Fund Dumps These 3 Stocks",
-    "time": "2026-11-18T15:47:20+00:00",
-    "link": "https://www.tikr.com/blog/a-7-9-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261118-g94wp9rm&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMD:rss:2ed9e998-ab10-3f1c-b6ae-9fbda6f63577",
-    "type": "news",
-    "sym": "AMD",
-    "summary": "Key TakeawaysMontanova Capital, which manages $7. 87 billion, had sold all of its Advanced Micro Devices, Arcus Biosciences and Ferguson Enterprises shares by Sept.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "A $12 Billion Fund Dumps These 3 Stocks",
-    "time": "2026-11-18T15:46:47+00:00",
-    "link": "https://www.tikr.com/blog/a-12-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261118-x79qh686&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:META:rss:e185b8bd-e5cb-374c-b202-288b74cf5ccf",
-    "type": "news",
-    "sym": "META",
-    "summary": "Key TakeawaysPointState Capital, a firm that manages $12 billion, sold all of its DoorDash, Block and Meta Platforms shares in the third quarter, its latest 13F shows. By Sept.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "A $2.2 Billion Fund Dumps These 3 Stocks",
-    "time": "2026-11-18T15:46:15+00:00",
-    "link": "https://www.tikr.com/blog/a-2-2-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261118-8pcwqp7q&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CVX:rss:3e341d2b-8f2b-3e95-b9d6-4293182d51eb",
-    "type": "news",
-    "sym": "CVX",
-    "summary": "Key TakeawaysDiscovery Capital Management, a $2. 2 billion fund, sold all of its Chevron, JPMorgan Chase and Grupo Financiero Galicia shares in the third quarter, according to its latest 13F.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Why Microsoft Could Surprise and Hit $4 Trillion Before NVIDIA Does",
-    "time": "2026-11-18T15:45:47+00:00",
-    "link": "https://247wallst.com/investing/2026/11/18/why-microsoft-could-surprise-and-hit-4-trillion-before-nvidia-does/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "people"
-    ],
-    "id": "news:MSFT:rss:694da9dd-1eaf-3dc9-8da8-56b61864d5df",
-    "type": "news",
-    "sym": "MSFT",
-    "summary": "Microsoft and NVIDIA sit about $10 billion apart in market value, yet one sells AI subscriptions while the other sells the chips behind them. A CEO vacuum, a giant backlog, and wildly different volatility will decide which one crosses the finish line first.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "How Visa is Marketing Through Frictionless Payment | WSJLI",
-    "time": "2026-11-18T15:42:00+00:00",
-    "link": "https://finance.yahoo.com/video/visa-marketing-frictionless-payment-wsjli-154200920.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:V:rss:98fceac1-90ed-317f-b063-d3436fd0a320",
-    "type": "news",
-    "sym": "V",
-    "summary": "Visa CMO Frank Cooper III shares the strategies behind maintaining brand recognition as payment transactions become increasingly frictionless, and discusses the company’s use of sports partnerships, video games and content creators as the main vehicles of driving reach.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "A $5.9 Billion Fund Dumps These 3 Stocks",
-    "time": "2026-11-18T15:41:12+00:00",
-    "link": "https://www.tikr.com/blog/a-5-9-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261118-qvc6gf2j&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:T:rss:41ecb85c-3a07-3498-9129-e58f27f9b448",
-    "type": "news",
-    "sym": "T",
-    "summary": "Key TakeawaysContour Asset Management, which manages $5. 92 billion, sold all of its AT&T, Rocket Companies and Formula One Group shares in the third quarter, according to its latest 13F.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "The 5 Best Stocks in Bill Ackman’s Portfolio",
-    "time": "2026-11-18T15:40:41+00:00",
-    "link": "https://www.tikr.com/blog/the-5-best-stocks-in-bill-ackmans-portfolio?ref=yahoofinance&tlnk=yf-261118-qmxg56h7&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:META:rss:865a1bc8-c85f-3ed9-8f03-92dcad0bd559",
-    "type": "news",
-    "sym": "META",
-    "summary": "Key TakeawaysBill Ackman’s Pershing Square filed its 13F for the third quarter on Nov. 16, and analysts’ average targets put Uber, Netflix, Meta, Brookfield and Amazon 26% to 43% above their last close.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "The 5 Best Stocks in Bill Ackman’s Portfolio",
-    "time": "2026-11-18T15:40:41+00:00",
-    "link": "https://www.tikr.com/blog/the-5-best-stocks-in-bill-ackmans-portfolio?ref=yahoofinance&tlnk=yf-261118-qmxg56h7&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:UBER:rss:865a1bc8-c85f-3ed9-8f03-92dcad0bd559",
-    "type": "news",
-    "sym": "UBER",
-    "summary": "Key TakeawaysBill Ackman’s Pershing Square filed its 13F for the third quarter on Nov. 16, and analysts’ average targets put Uber, Netflix, Meta, Brookfield and Amazon 26% to 43% above their last close.",
-    "seen": "2026-11-19T14:33:59+00:00"
-  },
-  {
-    "title": "Monday.com vs. ServiceNow: Which Technology Stock Is a Better Buy for 2027?",
-    "time": "2026-11-18T15:40:02+00:00",
-    "link": "https://www.fool.com/coverage/better-buy/2026/11/18/monday-com-vs-servicenow-which-technology-stock-is-a-better-buy-for-2027/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NOW:rss:10e6d80e-f6db-3bce-bc68-63dc18343e53",
-    "type": "news",
-    "sym": "NOW",
-    "summary": "Monday.com's AI work platform serves nearly 250,000 customers, but ServiceNow's cash flow and a 25x forward P/E make the valuation gap harder to ignore.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "OXY vs. DTM: Which Stock Is the Better Value Option?",
-    "time": "2026-11-18T15:40:02+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/oxy-vs-dtm-stock-better-154002812.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:OXY:rss:4dedafce-e7d2-3bef-b19a-1dca8948b8e4",
-    "type": "news",
-    "sym": "OXY",
-    "summary": "OXY vs. DTM: Which Stock Is the Better Value Option?",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "T.J. Maxx owner TJX gets the holiday lift it needed to shake off its summer slowdown",
-    "time": "2026-11-18T15:39:05+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/article/tj-maxx-owner-tjx-gets-the-holiday-lift-it-needed-to-shake-off-its-summer-slowdown-153905102.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "people"
-    ],
-    "id": "news:TJX:rss:5faf763f-04c3-46fd-a28f-71310a71ee7e",
-    "type": "news",
-    "sym": "TJX",
-    "summary": "TJX's CEO says stores are \"very strongly positioned\" for holiday gifting. The stock jumped following the company's Q3 earnings report.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Starbucks inventory availability at ‘all-time high’ with daily deliveries, CEO says",
-    "time": "2026-11-18T15:38:15+00:00",
-    "link": "https://www.supplychaindive.com/news/starbucks-inventory-availability-at-all-time-high-with-daily-deliveries/874923/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "people"
-    ],
-    "id": "news:SBUX:rss:bc120e79-6908-3108-be46-5cc29257376b",
-    "type": "news",
-    "sym": "SBUX",
-    "summary": "The coffeehouse chain has been testing a 24-hour operating model to improve inventory availability and build an overall faster, more reliable supply chain.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "id": "etrade:2026-11-18T15:38:02+00:00:ERÖFFNEN:UNH",
-    "type": "trade",
-    "sym": "UNH",
-    "time": "2026-11-18T15:38:02+00:00",
-    "seen": "2026-11-18T15:38:02+00:00",
-    "tone": -1,
-    "title": "Event-Bot: Eröffnen Short UNH (5x)",
-    "detail": "Short: Kurssprung -5,1 % mit 2,8x Volumen ohne bekannte Meldung"
-  },
-  {
-    "id": "etrade:2026-11-18T15:38:02+00:00:ERÖFFNEN:TGT",
-    "type": "trade",
-    "sym": "TGT",
-    "time": "2026-11-18T15:38:02+00:00",
-    "seen": "2026-11-18T15:38:02+00:00",
-    "tone": 1,
-    "title": "Event-Bot: Eröffnen Long TGT (5x)",
-    "detail": "Long: Target Gets $301 Million Tariff Refund Boost. Sales Jump 7.1%.; Target Beats Third-Quarter Earnings Estimates and Raises FY2026 Guidance Despite Premarket Share Decline; Target reports 7.1% rise in third-quarter sales as comparable sales jump 5.6%"
-  },
-  {
-    "id": "etrade:2026-11-18T15:38:02+00:00:ERÖFFNEN:TJX",
-    "type": "trade",
-    "sym": "TJX",
-    "time": "2026-11-18T15:38:02+00:00",
-    "seen": "2026-11-18T15:38:02+00:00",
-    "tone": 1,
-    "title": "Event-Bot: Eröffnen Long TJX (5x)",
-    "detail": "Long: TJX Shares Jump 6.08% as Third-Quarter Revenue Beats Estimates and FY2027 Outlook Strengthens; TJX Companies, Inc. (The): SEC-Meldung 8-K – Quartalszahlen veröffentlicht; TJX beats third-quarter sales estimates, with earnings in line"
-  },
-  {
-    "title": "Here’s Why Technology Spending Over the Next 3 Years Could Make Broadcom (AVGO) a Winner",
-    "time": "2026-11-18T15:38:01+00:00",
-    "link": "https://finance.yahoo.com/technology/articles/why-technology-spending-over-next-153801292.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AVGO:rss:96a617cd-2eb0-3349-a035-6e095a6c226c",
-    "type": "news",
-    "sym": "AVGO",
-    "summary": "We just published the list of the 10 Best Blue Chip Stocks to Buy and Hold for 3 Years and Broadcom Inc. (NASDAQ:AVGO) took the 6th spot on the list. Blue-chip stocks have traditionally appealed to long-term investors because of their established market positions, financial resources, and ability to",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Intuit to Report Q1 Earnings: Should You Buy, Sell or Hold the Stock?",
-    "time": "2026-11-18T15:38:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-report-q1-earnings-buy-153800339.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:INTU:rss:8b4bfdcf-f19d-3699-b5f7-a344556434b3",
-    "type": "news",
-    "sym": "INTU",
-    "summary": "Intuit readies for Q1 results with solid revenue guidance and cost savings, while QuickBooks growth, customer additions and competition remain key factors.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "AI in Clinical Trials - Global Strategic Business Report 2026: Secure Share of a US$4.1 Billion Market by 2032 with IQVIA, Microsoft, Tempus AI, and Saama",
-    "time": "2026-11-18T15:37:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/ai-clinical-trials-global-strategic-153700366.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "capital"
-    ],
-    "id": "news:MSFT:rss:7963c67e-c089-39e3-867c-a0c01b61934e",
-    "type": "news",
-    "sym": "MSFT",
-    "summary": "Dublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"AI in Clinical Trials - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global artificial intelligence (AI) in clinical trials market was valued at US$1.6 billion in 2025 and is projected to reach US$4.1 billi",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "AI in Clinical Trials - Global Strategic Business Report 2026: Secure Share of a US$4.1 Billion Market by 2032 with IQVIA, Microsoft, Tempus AI, and Saama",
-    "time": "2026-11-18T15:37:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/ai-clinical-trials-global-strategic-153700366.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "capital"
-    ],
-    "id": "news:TEM:rss:7963c67e-c089-39e3-867c-a0c01b61934e",
-    "type": "news",
-    "sym": "TEM",
-    "summary": "Dublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"AI in Clinical Trials - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global artificial intelligence (AI) in clinical trials market was valued at US$1.6 billion in 2025 and is projected to reach US$4.1 billi",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "AI-Based Clinical Trial Solutions for Patient Matching - Global Strategic Business Report 2026: Capitalize on 25% CAGR and $3.4B in Total Revenue by 2032 with Medidata, Microsoft, ConcertAI and Unlearn.ai",
-    "time": "2026-11-18T15:36:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/ai-based-clinical-trial-solutions-153600266.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "capital"
-    ],
-    "id": "news:MSFT:rss:7059e5c4-a3be-3fa8-8f91-080b85db1092",
-    "type": "news",
-    "sym": "MSFT",
-    "summary": "Dublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"AI-based Clinical Trial Solutions for Patient Matching - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global artificial intelligence-based clinical trial solutions for patient matching market was valued at ",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Here’s Why Palantir Cracked the Best Blue Chip Stocks to Buy and Hold for Three Years List",
-    "time": "2026-11-18T15:35:53+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-cracked-best-blue-153553108.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:PLTR:rss:357b7bbc-c571-31cb-9b64-8e26c7a4b9c4",
-    "type": "news",
-    "sym": "PLTR",
-    "summary": "We just published the list of the 10 Best Blue Chip Stocks to Buy and Hold for 3 Years and Palantir Technologies Inc. (NASDAQ:PLTR) took the 7th spot on the list. Blue-chip stocks have traditionally appealed to long-term investors because of their established market positions, financial resources, a",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "David Tepper and 25 Other Big Funds Bought Applied Materials Last Quarter, While 27 Sold. Who’s Right?",
-    "time": "2026-11-18T15:35:45+00:00",
-    "link": "https://www.tikr.com/blog/david-tepper-and-25-other-big-funds-bought-applied-materials-last-quarter-while-27-sold-whos-right?ref=yahoofinance&tlnk=yf-261118-85wvrqh2&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMAT:rss:e20156b6-802b-34f6-9057-40ab921e1ada",
-    "type": "news",
-    "sym": "AMAT",
-    "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the third quarter, 26 bought Applied Materials, including David Tepper’s Appaloosa, and 27 sold, including Brad Gerstner’s Altimeter. The selling went beyond Applied: Altimeter also sold all of its KLA shares, and 11 of the sellers added Int",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Costco Opens Larger Edmonton Warehouse, Creating More Than 80 Jobs as Canadian Expansion Continues",
-    "time": "2026-11-18T15:35:39+00:00",
-    "link": "https://investorshub.advfn.com/market-news/article/40316/costco-opens-larger-edmonton-warehouse-creating-more-than-80-jobs-as-canadian-expansion-continues?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:COST:rss:f7f732ad-2ba6-3bba-9d63-cd751e8c7b28",
-    "type": "news",
-    "sym": "COST",
-    "summary": "Costco Wholesale (NASDAQ:COST) opened a new warehouse in northeast Edmonton, Alberta, on November 18, 2026, relocating its longstanding 50th Street operation to a larger facility and creating more than 80 jobs. The new location at 285 Ebbers Boulevard NW replaces the warehouse at 13650 50 Street NW,",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "The 5 Best Stocks in Bill Gates’s Portfolio",
-    "time": "2026-11-18T15:35:10+00:00",
-    "link": "https://www.tikr.com/blog/the-5-best-stocks-in-bill-gatess-portfolio?ref=yahoofinance&tlnk=yf-261118-rgh9h85p&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst"
-    ],
-    "id": "news:CAT:rss:d9e99c36-843f-310c-92a7-19b1a4d297f6",
-    "type": "news",
-    "sym": "CAT",
-    "summary": "Key TakeawaysThe Gates Foundation Trust’s latest 13F shows it held Caterpillar, FedEx, Ecolab, Deere and Canadian National Railway without change last quarter, and together they make up more than half of its US stocks. They’re its five positions of 2% or more where analysts’ average price targets si",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Is Micron Next to Announce a Stock Split?",
-    "time": "2026-11-18T15:35:02+00:00",
-    "link": "https://www.fool.com/investing/2026/11/18/is-micron-next-to-announce-a-stock-split/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:MU:rss:067ef5b6-a297-3a1e-99cd-d8f0183a5e2b",
-    "type": "news",
-    "sym": "MU",
-    "summary": "The memory chip maker has not split its shares since 2000.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "The 5 Best Stocks in Berkshire Hathaway’s Portfolio",
-    "time": "2026-11-18T15:34:37+00:00",
-    "link": "https://www.tikr.com/blog/the-5-best-stocks-in-berkshire-hathaways-portfolio?ref=yahoofinance&tlnk=yf-261118-wgh3jp85&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AXP:rss:20737172-51ba-3f54-96c1-cfe02a0431e6",
-    "type": "news",
-    "sym": "AXP",
-    "summary": "Key TakeawaysBerkshire Hathaway’s latest 13F shows that, among its positions of 2% or more, analysts see the most upside in Alphabet, Bank of America, Occidental Petroleum and American Express. Analysts’ average targets sit 43% to 44% above Alphabet’s two share classes, 26% above Bank of America and",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Nvidia Is Well Off Its Highs, but Our Model Still Sees 29% Upside",
-    "time": "2026-11-18T15:33:48+00:00",
-    "link": "https://247wallst.com/investing/2026/11/18/nvidia-is-well-off-its-highs-but-our-model-still-sees-29-upside/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMD:rss:610079dd-b133-3f59-bb92-4f687b164260",
-    "type": "news",
-    "sym": "AMD",
-    "summary": "Nvidia just posted another record quarter, yet its stock sits near a 52-week low after Jensen Huang abruptly stepped down. One valuation gap against AMD and Broadcom explains why our model thinks the market is getting this wrong.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Nvidia Is Well Off Its Highs, but Our Model Still Sees 29% Upside",
-    "time": "2026-11-18T15:33:48+00:00",
-    "link": "https://247wallst.com/investing/2026/11/18/nvidia-is-well-off-its-highs-but-our-model-still-sees-29-upside/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AVGO:rss:610079dd-b133-3f59-bb92-4f687b164260",
-    "type": "news",
-    "sym": "AVGO",
-    "summary": "Nvidia just posted another record quarter, yet its stock sits near a 52-week low after Jensen Huang abruptly stepped down. One valuation gap against AMD and Broadcom explains why our model thinks the market is getting this wrong.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Real World Evidence (RWE) Solutions - Global Strategic Business Report 2026",
-    "time": "2026-11-18T15:33:00+00:00",
-    "link": "https://finance.yahoo.com/healthcare/articles/real-world-evidence-rwe-solutions-153300000.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:IBM:rss:b6feb949-243d-338c-99fe-c4ac80dc0190",
-    "type": "news",
-    "sym": "IBM",
-    "summary": "Capitalize on 15.3% CAGR & $14.2B in Total Revenue by 2032 with IQVIA, IBM, Aetion and CognizantDublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"Real World Evidence Solutions - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Real World Evidence Soluti",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Why You Should Buy and Hold Taiwan Semiconductor (TSM) for Three Years",
-    "time": "2026-11-18T15:32:19+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-buy-hold-taiwan-semiconductor-153219281.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TSM:rss:e1b5a66c-0f0d-3cd4-ad9c-2c8adac2e8a1",
-    "type": "news",
-    "sym": "TSM",
-    "summary": "We just published the list of the 10 Best Blue Chip Stocks to Buy and Hold for 3 Years and Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) took the 9th spot on the list. Blue-chip stocks have traditionally appealed to long-term investors because of their established market positions, f",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Lowe's Q3 Earnings Beat Estimates on Tariff Refunds & Pro Strength",
-    "time": "2026-11-18T15:32:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/lowes-q3-earnings-beat-estimates-153200502.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:LOW:rss:58c97fed-1f9f-32cb-ba1b-08c56c508ba6",
-    "type": "news",
-    "sym": "LOW",
-    "summary": "LOW's Q3 earnings top estimates on tariff refunds and Pro strength, while online growth lifts sales. Higher sales guidance comes amid margin pressures.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Here’s Why Amazon.com Is One of the Best Blue Chip Stocks to Buy and Hold for 3 Years",
-    "time": "2026-11-18T15:31:37+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-amazon-com-one-best-153137873.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AMZN:rss:1cd572f2-ae46-30e4-a89d-8d1f2270f251",
-    "type": "news",
-    "sym": "AMZN",
-    "summary": "We just published the list of the 10 Best Blue Chip Stocks to Buy and Hold for 3 Years, and Amazon.com, Inc. (NASDAQ:AMZN) took the 10th spot on the list. Blue-chip stocks have traditionally appealed to long-term investors because of their established market positions, financial resources, and abili",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "id": "trade:2026-11-18T15:30:36+00:00:VERKAUF:EL",
-    "type": "trade",
-    "sym": "EL",
-    "time": "2026-11-18T15:30:36+00:00",
-    "title": "Bot: VERKAUF EL für 69,14 €",
-    "detail": "Stop-Loss: Kurs 103.81 $ ist unter die Verlustgrenze von 104.27 $ gefallen",
-    "tone": -1,
-    "seen": "2026-11-18T15:30:36+00:00"
-  },
-  {
-    "id": "regime:2026-11-18T15:30:36+00:00",
-    "type": "market",
-    "sym": "MARKT",
-    "time": "2026-11-18T15:30:36+00:00",
-    "title": "Marktlage wechselt von vorsichtig zu risk-off",
-    "detail": "S&P 500 unter 200-Tage-Linie; VIX 24.6: nervös",
-    "tone": -1,
-    "seen": "2026-11-18T15:30:36+00:00"
-  },
-  {
-    "title": "Fifth Third Bancorp (FITB) Down 0.3% Since Last Earnings Report: Can It Rebound?",
-    "time": "2026-11-18T15:30:04+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-bancorp-fitb-down-153004939.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings"
-    ],
-    "id": "news:FITB:rss:1447d033-b2c2-3588-9b51-0a5bc2ea23a3",
-    "type": "news",
-    "sym": "FITB",
-    "summary": "Fifth Third Bancorp (FITB) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Cloud Computing Market to Reach USD 5,946.84 Billion by 2035 as AI Workloads Drive Record Growth and Backlogs at AWS, Microsoft, Google and Oracle",
-    "time": "2026-11-18T15:30:00+00:00",
-    "link": "https://finance.yahoo.com/technology/articles/cloud-computing-market-reach-usd-153000371.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:ORCL:rss:268381c1-14aa-34b0-bc5b-868fabe331db",
-    "type": "news",
-    "sym": "ORCL",
-    "summary": "U.S. Accounts for About 57% of a USD 1,106.28 Billion Market, SaaS Leads, PaaS and Hybrid Cloud Grow Fastest and Provider Backlogs Top USD 1.8 Trillion: Precedence Research Segment, Company and Buyer IntelligenceOttawa, Nov. 18, 2026 (GLOBE NEWSWIRE) -- The global cloud computing market is valued at",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "25 Big Funds Bought Taiwan Semiconductor Last Quarter. It’s Down 21% Since. Time to Buy?",
-    "time": "2026-11-18T15:29:45+00:00",
-    "link": "https://www.tikr.com/blog/25-big-funds-bought-taiwan-semiconductor-last-quarter-its-down-21-since-time-to-buy?ref=yahoofinance&tlnk=yf-261118-mcwqjc2h&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TSM:rss:b6cc2d84-df93-3907-b28e-27e835003262",
-    "type": "news",
-    "sym": "TSM",
-    "summary": "Key TakeawaysTwenty-five big funds opened or added to Taiwan Semiconductor positions in the quarter ended Sept. 30, and the stock has fallen 21% since.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Global Retail Logistics Market to Reach $612 Billion by 2032, Driven by E-Commerce, Automation and Omnichannel Expansion - A.P. Moller-Maersk, Deutsche Post, DSV, and FedEx Battle for Share",
-    "time": "2026-11-18T15:29:00+00:00",
-    "link": "https://finance.yahoo.com/real-estate/articles/global-retail-logistics-market-reach-152900903.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "earnings",
-      "capital"
-    ],
-    "id": "news:FDX:rss:9e3a490f-411c-38e5-b342-6546c5e41a9f",
-    "type": "news",
-    "sym": "FDX",
-    "summary": "Dublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"Retail Logistics - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global retail logistics market was valued at US$269.4 billion in 2025 and is projected to reach US$612 billion by 2032, expanding at a compoun",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "George Soros and 11 Other Big Funds Bought Datadog Last Quarter, While 13 Sold. Who’s Right?",
-    "time": "2026-11-18T15:28:45+00:00",
-    "link": "https://www.tikr.com/blog/george-soros-and-11-other-big-funds-bought-datadog-last-quarter-while-13-sold-whos-right?ref=yahoofinance&tlnk=yf-261118-qmxxxxv6&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:DDOG:rss:0111d1bb-71ec-30b5-93e9-09c13de234a9",
-    "type": "news",
-    "sym": "DDOG",
-    "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 12 bought Datadog, led by GQG Partners and George Soros’ fund, and 13 sold, led by Strategy Capital and RDST Capital.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Nike Promises $12 Billion in Dividends as Its Stock Hits $35",
-    "time": "2026-11-18T15:28:24+00:00",
-    "link": "https://247wallst.com/investing/2026/11/18/nike-promises-12-billion-in-dividends-as-its-stock-hits-35/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NKE:rss:6ba89a0a-7b29-3118-b775-4958adb7424a",
-    "type": "news",
-    "sym": "NKE",
-    "summary": "Nike's investor day opened with a rally that vanished within hours, just as management unveiled a five-year payout plan. Why did investors bolt, and what does the balance sheet have to carry before profits return?",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Brad Gerstner Is Betting Big on Meta",
-    "time": "2026-11-18T15:28:15+00:00",
-    "link": "https://www.tikr.com/blog/brad-gerstner-is-betting-big-on-meta?ref=yahoofinance&tlnk=yf-261118-355v5gxf&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:META:rss:7a959702-06b2-3a84-b168-06fc9d5d8131",
-    "type": "news",
-    "sym": "META",
-    "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital added 25% to its Meta stake in the third quarter, to 1. 70 million shares worth $1.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Nvidia's next CEO should be hired internally, Jeff Bezos advises",
-    "time": "2026-11-18T15:28:07+00:00",
-    "link": "https://finance.yahoo.com/video/nvidias-next-ceo-should-be-hired-internally-jeff-bezos-advises-152807796.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "people"
-    ],
-    "id": "news:AMZN:rss:cb1ecc6b-4a9e-43c9-b12c-f3a77d0f5524",
-    "type": "news",
-    "sym": "AMZN",
-    "summary": "Amazon (AMZN) founder Jeff Bezos shares remarks on whether Nvidia (NVDA) should stick to hiring an internal candidate over someone from outside the company since Jensen Huang's swift exit as CEO.",
-    "seen": "2026-11-18T15:30:36+00:00"
-  },
-  {
-    "title": "Target Posts Best Sales Gains In 5 Years",
-    "time": "2026-11-18T15:26:58+00:00",
-    "link": "https://www.mediapost.com/publications/article/419520/target-posts-best-sales-gains-in-5-years.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TGT:rss:14764171-aa26-3693-a168-6ed2e5b0e9f3",
-    "type": "news",
-    "sym": "TGT",
-    "summary": "Sales gain came in most categories -- but apparel was still a major weakness.",
-    "seen": "2026-11-18T16:38:16+00:00"
-  },
-  {
-    "title": "Warren Buffett’s Successor Greg Abel Is Doubling Down On His $2 Billion Bet That The American Dream Is Not Dead",
-    "time": "2026-11-18T15:26:43+00:00",
-    "link": "https://247wallst.com/investing/2026/11/18/warren-buffetts-successor-greg-abel-is-doubling-down-on-his-2-billion-bet-that-the-american-dream-is-not-dead/?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "people"
-    ],
-    "id": "news:BRK-B:rss:b6ca654f-c356-3ed4-aed5-38dccb6201c5",
-    "type": "news",
-    "sym": "BRK-B",
-    "summary": "Mortgage rates top 7%, buyers can't qualify, and homebuilder margins are shrinking. Yet Berkshire keeps buying builders, and its new CEO admits the road will be bumpy. What does he see that the housing market doesn't?",
-    "seen": "2026-11-18T16:38:16+00:00"
   }
 ]
