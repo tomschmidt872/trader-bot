@@ -1,15 +1,13 @@
 {
-  "checked": "2026-11-25T22:32:35+00:00",
+  "checked": "2026-11-26T14:41:31+00:00",
   "market": {
-    "now_new_york": "2026-11-25 17:32",
-    "date": "2026-11-25",
-    "weekday": "Wednesday",
+    "now_new_york": "2026-11-26 09:41",
+    "date": "2026-11-26",
+    "weekday": "Thursday",
     "calendar_known": true,
     "open": false,
-    "reason": "after the close",
+    "reason": "NYSE holiday: Thanksgiving Day",
     "early_close": null,
-    "opens": "09:30",
-    "closes": "16:00",
     "next_open": "2026-11-27 09:30"
   },
   "forced": false
