@@ -1,5 +1,15 @@
 [
   {
+    "id": "regime:2026-11-27T17:31:07+00:00",
+    "type": "market",
+    "sym": "MARKT",
+    "time": "2026-11-27T17:31:07+00:00",
+    "title": "Marktlage wechselt von vorsichtig zu risk-off",
+    "detail": "S&P 500 unter 200-Tage-Linie; VIX 24.8: nervös",
+    "tone": -1,
+    "seen": "2026-11-27T17:31:07+00:00"
+  },
+  {
     "id": "regime:2026-11-27T15:38:42+00:00",
     "type": "market",
     "sym": "MARKT",
@@ -19812,19 +19822,6 @@
     "type": "news",
     "sym": "CRCL",
     "summary": "Scott Melker outlines what you should know about the World Bank's recent commitment with Citi (C) and Circle (CRCL) to explore the development of a regulated stablecoin system.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "TJ Maxx Parent TJX Raises Annual Sales Outlook as It Bets on Strong Holiday Demand",
-    "time": "2026-11-18T16:59:09+00:00",
-    "link": "https://www.ibtimes.com/tjx-raises-sales-outlook-off-price-shopping-3809911?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:TJX:rss:8f29be56-6726-3036-a861-ab9a8b3b1507",
-    "type": "news",
-    "sym": "TJX",
-    "summary": "The retailer expects comparable sales to grow 4% in fiscal 2027 after third-quarter revenue topped Wall Street expectations.",
     "seen": "2026-11-18T19:35:48+00:00"
   }
 ]
