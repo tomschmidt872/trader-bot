@@ -1,5 +1,15 @@
 [
   {
+    "id": "regime:2026-11-27T15:38:42+00:00",
+    "type": "market",
+    "sym": "MARKT",
+    "time": "2026-11-27T15:38:42+00:00",
+    "title": "Marktlage wechselt von risk-off zu vorsichtig",
+    "detail": "VIX 26.4: nervös",
+    "tone": -1,
+    "seen": "2026-11-27T15:38:42+00:00"
+  },
+  {
     "id": "etrade:2026-11-25T20:34:23+00:00:SCHLIESSEN:RIG",
     "type": "trade",
     "sym": "RIG",
@@ -19815,19 +19825,6 @@
     "type": "news",
     "sym": "TJX",
     "summary": "The retailer expects comparable sales to grow 4% in fiscal 2027 after third-quarter revenue topped Wall Street expectations.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Visa vs. American Express: Which Stock Has More Growth Potential?",
-    "time": "2026-11-18T16:59:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/visa-vs-american-express-stock-165900779.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:AXP:rss:a5a2988e-3094-3945-bbf0-8a80054321f3",
-    "type": "news",
-    "sym": "AXP",
-    "summary": "V's strong transaction growth, expanding value-added services and money movement capabilities give it an edge over AXP.",
     "seen": "2026-11-18T19:35:48+00:00"
   }
 ]
