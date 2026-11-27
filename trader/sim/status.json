@@ -1,12 +1,12 @@
 {
-  "checked": "2026-11-27T17:31:07+00:00",
+  "checked": "2026-11-27T18:24:02+00:00",
   "market": {
-    "now_new_york": "2026-11-27 12:31",
+    "now_new_york": "2026-11-27 13:24",
     "date": "2026-11-27",
     "weekday": "Friday",
     "calendar_known": true,
-    "open": true,
-    "reason": "regular session",
+    "open": false,
+    "reason": "after the close",
     "early_close": "day after Thanksgiving",
     "opens": "09:30",
     "closes": "13:00",
