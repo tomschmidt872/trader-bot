@@ -51,6 +51,39 @@
     "seen": "2026-11-25T19:32:17+00:00"
   },
   {
+    "id": "insider:0000354950-26-000192:S:2026-11-23:12338.0",
+    "type": "insider",
+    "sym": "HD",
+    "time": "2026-11-25T12:00:00+00:00",
+    "title": "Campbell Ann Marie (President & COO) verkauft 12.338 Aktien für 4.3 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 346,70 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000192/",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
+    "id": "insider:0000354950-26-000191:S:2026-11-23:3000.0",
+    "type": "insider",
+    "sym": "HD",
+    "time": "2026-11-25T12:00:00+00:00",
+    "title": "Roseborough Teresa Wynn (EVP, Gen. Counsel & Corp. Sec.) verkauft 3.000 Aktien für 1.0 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-23 zu 346,68 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000191/",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
+    "id": "insider:0001288709-26-000016:S:2026-11-24:25000.0",
+    "type": "insider",
+    "sym": "TGT",
+    "time": "2026-11-25T12:00:00+00:00",
+    "title": "Cornell Brian C (Aufsichtsrat/Direktor, Executive Officer) verkauft 25.000 Aktien für 4.4 Mio. $",
+    "detail": "Form 4 · gehandelt am 2026-11-24 zu 175,51 $",
+    "link": "https://www.sec.gov/Archives/edgar/data/27419/000128870926000016/",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
     "id": "etrade:2026-11-24T18:39:25+00:00:ERÖFFNEN:BBIO",
     "type": "trade",
     "sym": "BBIO",
@@ -2356,6 +2389,126 @@
     "link": "https://www.sec.gov/Archives/edgar/data/1211060/000121106026000012/",
     "tone": 1,
     "seen": "2026-11-25T14:44:12+00:00"
+  },
+  {
+    "id": "congress:20036908:AMP:S:2026-10-29",
+    "type": "congress",
+    "sym": "AMP",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Hon. Robert For Onder verkauft AMP ($1,001 - $15,000), gehandelt am 2026-10-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
+    "id": "congress:20036908:CMCSA:S:2026-10-29",
+    "type": "congress",
+    "sym": "CMCSA",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Hon. Robert For Onder verkauft CMCSA ($1,001 - $15,000), gehandelt am 2026-10-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
+    "id": "congress:20036908:DUK:S:2026-10-29",
+    "type": "congress",
+    "sym": "DUK",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Hon. Robert For Onder verkauft DUK ($15,001 - $50,000), gehandelt am 2026-10-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
+    "id": "congress:20036908:GEHCV:S:2026-10-29",
+    "type": "congress",
+    "sym": "GEHCV",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Hon. Robert For Onder verkauft GEHCV ($1,001 - $15,000), gehandelt am 2026-10-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
+    "id": "congress:20036908:HPQ:S:2026-10-29",
+    "type": "congress",
+    "sym": "HPQ",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Hon. Robert For Onder verkauft HPQ ($1,001 - $15,000), gehandelt am 2026-10-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
+    "id": "congress:20036908:MDT:S:2026-10-29",
+    "type": "congress",
+    "sym": "MDT",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Hon. Robert For Onder verkauft MDT ($1,001 - $15,000), gehandelt am 2026-10-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
+    "id": "congress:20036908:MDLZ:S:2026-10-29",
+    "type": "congress",
+    "sym": "MDLZ",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Hon. Robert For Onder verkauft MDLZ ($15,001 - $50,000), gehandelt am 2026-10-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
+    "id": "congress:20036908:PEP:S:2026-10-29",
+    "type": "congress",
+    "sym": "PEP",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Hon. Robert For Onder verkauft PEP ($15,001 - $50,000), gehandelt am 2026-10-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
+    "id": "congress:20036908:PG:S:2026-10-29",
+    "type": "congress",
+    "sym": "PG",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Hon. Robert For Onder verkauft PG ($15,001 - $50,000), gehandelt am 2026-10-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
+    "id": "congress:20036908:VZ:S:2026-10-29",
+    "type": "congress",
+    "sym": "VZ",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Hon. Robert For Onder verkauft VZ ($1,001 - $15,000), gehandelt am 2026-10-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
+    "id": "congress:20036908:DIS:S:2026-10-29",
+    "type": "congress",
+    "sym": "DIS",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Hon. Robert For Onder verkauft DIS ($1,001 - $15,000), gehandelt am 2026-10-29",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
+  },
+  {
+    "id": "congress:20036875:ACLLY:S:2026-11-10",
+    "type": "congress",
+    "sym": "ACLLY",
+    "time": "2026-11-24T12:00:00+00:00",
+    "title": "Hon. Kevin Hern verkauft ACLLY ($1,001 - $15,000), gehandelt am 2026-11-10",
+    "link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036875.pdf",
+    "tone": -1,
+    "seen": "2026-11-27T14:35:05+00:00"
   },
   {
     "title": "Insider Alert: Palantir CTO Dumps Nearly $48 Million in Stock",
@@ -19675,228 +19828,6 @@
     "type": "news",
     "sym": "AXP",
     "summary": "V's strong transaction growth, expanding value-added services and money movement capabilities give it an edge over AXP.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "SanDisk Slides 4% Ahead of 8-for-1 Stock Split as NAND Glut Worries Linger; Micron Drops 3%, Seagate Edges Lower",
-    "time": "2026-11-18T16:57:46+00:00",
-    "link": "https://247wallst.com/investing/2026/11/18/sandisk-slides-4-ahead-of-8-for-1-stock-split-as-nand-glut-worries-linger-micron-drops-3-seagate-edges-lower/?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:MU:rss:83841957-d13b-3313-880c-17d8d1957eef",
-    "type": "news",
-    "sym": "MU",
-    "summary": "SanDisk has more than tripled this year, yet a single analyst warning about oversupply is rattling memory stocks just before its split. Why is SanDisk absorbing the sharpest blow while Micron, Seagate and Western Digital hold steadier?",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "SanDisk Slides 4% Ahead of 8-for-1 Stock Split as NAND Glut Worries Linger; Micron Drops 3%, Seagate Edges Lower",
-    "time": "2026-11-18T16:57:46+00:00",
-    "link": "https://247wallst.com/investing/2026/11/18/sandisk-slides-4-ahead-of-8-for-1-stock-split-as-nand-glut-worries-linger-micron-drops-3-seagate-edges-lower/?.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "capital"
-    ],
-    "id": "news:WDC:rss:83841957-d13b-3313-880c-17d8d1957eef",
-    "type": "news",
-    "sym": "WDC",
-    "summary": "SanDisk has more than tripled this year, yet a single analyst warning about oversupply is rattling memory stocks just before its split. Why is SanDisk absorbing the sharpest blow while Micron, Seagate and Western Digital hold steadier?",
-    "seen": "2026-11-19T14:33:59+00:00"
-  },
-  {
-    "title": "Oracle’s Credit Default Swaps Hit Record Wides After Nvidia’s Beat. Veteran Trader Calls It “the Weak Link”",
-    "time": "2026-11-18T16:52:26+00:00",
-    "link": "https://www.tikr.com/blog/oracles-credit-default-swaps-hit-record-wides-after-nvidias-beat-veteran-trader-calls-it-the-weak-link?ref=yahoofinance&tlnk=yf-261118-h6mc737h&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "risk"
-    ],
-    "id": "news:ORCL:rss:677f489a-452c-3c22-8a72-53c7acf0baba",
-    "type": "news",
-    "sym": "ORCL",
-    "summary": "Key TakeawaysOracle’s credit default swaps hit record wides on Nov. 17, the day Nvidia reported $115.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "RBC Analyst Warns AI Companies Will “Try to Destroy Salesforce Entirely.” And It Can’t Lock Them Out",
-    "time": "2026-11-18T16:50:45+00:00",
-    "link": "https://www.tikr.com/blog/rbc-analyst-warns-ai-companies-will-try-to-destroy-salesforce-entirely-and-it-cant-lock-them-out?ref=yahoofinance&tlnk=yf-261118-m7f846fh&.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CRM:rss:9fcc0e5d-50dc-32bb-a9d6-86dccdee519f",
-    "type": "news",
-    "sym": "CRM",
-    "summary": "Key TakeawaysRBC analyst Rishi Jaluria said Salesforce can’t shut off its customers’ access to whatever AI model they want, with Anthropic’s IPO expected this week. That lets AI labs compete for the work and the per-seat pricing behind Salesforce’s growth plan, a pressure ServiceNow faces too.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "RBC Analyst Warns AI Companies Will “Try to Destroy Salesforce Entirely.” And It Can’t Lock Them Out",
-    "time": "2026-11-18T16:50:45+00:00",
-    "link": "https://www.tikr.com/blog/rbc-analyst-warns-ai-companies-will-try-to-destroy-salesforce-entirely-and-it-cant-lock-them-out?ref=yahoofinance&tlnk=yf-261118-m7f846fh&.tsrc=rss",
-    "tone": -1,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:NOW:rss:9fcc0e5d-50dc-32bb-a9d6-86dccdee519f",
-    "type": "news",
-    "sym": "NOW",
-    "summary": "Key TakeawaysRBC analyst Rishi Jaluria said Salesforce can’t shut off its customers’ access to whatever AI model they want, with Anthropic’s IPO expected this week. That lets AI labs compete for the work and the per-seat pricing behind Salesforce’s growth plan, a pressure ServiceNow faces too.",
-    "seen": "2026-11-19T14:33:59+00:00"
-  },
-  {
-    "title": "A $2.9 Billion Fund Dumps These 3 Stocks",
-    "time": "2026-11-18T16:47:54+00:00",
-    "link": "https://www.tikr.com/blog/a-2-9-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261118-78xvfqgj&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CMG:rss:c1894bfd-60d6-3220-8d21-cf9e9e076095",
-    "type": "news",
-    "sym": "CMG",
-    "summary": "Key TakeawaysAn investment firm that manages $2. 9 billion sold all of its Dell, Chipotle Mexican Grill and Texas Roadhouse shares in the third quarter, its latest 13F shows.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Can Brisket Help Chipotle Exit 2026 With 3%-4% Comp Growth?",
-    "time": "2026-11-18T16:47:00+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/brisket-help-chipotle-exit-2026-164700725.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CMG:rss:f1b8f341-8897-3431-baf1-af30c53e1f1d",
-    "type": "news",
-    "sym": "CMG",
-    "summary": "CMG's Smoked Brisket relaunch could lift comp growth to 3%-4% by 2026-end, but rising food costs and margin pressure may challenge the recovery.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Microsoft and Intel Deepen Collaboration to Deliver Differentiated Azure Infrastructure",
-    "time": "2026-11-18T16:47:00+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-intel-deepen-collaboration-deliver-164700932.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:INTC:rss:f3cfb1d0-591e-37db-9e1f-a795464384b4",
-    "type": "news",
-    "sym": "INTC",
-    "summary": "Microsoft (Nasdaq: MSFT) and Intel (Nasdaq: INTC) today announced an expansion of their decades-long collaboration under a long-term agreement to advance select areas of Azure infrastructure for growing cloud and AI demand. Microsoft is the first company to announce use of Intel Foundry's EMIB™ (Emb",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "A $10 Billion Fund Dumps These 3 Stocks",
-    "time": "2026-11-18T16:45:09+00:00",
-    "link": "https://www.tikr.com/blog/a-10-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261118-37pmhxg5&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:COST:rss:f6367319-2718-384c-99a5-a2559c09d66d",
-    "type": "news",
-    "sym": "COST",
-    "summary": "Key TakeawaysSteadfast Capital Management, a firm that manages $10. 36 billion, sold all of its Costco, DICK’S Sporting Goods and MSCI shares in the third quarter, its latest 13F shows.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Looking for a Growth Stock? 3 Reasons Why YPF Sociedad Anonima (YPF) is a Solid Choice",
-    "time": "2026-11-18T16:45:03+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/looking-growth-stock-3-reasons-164503337.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:YPF:rss:65073d8f-30cc-36eb-b9ab-0f6ca6147921",
-    "type": "news",
-    "sym": "YPF",
-    "summary": "YPF Sociedad Anonima (YPF) could produce exceptional returns because of its solid growth attributes.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Snowflake's AI Push Fuels Revenue Growth: Can It Beat DELL & ORCL?",
-    "time": "2026-11-18T16:45:00+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/snowflakes-ai-push-fuels-revenue-164500994.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst"
-    ],
-    "id": "news:ORCL:rss:85547159-fd8d-32c9-8317-b915da8e3412",
-    "type": "news",
-    "sym": "ORCL",
-    "summary": "SNOW's AI-driven growth, rising customer adoption, and upgraded revenue outlook strengthen its position against Dell Technologies and Oracle.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Snowflake's AI Push Fuels Revenue Growth: Can It Beat DELL & ORCL?",
-    "time": "2026-11-18T16:45:00+00:00",
-    "link": "https://finance.yahoo.com/technology/ai/articles/snowflakes-ai-push-fuels-revenue-164500994.html?.tsrc=rss",
-    "tone": 1,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst"
-    ],
-    "id": "news:SNOW:rss:85547159-fd8d-32c9-8317-b915da8e3412",
-    "type": "news",
-    "sym": "SNOW",
-    "summary": "SNOW's AI-driven growth, rising customer adoption, and upgraded revenue outlook strengthen its position against Dell Technologies and Oracle.",
-    "seen": "2026-11-19T14:33:59+00:00"
-  },
-  {
-    "title": "Home Depot’s New CEO: Sales Gains Are “All Coming From Share Gain” as Housing Turnover Stalls",
-    "time": "2026-11-18T16:41:43+00:00",
-    "link": "https://www.tikr.com/blog/home-depots-new-ceo-sales-gains-are-all-coming-from-share-gain-as-housing-turnover-stalls?ref=yahoofinance&tlnk=yf-261118-jv75pf34&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "people"
-    ],
-    "id": "news:HD:rss:471b20c3-5c72-381f-8f72-9b8801ebe0ac",
-    "type": "news",
-    "sym": "HD",
-    "summary": "Key TakeawaysHome Depot’s comparable sales rose 2. 2% in the third quarter, its best in four years, as it named CFO Richard McPhail its next CEO.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "BTIG Cut Its Salesforce Target to $250. It Still Sees 33% Upside",
-    "time": "2026-11-18T16:40:55+00:00",
-    "link": "https://www.tikr.com/blog/btig-cut-its-salesforce-target-to-250-it-still-sees-33-upside?ref=yahoofinance&tlnk=yf-261118-2g52p6qq&.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [
-      "analyst"
-    ],
-    "id": "news:CRM:rss:51a0bad4-1139-3ad2-8d6f-c0473ab708a7",
-    "type": "news",
-    "sym": "CRM",
-    "summary": "Key TakeawaysBTIG cut its Salesforce price target to $250 from $300 on Nov. 18 and kept its Buy rating, so the target is still 33% above the share price.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Caterpillar Is Spending $1 Billion on Small Equipment. Can It Cure Its AI Hangover?",
-    "time": "2026-11-18T16:40:00+00:00",
-    "link": "https://finance.yahoo.com/m/64059d5e-ecfd-3f7c-b0a6-62de62c50c84/caterpillar-is-spending-%241.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:CAT:rss:64059d5e-ecfd-3f7c-b0a6-62de62c50c84",
-    "type": "news",
-    "sym": "CAT",
-    "summary": "The manufacturer had demand for its power-generation gear. Now, that’s cooled. Here’s the next catalyst for the beaten-down stock.",
-    "seen": "2026-11-18T19:35:48+00:00"
-  },
-  {
-    "title": "Snowflake Set to Deliver Fiscal Q3 Product Revenue Upside, Oppenheimer Says",
-    "time": "2026-11-18T16:39:47+00:00",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-set-deliver-fiscal-q3-163947659.html?.tsrc=rss",
-    "tone": 0,
-    "source": "Yahoo Finance",
-    "tags": [],
-    "id": "news:SNOW:rss:9f0ca416-d524-3e13-a400-8391032bafd3",
-    "type": "news",
-    "sym": "SNOW",
-    "summary": "Snowflake (SNOW) is expected to accelerate product revenue growth in fiscal Q3, with momentum set to",
     "seen": "2026-11-18T19:35:48+00:00"
   }
 ]

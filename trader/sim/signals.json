@@ -3310,6 +3310,138 @@
       "amount_low": 1001,
       "filed": "2026-11-23",
       "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035776.pdf"
+    },
+    {
+      "doc_id": "20036908",
+      "member": "Hon. Robert For Onder",
+      "ticker": "AMP",
+      "type": "S",
+      "date": "2026-10-29",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-24",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+    },
+    {
+      "doc_id": "20036908",
+      "member": "Hon. Robert For Onder",
+      "ticker": "CMCSA",
+      "type": "S",
+      "date": "2026-10-29",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-24",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+    },
+    {
+      "doc_id": "20036908",
+      "member": "Hon. Robert For Onder",
+      "ticker": "DUK",
+      "type": "S",
+      "date": "2026-10-29",
+      "amount": "$15,001 - $50,000",
+      "amount_low": 15001,
+      "filed": "2026-11-24",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+    },
+    {
+      "doc_id": "20036908",
+      "member": "Hon. Robert For Onder",
+      "ticker": "GEHCV",
+      "type": "S",
+      "date": "2026-10-29",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-24",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+    },
+    {
+      "doc_id": "20036908",
+      "member": "Hon. Robert For Onder",
+      "ticker": "HPQ",
+      "type": "S",
+      "date": "2026-10-29",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-24",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+    },
+    {
+      "doc_id": "20036908",
+      "member": "Hon. Robert For Onder",
+      "ticker": "MDT",
+      "type": "S",
+      "date": "2026-10-29",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-24",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+    },
+    {
+      "doc_id": "20036908",
+      "member": "Hon. Robert For Onder",
+      "ticker": "MDLZ",
+      "type": "S",
+      "date": "2026-10-29",
+      "amount": "$15,001 - $50,000",
+      "amount_low": 15001,
+      "filed": "2026-11-24",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+    },
+    {
+      "doc_id": "20036908",
+      "member": "Hon. Robert For Onder",
+      "ticker": "PEP",
+      "type": "S",
+      "date": "2026-10-29",
+      "amount": "$15,001 - $50,000",
+      "amount_low": 15001,
+      "filed": "2026-11-24",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+    },
+    {
+      "doc_id": "20036908",
+      "member": "Hon. Robert For Onder",
+      "ticker": "PG",
+      "type": "S",
+      "date": "2026-10-29",
+      "amount": "$15,001 - $50,000",
+      "amount_low": 15001,
+      "filed": "2026-11-24",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+    },
+    {
+      "doc_id": "20036908",
+      "member": "Hon. Robert For Onder",
+      "ticker": "VZ",
+      "type": "S",
+      "date": "2026-10-29",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-24",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+    },
+    {
+      "doc_id": "20036908",
+      "member": "Hon. Robert For Onder",
+      "ticker": "DIS",
+      "type": "S",
+      "date": "2026-10-29",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-24",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
+    },
+    {
+      "doc_id": "20036875",
+      "member": "Hon. Kevin Hern",
+      "ticker": "ACLLY",
+      "type": "S",
+      "date": "2026-11-10",
+      "amount": "$1,001 - $15,000",
+      "amount_low": 1001,
+      "filed": "2026-11-24",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036875.pdf"
     }
   ]
 }
